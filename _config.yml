@@ -2,8 +2,8 @@ title: Punggol Cove Primary School
 url: https://www.punggolcovepri.moe.edu.sg
 favicon: /images/Logo.jpeg
 colors:
-  primary-color: "#fdb913"
-  secondary-color: "#387b52"
+  primary-color: "#387b52"
+  secondary-color: "#fdb913"
   media-colors:
     - title: media-color-one
       color: "#1174b6"
