@@ -3,7 +3,7 @@ title: School Leaders
 permalink: /about-pcps/school-leaders/
 description: ""
 ---
-##### ABOUT THE PRINCIPAL
+#### ABOUT THE PRINCIPAL
 
 <img src="/images/MR%20Yap.png" 
      style="width:15%">
@@ -43,7 +43,7 @@ In August 2021, Mr Yap was honoured to receive another National Day Award, The L
 
 Mr Yap is excited to be appointed as the first Principal of Punggol Cove Primary School and looks forward to starting a brand new school where children are developed holistically and learn To Serve and To Lead.
 
-##### ABOUT THE VICE-PRINCIPAL
+#### ABOUT THE VICE-PRINCIPAL
 
 <img src="/images/Sharon.jpeg" 
      style="width:15%">
@@ -63,7 +63,7 @@ Ms Thia would like to see that every student in Punggol Cove Primary is guided b
 Ms Thia strongly advocates the need to establish a strong partnership with parents and to work alongside parents to support their child’s learning and development in primary education.
 
 
-##### ABOUT THE VICE-PRINCIPAL (ADMINISTRATION)
+#### ABOUT THE VICE-PRINCIPAL (ADMINISTRATION)
 
 <img src="/images/PCPS_Ms%20Chng%20Shi%20Hua.jpeg" 
      style="width:15%">
@@ -82,7 +82,7 @@ For her consistent performance and contribution in her work, Ms Chng was present
 Ms Chng endeavours to continue to do her best and lead her team of Executive and Administrative Staff in ensuring strategic management of resources to support the delivery of holistic education, thereby enhancing the learning experiences of the students in Punggol Cove Primary School.
 
 
-##### ABOUT THE VICE-PRINCIPAL
+#### ABOUT THE VICE-PRINCIPAL
 
 <img src="/images/pcps_vp_wanimran.jpeg" 
      style="width:15%">
