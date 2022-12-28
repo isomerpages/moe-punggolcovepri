@@ -1,4 +1,5 @@
 collections:
   about-pcps:
     output: true
-    order: []
+    order:
+      - Contact Us.md
