@@ -86,3 +86,17 @@ Ms Chng endeavours to continue to do her best and lead her team of Executive and
 
 <img src="/images/pcps_vp_wanimran.jpeg" 
      style="width:35%">
+
+**Wan Imran**  
+Vice-Principal   
+BA (Hons),   
+MA, Cert-Ed  
+
+
+Mr Wan Imran was appointed Vice-principal at Punggol Cove Primary School on 1 Jun 2020. He was with the ministry’s Pre-school Education Branch from 2013 where he was involved in the pre-school curriculum and the setting up of MOE Kindergartens (MK) and Kindergarten Care (KCare). He also worked on the regulatory requirements for MK and KCare, safety aspects and data management system for MKs. At the ministry, Wan Imran was also involved in the Lee Kuan Yew Fund for Bilingualism and the Malay Language Learning and Promotion Committee.
+
+He began his teaching career at Christ Church Secondary School in 1987 and has taught at Naval Base Secondary School and Anderson Secondary School before joining the Curriculum Planning and Development Division in 1997. He has been a school leader at Yuhua Primary School and Boon Lay Garden Primary School.
+
+Wan Imran completed his Leaders in Education Programme in 2004 and Masters in Educational Leadership in 2010 at the National Institute of Education, Nanyang Technological University.
+
+He strongly believes in character development through co-curricular activities and experiential learning. All children must have the opportunity to discover their abilities, strengths and passion and grow up guided by positive values to become active citizens and blessings to their families, community and humanity.
