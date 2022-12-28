@@ -550,3 +550,81 @@ description: ""
   </tr>
 </tbody>
 </table>
+
+
+#### OTHER TEACHING STAFF
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-hsqg{background-color:#FFF;font-size:16px;text-align:left;vertical-align:middle}
+.tg .tg-st6x{background-color:#FFF;font-size:16px;font-weight:bold;text-align:center;vertical-align:middle}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 686px">
+<colgroup>
+<col style="width: 250px">
+<col style="width: 436px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-st6x">Name</td>
+    <td class="tg-st6x">Email</td>
+  </tr>
+  <tr>
+    <td class="tg-hsqg">Mdm A Fathima Beevi </td>
+    <td class="tg-hsqg">A_Fathima_Beevi@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-hsqg">Ms Divyasri Rajendran </td>
+    <td class="tg-hsqg">Divyasri_Rajendran_A@schools.gov.sg </td>
+  </tr>
+  <tr>
+    <td class="tg-hsqg">Mdm Hernie Maslinda</td>
+    <td class="tg-hsqg">hernie_maslinda_mohamed@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-hsqg">Ms Magdalene Teo</td>
+    <td class="tg-hsqg">Magdalene_Teo_Rou_En@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-hsqg">Mrs Margaret Tan </td>
+    <td class="tg-hsqg">Margaret_Cheng_Poh_Wan@schools.gov.sg </td>
+  </tr>
+  <tr>
+    <td class="tg-hsqg">Mdm Norzaida Daot</td>
+    <td class="tg-hsqg">Norzaida_Daot@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-hsqg">Mdm Rehanna </td>
+    <td class="tg-hsqg">rehanna_dawood@schools.gov.sg </td>
+  </tr>
+  <tr>
+    <td class="tg-hsqg">Mrs Alice Tan</td>
+    <td class="tg-hsqg">See_Shin_Yee_alice@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-hsqg">Mrs Serene Tay </td>
+    <td class="tg-hsqg">serene_tay_khiok_sing@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-hsqg">Ms Tan Qiu Ling </td>
+    <td class="tg-hsqg">tan_qiu_ling@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-hsqg">Ms Wendy Yeo</td>
+    <td class="tg-hsqg">Yeo_Wan_Tin@schools.gov.sg </td>
+  </tr>
+  <tr>
+    <td class="tg-hsqg">Ms Yeo Hui Cheng Serena</td>
+    <td class="tg-hsqg">yeo_hui_cheng_serena@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-hsqg">Mdm Zahira </td>
+    <td class="tg-hsqg">zahira_abdul_majeed@schools.gov.sg</td>
+  </tr>
+</tbody>
+</table>
+
