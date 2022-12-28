@@ -4,7 +4,7 @@ permalink: /about-pcps/school-advisory-committee/
 description: ""
 ---
 <img src="/images/School%20Advisory%20Committee.jpeg" 
-     style="width:65%">
+     style="width:70%">
 
 
 <center>Ms Thia (VP) with our SAC Members.<br>
