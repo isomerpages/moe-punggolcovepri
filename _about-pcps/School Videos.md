@@ -53,8 +53,8 @@ description: ""
 </table>
 
 
+<center>Click  <a href="https://www.flickr.com/photos/142848383@N02/albums/72157696081512300">here</a> for more photos and videos.</center>
 
-Click [here](https://www.flickr.com/photos/142848383@N02/albums/72157696081512300) for more photos and videos
 
 <img src="/images/Logo.png" 
      style="width:65%">
