@@ -2,6 +2,7 @@ collections:
   about-pcps:
     output: true
     order:
+      - School Song.md
       - School Videos.md
       - Our Facilities.md
       - Our Location.md
