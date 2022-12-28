@@ -2,4 +2,5 @@ collections:
   pcps-personnel:
     output: true
     order:
+      - Learning Support Staff.md
       - Non–Teaching Staff.md
