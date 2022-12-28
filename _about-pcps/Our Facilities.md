@@ -23,53 +23,65 @@ Students may purchase food and drinks from the canteen stalls to eat  during re
 
 Students who pack food from home may also eat their food in the canteen during recess.
 
-image
+<img src="/images/canteen2.jpg" 
+     style="width:75%">
 
 Students are seated with their classmates at the designated tables in the canteen.
 
-image 3
+<img src="/images/canteen3.jpg" 
+     style="width:75%">
 
 Students are encouraged to wipe down their seating areas after eating. Besides cultivating the social responsibility in them, such action is also aligned with our school values: Empathy, Mindfulness and Care.
 
 **2\. Bookshop**
 
-image
+<img src="/images/bookshop.jpg" 
+     style="width:75%">
 
 The bookshop sells school books and essential stationery. The uniforms are available for sale at the bookshop too. Students may purchase what they need during recess. 
 
 **3\. The Cove**
 
-image
+<img src="/images/thecove1.jpg" 
+     style="width:75%">
 
 The Cove is a venue for many purposes, including PE lessons. It also serves as a basketball court for Basketball CCA. In addition, the Cove is open during recess for students to participate in activities and play board games.
 
-image
+<img src="/images/thecove2.jpg" 
+     style="width:75%">
 
 The Cove is also a dismissal venue. Parents and caregivers will wait at The Cove to pick up the students who are going home via Gate E.  
 
 **4\. Football Field**
 
-image
+<img src="/images/fbfield1.jpg" 
+     style="width:75%">
 
 The Football Field is used for various purposes such as PE lessons and Football CCA. It is also open during recess for students to play with their friends. Students are also provided with sports equipment to play with at the field, as part of the school’s Learn through Play programme.
 
-image
+<img src="/images/fbfield2.jpg" 
+     style="width:75%">
 
-image
+<img src="/images/fbfield3.jpg" 
+     style="width:75%">
 
 **5\. Eco-Garden**
 
-image
+<img src="/images/ecog1.jpg" 
+     style="width:75%">
 
 Students enjoy coming to the Eco-Garden during recess to admire and learn about the flora and fauna while spending time with their friends. Teachers also bring students to the Eco-Garden for their Science lessons, Art lessons and outdoor activities during Programme for Active Learning (PAL).
 
-image
+<img src="/images/ecog2.jpg" 
+     style="width:75%">
 
-image
+<img src="/images/ecog3.jpg" 
+     style="width:75%">
 
 The Eco-pond is located in the Eco-Garden, and it is home to many fishes such as Koi and water plants. Coming to the Eco-Garden allows students to see, feel and touch the organisms around them. These real-life experiences help students to appreciate and deepen their understanding of the diversity around them.
 
-image
+<img src="/images/ecog4.jpg" 
+     style="width:75%">
 
 **6\. Multi-purpose Hall (MPH)**
 
