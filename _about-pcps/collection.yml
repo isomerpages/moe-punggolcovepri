@@ -2,6 +2,7 @@ collections:
   about-pcps:
     output: true
     order:
+      - School Strategic Framework.md
       - School Crest.md
       - School Song.md
       - School Videos.md
