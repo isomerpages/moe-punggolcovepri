@@ -2,6 +2,7 @@ collections:
   about-pcps:
     output: true
     order:
+      - Vision, Mission, Values, Motto.md
       - School Strategic Framework.md
       - School Crest.md
       - School Song.md
