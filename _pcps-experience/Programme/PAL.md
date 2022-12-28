@@ -31,16 +31,19 @@ Our Programme for Active Learning (PAL) provides Primary 1 and 2 pupils with bro
 
 The PAL modules are 100% designed and facilitated by teachers. Varied and engaging pedagogies are used to facilitate creative and hands-on learning that allows pupils’ inquiry and interest to drive the direction of the learning during lessons. This creates a learning environment that welcomes play, exploration and teamwork. By end of Primary 2, pupils would complete the six modules and develop confidence, curiosity and cooperation skills as well as their social-emotional competencies.
 
-image
+<img src="/images/pal1.jpeg" 
+     style="width:65%">
 PAL P2 Outdoor Education Module - Working in teams to create their own boats.
 
-image
+<img src="/images/pal2.jpeg" 
+     style="width:65%">
 PAL P1 Dance Module - Students tapping on their creativity on the use of fan in dance.
 
-image
+<img src="/images/pal3.jpeg" 
+     style="width:65%">
 PAL P2 Visual Arts Module - Learning to share and exchange materials to create a coral reef as a group.
 
 
-image
+<img src="/images/pal4.jpeg" 
+     style="width:65%">
 PAL P1 Music Module - Exploring sound and creating tunes together with peers using materials brought from home.
-
