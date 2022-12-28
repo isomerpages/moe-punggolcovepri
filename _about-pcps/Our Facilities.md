@@ -9,7 +9,7 @@ description: ""
 
 **1\. Canteen**
 
-image
+![](/images/canteen1.jpg)
 
 Students may purchase food and drinks from the canteen stalls to eat  during recess in the canteen. There are six food stalls:
 *  Hot snacks and drink stall
