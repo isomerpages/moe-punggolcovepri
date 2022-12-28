@@ -146,7 +146,7 @@ third_nav_title: Programme
 <p>CWSAs are given opportunities to attend workshops and be part of CW projects to create awareness about CW in school.&nbsp;</p>
 			<p><img src="/images/CW6.jpeg" 
 							style="width:65%"></p>
-			<p><em>Our Cyber Wellness Student Ambassadors 2019 presenting on Personal Data Protection.</em><br>4.<strong><em> ICT Connect @ Cove</em></strong><br>To complement the CW curriculum in school, parents can play an important role in demonstrating how technology can be used responsibly by guiding our students on how to navigate the cyber safe safely.</p>
+			<p><em>Our Cyber Wellness Student Ambassadors 2019 presenting on Personal Data Protection.</em><br><br>4.<strong><em> ICT Connect @ Cove</em></strong><br>To complement the CW curriculum in school, parents can play an important role in demonstrating how technology can be used responsibly by guiding our students on how to navigate the cyber safe safely.</p>
 <p>Our newsletters provide useful and bite-sized tips for parents on how to support our students in their Cyber Wellness education.</p>
 <p>Get your eyes and mind on our latest newsletter released termly!</p>
 <p>Please click on the&nbsp;<a href="https://punggolcovepri.moe.edu.sg/for-parents/subject-downloads/ict-connect-at-cove">image&nbsp;</a>below to get the newsletter<br><br><a href = "LINKHERE" target = "_self"> 
