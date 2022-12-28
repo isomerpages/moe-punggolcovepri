@@ -7,7 +7,7 @@ third_nav_title: Programme
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
-		<label for="accordion1"><b>What is Cyber Wellness?</b></label>
+		<label for="accordion1">What is Cyber Wellness</label>
     <div>
       <p>Cyber Wellness (CW) refers to the positive well-being of internet users.<br><br>The focus of CW is to help our students to become responsible digital learners by understanding online behaviours and being aware of how to protect themselves in the online space.<br><br>Students should also be positive peer influence and harness the power of technology for the good of the community. </p>
     </div>
@@ -41,7 +41,7 @@ third_nav_title: Programme
 	</li>
 	<li>
     <input type="checkbox" id="accordion4">
-		<label for="accordion4"><b>How PCPS Cyber Wellness curriculum aligns with MOE</b></label>
+		<label for="accordion4">How PCPS Cyber Wellness curriculum aligns with MOE</label>
     <div>
       <p>There are 3 major CW themes in the Primary CW curriculum – Cyber identity and cyber use, Cyber relationships and Cyber citizenship.<br><img src="/images/CW3.jpeg" 
      style="width:65%"><br>Source:&nbsp;<a href="https://beta.moe.gov.sg/programmes/cyber-wellness/">https://beta.moe.gov.sg/programmes/cyber-wellness/</a></p>
@@ -51,7 +51,7 @@ third_nav_title: Programme
     <input type="checkbox" id="accordion5">
     <label for="accordion5">PCPS Cyber Wellness Themes</label>
     <div>
-      <p>Mapping the major CW themes to our school’s CW curriculum, our school focuses on the following for each level:<br><img src="/images/CW4.jpeg" 
+      <p>Mapping the major CW themes to our school’s CW curriculum, our school focuses on the following for each level:<br><br><img src="/images/CW4.jpeg" 
      style="width:65%"><br><img src="/images/CW5.jpeg" 
      style="width:65%"></p>
     </div>
