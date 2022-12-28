@@ -491,3 +491,62 @@ description: ""
 </table>
 
 #### 2022 PRIMARY 6
+
+ <style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-1zrx{background-color:#FFF;color:#222;font-size:16px;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-qtsq{background-color:#FFF;color:#222;font-size:16px;text-align:left;vertical-align:middle}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 800px">
+<colgroup>
+<col style="width: 300px">
+<col style="width: 140px">
+<col style="width: 360px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-1zrx">Name</td>
+    <td class="tg-1zrx">Designation</td>
+    <td class="tg-1zrx">Email</td>
+  </tr>
+  <tr>
+    <td class="tg-qtsq"><span style="color:#222;background-color:transparent">Mdm Woo Sye Lai</span></td>
+    <td class="tg-qtsq">Form Teacher<br>6 Amber<br></td>
+    <td class="tg-qtsq">woo_sye_lai@schools.gov.sg<br></td>
+  </tr>
+  <tr>
+    <td class="tg-qtsq">Mdm Norihsani Bte Tavant</td>
+    <td class="tg-qtsq">Form Teacher<br>6 Coral<br><br>LH Science - Int<br></td>
+    <td class="tg-qtsq">norihsani_tavant@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-qtsq">Mdm Fatimah Bte Hashim</td>
+    <td class="tg-qtsq">Form Teacher<br>6 Diamond<br><br>ST CCE<br></td>
+    <td class="tg-qtsq">fatimah_hashim@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-qtsq">Mdm Chua Swan Lynn</td>
+    <td class="tg-qtsq"><span style="color:#222;background-color:transparent">Form Teacher</span><br><span style="color:#222;background-color:transparent">6 Emerald</span><br><br>LH English<br></td>
+    <td class="tg-qtsq"><span style="color:#222;background-color:transparent">chua_swan_lynn@schools.gov.sg</span></td>
+  </tr>
+  <tr>
+    <td class="tg-qtsq">Mrs Jasmine Wong</td>
+    <td class="tg-qtsq">Form Teacher<br>6 Jade<br><br>AYH - Int<br></td>
+    <td class="tg-qtsq">tang_yuen_har_jasmine@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-qtsq"><span style="color:#222;background-color:transparent">Ms Charmaine Lim</span></td>
+    <td class="tg-qtsq"><span style="color:#222;background-color:transparent">Form Teacher</span><br><span style="color:#222;background-color:transparent">6 Ruby</span><br><br>ST SEN<br></td>
+    <td class="tg-qtsq"><span style="color:#222;background-color:transparent">Charmaine_Lim@schools.gov.sg</span></td>
+  </tr>
+  <tr>
+    <td class="tg-qtsq"><span style="color:#222;background-color:transparent">Mdm Nurafizah Binte Abdul Razak</span></td>
+    <td class="tg-qtsq"><span style="color:#222;background-color:transparent">Form Teacher</span><br><span style="color:#222;background-color:transparent">6 Ruby</span></td>
+    <td class="tg-qtsq"><span style="color:#222;background-color:transparent">nurafizah_abdul_razak@schools.gov.sg</span></td>
+  </tr>
+</tbody>
+</table>
