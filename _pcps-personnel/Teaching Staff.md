@@ -421,7 +421,73 @@ description: ""
 
 #### 2022 PRIMARY 5
 
-
-
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-1zrx{background-color:#FFF;color:#222;font-size:16px;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-qtsq{background-color:#FFF;color:#222;font-size:16px;text-align:left;vertical-align:middle}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 800px">
+<colgroup>
+<col style="width: 300px">
+<col style="width: 140px">
+<col style="width: 360px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-1zrx">Name</td>
+    <td class="tg-1zrx">Designation</td>
+    <td class="tg-1zrx">Email</td>
+  </tr>
+  <tr>
+    <td class="tg-qtsq">Mdm Ellia Mardiana Binte Rahmat</td>
+    <td class="tg-qtsq">Form Teacher<br>5 Amber<br></td>
+    <td class="tg-qtsq"><span style="color:#222;background-color:transparent">ellia_mardiana_rahmat@schools.gov.sg</span></td>
+  </tr>
+  <tr>
+    <td class="tg-qtsq"><span style="color:#222;background-color:transparent">Mrs Melissa Chan</span></td>
+    <td class="tg-qtsq">Form Teacher<br>5 Coral<br></td>
+    <td class="tg-qtsq"><span style="color:#222;background-color:transparent">melissa_lee_pei-ju@schools.gov.sg</span></td>
+  </tr>
+  <tr>
+    <td class="tg-qtsq"><span style="color:#222;background-color:transparent">Ms Loh Qiwen Angeline</span></td>
+    <td class="tg-qtsq">Form Teacher<br>5 Diamond<br></td>
+    <td class="tg-qtsq">loh_qiwen_angeline@schools.gov.sg<br></td>
+  </tr>
+  <tr>
+    <td class="tg-qtsq">Ms Tang Yu Ying<br></td>
+    <td class="tg-qtsq">Form Teacher<br>5 Emerald <br></td>
+    <td class="tg-qtsq"><span style="color:#222;background-color:transparent">tang_yu_ying@schools.gov.sg</span></td>
+  </tr>
+  <tr>
+    <td class="tg-qtsq"><span style="color:#222;background-color:transparent">Mr Yeo Yee Peng</span></td>
+    <td class="tg-qtsq">Form Teacher<br>5 Jade<br></td>
+    <td class="tg-qtsq">yeo_yee_peng@schools.gov.sg<br></td>
+  </tr>
+  <tr>
+    <td class="tg-qtsq"><span style="color:#222;background-color:transparent">Ms Munawarrah Sultana </span></td>
+    <td class="tg-qtsq"><span style="color:#222;background-color:transparent">Form Teacher</span><br><span style="color:#222;background-color:transparent">5 Opal</span><br><br>ST English<br></td>
+    <td class="tg-qtsq"><span style="color:#222;background-color:transparent">munawarrah_sultana_unwar@schools.gov.sg</span></td>
+  </tr>
+  <tr>
+    <td class="tg-qtsq"><span style="color:#222;background-color:transparent">Ms Felicia Nah</span></td>
+    <td class="tg-qtsq"><span style="color:#222;background-color:transparent">Form Teacher</span><br><span style="color:#222;background-color:transparent">5 Pearl</span><br></td>
+    <td class="tg-qtsq"><span style="color:#222;background-color:transparent">nah_ya_rui_felicia@schools.gov.sg</span></td>
+  </tr>
+  <tr>
+    <td class="tg-qtsq"><span style="color:#222;background-color:transparent">Mdm Nur Sufriena Suhaini</span></td>
+    <td class="tg-qtsq"><span style="color:#222;background-color:transparent">Form Teacher</span><br><span style="color:#222;background-color:transparent">5 Ruby</span><br></td>
+    <td class="tg-qtsq"><span style="color:#222;background-color:transparent">nur_sufriena_suhaini@schools.gov.sg</span></td>
+  </tr>
+  <tr>
+    <td class="tg-qtsq"><span style="color:#222;background-color:transparent"> Mrs Shahrin</span></td>
+    <td class="tg-qtsq"><span style="color:#222;background-color:transparent">Form Teacher</span><br><span style="color:#222;background-color:transparent">5 Ruby</span></td>
+    <td class="tg-qtsq"><span style="color:#222;background-color:transparent"> m_sainava_buang@moe.edu.sg</span></td>
+  </tr>
+</tbody>
+</table>
 
 #### 2022 PRIMARY 6
