@@ -136,9 +136,26 @@ third_nav_title: Programme
 	</li>
 	<li>
     <input type="checkbox" id="accordion7">
-    <label for="accordion7">Simple</label>
+    <label for="accordion7">Our Programmes and Initiatives</label>
     <div>
-      <p>This is a simple one line item</p>
+      <p>Programmes and initiatives are carefully curated according to CW themes, keeping in mind the current affairs in our cyber world.</p>
+<ol>
+<li><strong><em> Class Talks</em></strong></li>
+</ol>
+<p>In Term 1, each level will go through a Cyber Wellness class talk to have a better understanding of the main CW theme of the level.</p>
+<ol>
+<li><strong><em> SLS Lessons in Term 2 and Term 4</em></strong></li>
+</ol>
+<p>As a follow-up to the class talk, students will recap and be engaged in activities related to the CW theme. This allows students to learn and apply their skills in scenario-based questions and Cyber Wellness-related games.</p>
+<ol>
+<li><strong><em> Cyber Wellness Student Ambassadors (CWSAs)</em></strong></li>
+</ol>
+<p>CWSAs are role models who actively influence their peers to create a safe and kind online community. They do this through:</p>
+<ul>
+<li>Guiding their peers on how to behave in the digital world</li>
+<li>Championing school-wide CW outreach efforts</li>
+</ul>
+<p>CWSAs are given opportunities to attend workshops and be part of CW projects to create awareness about CW in school.&nbsp;</p>
     </div>
 	</li>  
 </ul>
