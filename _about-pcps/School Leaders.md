@@ -6,7 +6,7 @@ description: ""
 ##### ABOUT THE PRINCIPAL
 
 <img src="/images/MR%20Yap.png" 
-     style="width:35%">
+     style="width:15%">
 
 **Mr Dennis Yap Swee Beng**, PPA (G), P. Kepujian, **PBS**  
 BA (Hons), MA, PGDE (Sec)
@@ -46,7 +46,7 @@ Mr Yap is excited to be appointed as the first Principal of Punggol Cove Primary
 ##### ABOUT THE VICE-PRINCIPAL
 
 <img src="/images/Sharon.jpeg" 
-     style="width:35%">
+     style="width:15%">
 
 **Ms Sharon Thia**  
 Vice-Principal   
@@ -66,7 +66,7 @@ Ms Thia strongly advocates the need to establish a strong partnership with paren
 ##### ABOUT THE VICE-PRINCIPAL (ADMINISTRATION)
 
 <img src="/images/PCPS_Ms%20Chng%20Shi%20Hua.jpeg" 
-     style="width:35%">
+     style="width:15%">
 
 **Ms Chng Shi Hua**  
 Vice-Principal (Administration)
@@ -85,7 +85,7 @@ Ms Chng endeavours to continue to do her best and lead her team of Executive and
 ##### ABOUT THE VICE-PRINCIPAL
 
 <img src="/images/pcps_vp_wanimran.jpeg" 
-     style="width:35%">
+     style="width:15%">
 
 **Wan Imran**  
 Vice-Principal   
