@@ -1,4 +1,5 @@
 collections:
   pcps-personnel:
     output: true
-    order: []
+    order:
+      - Non–Teaching Staff.md
