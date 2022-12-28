@@ -1,0 +1,4 @@
+collections:
+  about-pcps:
+    output: true
+    order: []
