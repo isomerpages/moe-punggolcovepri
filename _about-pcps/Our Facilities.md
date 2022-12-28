@@ -172,24 +172,31 @@ The Science Learning Walls outside the Science Rooms enhanced students’ learni
 
 **13\. Music Rooms**
 
-image
+<img src="/images/musr1.jpg" 
+     style="width:75%">
 
 There are many musical instruments in the Music Rooms which the students enjoy using during their weekly Music lessons. Students feel relaxed in the air-conditioned room while learning more about music and musical instruments.
 
-image
+<img src="/images/musr2.jpg" 
+     style="width:75%">
 
 **14\. PAL Rooms**
 
-image
+<img src="/images/palr1.jpg" 
+     style="width:75%">
 
 PAL stands for Programme for Active Learning. Primary One and Two students attend PAL lessons as part of their curriculum. In addition, students in the CCA Dance also use the PAL rooms during the CCA sessions.
 
-image
+<img src="/images/palr2.jpg" 
+     style="width:75%">
 
-image
+<img src="/images/palr3.jpg" 
+     style="width:75%">
 
-image
+<img src="/images/palr4.jpg" 
+     style="width:75%">
 
-image
+<img src="/images/palr5.jpg" 
+     style="width:75%">
 
 There are Art and Music Learning Walls outside the PAL rooms. These walls are interactive and allow students to explore more about the various musical instruments, try them out, as well as stimulate their creativity in creating Art pieces and music.
