@@ -1,6 +1,14 @@
 logo: /images/MASTERHEAD1.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
+  - title: About PCPS
+    collection: about-pcps
+  - title: PCPS Experience
+    collection: pcps-experience
+  - title: PCPS PErsonnel
+    collection: pcps-personnel
+  - title: PCPS Stakeholders
+    collection: pcps-stakeholders
+  - title: For Parents
+    collection: for-parents
+  - title: MK @ Punggol Cove
+    collection: mk-at-punggol-cove
