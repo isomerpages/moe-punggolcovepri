@@ -70,9 +70,9 @@ third_nav_title: Programme
 .tg .tg-0ndh{background-color:#FFF;color:#333333;font-size:14px;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-tl96{background-color:#FFF;color:#333333;font-size:14px;text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 584px">
+<table class="tg" style="undefined;table-layout: fixed; width: 600px">
 <colgroup>
-<col style="width: 164px">
+<col style="width: 180px">
 <col style="width: 334px">
 <col style="width: 86px">
 </colgroup>
