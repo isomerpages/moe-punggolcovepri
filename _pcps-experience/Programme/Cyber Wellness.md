@@ -156,6 +156,8 @@ third_nav_title: Programme
 <li>Championing school-wide CW outreach efforts</li>
 </ul>
 <p>CWSAs are given opportunities to attend workshops and be part of CW projects to create awareness about CW in school.&nbsp;</p>
+			<p><img src="/images/CW6.jpeg" 
+							style="width:65%"></p>
     </div>
 	</li>  
 </ul>
