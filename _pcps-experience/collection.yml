@@ -2,4 +2,5 @@ collections:
   pcps-experience:
     output: true
     order:
+      - Programme/Cyber Wellness.md
       - Programme/.keep
