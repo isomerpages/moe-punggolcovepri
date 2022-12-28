@@ -15,11 +15,11 @@ description: ""
 .tg .tg-qtsq{background-color:#FFF;color:#222;font-size:16px;text-align:left;vertical-align:middle}
 .tg .tg-5ucw{background-color:#FFF;color:#231F20;font-size:16px;text-align:left;vertical-align:middle}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 803px">
+<table class="tg" style="undefined;table-layout: fixed; width: 800px">
 <colgroup>
 <col style="width: 300px">
-<col style="width: 141px">
-<col style="width: 362px">
+<col style="width: 140px">
+<col style="width: 360px">
 </colgroup>
 <tbody>
   <tr>
@@ -139,4 +139,3 @@ description: ""
 
 
 #### 2022 PRIMARY 6
-
