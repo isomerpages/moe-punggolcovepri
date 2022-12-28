@@ -85,7 +85,8 @@ The Eco-pond is located in the Eco-Garden, and it is home to many fishes such as
 
 **6\. Multi-purpose Hall (MPH)**
 
-image
+<img src="/images/mph1.jpg" 
+     style="width:75%">
 
 The Multi-purpose Hall (MPH) serves as a venue for many purposes such as morning assembly programme, flag-raising, school events, PE and CCA lessons.  
 
@@ -93,7 +94,8 @@ The Multi-purpose Hall (MPH) serves as a venue for many purposes such as morning
 
 **7\. Indoor Sports Hall (ISH)**
 
-image
+<img src="/images/ish1.jpg" 
+     style="width:75%">
 
 The Indoor Sports Hall (ISH) is adjoining to the Multi-purpose Hall. PE lessons and Floorball CCA are carried out in the Indoor Sports Hall. 
 
@@ -101,11 +103,13 @@ The Indoor Sports Hall (ISH) is adjoining to the Multi-purpose Hall. PE lessons 
 
 **8\. Readers' Cove**
 
-image
+<img src="/images/rc1.jpg" 
+     style="width:75%">
 
 Welcome to Readers’ Cove. The Readers’ Cove is a paradise for bookworms!
 
-image
+<img src="/images/rc2.jpg" 
+     style="width:75%">
 
 Students visit the Readers’ Cove during the class’ weekly library period. Students are also allowed to borrow the books during their library periods. 
 
@@ -116,48 +120,55 @@ The Readers' Cove is a quiet place for reading and resting. Students are encoura
 
 **9\. Classroom**
 
-image
+<img src="/images/class1.jpg" 
+     style="width:75%">
 
 P1 classrooms are located on the second and third floors of the classroom blocks.
 
-image
+<img src="/images/class2.jpg" 
+     style="width:75%">
 
 There are cubby holes for students to place their bags, books and files in the classroom. Students may wash their hands in the sink before and after they have eaten a snack during snack break. They may use the soap provided in the classroom.
 
 **10\. Computer Rooms**
 
-image
+<img src="/images/comr1.jpg" 
+     style="width:75%">
 
-There are four computer rooms in our school. Students have their weekly ICT lessons such as New MICT and ALP here. Students in New Media CCA also uses this room every CCA session. Students learn basic touch typing and soft skills such as Microsoft Word and PowerPoint. Some of the lessons were designed to complement the English language lessons. 
-
-  
-
+There are four computer rooms in our school. Students have their weekly ICT lessons such as New MICT and ALP here. Students in New Media CCA also uses this room every CCA session. Students learn basic touch typing and soft skills such as Microsoft Word and PowerPoint. Some of the lessons were designed to complement the English language lessons.
   
 
   
 
 **11\. Art Rooms**
 
-image
+<img src="/images/artr1.jpg" 
+     style="width:75%">
 
 Art teachers usually bring their students to the Art room during Art lessons.
 
-image
+<img src="/images/art2.jpg" 
+     style="width:75%">
 
 There are various art supplies available in the Art room. Students in the Art CCA also use this room during their CCA sessions.
 
 12\. Science Rooms
 
-image
+<img src="/images/scir1.jpg" 
+     style="width:75%">
 
 Science teachers usually bring students to the science rooms during Science lessons. Students carry out experiments during science lessons using the tools and apparatus provided in the science room. Students are briefed on the safety rules before starting their science activity or experiment.
 
-image 
-image
+<img src="/images/scir2.jpg" 
+     style="width:75%">
+
+<img src="/images/scir3.jpg" 
+     style="width:75%">
 
 The Science Learning Walls outside the Science Rooms enhanced students’ learning of Science concepts.
 
-image
+<img src="/images/scir4.jpg" 
+     style="width:75%">
 
 **13\. Music Rooms**
 
