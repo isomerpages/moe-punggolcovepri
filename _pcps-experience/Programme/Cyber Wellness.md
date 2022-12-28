@@ -33,9 +33,10 @@ third_nav_title: Programme
 	</li>  
 	<li>
     <input type="checkbox" id="accordion3">
-    <label for="accordion3">Simple</label>
+    <label for="accordion3">PCPS Cyber Wellness</label>
     <div>
-      <p>This is a simple one line item</p>
+      <p>In order to equip students with lifelong social-emotional competencies and sound values to become safe and responsible digital learners, our school’s CW curriculum ties in closely with the CCE curriculum to bring about a holistic CW education. <br><br><img src="/images/CW2.jpeg" 
+     style="width:45%"></p>
     </div>
 	</li>
 	<li>
