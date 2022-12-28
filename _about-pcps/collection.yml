@@ -2,4 +2,5 @@ collections:
   about-pcps:
     output: true
     order:
+      - Privacy Statement.md
       - Contact Us.md
