@@ -138,19 +138,7 @@ third_nav_title: Programme
     <input type="checkbox" id="accordion7">
     <label for="accordion7">Our Programmes and Initiatives</label>
     <div>
-      <p>Programmes and initiatives are carefully curated according to CW themes, keeping in mind the current affairs in our cyber world.</p>
-<ol>
-<li><strong><em> Class Talks</em></strong></li>
-</ol>
-<p>In Term 1, each level will go through a Cyber Wellness class talk to have a better understanding of the main CW theme of the level.</p>
-<ol>
-<li><strong><em> SLS Lessons in Term 2 and Term 4</em></strong></li>
-</ol>
-<p>As a follow-up to the class talk, students will recap and be engaged in activities related to the CW theme. This allows students to learn and apply their skills in scenario-based questions and Cyber Wellness-related games.</p>
-<ol>
-<li><strong><em> Cyber Wellness Student Ambassadors (CWSAs)</em></strong></li>
-</ol>
-<p>CWSAs are role models who actively influence their peers to create a safe and kind online community. They do this through:</p>
+      <p>Programmes and initiatives are carefully curated according to CW themes, keeping in mind the current affairs in our cyber world.<br>1.<strong><em> Class Talks</em></strong><br>In Term 1, each level will go through a Cyber Wellness class talk to have a better understanding of the main CW theme of the level.<br>2.<strong><em> SLS Lessons in Term 2 and Term 4</em></strong><br>As a follow-up to the class talk, students will recap and be engaged in activities related to the CW theme. This allows students to learn and apply their skills in scenario-based questions and Cyber Wellness-related games.<br>3.<strong><em> Cyber Wellness Student Ambassadors (CWSAs)</em></strong><br>CWSAs are role models who actively influence their peers to create a safe and kind online community. They do this through:</p>
 <ul>
 <li>Guiding their peers on how to behave in the digital world</li>
 <li>Championing school-wide CW outreach efforts</li>
@@ -158,6 +146,12 @@ third_nav_title: Programme
 <p>CWSAs are given opportunities to attend workshops and be part of CW projects to create awareness about CW in school.&nbsp;</p>
 			<p><img src="/images/CW6.jpeg" 
 							style="width:65%"></p>
+			<p><em>Our Cyber Wellness Student Ambassadors 2019 presenting on Personal Data Protection.</em><br>4.<strong><em> ICT Connect @ Cove</em></strong><br>To complement the CW curriculum in school, parents can play an important role in demonstrating how technology can be used responsibly by guiding our students on how to navigate the cyber safe safely.</p>
+<p>Our newsletters provide useful and bite-sized tips for parents on how to support our students in their Cyber Wellness education.</p>
+<p>Get your eyes and mind on our latest newsletter released termly!</p>
+<p>Please click on the&nbsp;<a href="https://punggolcovepri.moe.edu.sg/for-parents/subject-downloads/ict-connect-at-cove">image&nbsp;</a>below to get the newsletter<br><br><a href = "linkhere" target = "_self"> 
+          <img src="/images/cw7.png" 
+     style="width:20%"></a></p>
     </div>
 	</li>  
 </ul>
