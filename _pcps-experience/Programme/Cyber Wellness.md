@@ -43,7 +43,7 @@ third_nav_title: Programme
     <input type="checkbox" id="accordion4">
 		<label for="accordion4">How PCPS Cyber Wellness curriculum aligns with MOE</label>
     <div>
-      <p>There are 3 major CW themes in the Primary CW curriculum – Cyber identity and cyber use, Cyber relationships and Cyber citizenship.<br><img src="/images/CW3.jpeg" 
+      <p>There are 3 major CW themes in the Primary CW curriculum – Cyber identity and cyber use, Cyber relationships and Cyber citizenship.<br><br><img src="/images/CW3.jpeg" 
      style="width:65%"><br>Source:&nbsp;<a href="https://beta.moe.gov.sg/programmes/cyber-wellness/">https://beta.moe.gov.sg/programmes/cyber-wellness/</a></p>
     </div>
 	</li>  
