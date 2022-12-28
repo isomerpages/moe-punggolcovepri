@@ -7,7 +7,7 @@ third_nav_title: Programme
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
-    <label for="accordion1">What is Cyber Wellness?</label>
+		<label for="accordion1"><b>What is Cyber Wellness?</b></label>
     <div>
       <p>Cyber Wellness (CW) refers to the positive well-being of internet users.<br><br>The focus of CW is to help our students to become responsible digital learners by understanding online behaviours and being aware of how to protect themselves in the online space.<br><br>Students should also be positive peer influence and harness the power of technology for the good of the community. </p>
     </div>
