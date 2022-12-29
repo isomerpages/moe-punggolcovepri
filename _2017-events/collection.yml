@@ -2,6 +2,7 @@ collections:
   2017-events:
     output: true
     order:
+      - School–Based/.keep
       - Festive Celebration/Deepavali Celebration 2017.md
       - Festive Celebration/Hari Raya Aidilfitri Celebration 2017.md
       - Festive Celebration/Chinese New Year Celebration 2017.md
