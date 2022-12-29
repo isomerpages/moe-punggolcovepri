@@ -35,6 +35,9 @@ third_nav_title: School–Based
 </tbody>
 </table>
 
+A collaboration with NLB to have storytelling sessions during school assembly.  For this session, our students had an interactive 30min where they answered questions and enacted the stories. An energising start to the week for our students and teachers!
 
-<center>Click <a href="https://flic.kr/s/aHskDa1ADK">here</a> for more photos.</center>
+<center>Click <a href="https://www.flickr.com/photos/142848383@N02/sets/72157668197611616/">here</a> for more photos.</center>
 
+<img src="/images/2016%20NLB.jpeg" 
+     style="width:75%">
