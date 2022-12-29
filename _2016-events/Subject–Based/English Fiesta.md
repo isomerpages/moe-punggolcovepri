@@ -13,7 +13,11 @@ third_nav_title: Subject–Based
 .tg .tg-sf6z{background-color:#FFF;color:#222;font-size:16px;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-g6yu{background-color:#FFF;color:#222;font-size:16px;text-align:left;vertical-align:top}
 </style>
-<table class="tg">
+<table class="tg" style="undefined;table-layout: fixed; width: 531px">
+<colgroup>
+<col style="width: 118px">
+<col style="width: 413px">
+</colgroup>
 <tbody>
   <tr>
     <td class="tg-sf6z">Objective</td>
