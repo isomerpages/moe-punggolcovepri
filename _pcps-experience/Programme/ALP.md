@@ -67,9 +67,9 @@ The service learning activities are represented in different forms amongst the t
 		<label for="accordion3">PRIMARY 2</label>
     <div>
 			<p><b>AIM:</b><br>Having completed the first year at primary school, students at the primary 2 level put their heads together to walk down memory lane and reminisce the time when they had newly transited to primary school. Putting the school value of empathy to good use by identifying the needs of incoming primary 1 students, these seniors work on solutions and advice for their juniors to ease this transition for them. <img src="/images/P2-1.jpeg" 
-     style="width:65%"><img src="/images/P2-2.jpeg" 
-     style="width:65%"><img src="/images/P2-3.png" 
-     style="width:65%"></p>
+     style="width:75%"><img src="/images/P2-2.jpeg" 
+     style="width:75%"><img src="/images/P2-3.png" 
+     style="width:75%"></p>
     </div>
 	</li>  
 	<li>
