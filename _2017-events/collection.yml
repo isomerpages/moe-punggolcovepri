@@ -2,6 +2,7 @@ collections:
   2017-events:
     output: true
     order:
+      - Subject–Based/English Fiesta 2017.md
       - Subject–Based/Mother Tongue Cultural Camp 2017.md
       - Subject–Based/.keep
       - Learning Journeys/Learning Journey to the Zoo 2017.md
