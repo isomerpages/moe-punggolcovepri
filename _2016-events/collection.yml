@@ -2,6 +2,7 @@ collections:
   2016-events:
     output: true
     order:
+      - Festive Celebration/Chinese New Year Celebration.md
       - Festive Celebration/.keep
       - National Education/Total Defence Day.md
       - National Education/.keep
