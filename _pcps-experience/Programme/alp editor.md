@@ -72,13 +72,4 @@ The service learning activities are represented in different forms amongst the t
      style="width:75%"></p>
     </div>
 	</li>  
-	<li>
-    <input type="checkbox" id="accordion4">
-		<label for="accordion4">PRIMARY 3</label>
-    <div>
-			<p><b>AIM:</b><br>In a bid to bring about awareness of cyber safety and encourage cyber wellness practice amongst the school community, students at the primary 3 level take on the role of ambassadors and share the message of Cyber Wellness through self-created videos.<br>They apply their language skills of writing, speaking and presenting along with their newly learnt skills of videography and use this to spread the message of being a responsible digital learner.<br>Each class focuses on a different strand of cyber wellness education from cyber identity to cyber relationships and even cyber citizenship.<img src="/images/p3-1.jpeg" 
-     style="width:75%"><img src="/images/p3-2.png" 
-     style="width:75%"></p>
-    </div>
-	</li>  
 </u>
