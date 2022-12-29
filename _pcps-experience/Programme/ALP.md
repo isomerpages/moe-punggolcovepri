@@ -106,9 +106,12 @@ The programme aims to foster students’ speaking and writing skills through act
 	</li>
 		<li>
     <input type="checkbox" id="accordion7">
-		<label for="accordion7">here</label>
+		<label for="accordion7">PRIMARY 6</label>
     <div>
-      <p>here</p>
+			<p><b>AIM:</b><br>
+The Primary 6 students embark on their ALP projects as part of their post-examination engagement at the end of the year. Working together as a class, students must compose an original piece of music using the software Chrome Music Lab. They will then come up with accompanying lyrics to complement their melody. Through songwriting, the Primary 6 students can express their gratitude to the school and ruminate on their experiences while celebrating the friendships that were forged in their time in primary school.<br><img src="/images/P6-1.jpeg" 
+     style="width:75%">
+</p>
     </div>
 	</li>
 </u>
