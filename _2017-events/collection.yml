@@ -2,6 +2,7 @@ collections:
   2017-events:
     output: true
     order:
+      - National Education/Total Defence Day 2017.md
       - National Education/.keep
       - Subject–Based/MTL Fornight 2017.md
       - Subject–Based/English Fiesta 2017.md
