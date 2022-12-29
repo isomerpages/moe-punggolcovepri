@@ -16,5 +16,5 @@ third_nav_title: Programme
 		<div>
 			<p>This problem-based learning programme was initiated so as to empower students to use their learning from the English and New Media & ICT classroom in service to the school and community.<br>The service learning activities are represented in different forms amongst the three learner blocks: lower primary, middle primary and upper primary. The activities are further categorised into direct service, indirect service, and advocacy.<br><br>Some examples of activities conducted in this programme are listed in the table below:</p>
     </div>
-	</li>   
+	</li>
 </u>
