@@ -13,7 +13,11 @@ third_nav_title: Subject–Based
 .tg .tg-3etx{background-color:#FFF;color:#222;font-size:16px;font-weight:bold;text-align:left;vertical-align:middle}
 .tg .tg-qtsq{background-color:#FFF;color:#222;font-size:16px;text-align:left;vertical-align:middle}
 </style>
-<table class="tg">
+<table class="tg" style="undefined;table-layout: fixed; width: 530px">
+<colgroup>
+<col style="width: 120px">
+<col style="width: 410px">
+</colgroup>
 <tbody>
   <tr>
     <td class="tg-3etx">Objectives</td>
