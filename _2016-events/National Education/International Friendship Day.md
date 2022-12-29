@@ -37,11 +37,7 @@ third_nav_title: National Education
 
 This year, the theme for International Friendship Day is ASEAN. Through the different activities, pupils gained better insight on how they can play a part in contributing to the ASEAN community. At the same time, they also learn to appreciate the cultural diversity in our school and build a stronger friendship among them and their friends from other countries. 
 
-  
-
 <center>Click <a href="https://flic.kr/s/aHskEbsuU6">here</a> for more photos.</center>
 
 <img src="/images/IFD04.jpeg" 
      style="width:75%">
-
-
