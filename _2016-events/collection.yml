@@ -2,5 +2,6 @@ collections:
   2016-events:
     output: true
     order:
+      - Subject–Based/.keep
       - Learning Journeys/Singapore Zoo.md
       - Learning Journeys/.keep
