@@ -41,8 +41,13 @@ third_nav_title: School–Based
 </tbody>
 </table>
 
+Our school commemorated Racial Harmony Day (RHD) on Monday, 24 July 2017. The aims of this event was to create awareness amongst the pupils on the diverse cultural heritage amidst us and the importance of working and playing together harmoniously with one another within the school community.
 
-<center>Click <a href="https://www.flickr.com/photos/142848383@N02/sets/72157685288260016/">here</a> for more photos.</center>
+The theme for the year was ‘The Singapore Way’. Through the activities, pupils learnt more about the traditional games of different ethnic groups.  They had a fun and meaningful time playing traditional games such as ‘Pick-up-Sticks’ and ‘Kuti-kuti’ with their classmates and teachers.  
 
-<img src="/images/K1.jpeg" 
+They also participated in a heritage tour of exhibits put up in the school which helped them to gain deeper insights on the rich diversity of the culture and heritage in Singapore. They were enlightened on the cultural heritage from the four main ethnic groups in Singapore and learnt more about their festivals, traditional costumes, games and food.
+
+<center>Click <a href="https://www.flickr.com/photos/142848383@N02/albums/72157689719733882">here</a> for more photos.</center>
+
+<img src="/images/RHD02.jpeg" 
      style="width:75%">
