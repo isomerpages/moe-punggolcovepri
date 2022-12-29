@@ -34,8 +34,7 @@ third_nav_title: Subject–Based
 </tbody>
 </table>
 
-Click <a href="https://flic.kr/s/aHskzUMALB">here</a> for more photos.
+<center>Click <a href="https://flic.kr/s/aHskzUMALB">here</a> for more photos.</center>
 
 <img src="/images/ART%20-%201A3.jpeg" 
      style="width:75%">
-
