@@ -36,3 +36,20 @@ third_nav_title: National Education
 </tbody>
 </table>
 
+We had our first National celebration and Sports Day this year and it was a memorable one!  
+
+Prior to the celebration, pupils were engaged in bunting activity. As part of bunting activity, pupils penned their wishes for Singapore and hanged them as part of the decoration for their respective classes. 
+
+  
+
+The National Cadet Corp from Hai Sing Catholic School was invited to conduct the National Day Observance and flag raising ceremony. It was a simple and solemn ceremony and our children were in awe! After the ceremony, our children had a fun time in the Sports Day and learnt the importance of sportsmanship and teamwork. 
+
+  
+
+Click <a href="https://flic.kr/s/aHskEk8Kjm">here</a> for more photos.
+
+
+![](/images/Principal%20with%20NCC%20cadets%20from%20Hai%20Sing%20Catholic%20High%20School.jpeg)
+
+<img src="/images/principal.jpg" 
+     style="width:75%">
