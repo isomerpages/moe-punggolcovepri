@@ -35,3 +35,7 @@ On this day, our first batch of pupils and parents attended the P1 Orientation D
   
 
 <center>Click <a href="https://flic.kr/s/aHskD75daN">here</a> for more photos.</center>
+
+
+<img src="/images/2015%20P1%20Orientation%20Day.jpeg" 
+     style="width:75%">
