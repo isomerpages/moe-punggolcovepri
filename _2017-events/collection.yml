@@ -2,6 +2,7 @@ collections:
   2017-events:
     output: true
     order:
+      - Festive Celebration/.keep
       - National Education/International Friendship Day 2017.md
       - National Education/Total Defence Day 2017.md
       - National Education/.keep
