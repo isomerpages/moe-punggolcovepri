@@ -90,8 +90,7 @@ Each class focuses on a different strand of cyber wellness education from cyber 
 			<p><b>AIM:</b><br>The programme aims to cultivate the spirit of innovation while upholding the school values of empathy and mindfulness as the primary 4 students work collaboratively in advancing the reading interest of their younger peers.<br>
 They carry out surveys to understand the reading interest of their recipients and create digital storybooks using Animaker to instill the love for reading in their younger schoolmates.<br><img src="/images/P4-1.jpeg" 
      style="width:75%"><img src="/images/P4-2.jpeg" 
-     style="width:75%">
-</p>
+     style="width:75%"></p>
     </div>
 	</li> 
 	<li>
@@ -102,8 +101,7 @@ They carry out surveys to understand the reading interest of their recipients an
 The programme aims to foster students’ speaking and writing skills through activities that are centred in journalism. Students are given opportunities to examine and discuss key issues from newspaper articles found in Little Red Dot.<br><br>Students are tasked to apply the elements of journalistic writing in creating a class newspaper on addressing social issues and themes such as inclusive society, social inequality and other pertinent issues.<br><img src="/images/P5-1.jpeg" 
      style="width:75%"><img src="/images/P5-2.jpeg" 
      style="width:95%"><img src="/images/P5-3.jpeg" 
-     style="width:75%">
-</p>
+     style="width:75%"></p>
     </div>
 	</li>
 		<li>
