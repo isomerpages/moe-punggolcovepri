@@ -41,7 +41,15 @@ third_nav_title: School–Based
 </tbody>
 </table>
 
-<center>Click <a href="https://www.flickr.com/photos/142848383@N02/albums/72157689719733882">here</a> for more photos.</center>
+National Day was celebrated with nostalgic National Day songs, beautiful singing, fun-filled activities and love!
 
-<img src="/images/RHD02.jpeg" 
+Prior to the celebration, pupils practised the singing of the National Day theme song daily. Besides, they learnt about the celebration theme and penned their thoughts together as a class.  
+
+This year National Police Cadet Corp and Girl Guides from Loyang Secondary School were invited to conduct the National Day Observance and flag-raising ceremony. It was a simple and solemn ceremony and our children were in awe!
+
+After the ceremony, our children had a fun time playing games as part of their Sports Day. Importantly, such interaction allowed them to learn and understand the importance of sportsmanship and teamwork.
+
+<center>Click <a href="https://www.flickr.com/photos/142848383@N02/albums/72157691372959474">here</a> for more photos.</center>
+
+<img src="/images/NDP05.jpeg" 
      style="width:75%">
