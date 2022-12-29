@@ -41,8 +41,8 @@ In our first Deepavali celebration, pupils gathered in the hall to learn more ab
 
   
 
-Click <a href="link">worddisplay</a>(https://flic.kr/s/aHskNQoMVs) for photos.
+Click <a href="https://flic.kr/s/aHskNQoMVs">here</a> for photos.
 
 
-<img src="/images/principal.jpg" 
+<img src="/images/2016%20DPV%2007.jpeg" 
      style="width:75%">
