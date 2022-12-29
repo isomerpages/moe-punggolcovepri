@@ -34,3 +34,12 @@ third_nav_title: National Education
   </tr>
 </tbody>
 </table>
+
+This year, the theme for Racial Harmony Day is “Our Cultural Heritage”. Pupils were enlightened on the diverse cultural heritage from the four main ethnic groups in Singapore during the assembly programme. They gained deeper insights on the four different cultures and their festivals, traditional costumes and food. Through class activities, pupils learn more about the traditional games of different ethnic groups. They also had the chance to play “Pick-up-Sticks” with their classmates and teachers. This year’s inaugural Racial Harmony Day has managed to create more awareness among our pupils on the diversified cultural heritage present in school and the need to work and play peacefully with one another. 
+
+<center>Click <a href="https://flic.kr/s/aHskHBGvA1">here</a> for more photos.</center>
+
+<img src="/images/2016%20Racial%20Harmony%20Day%20%20(2).jpeg" 
+     style="width:75%">
+
+
