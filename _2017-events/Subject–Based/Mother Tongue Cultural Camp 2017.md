@@ -43,6 +43,5 @@ The children were exposed to the different chess that each race used to play. Th
 
 <center>Click <a href="https://www.flickr.com/photos/142848383@N02/sets/72157685287650816/">here</a> for more photos.</center>
 
-
 <img src="/images/2017%20MotherTongue%20Cultural%20Camp.jpeg" 
      style="width:75%">
