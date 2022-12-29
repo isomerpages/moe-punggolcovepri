@@ -76,9 +76,7 @@ The service learning activities are represented in different forms amongst the t
     <input type="checkbox" id="accordion4">
 		<label for="accordion4">PRIMARY 3</label>
     <div>
-			<p><b>AIM:</b><br>In a bid to bring about awareness of cyber safety and encourage cyber wellness practice amongst the school community, students at the primary 3 level take on the role of ambassadors and share the message of Cyber Wellness through self-created videos.<br>
-They apply their language skills of writing, speaking and presenting along with their newly learnt skills of videography and use this to spread the message of being a responsible digital learner.<br>
-Each class focuses on a different strand of cyber wellness education from cyber identity to cyber relationships and even cyber citizenship.<img src="/images/p3-1.jpeg" 
+			<p><b>AIM:</b><br>In a bid to bring about awareness of cyber safety and encourage cyber wellness practice amongst the school community, students at the primary 3 level take on the role of ambassadors and share the message of Cyber Wellness through self-created videos.<br>They apply their language skills of writing, speaking and presenting along with their newly learnt skills of videography and use this to spread the message of being a responsible digital learner.<br>Each class focuses on a different strand of cyber wellness education from cyber identity to cyber relationships and even cyber citizenship.<img src="/images/p3-1.jpeg" 
      style="width:75%"><img src="/images/p3-2.png" 
      style="width:75%"></p>
     </div>
@@ -87,8 +85,7 @@ Each class focuses on a different strand of cyber wellness education from cyber 
     <input type="checkbox" id="accordion5">
 		<label for="accordion5">PRIMARY 4</label>
     <div>
-			<p><b>AIM:</b><br>The programme aims to cultivate the spirit of innovation while upholding the school values of empathy and mindfulness as the primary 4 students work collaboratively in advancing the reading interest of their younger peers.<br>
-They carry out surveys to understand the reading interest of their recipients and create digital storybooks using Animaker to instill the love for reading in their younger schoolmates.<br><img src="/images/P4-1.jpeg" 
+			<p><b>AIM:</b><br>The programme aims to cultivate the spirit of innovation while upholding the school values of empathy and mindfulness as the primary 4 students work collaboratively in advancing the reading interest of their younger peers.<br>They carry out surveys to understand the reading interest of their recipients and create digital storybooks using Animaker to instill the love for reading in their younger schoolmates.<br><img src="/images/P4-1.jpeg" 
      style="width:75%"><img src="/images/P4-2.jpeg" 
      style="width:75%"></p>
     </div>
