@@ -2,6 +2,7 @@ collections:
   2016-events:
     output: true
     order:
+      - School–Based/NLB Storytelling.md
       - School–Based/Kindness Week.md
       - School–Based/Sports Day.md
       - School–Based/Teacher's Day.md
