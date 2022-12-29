@@ -41,4 +41,5 @@ The school staff and pupils commemorated the Total Defence Day. Pupils learned a
 <center>Click <a href="https://flic.kr/s/aHskCzmQsE">here</a> for more photos.</center>
 
 
-![](/images/TDD07.jpeg)
+<img src="/images/TDD07.jpeg" 
+     style="width:75%">
