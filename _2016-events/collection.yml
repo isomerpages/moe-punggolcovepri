@@ -2,6 +2,7 @@ collections:
   2016-events:
     output: true
     order:
+      - National Education/.keep
       - Subject–Based/Aesthetics Week.md
       - Subject–Based/.keep
       - Learning Journeys/Singapore Zoo.md
