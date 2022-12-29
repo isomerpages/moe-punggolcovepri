@@ -51,5 +51,3 @@ The National Cadet Corp from Hai Sing Catholic School was invited to conduct the
 
 <img src="/images/2016%20Sports%20Day.jpeg" 
      style="width:75%">
-
-
