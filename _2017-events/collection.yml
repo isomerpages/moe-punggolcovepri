@@ -2,6 +2,7 @@ collections:
   2017-events:
     output: true
     order:
+      - School–Based/A Day at the Cove 2017.md
       - School–Based/.keep
       - Festive Celebration/Deepavali Celebration 2017.md
       - Festive Celebration/Hari Raya Aidilfitri Celebration 2017.md
