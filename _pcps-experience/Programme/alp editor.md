@@ -4,7 +4,6 @@ permalink: /pcps-experience/Programme/test/
 description: ""
 third_nav_title: Programme
 ---
-
 **Applied Learning Programme (ALP) – English language & ICT collaboration**
 
 <ul class="jekyllcodex_accordion">
@@ -91,15 +90,4 @@ The service learning activities are represented in different forms amongst the t
      style="width:75%"></p>
     </div>
 	</li> 
-	<li>
-    <input type="checkbox" id="accordion6">
-		<label for="accordion6">PRIMARY 5</label>
-    <div>
-			<p><b>AIM:</b><br>
-The programme aims to foster students’ speaking and writing skills through activities that are centred in journalism. Students are given opportunities to examine and discuss key issues from newspaper articles found in Little Red Dot.<br><br>Students are tasked to apply the elements of journalistic writing in creating a class newspaper on addressing social issues and themes such as inclusive society, social inequality and other pertinent issues.<br><img src="/images/P5-1.jpeg" 
-     style="width:75%"><img src="/images/P5-2.jpeg" 
-     style="width:95%"><img src="/images/P5-3.jpeg" 
-     style="width:75%"></p>
-    </div>
-	</li>
 </u>
