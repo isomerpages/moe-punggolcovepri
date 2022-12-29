@@ -49,7 +49,5 @@ The National Cadet Corp from Hai Sing Catholic School was invited to conduct the
 Click <a href="https://flic.kr/s/aHskEk8Kjm">here</a> for more photos.
 
 
-![](/images/Principal%20with%20NCC%20cadets%20from%20Hai%20Sing%20Catholic%20High%20School.jpeg)
-
-<img src="/images/principal.jpg" 
+<img src="/images/Principal%20with%20NCC%20cadets%20from%20Hai%20Sing%20Catholic%20High%20School.jpeg" 
      style="width:75%">
