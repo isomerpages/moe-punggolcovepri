@@ -37,7 +37,13 @@ third_nav_title: Subject–Based
 </tbody>
 </table>
 
-<center>Click <a href="https://www.flickr.com/photos/142848383@N02/sets/72157685287650816/">here</a> for more photos.</center>
+The annual English Fiesta is held with the aim of creating opportunities for our pupils to learn and celebrate the English language in various forms for reading, speaking, listening and writing.   
+  
+This year, our Primary 1 and 2 pupils were immersed in an array of classroom and outdoor activities. The learning content of the activities supported the different intelligences according to Howard Gardner’s Multiple Intelligence Theory.   
+  
+Pupils were engaged in a purposeful manner in the games carnival, authors’ display, poetry appreciation, comprehension task and literature appreciation. The carefully crafted activities created a meaningful context for language use while increasing learner motivation for active and fun language learning.
 
-<img src="/images/2017%20MotherTongue%20Cultural%20Camp.jpeg" 
+<center>Click <a href="https://flic.kr/s/aHsm7rQX7p">here</a> for more photos.</center>
+
+<img src="/images/2017%20English%20Fiesta.jpeg" 
      style="width:75%">
