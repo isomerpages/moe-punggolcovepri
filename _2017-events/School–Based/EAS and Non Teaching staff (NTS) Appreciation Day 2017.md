@@ -41,8 +41,9 @@ third_nav_title: School–Based
 </tbody>
 </table>
 
+“Let us be grateful to the people who make us happy; they are the gardeners who make our souls blossom.”  The appreciation day goes hand in hand with the school core values of “Mindfulness, Empathy and Care”. The pupils together with the teaching staff deeply appreciate the lengths the EAS and NTS staff have gone to support the school ecosystem. The pupils were briefed so that they can be aware of this great purpose. They put in sincere thoughts in jotting down their words of thanks for all the EAS and NTS staff. Their responses were collated and organized into cards given to every EAS and NTS staff.
 
-<center>Click <a href="https://www.flickr.com/photos/142848383@N02/albums/72157691372959474">here</a> for more photos.</center>
+<center>Click <a href="https://www.flickr.com/photos/142848383@N02/albums/72157664990719218">here</a> for more photos.</center>
 
-<img src="/images/NDP05.jpeg" 
-     style="width:75%">
+<img src="/images/AD7_Card%20to%20appreciate%20the%20efforts%20of%20EAS%20&%20NTS%20staff.jpeg" 
+     style="width:45%">
