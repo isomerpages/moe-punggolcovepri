@@ -52,14 +52,5 @@ third_nav_title: Programme
 </tbody>
 </table></p>
     </div>
-	</li>  
-	<li>
-    <input type="checkbox" id="accordion2">
-		<label for="accordion2">PRIMARY 1</label>
-    <div>
-			<p><b>AIM:</b><br>Building on their knowledge about animals from books read in the English classroom, the Primary 1 Applied Learning Programme (ALP) aims to provide students with opportunities to learn about endangered animals and advocate animal conservation.<br>Using problem-based learning (PBL), each P1 class brainstorms and researches on a selected animal. Students then embark on a ‘learning experience’ to learn more about the selected animal.<br>The information gathered by the different classes is then shared and presented in the form of e-posters; thus building on each other’s repertoire of knowledge.<img src="/images/alpp1-1.png" 
-     style="width:65%"><img src="/images/alpp1-2.png" 
-     style="width:65%"></p>
-    </div>
-	</li>  
+	</li>   
 </u>
