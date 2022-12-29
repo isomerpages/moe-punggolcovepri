@@ -81,13 +81,4 @@ The service learning activities are represented in different forms amongst the t
      style="width:75%"></p>
     </div>
 	</li>  
-	<li>
-    <input type="checkbox" id="accordion5">
-		<label for="accordion5">PRIMARY 4</label>
-    <div>
-			<p><b>AIM:</b><br>The programme aims to cultivate the spirit of innovation while upholding the school values of empathy and mindfulness as the primary 4 students work collaboratively in advancing the reading interest of their younger peers.<br>They carry out surveys to understand the reading interest of their recipients and create digital storybooks using Animaker to instill the love for reading in their younger schoolmates.<br><img src="/images/P4-1.jpeg" 
-     style="width:75%"><img src="/images/P4-2.jpeg" 
-     style="width:75%"></p>
-    </div>
-	</li> 
 </u>
