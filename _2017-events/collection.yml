@@ -2,4 +2,5 @@ collections:
   2017-events:
     output: true
     order:
+      - Learning Journeys/PAL Outdoor Learning Journey 2017.md
       - Learning Journeys/.keep
