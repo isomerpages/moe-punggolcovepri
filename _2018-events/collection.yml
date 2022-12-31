@@ -2,6 +2,7 @@ collections:
   2018-events:
     output: true
     order:
+      - School–Based/Kindness Week 2018.md
       - School–Based/Children's Day Celebration 2018.md
       - School–Based/EAS and Non–teaching staff (EAS & NTS Appreciation Day).md
       - School–Based/.keep
