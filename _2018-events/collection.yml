@@ -2,6 +2,7 @@ collections:
   2018-events:
     output: true
     order:
+      - School–Based/Student Leaders Workshop 2018.md
       - School–Based/A Day At The Cove 2018.md
       - School–Based/National Day Celebration 2018.md
       - School–Based/Kindness Week 2018.md
