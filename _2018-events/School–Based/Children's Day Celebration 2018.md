@@ -43,4 +43,4 @@ A series of fun and exciting activities were organised for our students as par
 
 
 <img src="/images/Health&WellnessQuiz.jpeg" 
-     style="width:75%">
+     style="width:65%">
