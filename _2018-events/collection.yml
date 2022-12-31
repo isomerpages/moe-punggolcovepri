@@ -2,6 +2,7 @@ collections:
   2018-events:
     output: true
     order:
+      - Learning Journeys/P1 Learning Journey To The Zoo 2018.md
       - Learning Journeys/.keep
       - National Education/Total Defence Day 2018.md
       - National Education/International Friendship Day 2018.md
