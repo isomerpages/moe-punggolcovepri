@@ -2,6 +2,7 @@ collections:
   2018-events:
     output: true
     order:
+      - Festive Celebration/.keep
       - Subject–Based/Mother Tongue Cultural Camp 2018.md
       - Subject–Based/Mother Tongue Fortnight 2018.md
       - Subject–Based/.keep
