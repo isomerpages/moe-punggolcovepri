@@ -2,6 +2,7 @@ collections:
   2018-events:
     output: true
     order:
+      - Learning Journeys/.keep
       - National Education/Total Defence Day 2018.md
       - National Education/International Friendship Day 2018.md
       - National Education/Racial Harmony Day 2018.md
