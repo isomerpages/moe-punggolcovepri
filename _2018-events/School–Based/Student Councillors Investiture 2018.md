@@ -4,7 +4,6 @@ permalink: /2018-events/School-Based/student-councillors-investiture/
 description: ""
 third_nav_title: School–Based
 ---
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -42,4 +41,4 @@ The school’s inaugural Student Councillors Investiture was held on 26 March 20
 
 
 <img src="/images/_2018%20Student%20Councillors%20Investiture%20(4).jpeg" 
-     style="width:45%">
+     style="width:65%">
