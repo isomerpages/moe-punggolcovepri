@@ -2,6 +2,7 @@ collections:
   2018-events:
     output: true
     order:
+      - School–Based/P1 Orientation 2018–2019.md
       - School–Based/Promotion Day 2018.md
       - School–Based/Student Councillors Investiture 2018.md
       - School–Based/Student Leaders Workshop 2018.md
