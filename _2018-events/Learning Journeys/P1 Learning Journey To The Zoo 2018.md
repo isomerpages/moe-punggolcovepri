@@ -40,3 +40,7 @@ Prior to their learning journey, each class was involved in a mini-research proj
 Post-visit, each class consolidated their learning by participating in a class writing activity which required them to put the pieces of information together for their peers from other classes to read and learn from.    
 
 <center>Click <a href="https://www.flickr.com/photos/142848383@N02/albums/72157673148331348">here</a> for more photos.</center>
+
+
+<img src="/images/lj%20zoo%202018.png" 
+     style="width:75%">
