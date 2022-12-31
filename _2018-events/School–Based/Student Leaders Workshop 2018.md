@@ -41,4 +41,4 @@ The Student Leaders Workshop aims to induct our student leaders into their vario
 
 
 <img src="/images/2018%20Student%20Leaders%20Workshop%2008.jpeg" 
-     style="width:65%">
+     style="width:45%">
