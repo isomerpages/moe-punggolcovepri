@@ -4,10 +4,7 @@ permalink: /pcps-experience/Co-Curricular-Activities/cca/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
-CCA IN GENERAL
---------------
-
-  
+### CCA IN GENERAL
 
 *   Co-Curricular Activities (CCAs) is a non-academic activity that all students must undertake as part of their education outside of official school hours. 
 *   They are only introduced from Primary 3 onwards and is optional, not compulsory. 
@@ -17,10 +14,7 @@ CCA IN GENERAL
 
   
 
-CCA IN PCPS
------------
-
-  
+### CCA IN PCPS
 
 *   Our PCPS CCA Framework allows Primary 3 students to undergo Exposure, Understanding & Appreciation in their chosen CCAs. 
 
