@@ -17,7 +17,8 @@ Within the supportive ecosystem, there is regular review to ensure the alignment
 
 We aim to productively utilize New Media and ICT for our students’ quality learning in support of the total curriculum, and to support our students to be confident creators.
 
-pic
+<img src="/images/etnm1-1.png" 
+     style="width:75%">
 
 
 ##### ICT-in-Education Masterplan 4
@@ -34,7 +35,8 @@ The Baseline ICT Standards is a set of New Media Literacies with competencies to
 
 With our PCPS vision of “Every student an educated child and contributing citizen, ready to serve and lead”, we are mindfully anchored in our school values in assessing curriculum needs and design.
 
-pic
+<img src="/images/etnm2.png" 
+     style="width:65%">
 
 
 ##### Purposeful Inculcation Of New Media and ICT Skills
