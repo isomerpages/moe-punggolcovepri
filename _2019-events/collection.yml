@@ -2,6 +2,7 @@ collections:
   2019-events:
     output: true
     order:
+      - School–Based/Cleanliness @ PCPS.md
       - School–Based/Children's Day Celebration 2019.md
       - School–Based/P4 Cohort Day 2019.md
       - School–Based/Promotion Day 2019.md
