@@ -17,6 +17,7 @@ Within the supportive ecosystem, there is regular review to ensure the alignment
 
 We aim to productively utilize New Media and ICT for our students’ quality learning in support of the total curriculum, and to support our students to be confident creators.
 
+pic
 
 
 ##### ICT-in-Education Masterplan 4
@@ -32,3 +33,30 @@ The Baseline ICT Standards is a set of New Media Literacies with competencies to
 ##### Alignment To School Values
 
 With our PCPS vision of “Every student an educated child and contributing citizen, ready to serve and lead”, we are mindfully anchored in our school values in assessing curriculum needs and design.
+
+pic
+
+
+##### Purposeful Inculcation Of New Media and ICT Skills
+
+table
+
+For 2 periods a week, New Media and ICT competencies are taught explicitly to the Primary 1 and Primary 2 students during New MICT lessons. These competencies are purposefully introduced and students are given opportunities to apply their learning, and to have choices about what and how to create.
+
+By the end of Primary 2, PCPS students would have acquired basic competency with Touch Typing, Microsoft Powerpoint, Microsoft Word and Coding amongst other digital skills/platforms, and be able to work more independently and fruitfully with ICT tools. These skills would be capitalized on to enable New Media and ICT infused learning throughout their schooling years. 
+
+  
+
+##### Purposeful Tools For Quality Learning
+
+With the basic New Media and ICT knowledge and skills that students have acquired, teachers are better able to harness the ICT tools to facilitate quality and active learning in all subject areas.
+
+Other New Media and ICT skills are meaningfully integrated into the various level ALP and Cyber Wellness programmes, and taught by the teachers as follows:
+
+
+table
+
+
+##### Regular Reviews for Purpose and Effectiveness
+
+Through regular monitoring, evaluation and reviews, the committee constantly identify areas to refine the purposeful practices. At the same time, a keen lookout is kept for new ways to support the school in their New Media and ICT needs, and to further the incorporation of New Media and ICT in support of the total curriculum.
