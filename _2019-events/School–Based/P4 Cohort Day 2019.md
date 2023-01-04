@@ -45,7 +45,7 @@ The school held her first 3 Days 2 Nights Primary 4 Cohort Camp at the Changi Co
 Outdoor Adventure Learning Centre on 30 September to 2 October. The students went on a coastal exploration to learn more about the environment. They also had fun trying the high rope elements, zip line and abseiling.
 
 
-<center>Click <a href="https://photos.app.goo.gl/m9BHk6JXRitfv76w5">here</a> for more photos.</center>
+<center>Click <a href="https://photos.app.goo.gl/m9BHk6JXRitfv76w5">here</a> <b>(broken link)</b> for more photos.</center>
 
 
 <img src="/images/P4%20Cohort%202019.jpeg" 
