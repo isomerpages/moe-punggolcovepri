@@ -58,7 +58,67 @@ MTL Fortnight provides platforms for pupils to actively learn MTL and the associ
 
 **Useful Websites for ML learning**
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-qtsq{background-color:#FFF;color:#222;font-size:16px;text-align:left;vertical-align:middle}
+.tg .tg-zurh{background-color:#FFF;color:#4067AE;font-size:16px;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 593px">
+<colgroup>
+<col style="width: 242px">
+<col style="width: 351px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-qtsq"><span style="color:#222;background-color:transparent">Interactive games</span></td>
+    <td class="tg-zurh"><a href="http://www.mllpc.sg/"><span style="text-decoration:none;color:#4067AE">http://www.mllpc.sg</span></a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-qtsq"><span style="color:#222;background-color:transparent">e-book</span></td>
+    <td class="tg-zurh"><a href="http://www.nlb.gov.sg/golibrary"><span style="text-decoration:none;color:#4067AE">http://www.nlb.gov.sg/golibrary</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-qtsq"><span style="color:#222;background-color:transparent">Malay Language Council of Singapore </span></td>
+    <td class="tg-zurh"><a href="http://mbms.sg/en"><span style="text-decoration:none;color:#4067AE">http://mbms.sg/en</span></a><a href="http://mbms.sg/en"> </a><span style="color:#222;background-color:transparent"> </span></td>
+  </tr>
+  <tr>
+    <td class="tg-qtsq"><span style="color:#222;background-color:transparent">Online Dictionary </span></td>
+    <td class="tg-zurh"><a href="http://prpm.dbp.gov.my/"><span style="text-decoration:none;color:#4067AE">http://prpm.dbp.gov.my/</span></a></td>
+  </tr>
+</tbody>
+</table>
+
 **Useful Websites for TL learning**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-qtsq{background-color:#FFF;color:#222;font-size:16px;text-align:left;vertical-align:middle}
+.tg .tg-zurh{background-color:#FFF;color:#4067AE;font-size:16px;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 593px">
+<colgroup>
+<col style="width: 242px">
+<col style="width: 351px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-qtsq"><span style="color:#222;background-color:transparent">Learning portal</span></td>
+    <td class="tg-zurh"><a href="http://vaandu.sg/"><span style="text-decoration:none;color:#4067AE">http://vaandu.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-qtsq"><span style="color:#222;background-color:transparent">Interactive games</span><br></td>
+    <td class="tg-zurh"><a href="http://sangamam.moe.edu.sg/"><span style="text-decoration:none;color:#4067AE">http://sangamam.moe.edu.sg</span></a></td>
+  </tr>
+</tbody>
+</table>
 
 
 Pupils working together to prepare for a skit.
