@@ -2,6 +2,7 @@ collections:
   pcps-experience:
     output: true
     order:
+      - Departments and Committees/Physical Education, Art and Music (PAM).md
       - Departments and Committees/Science.md
       - Departments and Committees/.keep
       - Co Curricular Activities/Co Curricular Activities (CCA).md
