@@ -47,8 +47,14 @@ third_nav_title: National Education
 </tbody>
 </table>
 
-<center>Click <a href="https://www.flickr.com/photos/142848383@N02/albums/72157710431819506">here</a> for more photos.</center>
+Our students commemorated National Day 2020 through a “live” Zoom session in their classrooms, where they participated in the National Day Observation Ceremony and interesting classroom activities.
+
+They learnt to recognise the SG heroes who have contributed to Singapore over the past few months, by making SG Heroes shakers that were used during the music session on the same day.
+
+Our students also learnt about how Singaporeans supported one another during the COVID-19 crisis. The day ended on a high note as our students tapped along to the National Day songs and joined in the steps as one, despite being in their separate classrooms, for the SG Active Workout!
+
+<center>Click <a href="https://photos.google.com/share/AF1QipMkoKTBIm0sst1pDLbobq0D1g5HlESe6tle8s1NRv18Er6GA1oXrfy8nGbGiIkZEQ?key=MzVLcjFWNktFTG1zZzZYc0kwVGZ3QVdjeWZ4N2VB">here</a> for more photos.</center>
 
 
-<img src="/images/Photo%201.jpeg" 
+<img src="/images/Img%203.jpeg" 
      style="width:75%">
