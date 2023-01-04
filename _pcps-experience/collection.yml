@@ -2,6 +2,7 @@ collections:
   pcps-experience:
     output: true
     order:
+      - Departments and Committees/.keep
       - Co Curricular Activities/Co Curricular Activities (CCA).md
       - Co Curricular Activities/CCA Framework.md
       - Co Curricular Activities/CCA Teachers 2022.md
