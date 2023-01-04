@@ -2,4 +2,5 @@ collections:
   2019-events:
     output: true
     order:
+      - Learning Journeys/P4 NE Learning Journey To Chinatown.md
       - Learning Journeys/.keep
