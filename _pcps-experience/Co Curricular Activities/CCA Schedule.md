@@ -25,16 +25,18 @@ third_nav_title: Co Curricular Activities
 	</li>  
 	  <li>
     <input type="checkbox" id="accordion3">
-    <label for="accordion3">Simple</label>
+    <label for="accordion3">P3 E-CCA SCHEDULE FOR SEMESTER 1 (2022)</label>
     <div>
-      <p>This is a simple one line item</p>
+      <p><img src="/images/2022-ecca.png" 
+     style="width:100%"></p>
     </div>
 	</li>  
 	  <li>
     <input type="checkbox" id="accordion4">
-    <label for="accordion4">Simple</label>
+    <label for="accordion4">P4-6 E-CCA SCHEDULE FOR SEMESTER 1 (2022)</label>
     <div>
-      <p>This is a simple one line item</p>
+      <p><img src="/images/2022-ecca-2.png" 
+     style="width:100%"></p>
     </div>
 	</li>  
 </ul>
