@@ -15,9 +15,12 @@ third_nav_title: Co Curricular Activities
 	</li>  
 	  <li>
     <input type="checkbox" id="accordion2">
-    <label for="accordion2">Simple</label>
+    <label for="accordion2">SPORTS & MODERN DANCE SCHEDULE FOR SEMESTER 1 (2022)</label>
     <div>
-      <p>This is a simple one line item</p>
+      <p><img src="/images/s&md1.png" 
+     style="width:100%"><br><img src="/images/s&md2.jpeg" 
+     style="width:100%"><br><img src="/images/s&md3.jpeg" 
+     style="width:70%"></p>
     </div>
 	</li>  
 	  <li>
