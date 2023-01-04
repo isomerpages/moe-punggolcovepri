@@ -42,7 +42,7 @@ To nurture every child with strong moral character and equip them to be worthy c
   </tr>
   <tr>
     <td class="tg-xj1m">Primary Social Studies<br>Syllabus</td>
-    <td class="tg-0zsr"><a href="https://www.moe.gov.sg/docs/default-source/document/education/syllabuses/humanities/files/social-studies-syllabus-2012-110615.pdf">https://www.moe.gov.sg/docs/default-source/document/education/syllabuses/humanities/files/social-studies-syllabus-2012-110615.pdf</a></td>
+    <td class="tg-0zsr"><a href="https://www.moe.gov.sg/docs/default-source/document/education/syllabuses/humanities/files/social-studies-syllabus-2012-110615.pdf">https://www.moe.gov.sg/docs/default-source/document/education/syllabuses/humanities/files/social-studies-syllabus-2012-110615.pdf</a> (pdf not found)</td>
   </tr>
   <tr>
     <td class="tg-xj1m">Framework for 21st Century Competencies and Student Outcomes</td>
@@ -73,11 +73,11 @@ To nurture every child with strong moral character and equip them to be worthy c
   </tr>
   <tr>
     <td class="tg-xj1m">Resilience Boosters</td>
-    <td class="tg-0zsr"><a href="https://www.schoolbag.sg/docs/default-source/default-document-library/resilience-resources_for-parents_2016.pdf?sfvrsn=0">https://www.schoolbag.sg/docs/default-source/default-document-library/resilience-resources_for-parents_2016.pdf?sfvrsn=0</a></td>
+    <td class="tg-0zsr"><a href="https://www.schoolbag.sg/docs/default-source/default-document-library/resilience-resources_for-parents_2016.pdf?sfvrsn=0">https://www.schoolbag.sg/docs/default-source/default-document-library/resilience-resources_for-parents_2016.pdf?sfvrsn=0</a>  (pdf not found)</td>
   </tr>
   <tr>
     <td class="tg-xj1m">Giving Our Children S.P.A.C.E. to Build Resilence</td>
-    <td class="tg-0zsr"><a href="https://www.schoolbag.sg/docs/default-source/default-document-library/space-card-(apr-2017).pdf?sfvrsn=0">https://www.schoolbag.sg/docs/default-source/default-document-library/space-card-(apr-2017).pdf?sfvrsn=0</a></td>
+    <td class="tg-0zsr"><a href="https://www.schoolbag.sg/docs/default-source/default-document-library/space-card-(apr-2017).pdf?sfvrsn=0">https://www.schoolbag.sg/docs/default-source/default-document-library/space-card-(apr-2017).pdf?sfvrsn=0</a> (pdf not found)</td>
   </tr>
   <tr>
     <td class="tg-xj1m">Are values taught or caught?</td>
