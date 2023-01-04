@@ -50,4 +50,4 @@ At the end of the programme, students acquired better self-management skills in 
 
 
 <img src="/images/TP2019.png" 
-     style="width:75%">
+     style="width:45%">
