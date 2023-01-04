@@ -7,7 +7,7 @@ third_nav_title: Co Curricular Activities
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
-    <label for="accordion1">Simple</label>
+    <label for="accordion1">CCA SCHEDULE FOR SEMESTER 2 (2022)</label>
     <div>
       <p>This is a simple one line item</p>
     </div>
