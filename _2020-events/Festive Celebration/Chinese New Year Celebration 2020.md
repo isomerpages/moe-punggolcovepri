@@ -51,7 +51,7 @@ made Chinese New Year postcard to show respect and appreciation to family membe
 During the concert, students were mesmerized by the whimsical umbrella magic  
 performance, which embodied the charm of dance and magic.  Wushu performers displayed dance of martial arts with synchronized movements. Lion dance performances are a quintessential part of the Chinese New Year experience. The lion dance perform the plucking of the greens, said to bring good luck and prosperity. Both principals were invited to receive the couplet, which symbolized happiness and good luck. Our student counsellors have also took this opportunity to show appreciation to our teachers by presenting mandarin oranges. The celebration exposed students to Chinese culture and ended on a high note with mass singing.
 
-<center>Click <a href="https://www.flickr.com/photos/142848383@N02/albums/72157713245973077">here</a> for more photos.</center>
+<center>Click <a href="https://www.flickr.com/photos/142848383@N02/albums/72157713245743202">here</a> for more photos.</center>
 
 
 <img src="/images/CNY%2008%20Umbrella%20Magic%20Performance.jpeg" 
