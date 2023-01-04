@@ -21,7 +21,8 @@ The programme employs the following strategies:
 
 <u>Shared Book Approach (SBA)</u>
 
-pic
+<img src="/images/eng1.jpeg" 
+     style="width:45%">
 
 The teacher introduces and shares a Big Book with the pupils. Students are then taught language items, structures and skills explicitly, including concepts of print, phonics and grammar.  
   
@@ -31,11 +32,13 @@ The teacher introduces and shares a Big Book with the pupils. Students are then 
 Students are provided experiences based on text they have read in the classroom. These experiences come in the form of art and craft, drama or other novel activities.   
 Bubble Trouble!
 
-pic
+<img src="/images/eng2.png" 
+     style="width:75%">
 
 Drama @ PCPS
 
-pic
+<img src="/images/eng3.png" 
+     style="width:75%">
 
 Engagement in the above activity provides the context and content for the children to think and talk about, using the target language structures and vocabulary they have been exposed to in SBA.  
   
@@ -45,12 +48,13 @@ With the help of the teacher who transcribes the children's input, the pupils co
 <u>Learning Centres (LC)</u>    
  The language skills learnt in both SBA and MLEA are reinforced in the Learning Centres (LC). In LC, activities are planned and differentiated for the students. It is here that students have the opportunity to re-learn, revisit or extend their learning at their own pace and in differentiated ability groups.
  
- pic
+<img src="/images/eng4.png" 
+     style="width:75%">
  
  
  <center>STELLAR at Upper Primary</center>
- 
- pic
+<img src="/images/engstellar.jpeg" 
+     style="width:45%">
  
  ##### 2. School-Based Curriculum 
 The department has put together a series of programmes to complement STELLAR, so as to enhance the teaching and learning of the English language. 
@@ -79,7 +83,9 @@ The department has put together a series of programmes to complement STELLAR, so
   <tr>
     <td class="tg-qtsq"><span style="color:#222;background-color:transparent">2 .</span></td>
     <td class="tg-qtsq"><span style="color:#222;background-color:transparent">Learning Journeys</span></td>
-    <td class="tg-qtsq"><span style="color:#222;background-color:transparent">Primary 1 students heading to the Singapore Zoo to learn more about animals. This journey is in line with the mini-research they will be conducting on animals. </span><br>pic<br><br>pic</td>
+    <td class="tg-qtsq"><span style="color:#222;background-color:transparent">Primary 1 students heading to the Singapore Zoo to learn more about animals. This journey is in line with the mini-research they will be conducting on animals. </span><br><img src="/images/engt1.jpeg" 
+     style="width:45%"><br><img src="/images/engt2.jpg" 
+     style="width:35%"></td>
   </tr>
   <tr>
     <td class="tg-qtsq"><span style="color:#222;background-color:transparent">3 .</span></td>
