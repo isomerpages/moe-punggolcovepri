@@ -2,5 +2,6 @@ collections:
   2022-events:
     output: true
     order:
+      - National Education/Total Defence Day 2022.md
       - National Education/.keep
       - Subject–Based/.keep
