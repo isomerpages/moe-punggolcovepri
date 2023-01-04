@@ -2,6 +2,7 @@ collections:
   2019-events:
     output: true
     order:
+      - Festive Celebration/Chinese New Year Celebration 2019.md
       - Festive Celebration/Hari Raya Celebration 2019.md
       - Festive Celebration/Deepavali Celebration.md
       - Festive Celebration/.keep
