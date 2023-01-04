@@ -56,7 +56,7 @@ The school commemorated Racial Harmony Day on 17 July 2020. The theme for Racial
 Our students certainly enjoyed learning about people of different races and to be more tolerant towards one another!
 
 
-<center>Click <a href="https://photos.google.com/share/AF1QipNtoV8BC7DwVlbQXIWkQYKmCyHPUHXLLjUGOFZCgj-Efntc-JUgBEXBrUAZ4QVWvQ?key=WGJHRk44SjVQY0Jkelp0QmpiTkpULTk3RXNHNXp3">here</a> for more photos.</center>
+<center>Click <a href="https://photos.google.com/share/AF1QipNtoV8BC7DwVlbQXIWkQYKmCyHPUHXLLjUGOFZCgj-Efntc-JUgBEXBrUAZ4QVWvQ?key=WGJHRk44SjVQY0Jkelp0QmpiTkpULTk3RXNHNXp3">here</a> <b>(broken link)</b> for more photos.</center>
 
 
 <img src="/images/Img%204.jpeg" 
