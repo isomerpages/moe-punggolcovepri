@@ -123,4 +123,4 @@ The RRP provides support to our P3 and P4 students who continue facing difficult
 **Holistic English Literacy Programme (HELP)**   
 In a bid to encourage students to apply their learning to real world issues, the English department has curated the HELP programme which provides students with opportunities to put their acquired listening, reading and writing skills from the English language classroom to service learning activities and therefore endeavour to be of HELP to the school and community at large.   
   
-For more information about this programme, click this link: [https://punggolcovepri.moe.edu.sg/pcps-experience/programme/alp](https://punggolcovepri.moe.edu.sg/pcps-experience/programme/alp)
+For more information about this programme, click this link: [https://punggolcovepri.moe.edu.sg/pcps-experience/Programme/alp](/pcps-experience/Programme/alp/)
