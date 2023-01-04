@@ -15,9 +15,11 @@ third_nav_title: Departments and Committees
 
 Aligned to MOE’s direction, our science curriculum seeks to enable students to see science as meaningful and useful. Through the curriculum, the spirit of scientific inquiry will be inculcated. The conduct of inquiry-based lessons will be founded on three integral domains, which are: (a) Knowledge, Understanding and Application, (b) Skills and Processes and (c) Ethics and Attitudes, all of which are essential to the practice of science. Students will explore issues and questions that are related to the roles played by science in daily life, society and the environment.
 
-![](/images/SC%203.jpeg)
+<img src="/images/SC%201.jpeg" 
+     style="width:45%">
 
-pic
+<img src="/images/SC%202.jpeg" 
+     style="width:45%">
 
 #### PROGRAMMES
 
@@ -27,7 +29,8 @@ In Punggol Cove Primary School, we want every student to enjoy learning in a con
 
 Our school aims to provide students with learning experiences that are engaging to develop the process of scientific thinking, and help students relate the role of Science to their daily life and the environment. To enhance the students’ learning of Science concepts, a myriad of activities are planned for them.
 
-pic 
+<img src="/images/SC%203.jpeg" 
+     style="width:35%"> 
 
 By adopting a student – centric approach in our curriculum, instruction and assessment, we strive to develop in our students the 21st Century competencies. Problem-solving skills, inquiry-based learning and ICT tools have been infused into science lessons. 
 
@@ -35,10 +38,10 @@ By adopting a student – centric approach in our curriculum, instruction and as
 
 The Science department hopes to instill a sense of environmental awareness among students in Punggol Cove Primary School. To achieve this, several initiatives have been put in place. These include, setting up an Environmental Science Club, having an environmental awareness week and introducing a Clean Plate Project.
 
-pic
+<img src="/images/SC%204.jpeg" 
+     style="width:35%">
 
 The P4 Science@Play serves to bring Science to life, stretching students’ learning in Science and sparking their curiosity about the environment they live in. Through science demonstrations, and experiments, students get to apply Science concepts in a real life context. This includes applications of light energy, magnets as well as adaptations of animals.
 
-pic
-
-
+<img src="/images/SC%205.png" 
+     style="width:95%">
