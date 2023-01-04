@@ -65,8 +65,8 @@ Students were also given opportunities to tap into the competencies that they ha
 
 This multidisciplinary project has allowed for the creation of products **by students, for students.** It has allowed a truly meaningful and beneficial learning experience for the pupils across levels!
 
-<center>Click <a href="https://www.flickr.com/photos/142848383@N02/albums/72157713245743202">here</a> for more photos.</center>
+<center>Click <a href="https://www.flickr.com/photos/142848383@N02/albums/72157715536278457">here</a> for more photos.</center>
 
 
-<img src="/images/CNY%2008%20Umbrella%20Magic%20Performance.jpeg" 
+<img src="/images/P2ALP04.jpeg" 
      style="width:75%">
