@@ -2,6 +2,7 @@ collections:
   2022-events:
     output: true
     order:
+      - Festive Celebration/.keep
       - National Education/Chinese New Year Celebration 2022.md
       - National Education/National Day 2022.md
       - National Education/Racial Harmony Day 2022.md
