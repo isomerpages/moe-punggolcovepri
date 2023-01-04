@@ -54,8 +54,6 @@ This year, the pupils had the opportunity to immerse and find out more about the
 At the end of the activity, the students are aware of the importance of respecting and learning the different backgrounds and experiences of people from our friends in Asia.
 
 
-
-
 <center>Click <a href="https://www.flickr.com/photos/142848383@N02/albums/72157710432241862">here</a> for more photos.</center>
 
 
