@@ -93,3 +93,10 @@ The department has put together a series of programmes to complement STELLAR, so
   </tr>
 </tbody>
 </table>
+
+
+
+##### 3. English Fiesta 
+The annual English Fiesta is held with the aim of creating opportunities for our students to learn and celebrate the English language in various forms. 
+
+Students are immersed in an array of indoor as well as outdoor activities. Some of these activities include games carnival, authors’ display, poetry appreciation, oral comprehension task and literature appreciation. The carefully crafted activities create a meaningful context for language use while increasing learner motivation. 
