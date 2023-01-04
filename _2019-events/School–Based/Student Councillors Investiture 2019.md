@@ -48,5 +48,5 @@ On 1st April 2019, Punggol Cove Primary School held her second Student Council
 <center>Click <a href="https://www.flickr.com/photos/142848383@N02/albums/72157710431743256">here</a> for more photos.</center>
 
 
-<img src="![](/images/006.jpeg)" 
+<img src="/images/006.jpeg" 
      style="width:75%">
