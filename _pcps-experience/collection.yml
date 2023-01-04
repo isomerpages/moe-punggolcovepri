@@ -2,6 +2,7 @@ collections:
   pcps-experience:
     output: true
     order:
+      - Departments and Committees/Mathematics.md
       - Departments and Committees/Media Resource Library.md
       - Departments and Committees/Mother Tongue.md
       - Departments and Committees/Physical Education, Art and Music (PAM).md
