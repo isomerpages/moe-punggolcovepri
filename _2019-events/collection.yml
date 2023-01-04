@@ -2,6 +2,7 @@ collections:
   2019-events:
     output: true
     order:
+      - School–Based/Promotion Day 2019.md
       - School–Based/.keep
       - Festive Celebration/Chinese New Year Celebration 2019.md
       - Festive Celebration/Hari Raya Celebration 2019.md
