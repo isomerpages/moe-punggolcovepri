@@ -2,4 +2,5 @@ collections:
   2022-events:
     output: true
     order:
+      - National Education/.keep
       - Subject–Based/.keep
