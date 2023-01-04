@@ -173,7 +173,7 @@ Nurturing Competent and Happy Readers
      style="width:55%">
 		 
 <img src="/images/MEDIA%20RESOURCE%20LIBRARY%2002.jpeg" 
-     style="width:55%">
+     style="width:30%">
 		 
 <img src="/images/MEDIA%20RESOURCE%20LIBRARY%2003.jpeg" 
      style="width:55%">
@@ -186,5 +186,3 @@ Nurturing Competent and Happy Readers
 		 
 <img src="/images/MEDIA%20RESOURCE%20LIBRARY%2006.jpeg" 
      style="width:55%">
-		 
-
