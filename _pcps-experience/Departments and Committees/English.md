@@ -108,7 +108,8 @@ The annual English Fiesta is held with the aim of creating opportunities for our
 
 Students are immersed in an array of indoor as well as outdoor activities. Some of these activities include games carnival, authors’ display, poetry appreciation, oral comprehension task and literature appreciation. The carefully crafted activities create a meaningful context for language use while increasing learner motivation.
 
-pic
+<img src="/images/eng5.png" 
+     style="width:75%">
 
 ##### 4. Support Programmes
 
