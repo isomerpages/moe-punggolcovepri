@@ -1,4 +1,5 @@
 collections:
   2019-events:
     output: true
-    order: []
+    order:
+      - Learning Journeys/.keep
