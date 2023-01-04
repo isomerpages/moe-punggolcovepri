@@ -9,7 +9,8 @@ third_nav_title: Co Curricular Activities
     <input type="checkbox" id="accordion1">
     <label for="accordion1">CCA SCHEDULE FOR SEMESTER 2 (2022)</label>
     <div>
-      <p>This is a simple one line item</p>
+      <p><img src="/images/cca%20sem%202.png" 
+     style="width:100%"></p>
     </div>
 	</li>  
 	  <li>
