@@ -55,8 +55,9 @@ With the help of the teacher who transcribes the children's input, the pupils co
  <center>STELLAR at Upper Primary</center>
 <img src="/images/engstellar.jpeg" 
      style="width:45%">
- 
- ##### 2. School-Based Curriculum 
+
+##### 2. School-Based Curriculum 
+
 The department has put together a series of programmes to complement STELLAR, so as to enhance the teaching and learning of the English language. 
 
 <style type="text/css">
