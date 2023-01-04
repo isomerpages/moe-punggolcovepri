@@ -55,3 +55,9 @@ At the end of the activity, the students are aware of the importance of respecti
 
 
 
+
+<center>Click <a href="https://www.flickr.com/photos/142848383@N02/albums/72157710432241862">here</a> for more photos.</center>
+
+
+<img src="/images/CC1.jpeg" 
+     style="width:75%">
