@@ -122,3 +122,35 @@ third_nav_title: Co Curricular Activities
 
 
 ### UNIFORMED GROUPS
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-bn2v{background-color:#DDD;color:#666;font-size:16px;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-kdpx{background-color:#FFF;border-color:inherit;color:#222;font-size:16px;text-align:left;vertical-align:middle}
+.tg .tg-hsqg{background-color:#FFF;font-size:16px;text-align:left;vertical-align:middle}
+.tg .tg-59ma{background-color:#DDD;border-color:inherit;color:#666;font-size:16px;font-weight:bold;text-align:center;
+  vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 749px">
+<colgroup>
+<col style="width: 249px">
+<col style="width: 250px">
+<col style="width: 250px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-59ma">Teacher In-charge</td>
+    <td class="tg-59ma">Level</td>
+    <td class="tg-bn2v">CCA</td>
+  </tr>
+  <tr>
+    <td class="tg-kdpx">Mdm Fauziah<br>Ms Charmaine Lim<br><br>Mdm Pow Chen Yang (OIC)<br>Ms Ong Lay Ping<br><br>Ms Kasmini<br>Ms Nur Alisa bte Zanal<br><br>Mdm Muliyati (OIC)</td>
+    <td class="tg-kdpx">Primary 3<br><br><br>Primary 4<br><br><br>Primary 5<br><br><br>Primary 6 </td>
+    <td class="tg-hsqg">Scouts</td>
+  </tr>
+</tbody>
+</table>
