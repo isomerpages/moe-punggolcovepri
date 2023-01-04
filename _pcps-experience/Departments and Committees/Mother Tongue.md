@@ -55,3 +55,30 @@ MTL Fortnight provides platforms for pupils to actively learn MTL and the associ
   </tr>
 </tbody>
 </table>
+
+**Useful Websites for ML learning**
+
+**Useful Websites for TL learning**
+
+
+Pupils working together to prepare for a skit.
+
+
+Pupils applying newly acquired knowledge in an online quiz.
+
+
+Pupils engaging themselves in self-directed e-learning.
+
+
+Pupils learning sequencing through the making of dough for curry puff.
+
+
+Pupils role-playing characters based on Cekap 2A Big Book.
+
+
+
+Pupils creating handicrafts for Mother's Day.
+
+  
+
+Peer coaching during Tamil lesson.
