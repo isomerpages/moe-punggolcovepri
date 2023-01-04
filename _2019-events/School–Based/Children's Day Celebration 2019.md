@@ -43,7 +43,7 @@ third_nav_title: School–Based
 
 A series of fun and exciting activities was organised for our students as part of Children’s Day celebration on 3 October. The morning started with a walkathon at Punggol Waterway Park. This was followed by an Art and Craft class activity, games and class bonding activities. The P1 and P2 students also learnt CPR and the use of AED.
 
-<center>Click <a href="https://photos.app.goo.gl/LMVjif3RQ6rWc1DJA">here</a> for more photos.</center>
+<center>Click <a href="https://photos.app.goo.gl/LMVjif3RQ6rWc1DJA">here</a> <b>(broken link)</b> for more photos.</center>
 
 
 <img src="/images/Art%20Activity.jpeg" 
