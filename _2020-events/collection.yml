@@ -1,4 +1,5 @@
 collections:
   2020-events:
     output: true
-    order: []
+    order:
+      - Subject–Based/.keep
