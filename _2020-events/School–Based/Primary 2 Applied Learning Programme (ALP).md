@@ -45,6 +45,25 @@ third_nav_title: School–Based
 </tbody>
 </table>
 
+The Primary 2 Applied Learning Programme (ALP) makes use of Problem-Based Learning (PBL) as an approach to develop skills in idea generation and writing readiness.
+
+Through the context of helping their Primary 1 schoolmates transit smoothly into primary school life, the Primary 2 cohort reflected on their own experiences and conceptualised possible challenges that the Primary 1 students may face in their first year in school. They then researched on possible solutions to the problems and finally drafted advice for the Primary 1 cohort. The PBL booklet captured ideas generated in writing. It also guided the pupils through a step-by-step process in problem-solving and provided scaffolding for a reflective and objective thought process.
+
+As part of Values in Action (VIA), this project also instils in students the importance of being socially responsible citizens who contribute meaningfully to the community.
+
+Students were also given opportunities to tap into the competencies that they have acquired in New MICT lessons as they were given the option to create either digital or physical products for their juniors. To further enrich learning, a series of activities were conducted.
+
+* Digital products such as slides and video were displayed on interactive boards.
+
+* Physical posters were displayed in the Cove on the ALP board.
+
+* The learning products of ALP were used as materials for a quiz which was facilitated by the cohort during the Primary 1 recess.
+
+* Bookmarks that were created from the programme were given as gifts to the Primary 1 pupils as tokens for participation.
+
+* A selected group of students were also given the opportunity to present their advice in Primary 1 classrooms.
+
+This multidisciplinary project has allowed for the creation of products **by students, for students.** It has allowed a truly meaningful and beneficial learning experience for the pupils across levels!
 
 <center>Click <a href="https://www.flickr.com/photos/142848383@N02/albums/72157713245743202">here</a> for more photos.</center>
 
