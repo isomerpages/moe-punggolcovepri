@@ -99,4 +99,28 @@ The department has put together a series of programmes to complement STELLAR, so
 ##### 3. English Fiesta 
 The annual English Fiesta is held with the aim of creating opportunities for our students to learn and celebrate the English language in various forms. 
 
-Students are immersed in an array of indoor as well as outdoor activities. Some of these activities include games carnival, authors’ display, poetry appreciation, oral comprehension task and literature appreciation. The carefully crafted activities create a meaningful context for language use while increasing learner motivation. 
+Students are immersed in an array of indoor as well as outdoor activities. Some of these activities include games carnival, authors’ display, poetry appreciation, oral comprehension task and literature appreciation. The carefully crafted activities create a meaningful context for language use while increasing learner motivation.
+
+pic
+
+##### 4. Support Programmes
+
+* **Learning Support Programme (LSP)**
+
+LSP is a literacy support programme initiated by MOE that caters to the needs of our struggling readers. Students in this programme are given additional support in reading to keep up with the standard EL curriculum. The lessons are conducted by a trained Learning Support Coordinator (LSC).  
+  
+
+*   **School Based Dyslexic Remediation (SDR)**
+
+SDR is a two-year intervention programme for Primary 3 and 4 students. Students enrolled in this programme are identified for support through a systematic screening process for dyslexia conducted at the end of Primary 2. The programme is conducted in small groups by trained school personnel using a remediation curriculum designed by MOE Reading Specialists.   
+
+*   **Reading Remediation Programme (RRP)**
+
+The RRP provides support to our P3 and P4 students who continue facing difficulties in reading the English language. The programme exposes students to a range of coping strategies for reading comprehension which enable them to better manage their learning in the regular classroom. 
+
+##### 5. Applied Learning Programme (ALP) – English language  
+
+**Holistic English Literacy Programme (HELP)**   
+In a bid to encourage students to apply their learning to real world issues, the English department has curated the HELP programme which provides students with opportunities to put their acquired listening, reading and writing skills from the English language classroom to service learning activities and therefore endeavour to be of HELP to the school and community at large.   
+  
+For more information about this programme, click this link: [https://punggolcovepri.moe.edu.sg/pcps-experience/programme/alp](https://punggolcovepri.moe.edu.sg/pcps-experience/programme/alp)
