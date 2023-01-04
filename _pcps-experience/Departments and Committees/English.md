@@ -44,3 +44,52 @@ With the help of the teacher who transcribes the children's input, the pupils co
   
 <u>Learning Centres (LC)</u>    
  The language skills learnt in both SBA and MLEA are reinforced in the Learning Centres (LC). In LC, activities are planned and differentiated for the students. It is here that students have the opportunity to re-learn, revisit or extend their learning at their own pace and in differentiated ability groups.
+ 
+ pic
+ 
+ 
+ <center>STELLAR at Upper Primary</center>
+ 
+ pic
+ 
+ ##### 2. School-Based Curriculum 
+The department has put together a series of programmes to complement STELLAR, so as to enhance the teaching and learning of the English language. 
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-qtsq{background-color:#FFF;color:#222;font-size:16px;text-align:left;vertical-align:middle}
+.tg .tg-o5ha{background-color:#ffffff;font-size:16px;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 718px">
+<colgroup>
+<col style="width: 47px">
+<col style="width: 218px">
+<col style="width: 453px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-qtsq"><span style="color:#222;background-color:transparent">1 .</span></td>
+    <td class="tg-qtsq"><span style="color:#222;background-color:transparent">Literature-Based Instruction</span></td>
+    <td class="tg-qtsq"><span style="color:#222;background-color:transparent">Literature-based instruction is the type of instruction in which authors' original narrative and expository works are used as the core for experiences to support children in developing literacy.</span><br><br><span style="color:#222;background-color:transparent">In addition to STELLAR lessons students are exposed to authentic and rich models of language through the incorporation of mentor texts in teaching reading, writing, listening and speaking. The texts also serve to inculcate creative and critical thinking in our students.</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-qtsq"><span style="color:#222;background-color:transparent">2 .</span></td>
+    <td class="tg-qtsq"><span style="color:#222;background-color:transparent">Learning Journeys</span></td>
+    <td class="tg-qtsq"><span style="color:#222;background-color:transparent">Primary 1 students heading to the Singapore Zoo to learn more about animals. This journey is in line with the mini-research they will be conducting on animals. </span><br>pic<br><br>pic</td>
+  </tr>
+  <tr>
+    <td class="tg-qtsq"><span style="color:#222;background-color:transparent">3 .</span></td>
+    <td class="tg-qtsq"><span style="color:#222;background-color:transparent">Choral Reading</span><br><span style="color:#222;background-color:transparent">Show &amp;Tell/Poetry Recitation</span><br></td>
+    <td class="tg-qtsq"><span style="color:#222;background-color:transparent">In our constant strive to improve the spoken ability of our students, children are exposed to a series of speaking activities.</span></td>
+  </tr>
+  <tr>
+    <td class="tg-qtsq"><span style="color:#222;background-color:transparent">4. </span></td>
+    <td class="tg-qtsq"><span style="color:#222;background-color:transparent">Newspaper-based EL lessons (P5) </span></td>
+    <td class="tg-o5ha">pic</td>
+  </tr>
+</tbody>
+</table>
