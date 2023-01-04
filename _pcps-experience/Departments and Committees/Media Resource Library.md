@@ -74,8 +74,8 @@ Nurturing Competent and Happy Readers
 </style>
 <table class="tg" style="undefined;table-layout: fixed; width: 800px">
 <colgroup>
-<col style="width: 100px">
-<col style="width: 300px">
+<col style="width: 150px">
+<col style="width: 250px">
 <col style="width: 400px">
 </colgroup>
 <tbody>
