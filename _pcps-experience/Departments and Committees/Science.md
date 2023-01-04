@@ -44,4 +44,4 @@ The Science department hopes to instill a sense of environmental awareness among
 The P4 Science@Play serves to bring Science to life, stretching students’ learning in Science and sparking their curiosity about the environment they live in. Through science demonstrations, and experiments, students get to apply Science concepts in a real life context. This includes applications of light energy, magnets as well as adaptations of animals.
 
 <img src="/images/SC%205.png" 
-     style="width:95%">
+     style="width:65%">
