@@ -61,3 +61,73 @@ To enable all pupils to:
   </tr>
 </tbody>
 </table>
+
+
+<u>Useful links for Mathematics Learning:</u>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-1zrx{background-color:#FFF;color:#222;font-size:16px;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-qtsq{background-color:#FFF;color:#222;font-size:16px;text-align:left;vertical-align:middle}
+.tg .tg-zurh{background-color:#FFF;color:#4067AE;font-size:16px;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 667px">
+<colgroup>
+<col style="width: 232px">
+<col style="width: 435px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-1zrx"><span style="color:#222;background-color:transparent">Description</span></td>
+    <td class="tg-1zrx"><span style="color:#222;background-color:transparent">Links</span></td>
+  </tr>
+  <tr>
+    <td class="tg-qtsq"><span style="color:#222;background-color:transparent">Mathematics Syllabus (Primary 1 to 5)2013</span><br></td>
+    <td class="tg-zurh"><a href="https://www.moe.gov.sg/docs/default-source/document/education/syllabuses/sciences/files/primary_mathematics_syllabus_pri1_to_pri5.pdf"><span style="text-decoration:none;color:#4067AE">https://www.moe.gov.sg/docs/default-source/document/education/syllabuses/sciences/files/</span></a><br><a href="https://www.moe.gov.sg/docs/default-source/document/education/syllabuses/sciences/files/primary_mathematics_syllabus_pri1_to_pri5.pdf"><span style="text-decoration:none;color:#4067AE">primary_mathematics_syllabus_pri1_to_pri5.pdf</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-qtsq"><span style="color:#222;background-color:transparent">Maths Portal with many math videos, songs, poems and stories for young children. </span></td>
+    <td class="tg-zurh"><a href="http://mathstory.com/"><span style="text-decoration:none;color:#4067AE">http://mathstory.com/</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-qtsq"><span style="color:#222;background-color:transparent">Educational website with interactive games and puzzles </span></td>
+    <td class="tg-zurh"><a href="http://www.learningplanet.com/"><span style="text-decoration:none;color:#4067AE">http://www.learningplanet.com</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-qtsq"><span style="color:#222;background-color:transparent">Portal with interactive Maths Skill Builders </span></td>
+    <td class="tg-zurh"><a href="http://www.internet4classrooms.com/"><span style="text-decoration:none;color:#4067AE">http://www.internet4classrooms.com</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-qtsq"><span style="color:#222;background-color:transparent">Game Room with maths related games</span><br></td>
+    <td class="tg-zurh"><a href="http://www.aplusmath.com/"><span style="text-decoration:none;color:#4067AE">http://www.aplusMath.com/</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-qtsq"><span style="color:#222;background-color:transparent">Site with tutorials, practices and exciting activities </span></td>
+    <td class="tg-zurh"><a href="http://www.coolmath.com/"><span style="text-decoration:none;color:#4067AE">http://www.coolMath.com/</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-qtsq"><span style="color:#222;background-color:transparent">Site with a library of interactive activities for children to experiment with various mathematical concepts </span></td>
+    <td class="tg-zurh"><a href="http://webmath.com/"><span style="text-decoration:none;color:#4067AE">http://webMath.com  </span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-qtsq"><span style="color:#222;background-color:transparent">Site on wonders of Maths </span></td>
+    <td class="tg-zurh"><a href="http://enlvm.usu.edu/ma/nav/bb_dlib.jsp"><span style="text-decoration:none;color:#4067AE">http://enlvm.usu.edu/ma/nav/bb_dlib.jsp</span></a><a href="http://enlvm.usu.edu/ma/nav/bb_dlib.jsp"> </a><span style="color:#222;background-color:transparent"> </span></td>
+  </tr>
+  <tr>
+    <td class="tg-qtsq"><span style="color:#222;background-color:transparent">Site with Math games and brainteasers </span></td>
+    <td class="tg-zurh"><a href="http://www.curiousmath.com/"><span style="text-decoration:none;color:#4067AE">http://www.curiousmath.com/</span></a><a href="http://www.curiousmath.com/"> </a><span style="color:#222;background-color:transparent"> </span></td>
+  </tr>
+  <tr>
+    <td class="tg-qtsq"><span style="color:#222;background-color:transparent">Maths Interactive Game site </span></td>
+    <td class="tg-zurh"><a href="http://www.eduplace.com/kids/mw/"><span style="text-decoration:none;color:#4067AE">http://www.eduplace.com/kids/mw/</span></a><a href="http://www.eduplace.com/kids/mw/"> </a><span style="color:#222;background-color:transparent"> </span></td>
+  </tr>
+  <tr>
+    <td class="tg-qtsq"><span style="color:#222;background-color:transparent">Interactive game on Money Management </span></td>
+    <td class="tg-zurh"><a href="http://www.umsl.edu/~wpockets/index.html"><span style="text-decoration:none;color:#4067AE">http://www.umsl.edu/~wpockets/index.html</span></a><a href="http://www.umsl.edu/~wpockets/index.html"> </a><span style="color:#222;background-color:transparent"> </span></td>
+  </tr>
+</tbody>
+</table>
