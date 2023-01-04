@@ -42,9 +42,16 @@ third_nav_title: Learning Journeys
 </table>
 
 
+Our P4 students went on a learning journey to Chinatown to learn about how Chinatown transformed from its humble beginnings to become the rich heritage area that we know today.
 
-<center>Click <a href="https://www.flickr.com/photos/142848383@N02/albums/72157693503006301">here</a> for more photos.</center>
+It was an enriching experience for the students as they re-lived history on site. Our students learnt about the rich heritage behind buildings and places, the immigrants and life in the past and the trades in Chinatown in the past and the present.
+
+The students went down memory lane observing the shophouses, traditional Chinese medical halls and the Thian Hock Keng Temple along the streets of Chinatown, which retained its historical and cultural significance. Our students enjoyed themselves and certainly will have much to share about their experiences with their families and friends!
 
 
-<img src="/images/2018%20CNY%2002.jpeg" 
+
+<center>Click <a href="https://www.flickr.com/photos/142848383@N02/albums/72157711842019151">here</a> for more photos.</center>
+
+
+<img src="/images/CT5.jpeg" 
      style="width:75%">
