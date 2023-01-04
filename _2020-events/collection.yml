@@ -2,6 +2,7 @@ collections:
   2020-events:
     output: true
     order:
+      - National Education/Total Defence Day 2020.md
       - National Education/Racial Harmony Day 2020.md
       - National Education/National Day Celebration 2020.md
       - National Education/.keep
