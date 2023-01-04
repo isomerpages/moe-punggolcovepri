@@ -85,7 +85,7 @@ The department has put together a series of programmes to complement STELLAR, so
     <td class="tg-qtsq"><span style="color:#222;background-color:transparent">Learning Journeys</span></td>
     <td class="tg-qtsq"><span style="color:#222;background-color:transparent">Primary 1 students heading to the Singapore Zoo to learn more about animals. This journey is in line with the mini-research they will be conducting on animals. </span><br><img src="/images/engt1.jpeg" 
      style="width:45%"><br><img src="/images/engt2.jpg" 
-     style="width:35%"></td>
+     style="width:30%"></td>
   </tr>
   <tr>
     <td class="tg-qtsq"><span style="color:#222;background-color:transparent">3 .</span></td>
@@ -95,7 +95,8 @@ The department has put together a series of programmes to complement STELLAR, so
   <tr>
     <td class="tg-qtsq"><span style="color:#222;background-color:transparent">4. </span></td>
     <td class="tg-qtsq"><span style="color:#222;background-color:transparent">Newspaper-based EL lessons (P5) </span></td>
-    <td class="tg-o5ha">pic</td>
+    <td class="tg-o5ha"><img src="/images/engt3.jpeg" 
+     style="width:15%"></td>
   </tr>
 </tbody>
 </table>
