@@ -2,6 +2,7 @@ collections:
   2020-events:
     output: true
     order:
+      - School–Based/Primary 2 Applied Learning Programme (ALP).md
       - School–Based/.keep
       - Festive Celebration/Chinese New Year Celebration 2020.md
       - Festive Celebration/.keep
