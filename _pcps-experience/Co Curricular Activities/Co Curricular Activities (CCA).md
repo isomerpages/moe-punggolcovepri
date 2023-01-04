@@ -33,23 +33,9 @@ CCA IN PCPS
 > >   
 
 *   CCAs are conducted once a week, every Tuesday or Thursday, 2pm to 4pm. 
-
-*   Home-going arrangement after CCA need to be made by parents, respectively.  
-      
-    
-
+*   Home-going arrangement after CCA need to be made by parents, respectively. 
 *   For Modular CCA (Sports), students will experience 4 different sports in a rotational manner: Badminton, Basketball, Floorball and Football.  
-      
-    
-
-*   In Primary 4, students who took Modular CCA in Primary 3 will be given a choice to select one of the 4 sports as their main CCA.  
-      
-    
-
+*   In <u>Primary 4</u>, students who took Modular CCA in Primary 3 will be given a choice to select one of the 4 sports as their main CCA.  
 *   In the event of Blended Learning, CCA sessions can be conducted in 2 ways: Face-to-face or eCCA.  
-      
-    
-
-*   Face-to-face means students will attend the 2-hour sessions in person.
-
-*   eCCA is a 1-hour online session done via SLS or Zoom.
+*   Face-to-face means students will attend the 2-hour sessions <u>in person</u>.
+*   eCCA is a 1-hour <u>online</u> session done via SLS or Zoom.
