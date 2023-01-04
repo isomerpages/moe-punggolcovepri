@@ -2,6 +2,7 @@ collections:
   2019-events:
     output: true
     order:
+      - National Education/National Day Celebration 2019.md
       - National Education/.keep
       - Learning Journeys/P4 NE Learning Journey To Chinatown.md
       - Learning Journeys/.keep
