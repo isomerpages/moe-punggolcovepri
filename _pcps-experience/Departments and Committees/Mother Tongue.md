@@ -121,35 +121,36 @@ MTL Fortnight provides platforms for pupils to actively learn MTL and the associ
 </table>
 
 
+Pupils working together to prepare for a skit.
 <img src="/images/mt1.jpeg" 
      style="width:65%">
-Pupils working together to prepare for a skit.
 
+
+Pupils applying newly acquired knowledge in an online quiz.
 <img src="/images/mt2.jpeg" 
      style="width:65%">
-Pupils applying newly acquired knowledge in an online quiz.
 
+
+Pupils engaging themselves in self-directed e-learning.
 <img src="/images/mt3.jpeg" 
      style="width:65%">
-Pupils engaging themselves in self-directed e-learning.
-
+		 
+Pupils learning sequencing through the making of dough for curry puff.
 <img src="/images/mt4.jpeg" 
      style="width:65%">
-Pupils learning sequencing through the making of dough for curry puff.
 
+Pupils role-playing characters based on Cekap 2A Big Book.
 <img src="/images/mt5.jpeg" 
      style="width:65%">
-Pupils role-playing characters based on Cekap 2A Big Book.
 
-
+Pupils creating handicrafts for Mother's Day.
 <img src="/images/mt6.jpeg" 
      style="width:65%">
-Pupils creating handicrafts for Mother's Day.
 
-  
+
+Peer coaching during Tamil lesson.
 <img src="/images/mt7.jpeg" 
      style="width:65%">
-Peer coaching during Tamil lesson.
 
 
 #### Mother Tongue Support Programme
