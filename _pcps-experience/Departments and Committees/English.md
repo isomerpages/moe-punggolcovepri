@@ -54,7 +54,7 @@ With the help of the teacher who transcribes the children's input, the pupils co
  
  <center>STELLAR at Upper Primary</center>
 <img src="/images/engstellar.jpeg" 
-     style="width:45%">
+     style="width:75%">
 
 ##### 2. School-Based Curriculum 
 
