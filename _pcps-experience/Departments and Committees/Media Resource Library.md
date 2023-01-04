@@ -13,7 +13,7 @@ Nurturing Competent and Happy Readers
 
 #### KEY PROGRAMMES
 
-**Library Lessons**
+**<u>Library Lessons</u>**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
@@ -56,3 +56,7 @@ Nurturing Competent and Happy Readers
   </tr>
 </tbody>
 </table>
+
+
+**<u>Recess and After-school Activities</u>**
+
