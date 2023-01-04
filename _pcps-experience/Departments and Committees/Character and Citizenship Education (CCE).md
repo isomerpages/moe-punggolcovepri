@@ -108,7 +108,9 @@ To nurture every child with strong moral character and equip them to be worthy c
 
 _Learn through Play_ provides a platform for pupils to learn and practise values and social skills which are essential for them in life. Albert Bandura (1977) said in his social learning theory that behavior is learned from the environment through the process of observational learning. Therefore, we believe the importance of role modelling and hence, our teachers use teachable moments during recess time to instill the right values and social skills in our pupils. In addition, restorative approach is used to help pupils to reflect and adopt a more desirable actions to solve the problems they face. Through these approaches, pupils develop competencies like self-awareness, social awareness, self-management and relationship management skills.  Observation made during recess play will also be reinforced during Assembly and Form Teacher Guidance Period (FTGP). At the end of the day, we want to build a culture of care in Punggol Cove Primary School.
 
-pic
+<img src="/images/cce1.png" 
+     style="width:65%">
+
 
 
 **Values in Action Objectives**   
@@ -164,15 +166,21 @@ We believe that Values in Action (VIA) programmes are good learning platform th
 
 Education Minister Ng Chee Meng reiterated the importance of children participating in cleaning activities in school and home as they are good avenues for children to develop their social responsibility.  He mentioned: “Over some period of time, I’m sure our kids will learn to take care of themselves, learn self-reliance and be able to not just do these good things in school, but be able to go out in society (and show) some graciousness.” Indeed, this is what we desire to achieve in our Cleanliness Programmes as well.  Cleanliness @ PCPS is one of the Values in Action programmes introduced in Punggol Cove Primary School. Pupils were taught the reasons why keeping their environment clean is important. In addition, they were given the opportunities to carry out the hand-on activity in the classroom. Many were elated to see themselves accomplished the tasks and was looking forward to doing it again in the near future.
 
-pic
+<img src="/images/cce2.png" 
+     style="width:65%">
+
 
 To encourage the pupils to continue with these good habits they have learnt from the school, Cleanliness @ Home project was introduced to inculcate in our pupils the value of responsibility to self and family. In this project, pupils are given a task booklet with the list of chores to do. As Psychologist Albert Bandura mentioned in his self-efficacy theory that when one developed the belief that they have the ability to accomplish certain tasks they will in turn feel more confident about themselves. Hence, by helping out at home, they will become more independent and responsible as a result.
 
-pic
+<img src="/images/cce3.png" 
+     style="width:65%">
+
 
 **Kindness Week** Plato once said: “Kindness is more than deeds. It is an attitude, an expression, a look, a touch. It is anything that lifts another person.” Indeed, it is important to teach our pupils the importance and the value of kindness from young. Punggol Cove Primary School believes every pupils can and will be able to demonstrate kindness, care, empathy and mindfulness towards their friends and love ones. Our school has also partner with the Singapore Kindness Movement (SKM) and South East Community Development Council to encourage our pupils to express their kindness to the community through a walk for rice charitable event. Our school managed to walk a total mileage of 235.2 km and raised a total of 1,176 bowls of white rice and 1,176 bowls of brown rice, estimated to benefit around 38 needy families in South East District. This is our way to teach our pupils that even as young as they are, they are capable to make a significant difference in the lives of others. In recognizing the pupils’ effort towards building the culture of care and kindness, we were awarded as the Friend of Singa in 2016.
 
-pic
+<img src="/images/cce4.png" 
+     style="width:65%">
+
 
 **NE Commemorative Days** 
 
@@ -222,5 +230,5 @@ Punggol Cove Primary School commemorates four core NE days which have been ident
 </tbody>
 </table>
 
-pic
-
+<img src="/images/cce5.png" 
+     style="width:65%">
