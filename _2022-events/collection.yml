@@ -2,6 +2,7 @@ collections:
   2022-events:
     output: true
     order:
+      - National Education/Racial Harmony Day 2022.md
       - National Education/International Friendship Day 2022.md
       - National Education/Total Defence Day 2022.md
       - National Education/.keep
