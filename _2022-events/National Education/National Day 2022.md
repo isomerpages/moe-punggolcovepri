@@ -52,8 +52,7 @@ In the classrooms, all students wrote down their wishes for Singapore’s 57th 
 Stronger Together, Majulah! Happy 57th birthday, Singapore!
 
 
-<center>Click <a href="https://www.flickr.com/photos/195284094@N06/albums/72177720301528026">here</a> for more photos.</center>
-
-
 <img src="/images/ND2022_1.png" 
      style="width:75%">
+
+<center>Click <a href="https://www.flickr.com/photos/195284094@N06/albums/72177720301474931">here</a> for more photos.</center>
