@@ -150,7 +150,7 @@ third_nav_title: Co Curricular Activities
   <tr>
     <td class="tg-kdpx">Mdm Fauziah<br>Ms Charmaine Lim<br><br>Mdm Pow Chen Yang (OIC)<br>Ms Ong Lay Ping<br><br>Ms Kasmini<br>Ms Nur Alisa bte Zanal<br><br>Mdm Muliyati (OIC)</td>
     <td class="tg-kdpx">Primary 3<br><br><br>Primary 4<br><br><br>Primary 5<br><br><br>Primary 6 </td>
-    <td class="tg-hsqg">Scouts</td>
+    <td class="tg-kdpx">Scouts</td>
   </tr>
 </tbody>
 </table>
