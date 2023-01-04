@@ -2,6 +2,7 @@ collections:
   2020-events:
     output: true
     order:
+      - Festive Celebration/Chinese New Year Celebration 2020.md
       - Festive Celebration/.keep
       - National Education/Total Defence Day 2020.md
       - National Education/Racial Harmony Day 2020.md
