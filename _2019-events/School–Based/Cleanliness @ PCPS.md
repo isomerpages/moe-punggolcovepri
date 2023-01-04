@@ -41,9 +41,17 @@ third_nav_title: School–Based
 </tbody>
 </table>
 
+P1 to P4 students learnt about the importance of keeping our school environment clean. Over the first two terms, our students worked on observing the cleanliness of the classrooms, canteen, library and the eco-garden.
 
-<center>Click <a href="https://photos.app.goo.gl/LMVjif3RQ6rWc1DJA">here</a> for more photos.</center>
+On the last day of school in Term 2, the students put their learning and the values of mindfulness and care into action, by cleaning their classroom. Through this activity, they learnt that each of them plays a role in ensuring a clean learning environment. The Primary 1 students also received a Cleanliness @ PCPS ambassador certificate.
+
+After the hands-on activity, students reflected on how they had put values into action by maintaining cleanliness in the classroom and canteen.
+
+Students are encouraged to apply what they have learnt in school at home, by helping to keep their homes clean. Parents can also encourage our students by acknowledging their efforts to keep their homes clean, through activities in the Cleanliness @ PCPS booklets. Together, we can help our students understand the roles they can play to ensure a clean environment both in school and at home!
 
 
-<img src="/images/Art%20Activity.jpeg" 
+<center>Click <a href="https://www.flickr.com/photos/142848383@N02/albums/72157710431921341">here</a> for more photos.</center>
+
+
+<img src="/images/cleanliness5.jpeg" 
      style="width:75%">
