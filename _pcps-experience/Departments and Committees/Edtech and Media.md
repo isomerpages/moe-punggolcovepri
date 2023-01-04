@@ -39,7 +39,56 @@ pic
 
 ##### Purposeful Inculcation Of New Media and ICT Skills
 
-table
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-1rmv{background-color:#DEEAF6;text-align:left;vertical-align:top}
+.tg .tg-qjfd{background-color:#C5E0B3;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-a52s{background-color:#9CC2E5;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-hx81{background-color:#FF0;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-hw7o{background-color:#FF0;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 601px">
+<colgroup>
+<col style="width: 300px">
+<col style="width: 301px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-qjfd" colspan="2">New MICT Curriculum</td>
+  </tr>
+  <tr>
+    <td class="tg-a52s">Primary 1</td>
+    <td class="tg-a52s">Primary 2</td>
+  </tr>
+  <tr>
+    <td class="tg-1rmv">Functional digital literacy</td>
+    <td class="tg-1rmv">Touch Typing</td>
+  </tr>
+  <tr>
+    <td class="tg-1rmv">Touch Typing</td>
+    <td class="tg-1rmv">MS Word (About me)</td>
+  </tr>
+  <tr>
+    <td class="tg-1rmv">MS PowerPoint<br>(P1 ALP – Endangered Animal)</td>
+    <td class="tg-1rmv">Stop-Motion Animation</td>
+  </tr>
+  <tr>
+    <td class="tg-1rmv">MS PowerPoint<br>(Guided Writing Module)</td>
+    <td class="tg-1rmv">Coding</td>
+  </tr>
+  <tr>
+    <td class="tg-hx81" colspan="2">Cyber Wellness (via SLS)</td>
+  </tr>
+  <tr>
+    <td class="tg-hw7o">Netiquette</td>
+    <td class="tg-hw7o">Cyber Addiction</td>
+  </tr>
+</tbody>
+</table>
 
 For 2 periods a week, New Media and ICT competencies are taught explicitly to the Primary 1 and Primary 2 students during New MICT lessons. These competencies are purposefully introduced and students are given opportunities to apply their learning, and to have choices about what and how to create.
 
@@ -54,7 +103,53 @@ With the basic New Media and ICT knowledge and skills that students have acquire
 Other New Media and ICT skills are meaningfully integrated into the various level ALP and Cyber Wellness programmes, and taught by the teachers as follows:
 
 
-table
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-5ljz{background-color:#FFD966;font-size:16px;text-align:center;vertical-align:top}
+.tg .tg-q36m{background-color:#FFD966;font-size:16px;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-gwkp{background-color:#C5E0B3;font-size:16px;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-efgq{background-color:#FFF2CC;font-size:16px;text-align:left;vertical-align:top}
+.tg .tg-3na0{background-color:#FFF2CC;font-size:16px;text-align:center;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 787px">
+<colgroup>
+<col style="width: 179px">
+<col style="width: 152px">
+<col style="width: 152px">
+<col style="width: 152px">
+<col style="width: 152px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-gwkp"></td>
+    <td class="tg-gwkp">Primary 3</td>
+    <td class="tg-gwkp">Primary 4</td>
+    <td class="tg-gwkp">Primary 5</td>
+    <td class="tg-gwkp">Primary 6</td>
+  </tr>
+  <tr>
+    <td class="tg-q36m" rowspan="2">New Media and ICT Tools/Platforms</td>
+    <td class="tg-5ljz">Videography and Editing</td>
+    <td class="tg-5ljz">Digital Animation</td>
+    <td class="tg-5ljz">MS Publisher</td>
+    <td class="tg-5ljz">Chrome Music Lab</td>
+  </tr>
+  <tr>
+    <td class="tg-5ljz" colspan="4">SLS/Google tools</td>
+  </tr>
+  <tr>
+    <td class="tg-efgq"><span style="font-weight:bold">Cyber Wellness</span><br>(via SLS)</td>
+    <td class="tg-3na0">Cyber Bullying</td>
+    <td class="tg-3na0">About the Cyber World</td>
+    <td class="tg-3na0">Copyright</td>
+    <td class="tg-3na0">Handling online content and behaviour</td>
+  </tr>
+</tbody>
+</table>
 
 
 ##### Regular Reviews for Purpose and Effectiveness
