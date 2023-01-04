@@ -39,5 +39,5 @@ The school’s inaugural Student Councillors Investiture was held on 26 March 20
 
 <center>Click <a href="https://www.flickr.com/photos/142848383@N02/albums/72157694547322944">here</a> for more photos.</center>
 
-<img src="/images/_2018%20Student%20Councillors%20Investiture%20(4).jpeg" 
+<img src="/images/2018%20Student%20Councillors%20Investiture4.jpeg" 
      style="width:65%">
