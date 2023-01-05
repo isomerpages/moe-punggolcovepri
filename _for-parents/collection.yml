@@ -2,12 +2,12 @@ collections:
   for-parents:
     output: true
     order:
+      - Home Based Learning/.keep
+      - Home Based Learning/Home–Based Learning.md
       - Home Based Learning/Primary 1.md
       - Home Based Learning/Primary 2.md
       - Home Based Learning/Primary 3.md
       - Home Based Learning/Primary 4.md
       - Home Based Learning/Primary 5.md
-      - Home Based Learning/Home–Based Learning.md
-      - Home Based Learning/.keep
       - School Booklist.md
       - 2022 P1 Registration Exercise & PCPS Virtual Tour.md
