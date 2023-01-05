@@ -25,7 +25,7 @@ Select your child’s level
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-1wis{background-color:#FFF;color:#4067AE;font-size:16px;font-weight:bold;text-align:center;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 749px">
+<table class="tg" style="undefined;table-layout: fixed; width: 750px">
 <colgroup>
 <col style="width: 150px">
 <col style="width: 150px">
