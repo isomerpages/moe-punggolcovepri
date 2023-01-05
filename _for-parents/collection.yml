@@ -2,4 +2,5 @@ collections:
   for-parents:
     output: true
     order:
+      - School Booklist.md
       - 2022 P1 Registration Exercise & PCPS Virtual Tour.md
