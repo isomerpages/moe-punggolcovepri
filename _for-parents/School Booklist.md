@@ -22,7 +22,7 @@ description: ""
     <input type="checkbox" id="accordion3">
     <label for="accordion3">P3 (Y2022) BOOKLIST</label>
     <div>
-      <p>Please click <a href="here" target="_blank" rel="noopener">here</a> for  P3 Higher MT (Y2022) Booklist<br><br>Please click <a href="/files/2022%20PCPS%20P3.pdf" target="_blank" rel="noopener">here</a> for P3(Y2022) Booklist</p>
+      <p>Please click <a href="/files/2022%20PCPS%20P3%20HMT.pdf" target="_blank" rel="noopener">here</a> for  P3 Higher MT (Y2022) Booklist<br><br>Please click <a href="/files/2022%20PCPS%20P3.pdf" target="_blank" rel="noopener">here</a> for P3(Y2022) Booklist</p>
     </div>
 	</li>  
 	  <li>
@@ -43,7 +43,7 @@ description: ""
     <input type="checkbox" id="accordion6">
     <label for="accordion6">P6 (Y2022) BOOKLIST</label>
     <div>
-      <p>Please click <a href="here" target="_blank" rel="noopener">here</a> for P6 Foundation (Y2022) Booklist<br><br>Please click <a href="here" target="_blank" rel="noopener">here</a> for P6 Higher MT (Y2022) Booklist<br><br>Please click <a href="here" target="_blank" rel="noopener">here</a> for P6 Standard MT (Y2022) Booklist</p>
+      <p>Please click <a href="/files/2022%20PCPS%20P6%20FDN.pdf" target="_blank" rel="noopener">here</a> for P6 Foundation (Y2022) Booklist<br><br>Please click <a href="/files/2022%20PCPS%20P6%20HMT.pdf" target="_blank" rel="noopener">here</a> for P6 Higher MT (Y2022) Booklist<br><br>Please click <a href="/files/2022%20PCPS%20P6%20STD%20MT.pdf" target="_blank" rel="noopener">here</a> for P6 Standard MT (Y2022) Booklist</p>
     </div>
 	</li>
 </ul>
