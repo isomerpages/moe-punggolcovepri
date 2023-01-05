@@ -234,3 +234,35 @@ Punggol Cove Primary School commemorates four core NE days which have been ident
      style="width:65%">
 
 ### SEXUALITY EDUCATION
+
+<ul class="jekyllcodex_accordion">
+  <li>
+    <input type="checkbox" id="accordion1">
+    <label for="accordion1">Moe Sexuality Education in Schools</label>
+    <div>
+      <p></p>
+    </div>
+	</li>  
+	  <li>
+    <input type="checkbox" id="accordion2">
+    <label for="accordion2">Overview Of Punggol Cove Primary School's Sexuality Education Programme For 2022</label>
+    <div>
+      <p></p>
+    </div>
+	</li>  
+	  <li>
+    <input type="checkbox" id="accordion3">
+    <label for="accordion3">At Punggol Cove Primary School, the following Sexuality Education lessons will be taught in 2022</label>
+    <div>
+      <p><img src="/images/2022-ecca.png" 
+     style="width:100%"></p>
+    </div>
+	</li>  
+	  <li>
+    <input type="checkbox" id="accordion4">
+    <label for="accordion4">Information for Parents</label>
+    <div>
+      <p></p>
+    </div>
+	</li>  
+</ul>
