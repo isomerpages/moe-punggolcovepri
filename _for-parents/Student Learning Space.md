@@ -61,11 +61,11 @@ description: ""
 </table></p>
     </div>
 	</li>
-	  <li>
-    <input type="checkbox" id="accordion2">
-    <label for="accordion2">SLS SUPPORT FOR HOME-BASED LEARNING</label>
-    <div>
-      <p><style type="text/css">
+	<li>
+	<input type="checkbox" id="accordion2">
+	<label for="accordion2">SLS SUPPORT FOR HOME-BASED LEARNING</label>
+	<div>
+		<p><style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
@@ -120,5 +120,7 @@ description: ""
   </tr>
 </tbody>
 </table></p>
-    </div>
+</div>
+</li>
 </ul>
+
