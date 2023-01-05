@@ -407,7 +407,7 @@ Punggol Cove Primary School commemorates four core NE days which have been ident
     <label for="accordion4">Information for Parents</label>
     <div>
       <p>8.     Parents may opt their children out of Sexuality Education lessons, and/or supplementary sexuality education programmes by MOE-approved external providers.</p>
-			<p>9. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable&nbsp;<a href="/files/Annex%20A%20-%20SEd%20Opt%20Out%20Form%202022.pdf"><u><strong>here</strong></u></a>. The completed opt-out form is to be submitted by 28 Jan 2022.</p>
+			<p>9. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable&nbsp;<a href="/files/Annex%20A%20-%20SEd%20Opt%20Out%20Form%202022.pdf"><u>here</u></a>. The completed opt-out form is to be submitted by 28 Jan 2022.</p>
 			<p>10.     Parents can contact Mr. Jeremy Loh at Jeremy_Loh@schools.gov.sg or +65 63857339 for discussion or to seek clarification about the school’s sexuality education programme.11. Parents, who wish to attend the school sexuality education lessons, should contact the school to make the necessary arrangements.</p>
     </div>
 	</li>  
