@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Home Based Learning/Primary 2.md
       - Home Based Learning/Primary 3.md
       - Home Based Learning/Primary 4.md
       - Home Based Learning/Primary 5.md
