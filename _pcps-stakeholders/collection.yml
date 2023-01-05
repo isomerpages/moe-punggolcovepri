@@ -1,4 +1,5 @@
 collections:
   pcps-stakeholders:
     output: true
-    order: []
+    order:
+      - Parent Support Group.md
