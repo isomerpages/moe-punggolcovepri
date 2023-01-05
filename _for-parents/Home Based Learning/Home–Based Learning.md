@@ -4,8 +4,6 @@ permalink: /for-parents/Home-Based-Learning/hbl/
 description: ""
 third_nav_title: Home Based Learning
 ---
-
-
 At Punggol Cove Primary School, we are committed to nurture future-ready and responsible learners. We believe in equipping them with the necessary skills to leverage on technology to learn better.  
 
 As teachers will tap on a variety of online learning tools to complement classroom teaching and learning, this website will provide a set of child-friendly guides to help students navigate these tools while learning at their own pace.
@@ -38,11 +36,11 @@ Select your child’s level
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-1wis"><a href="https://punggolcovepri-moe-edu-sg-admin.cwp.sg/for-parents/home-based-learning/primary-1"><span style="text-decoration:none;color:#4067AE">Primary 1</span></a></td>
-    <td class="tg-1wis"><a href="https://punggolcovepri-moe-edu-sg-admin.cwp.sg/for-parents/home-based-learning/primary-2"><span style="text-decoration:none;color:#4067AE">Primary 2</span></a></td>
-    <td class="tg-1wis"><a href="https://punggolcovepri-moe-edu-sg-admin.cwp.sg/for-parents/home-based-learning/primary-3"><span style="text-decoration:none;color:#4067AE">Primary 3</span></a></td>
-    <td class="tg-1wis"><a href="https://punggolcovepri-moe-edu-sg-admin.cwp.sg/for-parents/home-based-learning/primary-4"><span style="text-decoration:none;color:#4067AE">Primary 4</span></a></td>
-    <td class="tg-1wis"><a href="https://punggolcovepri-moe-edu-sg-admin.cwp.sg/for-parents/home-based-learning/primary-5"><span style="text-decoration:none;color:#4067AE">Primary 5</span></a></td>
+    <td class="tg-1wis"><a href="/for-parents/Home-Based-Learning/p1/"><span style="text-decoration:none;color:#4067AE">Primary 1</span></a></td>
+    <td class="tg-1wis"><a href="/for-parents/Home-Based-Learning/p2/"><span style="text-decoration:none;color:#4067AE">Primary 2</span></a></td>
+    <td class="tg-1wis"><a href="/for-parents/Home-Based-Learning/p3/"><span style="text-decoration:none;color:#4067AE">Primary 3</span></a></td>
+    <td class="tg-1wis"><a href="/for-parents/Home-Based-Learning/p4/"><span style="text-decoration:none;color:#4067AE">Primary 4</span></a></td>
+    <td class="tg-1wis"><a href="/for-parents/Home-Based-Learning/p5/"><span style="text-decoration:none;color:#4067AE">Primary 5</span></a></td>
   </tr>
 </tbody>
 </table>
