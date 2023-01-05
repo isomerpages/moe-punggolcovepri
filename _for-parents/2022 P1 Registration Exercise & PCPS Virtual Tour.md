@@ -50,3 +50,19 @@ Registration via P1-IS
 From: 9am on Monday, 15 August 2022   
 To: 4.30pm on Tuesday, 16 August 2022   
 Result: Thursday, 25 August 2022
+
+
+
+#### A DAY AS A PCPS STUDENT
+
+Watch the video to experience a day as a PCPS student.
+
+(embed video here)
+
+#### VIRTUAL TOUR OF PCPS 
+
+Watch the video for a virtual tour of the venues and facilities in PCPS.
+
+(embed video here)
+
+For photos and information on venues and facilities in PCPS, click [here](/about-pcps/our-facilities).
