@@ -2,5 +2,6 @@ collections:
   for-parents:
     output: true
     order:
+      - Home–Based Learning.md
       - School Booklist.md
       - 2022 P1 Registration Exercise & PCPS Virtual Tour.md
