@@ -22,7 +22,7 @@ description: ""
     <input type="checkbox" id="accordion3">
     <label for="accordion3">P3 (Y2022) BOOKLIST</label>
     <div>
-      <p>Please click <a href="here" target="_blank" rel="noopener">here</a> for P3(Y2022) Booklist</p>
+      <p>Please click <a href="here" target="_blank" rel="noopener">here</a> for  P3 Higher MT (Y2022) Booklist<br><br>Please click <a href="here" target="_blank" rel="noopener">here</a> for P3(Y2022) Booklist</p>
     </div>
 	</li>  
 	  <li>
@@ -36,14 +36,14 @@ description: ""
     <input type="checkbox" id="accordion5">
     <label for="accordion5">P5 (Y2022) BOOKLIST</label>
     <div>
-      <p>Please click <a href="here" target="_blank" rel="noopener">here</a> for P5(Y2022) Booklist</p>
+      <p>Please click <a href="here" target="_blank" rel="noopener">here</a> for P5 Foundation (Y2022) Booklist<br><br>Please click <a href="here" target="_blank" rel="noopener">here</a> for P5 Higher MT (Y2022) Booklist<br><br>Please click <a href="here" target="_blank" rel="noopener">here</a> for P5 Standard MT (Y2022) Booklist</p>
     </div>
 	</li>
 	<li>
     <input type="checkbox" id="accordion6">
     <label for="accordion6">P6 (Y2022) BOOKLIST</label>
     <div>
-      <p>Please click <a href="here" target="_blank" rel="noopener">here</a> for P6(Y2022) Booklist</p>
+      <p>Please click <a href="here" target="_blank" rel="noopener">here</a> for P6 Foundation (Y2022) Booklist<br><br>Please click <a href="here" target="_blank" rel="noopener">here</a> for P6 Higher MT (Y2022) Booklist<br><br>Please click <a href="here" target="_blank" rel="noopener">here</a> for P6 Standard MT (Y2022) Booklist</p>
     </div>
 	</li>
 </ul>
