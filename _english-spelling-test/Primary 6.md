@@ -6,7 +6,7 @@ description: ""
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
-    <label for="accordion1">PRIMARY 6 ENGLISH SPELLING AND DICTATION TERM 2</label>
+		<label for="accordion1"><h5>PRIMARY 6 ENGLISH SPELLING AND DICTATION TERM 2</h5></label>
     <div>
       <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
@@ -65,7 +65,7 @@ description: ""
 	</li>
 	<li>
     <input type="checkbox" id="accordion2">
-    <label for="accordion2">PRIMARY 6 ENGLISH SPELLING AND DICTATION TERM 1</label>
+    <label for="accordion2"><h5>PRIMARY 6 ENGLISH SPELLING AND DICTATION TERM 1</h5></label>
     <div>
       <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
