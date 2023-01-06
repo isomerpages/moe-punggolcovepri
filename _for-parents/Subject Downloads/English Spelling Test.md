@@ -29,8 +29,12 @@ third_nav_title: Subject Downloads
     <td class="tg-1do4"><ul>
 <li><a href="https://punggolcovepri.moe.edu.sg//for-parents/subject-downloads/english-spelling-list/primary-1" target="">English Language Spelling List</a></li>
 </ul></td>
-    <td class="tg-1do4"></td>
-    <td class="tg-1do4"></td>
+    <td class="tg-1do4"><ul>
+<li><a href="https://punggolcovepri.moe.edu.sg//for-parents/subject-downloads/english-spelling-list/primary-1" target="">English Language Spelling List</a></li>
+</ul></td>
+    <td class="tg-1do4"><ul>
+<li><a href="https://punggolcovepri.moe.edu.sg//for-parents/subject-downloads/english-spelling-list/primary-1" target="">English Language Spelling List</a></li>
+</ul></td>
   </tr>
   <tr>
     <td class="tg-72fj">PRIMARY 4</td>
