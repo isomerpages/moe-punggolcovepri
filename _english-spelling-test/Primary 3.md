@@ -115,7 +115,57 @@ description: ""
     <input type="checkbox" id="accordion3">
 		<label for="accordion3"><h5>PRIMARY 3 ENGLISH SPELLING AND DICTATION TERM 2</h5></label>
     <div>
-      <p>This is a simple one line item</p>
+      <style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-8bqu{background-color:#FFF;color:#303545;font-size:16px;text-align:center;vertical-align:top}
+.tg .tg-5tyd{background-color:#FFF;color:#303545;font-size:16px;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-3cbn{background-color:#FFF;color:#222;font-size:16px;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-qec4{background-color:#FFF;color:#222;font-size:16px;text-align:center;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 553px">
+<colgroup>
+<col style="width: 116px">
+<col style="width: 437px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-3cbn">Week</td>
+    <td class="tg-5tyd">Quizlet Link</td>
+  </tr>
+  <tr>
+    <td class="tg-qec4">2</td>
+    <td class="tg-8bqu"><a href="https://quizlet.com/_5njak4?x=1jqt&i=1c2gxb" target="_blank" rel="noopener noreferrer"><span style="color:#4067AE">P3 English Spelling and Dictation Week 2</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-qec4">3</td>
+    <td class="tg-8bqu"><a href="https://quizlet.com/_5nj908?x=1jqt&i=1c2gxb" target="_blank" rel="noopener noreferrer"><span style="color:#4067AE">P3 English Spelling and Dictation Week 3</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-qec4">4</td>
+    <td class="tg-8bqu"><a href="https://quizlet.com/_5njdo4?x=1jqt&i=1c2gxb" target="_blank" rel="noopener noreferrer"><span style="color:#4067AE">P3 English Spelling and Dictation Week 4</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-qec4">5</td>
+    <td class="tg-8bqu"><a href="https://quizlet.com/_5njg0q?x=1jqt&i=1c2gxb" target="_blank" rel="noopener noreferrer"><span style="color:#4067AE">P3 English Spelling and Dictation Week 5</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-qec4">6</td>
+    <td class="tg-8bqu"><a href="https://quizlet.com/_9gnl9d?x=1jqt&i=1c2gxb" target="_blank" rel="noopener noreferrer"><span style="color:#4067AE">P3 English Spelling and Dictation Week 6</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-qec4">7</td>
+    <td class="tg-8bqu"><a href="https://quizlet.com/_9gnn1j?x=1jqt&i=1c2gxb" target="_blank" rel="noopener noreferrer"><span style="color:#4067AE">P3 English Spelling and Dictation Week 7</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-qec4">9</td>
+    <td class="tg-8bqu"><a href="https://quizlet.com/_9gnnpe?x=1jqt&i=1c2gxb" target="_blank" rel="noopener noreferrer"><span style="color:#4067AE">P3 English Spelling and Dictation Week 9</span></a></td>
+  </tr>
+</tbody>
+</table>
     </div>
 	</li>
 	<li>
