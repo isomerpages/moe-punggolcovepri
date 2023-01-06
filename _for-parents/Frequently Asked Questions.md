@@ -126,22 +126,22 @@ description: ""
 
 <ul class="jekyllcodex_accordion">
   <li>
-    <input type="checkbox" id="accordion14">
-    <label for="accordion14">8) How do I communicate with my child in case of an emergency?</label>
+    <input type="checkbox" id="accordion8">
+    <label for="accordion8">8) How do I communicate with my child in case of an emergency?</label>
     <div>
       <p>In case of any emergency, please call the School office at Tel: 6385 7339 with your message. We will ensure that it is communicated to your child.</p>
     </div>
 	</li>
 	<li>
-    <input type="checkbox" id="accordion15">
-    <label for="accordion15">9) How can I communicate with my child’s teachers?</label>
+    <input type="checkbox" id="accordion9">
+    <label for="accordion9">9) How can I communicate with my child’s teachers?</label>
     <div>
       <p>a) You may e-mail the teachers. Their e-mail addresses are available on our school website at <a href="/pcps-personnel/teaching-staff">/pcps-personnel/teaching-staff</a><br /><br />b) You may write to the School via the school&rsquo;s email at&nbsp;<a href="mailto:punggolcove_ps@moe.edu.sg">punggolcove_ps@moe.edu.sg</a>.<br /><br />c) You may call the General Office at Tel:&nbsp;6385 7339&nbsp;to leave a message. Please refer to <a href="/about-pcps/contact-us">/about-pcps/contact-us</a>&nbsp;for the School&rsquo;s contact details. However, please do understand that teachers may be teaching at the time you are calling and may not be able to return your call immediately.</p>
     </div>
 	</li>
 	<li>
-    <input type="checkbox" id="accordion16">
-    <label for="accordion16">10)    Can my child bring a mobile phone or other electronic gadgets to school?
+    <input type="checkbox" id="accordion10">
+    <label for="accordion10">10)    Can my child bring a mobile phone or other electronic gadgets to school?
 </label>
     <div>
       <p>The school does not encourage students to bring such items to school so that they do not distract themselves and others during school hours. Students can request to use the phone at the general office if they need to contact their parents/guardians on urgent matters.</p>
