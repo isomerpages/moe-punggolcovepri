@@ -95,7 +95,7 @@ description: ""
     <label for="accordion11">5)        How much is the school fees?
 </label>
     <div>
-      <p>The rates of school and miscellaneous fees payable are reviewed by the Ministry of Education and individual schools from time to time. For more information, please refer to MOE website at <a href="https://www.moe.gov.sg/admissions/international-students/general-info#monthly-school-fees">https://www.moe.gov.sg/admissions/international-students/general-info#monthly-school- fees</a>.</p>
+      <p>The rates of school and miscellaneous fees payable are reviewed by the Ministry of Education and individual schools from time to time. For more information, please refer to MOE website at <a href="https://www.moe.gov.sg/admissions/international-students/general-info#monthly-school-fees">https://www.moe.gov.sg/admissions/international-students/general-info#monthly-school-fees</a>.</p>
     </div>
 	</li>
 	<li>
