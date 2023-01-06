@@ -15,7 +15,6 @@ description: ""
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-cawn{background-color:#FFF;font-size:16px;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-7dwp{background-color:#FFF;font-size:16px;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-rwiu{background-color:#FFF;font-size:16px;text-align:center;vertical-align:top}
 .tg .tg-him5{background-color:#FFF;color:#4067ae;font-size:16px;text-align:left;vertical-align:top}
 .tg .tg-3lib{background-color:#ffffff;color:#4067ae;font-size:16px;text-align:left;vertical-align:top}
@@ -28,7 +27,7 @@ description: ""
 <tbody>
   <tr>
     <td class="tg-cawn">Week</td>
-    <td class="tg-7dwp">Quizlet Link</td>
+    <td class="tg-cawn">Quizlet Link</td>
   </tr>
   <tr>
     <td class="tg-rwiu">2</td>
