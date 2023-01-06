@@ -13,16 +13,19 @@ description: ""
 	</li>
 	<li>
     <input type="checkbox" id="accordion8">
-    <label for="accordion8">Inner</label>
+    <label for="accordion8">2) What are the General Office hours?
+</label>
     <div>
-      <p>This is a simple one line item</p>
+      <p> Monday – Friday: 7.00 am to 5.30 pm
+</p>
     </div>
 	</li>
 	<li>
     <input type="checkbox" id="accordion9">
-    <label for="accordion9">Inner</label>
+    <label for="accordion9">3) What are the Recess hours?
+</label>
     <div>
-      <p>This is a simple one line item</p>
+      <p>P1 : 9.00 am to 9.30 am<br>P5 : 9.30 am to 10.00 am<br> P6 : 10.00 am to 10.30 am<br>P2 : 10.30 am to 11.00 am<br> P3 : 11.00 am to 11.30 am<br>P4 : 11.30 am to 12.00 pm</p>
     </div>
 	</li>
 	<li>
