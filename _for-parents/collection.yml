@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Subject Downloads/.keep
       - Frequently Asked Questions.md
       - Student Learning Space.md
       - Home Based Learning/.keep
