@@ -114,9 +114,9 @@ description: ""
 	</li>
 	<li>
     <input type="checkbox" id="accordion13">
-    <label for="accordion13">Inner</label>
+    <label for="accordion13">7) Where can we read about the School Rules?</label>
     <div>
-      <p>This is a simple one line item</p>
+      <p>The School Rules are available on our School Website <a href="/for-parents/General-Matters/school-rules">/for-parents/general-matters/school-rules</a>&nbsp;and in your child&rsquo;s Pupil&rsquo;s Handbook.</p>
     </div>
 	</li>
 	<li>
