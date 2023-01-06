@@ -210,14 +210,14 @@ description: ""
     <input type="checkbox" id="accordion15">
     <label for="accordion15">15) What facilities does the school have?</label>
     <div>
-      <p>You may refer to<a href="/about-pcps/our-facilities">/about-pcps/our-facilities</a> for a list of facilities available. These facilities support the delivery of holistic education, and facilitate engaged learning in both the academic and co-curriculum areas.</p>
+      <p>You may refer to <a href="/about-pcps/our-facilities">/about-pcps/our-facilities</a> for a list of facilities available. These facilities support the delivery of holistic education, and facilitate engaged learning in both the academic and co-curriculum areas.</p>
     </div>
 	</li>
 	<li>
     <input type="checkbox" id="accordion16">
-    <label for="accordion16">Simple</label>
+    <label for="accordion16">16) Does your school have a School-based Student Care Centre?</label>
     <div>
-      <p>This is a simple one line item</p>
+      <p>Yes. Please refer to ‘PCPS Student Care Centre’ at <a href="/for-parents/useful-links/">/for-parents/useful-links</a> for more information.</p>
     </div>
 	</li>
 	<li>
