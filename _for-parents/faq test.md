@@ -100,9 +100,16 @@ description: ""
 	</li>
 	<li>
     <input type="checkbox" id="accordion12">
-    <label for="accordion12">Inner</label>
+    <label for="accordion12">6) My child has misplaced/lost his EZLink Card. How can I get a replacement?</label>
     <div>
-      <p>This is a simple one line item</p>
+      <p>You may get the card replaced through the following ways:</p>
+<ul>
+<li>Apply for an online replacement via this&nbsp;<a href="https://www.transitlink.com.sg/eservice/econcession/app_form1.php?app_type=2" target="_blank" rel="noopener">link</a></li>
+<li>Apply for an immediate replacement at any&nbsp;<a href="https://www.transitlink.com.sg/PSdetail.aspx?ty=art&amp;Id=111" target="_blank" rel="noopener">Concession Card Replacement Office</a></li>
+<li>Download TransitLink Mobile Services app for the full suite of e-Services</li>
+<li>Get an immediate&nbsp;lost card replacement at the&nbsp;<a href="https://www.transitlink.com.sg/PSdetail.aspx?ty=cat&amp;Id=25" target="_blank" rel="noopener">TransitLink Kiosk</a></li>
+</ul>
+<p>For more details, please refer to Transit Link website under Product and Services at<a href="https://www.transitlink.com.sg/PSdetail.aspx?ty=art&amp;Id=49#10" target="_blank" rel="noopener">https://www.transitlink.com.sg/PSdetail.aspx?ty=art&amp;Id=49#10</a>. <br /><br />To report loss of card, please call TransitLink Hotline at 1800-CALL ONE (1800-2255 663) and the card will be invalidated within 48 hours.</p>
     </div>
 	</li>
 	<li>
