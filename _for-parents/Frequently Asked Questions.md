@@ -226,7 +226,7 @@ description: ""
 </label>
     <div>
       <p>There is scheduled &lsquo;Interaction Time With Principal&rsquo; organised for you to meet and have a conversation with our Principal as well as to tour the school.</p>
-<p> Please refer to our website at&nbsp;<a href="http://www.punggolcovepri.moe.edu.sg/" target="">www.punggolcovepri.moe.edu.sg</a>&nbsp;for updated information about the &lsquo;Interaction Time With Principal&rsquo;. Most of the information about the school can also be obtained from our school&rsquo;s website.</p>
+<p> Please refer to our website at <a href="http://www.punggolcovepri.moe.edu.sg/" target="">www.punggolcovepri.moe.edu.sg</a>&nbsp;for updated information about the &lsquo;Interaction Time With Principal&rsquo;. Most of the information about the school can also be obtained from our school&rsquo;s website.</p>
     </div>
 	</li>
 	<li>
