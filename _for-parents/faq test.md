@@ -92,7 +92,8 @@ description: ""
 	</li>
 	<li>
     <input type="checkbox" id="accordion11">
-    <label for="accordion11">Inner</label>
+    <label for="accordion11">5)        How much is the school fees?
+</label>
     <div>
       <p>This is a simple one line item</p>
     </div>
