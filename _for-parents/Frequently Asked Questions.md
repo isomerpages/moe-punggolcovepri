@@ -151,6 +151,18 @@ description: ""
 
 ### SAFETY OF STUDENTS
 
+<ul class="jekyllcodex_accordion">
+  <li>
+    <input type="checkbox" id="accordion11">
+    <label for="accordion11">11) What must I do if I need to bring my child home early?</label>
+    <div>
+      <p>Students will only be allowed to leave the school premises early if accompanied by an authorised adult. The Form Teacher should be notified and the adult must report to the General Office to fetch the student. Students are <u>NOT</u> allowed to leave the school on their own even if they have valid reasons to do so.</p>
+    </div>
+	</li>  
+</ul>
+
+
+
 
 ### CO-CURRICULAR ACTIVITIES
 
@@ -160,4 +172,3 @@ description: ""
 
 
 ### PARENT SUPPORT GROUP
-
