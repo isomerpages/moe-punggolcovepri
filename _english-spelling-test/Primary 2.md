@@ -72,7 +72,62 @@ description: ""
     <input type="checkbox" id="accordion2">
 		<label for="accordion2"><h5>PRIMARY 2 ENGLISH SPELLING AND DICTATION TERM 3</h5></label>
     <div>
-      <p>This is a simple one line item</p>
+      <style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-sf6z{background-color:#FFF;color:#222;font-size:16px;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-3cbn{background-color:#FFF;color:#222;font-size:16px;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-qec4{background-color:#FFF;color:#222;font-size:16px;text-align:center;vertical-align:top}
+.tg .tg-zurh{background-color:#FFF;color:#4067AE;font-size:16px;text-align:left;vertical-align:top}
+.tg .tg-him5{background-color:#FFF;color:#4067ae;font-size:16px;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 553px">
+<colgroup>
+<col style="width: 116px">
+<col style="width: 437px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-3cbn">Week</td>
+    <td class="tg-sf6z">Quizlet Link</td>
+  </tr>
+  <tr>
+    <td class="tg-qec4">2</td>
+    <td class="tg-zurh"><a href="https://quizlet.com/_9z039x?x=1qqt&i=1c2gxb" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#4067AE">P2 English Spelling and Dictation Week 2</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-qec4">3</td>
+    <td class="tg-him5"><a href="https://quizlet.com/_9z040l?x=1qqt&i=1c2gxb" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#4067AE">P2 English Spelling and Dictation Week 3</span></a><span style="color:#4067AE"> </span></td>
+  </tr>
+  <tr>
+    <td class="tg-qec4"> 4</td>
+    <td class="tg-zurh"><a href="https://quizlet.com/_9z04en?x=1jqt&i=1c2gxb">P2 English Spelling and Dictation Week 4 </a></td>
+  </tr>
+  <tr>
+    <td class="tg-qec4"> 5</td>
+    <td class="tg-zurh"><a href="https://quizlet.com/_9z04rn?x=1qqt&i=1c2gxb">P2 English Spelling and Dictation Week 5 </a></td>
+  </tr>
+  <tr>
+    <td class="tg-qec4"> 6</td>
+    <td class="tg-zurh"><a href="https://quizlet.com/_9z056r?x=1qqt&i=1c2gxb">P2 English Spelling and Dictation Week 6 </a></td>
+  </tr>
+  <tr>
+    <td class="tg-qec4"> 7</td>
+    <td class="tg-zurh"><a href="https://quizlet.com/_9z05j7?x=1qqt&i=1c2gxb">P2 English Spelling and Dictation Week 7 </a></td>
+  </tr>
+  <tr>
+    <td class="tg-qec4"> 8</td>
+    <td class="tg-zurh"><a href="https://quizlet.com/_9z08c4?x=1qqt&i=1c2gxb">P2 English Spelling and Dictation Week 8 </a></td>
+  </tr>
+  <tr>
+    <td class="tg-qec4"> 9</td>
+    <td class="tg-zurh"><a href="https://quizlet.com/_9z099r?x=1qqt&i=1c2gxb">P2 English Spelling and Dictation Week 9</a></td>
+  </tr>
+</tbody>
+</table>
     </div>
 	</li>
 	<li>
