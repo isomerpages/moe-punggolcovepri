@@ -3,12 +3,9 @@ title: Frequently Asked Questions
 permalink: /for-parents/faq/
 description: ""
 ---
+### GENERAL INFORMATION
+
 <ul class="jekyllcodex_accordion">
-  <li>
-    <input type="checkbox" id="accordion1">
-    <label for="accordion1">Simple</label>
-    <div>
-			<ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion7">
     <label for="accordion7">1)        What are the School hours?</label>
@@ -18,8 +15,7 @@ description: ""
 	</li>
 	<li>
     <input type="checkbox" id="accordion8">
-    <label for="accordion8">2) What are the General Office hours?
-</label>
+    <label for="accordion8">2) What are the General Office hours?</label>
     <div>
       <p> Monday – Friday: 7.00 am to 5.30 pm
 </p>
@@ -122,44 +118,6 @@ description: ""
     <label for="accordion13">7) Where can we read about the School Rules?</label>
     <div>
       <p>The School Rules are available on our School Website <a href="/for-parents/General-Matters/school-rules">/for-parents/general-matters/school-rules</a>&nbsp;and in your child&rsquo;s Pupil&rsquo;s Handbook.</p>
-    </div>
-	</li>
-</ul>
-    </div>
-	</li>
-	  <li>
-    <input type="checkbox" id="accordion2">
-    <label for="accordion2">COMMUNICATION WITH THE SCHOOL</label>
-    <div>
-      <p>inner</p>
-    </div>
-	</li>
-	  <li>
-    <input type="checkbox" id="accordion3">
-    <label for="accordion3">Simple</label>
-    <div>
-      <p>This is a simple one line item</p>
-    </div>
-	</li>
-	  <li>
-    <input type="checkbox" id="accordion4">
-    <label for="accordion4">Simple</label>
-    <div>
-      <p>This is a simple one line item</p>
-    </div>
-	</li>
-	  <li>
-    <input type="checkbox" id="accordion5">
-    <label for="accordion5">Simple</label>
-    <div>
-      <p>This is a simple one line item</p>
-    </div>
-	</li>
-	  <li>
-    <input type="checkbox" id="accordion6">
-    <label for="accordion6">Simple</label>
-    <div>
-      <p>This is a simple one line item</p>
     </div>
 	</li>
 </ul>
