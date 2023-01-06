@@ -197,7 +197,69 @@ description: ""
     <input type="checkbox" id="accordion4">
 		<label for="accordion4"><h5>PRIMARY 2 ENGLISH SPELLING AND DICTATION TERM 1</h5></label>
     <div>
-      <p>This is a simple one line item</p>
+      <style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-ejbf{background-color:#FFF;border-color:inherit;color:#222;font-size:16px;text-align:left;vertical-align:top}
+.tg .tg-ua24{background-color:#FFF;border-color:inherit;color:#222;font-size:16px;font-weight:bold;text-align:center;
+  vertical-align:top}
+.tg .tg-hyg2{background-color:#FFF;border-color:inherit;color:#4067ae;font-size:16px;text-align:left;vertical-align:top}
+.tg .tg-sv96{background-color:#FFF;border-color:inherit;color:#222;font-size:16px;font-weight:bold;text-align:left;
+  vertical-align:top}
+.tg .tg-koma{background-color:#FFF;border-color:inherit;color:#4067AE;font-size:16px;text-align:left;vertical-align:top}
+.tg .tg-jkqr{background-color:#FFF;border-color:inherit;color:#222;font-size:16px;text-align:center;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 550px">
+<colgroup>
+<col style="width: 115px">
+<col style="width: 435px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-ua24">Week</td>
+    <td class="tg-sv96">Quizlet Link</td>
+  </tr>
+  <tr>
+    <td class="tg-jkqr">2</td>
+    <td class="tg-koma"><a href="https://quizlet.com/_95ne7a?x=1jqt&i=1c2gxb"><span style="text-decoration:none;color:#4067AE">P2 English Spelling and Dictation Week 2</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-jkqr">3</td>
+    <td class="tg-koma"><a href="https://quizlet.com/_95nevv?x=1jqt&i=1c2gxb" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#4067AE">P2 English Spelling and Dictation Week 3</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-jkqr">4</td>
+    <td class="tg-koma"><a href="https://quizlet.com/_95nfmm?x=1jqt&i=1c2gxb"><span style="text-decoration:none;color:#4067AE">P2 English Spelling and Dictation Week 4</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-jkqr">5</td>
+    <td class="tg-ejbf">No Spelling</td>
+  </tr>
+  <tr>
+    <td class="tg-jkqr">6</td>
+    <td class="tg-koma"><a href="https://quizlet.com/_95ngd2?x=1jqt&i=1c2gxb"><span style="text-decoration:none;color:#4067AE">P2 English Spelling and Dictation Week 6 </span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-jkqr">7</td>
+    <td class="tg-koma"><a href="https://quizlet.com/_95ngzl?x=1jqt&i=1c2gxb"><span style="text-decoration:none;color:#4067AE">P2 English Spelling and Dictation Week 7 </span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-jkqr">8</td>
+    <td class="tg-koma"><a href="https://quizlet.com/_95nhnl?x=1jqt&i=1c2gxb"><span style="text-decoration:none;color:#4067AE">P2 English Spelling and Dictation Week 8</span></a> </td>
+  </tr>
+  <tr>
+    <td class="tg-jkqr">9</td>
+    <td class="tg-koma"><a href="https://quizlet.com/_95nidd?x=1jqt&i=1c2gxb"><span style="text-decoration:none;color:#4067AE">P2 English Spelling and Dictation Week 9</span></a>   </td>
+  </tr>
+  <tr>
+    <td class="tg-jkqr">10</td>
+    <td class="tg-hyg2"><a href="https://quizlet.com/_95niy3?x=1jqt&i=1c2gxb" target="_blank" rel="noopener noreferrer"><span style="color:#4067AE">P2 English Spelling and Dictation Week 10</span></a></td>
+  </tr>
+</tbody>
+</table>
     </div>
 	</li>
 </ul>
