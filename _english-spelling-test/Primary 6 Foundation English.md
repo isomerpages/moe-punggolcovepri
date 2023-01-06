@@ -80,10 +80,10 @@ description: ""
 .tg .tg-qec4{background-color:#FFF;color:#222;font-size:16px;text-align:center;vertical-align:top}
 .tg .tg-zurh{background-color:#FFF;color:#4067AE;font-size:16px;text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 550px">
+<table class="tg" style="undefined;table-layout: fixed; width: 531px">
 <colgroup>
-<col style="width: 86px">
-<col style="width: 464px">
+<col style="width: 83px">
+<col style="width: 448px">
 </colgroup>
 <tbody>
   <tr>
