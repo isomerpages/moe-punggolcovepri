@@ -30,9 +30,64 @@ description: ""
 	</li>
 	<li>
     <input type="checkbox" id="accordion10">
-    <label for="accordion10">Inner</label>
+    <label for="accordion10">4) What are the After-School Programmes?
+</label>
     <div>
-      <p>This is a simple one line item</p>
+      <style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-tlr8{background-color:#FFF;border-color:inherit;color:#222;font-style:italic;text-align:center;vertical-align:middle}
+.tg .tg-3bno{background-color:#FFF;border-color:inherit;color:#222;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-k81l{background-color:#FFF;border-color:inherit;color:#222;text-align:left;vertical-align:middle}
+.tg .tg-gktn{background-color:#FFF;border-color:inherit;color:#222;text-align:center;vertical-align:middle}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 765px">
+<colgroup>
+<col style="width: 235px">
+<col style="width: 100px">
+<col style="width: 101px">
+<col style="width: 127px">
+<col style="width: 101px">
+<col style="width: 101px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-3bno">PROGRAMME</td>
+    <td class="tg-3bno">MONDAY</td>
+    <td class="tg-3bno">TUESDAY</td>
+    <td class="tg-3bno">WEDNESDAY</td>
+    <td class="tg-3bno">THURSDAY</td>
+    <td class="tg-3bno">FRIDAY</td>
+  </tr>
+  <tr>
+    <td class="tg-k81l">P3 <span style="background-color:transparent">&amp; P4 School-based Dyslexia Remediation (SDR)</span></td>
+    <td class="tg-gktn">2.00 pm<br>to<br>3.00 pm</td>
+    <td class="tg-gktn">2.00 pm<br>to<br>3.00 pm</td>
+    <td class="tg-gktn"></td>
+    <td class="tg-gktn"></td>
+    <td class="tg-gktn">2.00 pm<br>to<br>3.00 pm</td>
+  </tr>
+  <tr>
+    <td class="tg-k81l"><span style="background-color:transparent">Co-Curricular Activities (CCA)</span></td>
+    <td class="tg-gktn"></td>
+    <td class="tg-gktn">2.00 pm<br>to<br>4.00 pm<br></td>
+    <td class="tg-gktn"></td>
+    <td class="tg-gktn">2.00 pm<br>to<br>4.00 pm</td>
+    <td class="tg-tlr8"></td>
+  </tr>
+  <tr>
+    <td class="tg-k81l">P3 SwimSafer Programme<br>(For those who have signed up)</td>
+    <td class="tg-gktn"></td>
+    <td class="tg-gktn"></td>
+    <td class="tg-gktn"></td>
+    <td class="tg-gktn"></td>
+    <td class="tg-gktn">2.00 pm<br>to<br>4.30 pm</td>
+  </tr>
+</tbody>
+</table>
     </div>
 	</li>
 	<li>
