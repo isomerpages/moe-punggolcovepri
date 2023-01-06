@@ -23,7 +23,14 @@ third_nav_title: Subject Downloads
     <input type="checkbox" id="accordion3">
 		<label for="accordion3"><h5>2020 CURRICULUM AND ACADEMIC BRIEFING SLIDES</h5></label>
     <div>
-      <p>This is a simple one line item</p>
+      <ul>
+<li><a href="https://punggolcovepri-moe-edu-sg-admin.cwp.sg/qql/slot/u1242/Curriculum%20&amp;%20Academic%20Briefing/P3%20CURRICULUM%20BRIEFING%202020%20HANDOUT.pdf" target="_blank" rel="noopener">P3 Curriculum Briefing 2021 CurriSlides 2020</a></li>
+<li><a href="https://punggolcovepri-moe-edu-sg-admin.cwp.sg/qql/slot/u1242/Curriculum%20&amp;%20Academic%20Briefing/2020%20P3%20Mathematics%20Parents%20Workshop%20Handout.pdf" target="_blank" rel="noopener">P3 Mathematics Parents' Workshop Slides 2020</a></li>
+<li><a href="https://punggolcovepri-moe-edu-sg-admin.cwp.sg/qql/slot/u1242/News&amp;Announcement/P4%20CURRICULUM%20BRIEFING%202019.pdf" target="_blank" rel="noopener">P4 Curriculum Briefing Slides 2020</a></li>
+<li><a href="https://punggolcovepri-moe-edu-sg-admin.cwp.sg/qql/slot/u1242/Curriculum%20&amp;%20Academic%20Briefing/P4%20Mathematics%20Parents%20Workshop%202020%20Handout.pdf" target="_blank" rel="noopener">P4 Mathematics Parents' Workshop Slides 2020</a></li>
+<li><a href="https://punggolcovepri-moe-edu-sg-admin.cwp.sg/qql/slot/u726/Curriculum%20Briefing/P5%20CURRICULUM%20BRIEFING%2003022020.pdf" target="">P5 Curriculum Briefing Slides 2020</a></li>
+<li><a href="https://punggolcovepri-moe-edu-sg-admin.cwp.sg/qql/slot/u726/Curriculum%20Briefing/P5%20Standard%20Mathematics%20Parents'%20Workshop%202020%20Handout.pdf" target="">P5 Standard Mathematics Parents' Workshop Slides 2020</a></li>
+</ul>
     </div>
 	</li>
 </ul>
