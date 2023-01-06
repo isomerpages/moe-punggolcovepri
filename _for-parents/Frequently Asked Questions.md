@@ -187,9 +187,9 @@ description: ""
 	</li>  
 	<li>
     <input type="checkbox" id="accordion13">
-    <label for="accordion13">Simple</label>
+    <label for="accordion13">13) The P3 students are having CCAs on Thursday. Would there be enough time and food for them to eat?</label>
     <div>
-      <p>This is a simple one line item</p>
+      <p>CCAs start at 2pm.  Students can have lunch after their dismissal at 1.30pm.  The school has                   worked with the canteen operators to put in place processes to cater to the demand.</p>
     </div>
 	</li>  
 	<li>
