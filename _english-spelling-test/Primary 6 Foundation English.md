@@ -12,8 +12,8 @@ description: ""
     </div>
 	</li>
 	<li>
-    <input type="checkbox" id="accordion1">
-    <label for="accordion1">Simple</label>
+    <input type="checkbox" id="accordion2">
+    <label for="accordion2">h5>PRIMARY 6 FOUNDATION ENGLISH SPELLING AND DICTATION TERM 2</h5></label>
     <div>
       <p>This is a simple one line item</p>
     </div>
