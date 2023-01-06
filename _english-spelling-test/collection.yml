@@ -1,0 +1,4 @@
+collections:
+  english-spelling-test:
+    output: true
+    order: []
