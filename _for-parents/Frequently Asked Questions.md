@@ -245,9 +245,9 @@ description: ""
 	</li>
 	<li>
     <input type="checkbox" id="accordion20">
-    <label for="accordion20">Simple</label>
+    <label for="accordion20">20) I am a non-Singaporean. Can I register my child to your school under the Primary One Registration Exercise?</label>
     <div>
-      <p>This is a simple one line item</p>
+      <p>For matters related to P1 Registration for International Students, please refer to MOE website at <a href="https://www.moe.gov.sg/admissions/primary-one-registration/phase-3-registration-for-non-singapore-citizen-non-permanent-resident-children">https://www.moe.gov.sg/admissions/primary-one-registration/phase-3-registration-for-non- singapore-citizen-non-permanent-resident-children</a></p>
     </div>
 	</li>
 	<li>
