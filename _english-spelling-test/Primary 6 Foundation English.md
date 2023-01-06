@@ -88,7 +88,7 @@ description: ""
 <tbody>
   <tr>
     <td class="tg-3cbn">Week</td>
-    <td class="tg-sf6z">Quizlet Link</td>
+    <td class="tg-3cbn">Quizlet Link</td>
   </tr>
   <tr>
     <td class="tg-qec4">2</td>
