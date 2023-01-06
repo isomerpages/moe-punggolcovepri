@@ -182,7 +182,7 @@ description: ""
 <li>Choir</li>
 <li>Oratorical &amp; Drama Club</li>
 </ol>
-<p>For more information, please refer to our website at&nbsp;<a href="/pcps-experience/Co-Curricular-Activities/cca/">/pcps-experience/co-curricular-activities-cca</a></p>
+<p>For more information, please refer to our website at&nbsp;<a href="/pcps-experience/Co-Curricular-Activities/cca/">/pcps-experience/co-curricular-activities/cca</a></p>
     </div>
 	</li>  
 	<li>
