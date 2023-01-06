@@ -2,7 +2,6 @@ collections:
   for-parents:
     output: true
     order:
-      - faq test.md
       - Frequently Asked Questions.md
       - Student Learning Space.md
       - Home Based Learning/.keep
