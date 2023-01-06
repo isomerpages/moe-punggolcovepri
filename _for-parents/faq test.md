@@ -122,3 +122,30 @@ description: ""
 </ul>
 
 
+
+COMMUNICATION WITH THE SCHOOL
+
+<ul class="jekyllcodex_accordion">
+  <li>
+    <input type="checkbox" id="accordion14">
+    <label for="accordion14">8) How do I communicate with my child in case of an emergency?</label>
+    <div>
+      <p>In case of any emergency, please call the School office at Tel: 6385 7339 with your message. We will ensure that it is communicated to your child.</p>
+    </div>
+	</li>
+	<li>
+    <input type="checkbox" id="accordion15">
+    <label for="accordion15"></label>
+    <div>
+      <p></p>
+    </div>
+	</li>
+	<li>
+    <input type="checkbox" id="accordion16">
+    <label for="accordion16"></label>
+    <div>
+      <p></p>
+    </div>
+	</li>
+</ul>
+
