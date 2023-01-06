@@ -2,4 +2,5 @@ collections:
   english-spelling-test:
     output: true
     order:
+      - Primary 6.md
       - Primary 6 Foundation English.md
