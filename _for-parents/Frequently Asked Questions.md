@@ -194,9 +194,9 @@ description: ""
 	</li>  
 	<li>
     <input type="checkbox" id="accordion14">
-    <label for="accordion14">Simple</label>
+    <label for="accordion14">14) Can my child go home for lunch on Thursday if he stays nearby, and comes back to school for his CCA?</label>
     <div>
-      <p>This is a simple one line item</p>
+      <p> Yes, students who stay nearby can go home for lunch. Please ensure that your child reports                    punctually for his/her CCA.</p>
     </div>
 	</li>  
 </ul>
