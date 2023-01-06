@@ -231,9 +231,9 @@ description: ""
 	</li>
 	<li>
     <input type="checkbox" id="accordion18">
-    <label for="accordion18">Simple</label>
+    <label for="accordion18">18) Is our home address within 1 km from Punggol Cove Primary School?</label>
     <div>
-      <p>This is a simple one line item</p>
+      <p>Please check the home-school distance category (at no cost) from the Singapore Land Authority OneMap SchoolQuery at <a href="https://www.onemap.sg/main/v2/schoolquery">https://www.onemap.sg/main/v2/schoolquery</a>.</p>
     </div>
 	</li>
 	<li>
