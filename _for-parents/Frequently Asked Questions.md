@@ -129,9 +129,9 @@ description: ""
 	</li>
 	  <li>
     <input type="checkbox" id="accordion2">
-    <label for="accordion2">Simple</label>
+    <label for="accordion2">COMMUNICATION WITH THE SCHOOL</label>
     <div>
-      <p>This is a simple one line item</p>
+      <p>inner</p>
     </div>
 	</li>
 	  <li>
