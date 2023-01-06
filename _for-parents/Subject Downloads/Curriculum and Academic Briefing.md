@@ -44,9 +44,9 @@ third_nav_title: Subject Downloads
       <ul>
 <li><a href="/files/P3%20CURRICULUM%20BRIEFING%202020%20HANDOUT.pdf" target="_blank" rel="noopener">P3 Curriculum Briefing 2021 CurriSlides 2020</a></li>
 <li><a href="/files/2020%20P3%20Mathematics%20Parents%20Workshop%20Handout.pdf" target="_blank" rel="noopener">P3 Mathematics Parents' Workshop Slides 2020</a></li>
-<li><a href="insertfilehere" target="_blank" rel="noopener">P4 Curriculum Briefing Slides 2020</a> (file exceeds 5mb)</li>
+<li><a href="https://punggolcovepri-moe-edu-sg-admin.cwp.sg/qql/slot/u1242/News&amp;Announcement/P4%20CURRICULUM%20BRIEFING%202019.pdf" target="_blank" rel="noopener">P4 Curriculum Briefing Slides 2020</a> (file exceeds 5mb)</li>
 <li><a href="/files/P4%20Mathematics%20Parents%20Workshop%202020%20Handout.pdf" target="_blank" rel="noopener">P4 Mathematics Parents' Workshop Slides 2020</a></li>
-<li><a href="insertfilehere" target="">P5 Curriculum Briefing Slides 2020</a> (file exceeds 5mb)</li>
+<li><a href="https://punggolcovepri-moe-edu-sg-admin.cwp.sg/qql/slot/u726/Curriculum%20Briefing/P5%20CURRICULUM%20BRIEFING%2003022020.pdf" target="">P5 Curriculum Briefing Slides 2020</a> (file exceeds 5mb)</li>
 <li><a href="/files/P5%20Standard%20Mathematics%20Parents'%20Workshop%202020%20Handout.pdf" target="">P5 Standard Mathematics Parents' Workshop Slides 2020</a></li>
 </ul>
     </div>
