@@ -10,12 +10,12 @@ third_nav_title: Subject Downloads
     <label for="accordion1"><h5>2022 CURRICULUM AND ACADEMIC BRIEFING SLIDES</h5></label>
     <div>
 			<ul>
-<li><a href="[](/files/P6%20Curriculum%20briefing%202022.pdf)" target="_blank" rel="noopener">P6 Curriculum Briefing 2022</a></li>
+<li><a href="/files/P6%20Curriculum%20briefing%202022.pdf" target="_blank" rel="noopener">P6 Curriculum Briefing 2022</a></li>
 <li><a href="INSERTFILEHERE" target="_blank" rel="noopener">P6 Curriculum Briefing Information Annex 2022</a> (file exceeds 5mb)</li>
-<li><a href="INSERTFILEHERE" target="_blank" rel="noopener">P4 Curriculum Briefing 2022</a> </li>
-<li><a href="INSERTFILEHERE" target="_blank" rel="noopener">P4 Curriculum Briefing Information Annex 2022</a></li>
-<li><a href="INSERTFILEHERE" target="_blank" rel="noopener">P2 Curriculum Briefing 2022</a></li>
-<li><a href="INSERTFILEHERE" target="_blank" rel="noopener">P1 Curriculum Briefing 2022</a></li>
+<li><a href="/files/P4%20CURRICULUM%20BRIEFING%202022.pdf" target="_blank" rel="noopener">P4 Curriculum Briefing 2022</a></li>
+<li><a href="/files/P4%20CURRICULUM%20INFO%20Annex%202022.pdf" target="_blank" rel="noopener">P4 Curriculum Briefing Information Annex 2022</a></li>
+<li><a href="INSERTFILEHERE" target="_blank" rel="noopener">P2 Curriculum Briefing 2022</a> (file exceeds 5mb)</li>
+<li><a href="/files/P1%20Curriculum%20Briefing%20Slides_2022.pdf" target="_blank" rel="noopener">P1 Curriculum Briefing 2022</a></li>
 </ul>
     </div>
 	</li>
