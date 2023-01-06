@@ -238,9 +238,9 @@ description: ""
 	</li>
 	<li>
     <input type="checkbox" id="accordion19">
-    <label for="accordion19">Simple</label>
+    <label for="accordion19">19) What are the Primary 1 registration procedures?</label>
     <div>
-      <p>This is a simple one line item</p>
+      <p>&nbsp;For matters related to P1 Registration procedures, please refer to MOE website at <a href="https://www.moe.gov.sg/admissions/primary-one-registration">https://www.moe.gov.sg/admissions/primary-one-registration</a>.</p>
     </div>
 	</li>
 	<li>
