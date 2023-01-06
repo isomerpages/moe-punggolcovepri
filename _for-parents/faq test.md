@@ -109,7 +109,7 @@ description: ""
 <li>Download TransitLink Mobile Services app for the full suite of e-Services</li>
 <li>Get an immediate&nbsp;lost card replacement at the&nbsp;<a href="https://www.transitlink.com.sg/PSdetail.aspx?ty=cat&amp;Id=25" target="_blank" rel="noopener">TransitLink Kiosk</a></li>
 </ul>
-<p>For more details, please refer to Transit Link website under Product and Services at<a href="https://www.transitlink.com.sg/PSdetail.aspx?ty=art&amp;Id=49#10" target="_blank" rel="noopener">https://www.transitlink.com.sg/PSdetail.aspx?ty=art&amp;Id=49#10</a>. <br /><br />To report loss of card, please call TransitLink Hotline at 1800-CALL ONE (1800-2255 663) and the card will be invalidated within 48 hours.</p>
+<p>For more details, please refer to Transit Link website under Product and Services at <a href="https://www.transitlink.com.sg/PSdetail.aspx?ty=art&amp;Id=49#10" target="_blank" rel="noopener">https://www.transitlink.com.sg/PSdetail.aspx?ty=art&amp;Id=49#10</a>. <br /><br />To report loss of card, please call TransitLink Hotline at 1800-CALL ONE (1800-2255 663) and the card will be invalidated within 48 hours.</p>
     </div>
 	</li>
 	<li>
