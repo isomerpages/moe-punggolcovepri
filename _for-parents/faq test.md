@@ -119,12 +119,6 @@ description: ""
       <p>The School Rules are available on our School Website <a href="/for-parents/General-Matters/school-rules">/for-parents/general-matters/school-rules</a>&nbsp;and in your child&rsquo;s Pupil&rsquo;s Handbook.</p>
     </div>
 	</li>
-	<li>
-    <input type="checkbox" id="accordion14">
-    <label for="accordion14">Inner</label>
-    <div>
-      <p>This is a simple one line item</p>
-    </div>
-	</li>
-	
 </ul>
+
+
