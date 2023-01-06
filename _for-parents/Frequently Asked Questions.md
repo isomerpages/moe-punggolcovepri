@@ -264,3 +264,15 @@ description: ""
 
 
 ### PARENT SUPPORT GROUP
+
+<ul class="jekyllcodex_accordion">
+  <li>
+    <input type="checkbox" id="accordion22">
+    <label for="accordion22">22) How can I apply as a Parent Volunteer?</label>
+    <div>
+      <p>If you are interested in joining the Parent Support Group (PSG), please contact our Head of Department / Discipline, Mr Benjamin Chew via e-mail at <a href="mailto:chew_chung_siong@moe.edu.sg">chew_chung_siong@schools.gov.sg</a><strong>.</strong></p>
+<p>Please refer to&nbsp;<a href="/pcps-stakeholders/psg">/pcps-stakeholders/psg</a> for more information on our PSG.</p>
+    </div>
+	</li>  
+</ul>
+
