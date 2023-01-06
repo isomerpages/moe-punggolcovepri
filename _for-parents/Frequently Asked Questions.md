@@ -163,8 +163,44 @@ description: ""
 
 
 
-
 ### CO-CURRICULAR ACTIVITIES
+
+
+<ul class="jekyllcodex_accordion">
+  <li>
+    <input type="checkbox" id="accordion12">
+    <label for="accordion12">12) What are the Co-Curricular Activities (CCAs) offered?</label>
+    <div>
+      <p>The school offers the following CCAs:</p>
+<ol>
+<li>&nbsp;Art &amp; Craft Club</li>
+<li>&nbsp;Dance Club</li>
+<li>&nbsp;New Media &amp; Technology Club</li>
+<li>&nbsp;Sports Club (Badminton, Basketball, Floorball, Football)</li>
+<li>&nbsp;Scouts</li>
+<li>Health &amp; Fitness Club</li>
+<li>Choir</li>
+<li>Oratorical &amp; Drama Club</li>
+</ol>
+<p>For more information, please refer to our website at&nbsp;<a href="/pcps-experience/Co-Curricular-Activities/cca/">/pcps-experience/co-curricular-activities-cca</a></p>
+    </div>
+	</li>  
+	<li>
+    <input type="checkbox" id="accordion13">
+    <label for="accordion13">Simple</label>
+    <div>
+      <p>This is a simple one line item</p>
+    </div>
+	</li>  
+	<li>
+    <input type="checkbox" id="accordion14">
+    <label for="accordion14">Simple</label>
+    <div>
+      <p>This is a simple one line item</p>
+    </div>
+	</li>  
+</ul>
+
 
 
 
