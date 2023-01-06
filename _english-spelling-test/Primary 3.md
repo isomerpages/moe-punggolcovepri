@@ -19,9 +19,9 @@ description: ""
 .tg .tg-qec4{background-color:#FFF;color:#222;font-size:16px;text-align:center;vertical-align:top}
 .tg .tg-zurh{background-color:#FFF;color:#4067AE;font-size:16px;text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 549px">
+<table class="tg" style="undefined;table-layout: fixed; width: 550px">
 <colgroup>
-<col style="width: 114px">
+<col style="width: 115px">
 <col style="width: 435px">
 </colgroup>
 <tbody>
@@ -57,7 +57,58 @@ description: ""
     <input type="checkbox" id="accordion2">
 		<label for="accordion2"><h5>PRIMARY 3 ENGLISH SPELLING AND DICTATION TERM 3</h5></label>
     <div>
-      <p>This is a simple one line item</p>
+      <style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-4jzo{background-color:#FFF;color:#222;font-size:16px;text-align:center;vertical-align:middle}
+.tg .tg-3etx{background-color:#FFF;color:#222;font-size:16px;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-f6m5{background-color:#FFF;color:#4067AE;font-size:16px;text-align:left;vertical-align:middle}
+.tg .tg-1zrx{background-color:#FFF;color:#222;font-size:16px;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-26yr{background-color:#FFF;color:#4067ae;font-size:16px;text-align:left;vertical-align:middle}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 553px">
+<colgroup>
+<col style="width: 116px">
+<col style="width: 437px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-1zrx">Week</td>
+    <td class="tg-3etx">Quizlet Link</td>
+  </tr>
+  <tr>
+    <td class="tg-4jzo"> 2</td>
+    <td class="tg-26yr"><a href="https://quizlet.com/_bth7k3?x=1jqt&i=1c2gxb" target="_blank" rel="noopener noreferrer"><span style="color:#4067AE">P3 English Spelling and Dictation Week 2</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-4jzo"> 3</td>
+    <td class="tg-f6m5"><a href="https://quizlet.com/_bthk3k?x=1jqt&i=1c2gxb"><span style="text-decoration:none;color:#4067AE">P3 English Spelling and Dictation Week 3</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-4jzo"> 4</td>
+    <td class="tg-f6m5"><a href="https://quizlet.com/_bthkbc?x=1jqt&i=1c2gxb"><span style="text-decoration:none;color:#4067AE">P3 English Spelling and Dictation Week 4 </span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-4jzo"> 5</td>
+    <td class="tg-f6m5"><a href="https://quizlet.com/_bthkuy?x=1jqt&i=1c2gxb" target="_blank" rel="noopener noreferrer"><span style="color:#4067AE">P3 English Spelling and Dictation Week </span></a><a href="https://quizlet.com/_bthkuy?x=1jqt&i=1c2gxb" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#4067AE">5</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-4jzo"> 6</td>
+    <td class="tg-f6m5"><a href="https://quizlet.com/_bthl1f?x=1jqt&i=1c2gxb" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#4067AE">P3 English Spelling and Dictation Week 6</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-4jzo"> 7</td>
+    <td class="tg-f6m5"><a href="https://quizlet.com/_bthlmd?x=1jqt&i=1c2gxb" target="_blank" rel="noopener noreferrer"><span style="color:#4067AE">P3 English Spelling and Dictation Week </span></a><a href="https://quizlet.com/_bthlmd?x=1jqt&i=1c2gxb" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#4067AE">7</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-4jzo"> 8</td>
+    <td class="tg-f6m5"><a href="https://quizlet.com/_bthlsb?x=1jqt&i=1c2gxb" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#4067AE">P3 English Spelling and Dictation Week 8</span></a></td>
+  </tr>
+</tbody>
+</table>
     </div>
 	</li>
 	<li>
