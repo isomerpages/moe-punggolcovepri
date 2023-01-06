@@ -202,9 +202,62 @@ description: ""
 </ul>
 
 
-
-
 ### SCHOOL FACILITIES
+
+
+<ul class="jekyllcodex_accordion">
+  <li>
+    <input type="checkbox" id="accordion15">
+    <label for="accordion15">15) What facilities does the school have?</label>
+    <div>
+      <p>You may refer to<a href="/about-pcps/our-facilities">/about-pcps/our-facilities</a> for a list of facilities available. These facilities support the delivery of holistic education, and facilitate engaged learning in both the academic and co-curriculum areas.</p>
+    </div>
+	</li>
+	<li>
+    <input type="checkbox" id="accordion16">
+    <label for="accordion16">Simple</label>
+    <div>
+      <p>This is a simple one line item</p>
+    </div>
+	</li>
+	<li>
+    <input type="checkbox" id="accordion17">
+    <label for="accordion17">Simple</label>
+    <div>
+      <p>This is a simple one line item</p>
+    </div>
+	</li>
+	<li>
+    <input type="checkbox" id="accordion18">
+    <label for="accordion18">Simple</label>
+    <div>
+      <p>This is a simple one line item</p>
+    </div>
+	</li>
+	<li>
+    <input type="checkbox" id="accordion19">
+    <label for="accordion19">Simple</label>
+    <div>
+      <p>This is a simple one line item</p>
+    </div>
+	</li>
+	<li>
+    <input type="checkbox" id="accordion20">
+    <label for="accordion20">Simple</label>
+    <div>
+      <p>This is a simple one line item</p>
+    </div>
+	</li>
+	<li>
+    <input type="checkbox" id="accordion21">
+    <label for="accordion21">Simple</label>
+    <div>
+      <p>This is a simple one line item</p>
+    </div>
+	</li>
+</ul>
+
+
 
 
 ### PARENT SUPPORT GROUP
