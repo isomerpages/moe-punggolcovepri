@@ -11,10 +11,10 @@ third_nav_title: Subject Downloads
     <div>
 			<ul>
 <li><a href="/files/P6%20Curriculum%20briefing%202022.pdf" target="_blank" rel="noopener">P6 Curriculum Briefing 2022</a></li>
-<li><a href="INSERTFILEHERE" target="_blank" rel="noopener">P6 Curriculum Briefing Information Annex 2022</a> (file exceeds 5mb)</li>
+<li><a href="https://punggolcovepri-moe-edu-sg-admin.cwp.sg/qql/slot/u1242/2022%20curriculum%20briefing/P6%20Curriculum%20briefing_Information%20Annex.pdf" target="_blank" rel="noopener">P6 Curriculum Briefing Information Annex 2022</a> (file exceeds 5mb)</li>
 <li><a href="/files/P4%20CURRICULUM%20BRIEFING%202022.pdf" target="_blank" rel="noopener">P4 Curriculum Briefing 2022</a></li>
 <li><a href="/files/P4%20CURRICULUM%20INFO%20Annex%202022.pdf" target="_blank" rel="noopener">P4 Curriculum Briefing Information Annex 2022</a></li>
-<li><a href="INSERTFILEHERE" target="_blank" rel="noopener">P2 Curriculum Briefing 2022</a> (file exceeds 5mb)</li>
+<li><a href="https://punggolcovepri-moe-edu-sg-admin.cwp.sg/qql/slot/u1242/2022%20curriculum%20briefing/For%20website_P2%20Curriculum%20Briefing%20Slides_2022.pdf" target="_blank" rel="noopener">P2 Curriculum Briefing 2022</a> (file exceeds 5mb)</li>
 <li><a href="/files/P1%20Curriculum%20Briefing%20Slides_2022.pdf" target="_blank" rel="noopener">P1 Curriculum Briefing 2022</a></li>
 </ul>
     </div>
@@ -29,11 +29,11 @@ third_nav_title: Subject Downloads
 <li><a href="https://punggolcovepri-moe-edu-sg-admin.cwp.sg/qql/slot/u1242/2021%20Curriculum%20Briefing/P2%20Curriculum%20Briefing.mp4" target="_blank" rel="noopener">P2 Curriculum Briefing 2021</a> (insert video link)</li>
 <li><a href="https://punggolcovepri-moe-edu-sg-admin.cwp.sg/qql/slot/u1242/2021%20Curriculum%20Briefing/P3%20Curriculum%20Briefing.mp4" target="_blank" rel="noopener">P3 Curriculum Briefing 2021</a> (insert video link)</li>
 <li><a href="https://punggolcovepri-moe-edu-sg-admin.cwp.sg/qql/slot/u1242/2021%20Curriculum%20Briefing/P4%20Curriculum%20Briefing.mp4" target="_blank" rel="noopener">P4 Curriculum Briefing 2021</a> (insert video link)</li>
-<li><a href="INSERTFILEHERE" target="_blank" rel="noopener">P4 Curriculum Info Sheet 2021</a></li>
+<li><a href="/files/P4%20CURRICULUM%20INFO%20SHEET.pdf" target="_blank" rel="noopener">P4 Curriculum Info Sheet 2021</a></li>
 <li><a href="https://punggolcovepri-moe-edu-sg-admin.cwp.sg/qql/slot/u1242/2021%20Curriculum%20Briefing/P5%20Curriculum%20Briefing%202021.mp4" target="_blank" rel="noopener">P5 Curriculum Briefing 2021</a> (insert video link)</li>
-<li><a href="INSERTFILEHERE" target="_blank" rel="noopener">P5 Curriculum Info Sheet 2021</a> (file exceeds 5mb)</li>
+<li><a href="https://punggolcovepri-moe-edu-sg-admin.cwp.sg/qql/slot/u1242/2021%20Curriculum%20Briefing/P5%20Curriculum%20Info%20Sheet_PDF.pdf" target="_blank" rel="noopener">P5 Curriculum Info Sheet 2021</a> (file exceeds 5mb)</li>
 <li><a href="https://punggolcovepri-moe-edu-sg-admin.cwp.sg/qql/slot/u1242/2021%20Curriculum%20Briefing/P6%20Curriculum%20Briefing%202021.mp4" target="_blank" rel="noopener">P6 Curriculum Briefing 2021</a> (insert video link)</li>
-<li><a href="INSERTFILEHERE" target="_blank" rel="noopener">P6 Curriculum Briefing - Information Annex 2021</a> (file exceeds 5mb)</li>
+<li><a href="https://punggolcovepri-moe-edu-sg-admin.cwp.sg/qql/slot/u1242/2021%20Curriculum%20Briefing/P6%20Curriculum%20briefing_Information%20Annex.pdf" target="_blank" rel="noopener">P6 Curriculum Briefing - Information Annex 2021</a> (file exceeds 5mb)</li>
 </ul>
     </div>
 	</li>
