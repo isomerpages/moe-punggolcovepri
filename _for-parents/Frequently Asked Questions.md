@@ -7,31 +7,31 @@ description: ""
 
 <ul class="jekyllcodex_accordion">
   <li>
-    <input type="checkbox" id="accordion7">
-    <label for="accordion7">1)        What are the School hours?</label>
+    <input type="checkbox" id="accordion1">
+    <label for="accordion1">1)        What are the School hours?</label>
     <div>
       <p>Monday – Friday: 7.30am – 1.30pm<br><br>Students are to report to school by 7.25am.  Flag-raising is at 7.30am.</p>
     </div>
 	</li>
 	<li>
-    <input type="checkbox" id="accordion8">
-    <label for="accordion8">2) What are the General Office hours?</label>
+    <input type="checkbox" id="accordion2">
+    <label for="accordion2">2) What are the General Office hours?</label>
     <div>
       <p> Monday – Friday: 7.00 am to 5.30 pm
 </p>
     </div>
 	</li>
 	<li>
-    <input type="checkbox" id="accordion9">
-    <label for="accordion9">3) What are the Recess hours?
+    <input type="checkbox" id="accordion3">
+    <label for="accordion3">3) What are the Recess hours?
 </label>
     <div>
       <p>P1 : 9.00 am to 9.30 am<br>P5 : 9.30 am to 10.00 am<br> P6 : 10.00 am to 10.30 am<br>P2 : 10.30 am to 11.00 am<br> P3 : 11.00 am to 11.30 am<br>P4 : 11.30 am to 12.00 pm</p>
     </div>
 	</li>
 	<li>
-    <input type="checkbox" id="accordion10">
-    <label for="accordion10">4) What are the After-School Programmes?
+    <input type="checkbox" id="accordion4">
+    <label for="accordion4">4) What are the After-School Programmes?
 </label>
     <div>
       <style type="text/css">
@@ -92,16 +92,16 @@ description: ""
     </div>
 	</li>
 	<li>
-    <input type="checkbox" id="accordion11">
-    <label for="accordion11">5)        How much is the school fees?
+    <input type="checkbox" id="accordion5">
+    <label for="accordion5">5)        How much is the school fees?
 </label>
     <div>
       <p>The rates of school and miscellaneous fees payable are reviewed by the Ministry of Education and individual schools from time to time. For more information, please refer to MOE website at <a href="https://www.moe.gov.sg/admissions/international-students/general-info#monthly-school-fees">https://www.moe.gov.sg/admissions/international-students/general-info#monthly-school-fees</a>.</p>
     </div>
 	</li>
 	<li>
-    <input type="checkbox" id="accordion12">
-    <label for="accordion12">6) My child has misplaced/lost his EZLink Card. How can I get a replacement?</label>
+    <input type="checkbox" id="accordion6">
+    <label for="accordion6">6) My child has misplaced/lost his EZLink Card. How can I get a replacement?</label>
     <div>
       <p>You may get the card replaced through the following ways:</p>
 <ul>
@@ -114,8 +114,8 @@ description: ""
     </div>
 	</li>
 	<li>
-    <input type="checkbox" id="accordion13">
-    <label for="accordion13">7) Where can we read about the School Rules?</label>
+    <input type="checkbox" id="accordion7">
+    <label for="accordion7">7) Where can we read about the School Rules?</label>
     <div>
       <p>The School Rules are available on our School Website <a href="/for-parents/General-Matters/school-rules">/for-parents/general-matters/school-rules</a>&nbsp;and in your child&rsquo;s Pupil&rsquo;s Handbook.</p>
     </div>
