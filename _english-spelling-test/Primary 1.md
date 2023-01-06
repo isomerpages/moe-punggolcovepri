@@ -196,7 +196,8 @@ description: ""
     <input type="checkbox" id="accordion4">
 		<label for="accordion4"><h5>PRIMARY 1 ENGLISH SPELLING AND DICTATION TERM 1</h5></label>
     <div>
-      <p>This is a simple one line item</p>
+      <p><img src="/images/No%20Spelling%202.png" 
+     style="width:75%"></p>
     </div>
 	</li>
 </ul>
