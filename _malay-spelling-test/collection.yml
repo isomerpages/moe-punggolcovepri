@@ -2,6 +2,7 @@ collections:
   malay-spelling-test:
     output: true
     order:
+      - Primary 2/.keep
       - Primary 3/P3A MALAY LANGUAGE SPELLING LIST (TERM 1).md
       - Primary 3/P3A MALAY LANGUAGE SPELLING LIST (TERM 2).md
       - Primary 3/P3B MALAY LANGUAGE SPELLING LIST (TERM 3).md
