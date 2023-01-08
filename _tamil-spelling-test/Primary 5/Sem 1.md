@@ -83,7 +83,7 @@ third_nav_title: Primary 5
   </tr>
   <tr>
     <td class="tg-l70m">சொல்வதெழுதுதல் ( 4 )</td>
-    <td class="tg-g86y"><a href="https://qrgo.page.link/UkfKh"><span style="text-decoration:none;color:#0382CB">PCPS P5 TL Spelling ( 4 )</span></a></td>
+    <td class="tg-g86y"><a href="https://qrgo.page.link/UkfKh" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#4067AE">PCPS P5 TL Spelling ( 4 )</span></a></td>
   </tr>
 </tbody>
 </table>
