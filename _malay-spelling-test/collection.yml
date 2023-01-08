@@ -1,5 +1,4 @@
 collections:
   malay-spelling-test:
     output: true
-    order:
-      - Primary 4.md
+    order: []
