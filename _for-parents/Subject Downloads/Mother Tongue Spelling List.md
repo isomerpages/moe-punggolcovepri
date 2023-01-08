@@ -152,9 +152,18 @@ third_nav_title: Subject Downloads
     <td class="tg-09dh">PRIMARY 3 (TAMIL)</td>
   </tr>
   <tr>
-    <td class="tg-x5q1"></td>
-    <td class="tg-x5q1"></td>
-    <td class="tg-x5q1"></td>
+    <td class="tg-x5q1"><ul>
+<li><a href="https://punggolcovepri.moe.edu.sg/for-parents/subject-downloads/mother-tongue-spelling-list/tamil/p1-tl-spelling-list-by-unit-sem-1" target="">P1 TL Spelling List by Unit Sem 1</a></li>
+<li><a href="https://punggolcovepri.moe.edu.sg/for-parents/subject-downloads/mother-tongue-spelling-list/tamil/p1-tl-spelling-list-by-unit-sem-2" target="">P1 TL Spelling List by Unit Sem 2</a></li>
+</ul></td>
+    <td class="tg-x5q1"><ul>
+<li><a href="https://punggolcovepri.moe.edu.sg/for-parents/subject-downloads/mother-tongue-spelling-list/tamil/p2-tl-spelling-list-by-unit-sem-1" target="">P2 TL Spelling List by Unit Sem 1</a></li>
+<li><a href="https://punggolcovepri.moe.edu.sg/for-parents/subject-downloads/mother-tongue-spelling-list/tamil/p2-tl-spelling-list-by-unit-sem-2" target="">P2 TL Spelling List by Unit Sem 2</a></li>
+</ul></td>
+    <td class="tg-x5q1"><ul>
+<li><a href="https://punggolcovepri-moe-edu-sg-admin.cwp.sg/for-parents/subject-downloads/mother-tongue-spelling-list/tamil/p3-tl-spelling-list-by-unit-sem-1" target="">P3 TL Spelling List by Unit Sem 1</a></li>
+<li><a href="https://punggolcovepri-moe-edu-sg-admin.cwp.sg/for-parents/subject-downloads/mother-tongue-spelling-list/tamil/p3-tl-spelling-list-by-unit-sem-2" target="">P3 TL Spelling List by Unit Sem 2</a></li>
+</ul></td>
   </tr>
   <tr>
     <td class="tg-09dh">PRIMARY 4 (TAMIL)</td>
