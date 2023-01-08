@@ -2,6 +2,7 @@ collections:
   tamil-spelling-test:
     output: true
     order:
+      - Primary 2/P2 TL SPELLING LIST BY UNIT SEM 2.md
       - Primary 2/.keep
       - Primary 3/P3 TL SPELLING LIST BY UNIT SEM 1.md
       - Primary 3/P3 TL SPELLING LIST BY UNIT SEM 2.md
