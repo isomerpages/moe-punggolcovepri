@@ -153,16 +153,16 @@ third_nav_title: Subject Downloads
   </tr>
   <tr>
     <td class="tg-x5q1"><ul>
-<li><a href="https://punggolcovepri.moe.edu.sg/for-parents/subject-downloads/mother-tongue-spelling-list/tamil/p1-tl-spelling-list-by-unit-sem-1" target="">P1 TL Spelling List by Unit Sem 1</a></li>
-<li><a href="https://punggolcovepri.moe.edu.sg/for-parents/subject-downloads/mother-tongue-spelling-list/tamil/p1-tl-spelling-list-by-unit-sem-2" target="">P1 TL Spelling List by Unit Sem 2</a></li>
+<li><a href="/tamil-spelling-test/Primary-1/sem-1/" target="">P1 TL Spelling List by Unit Sem 1</a></li>
+<li><a href="/tamil-spelling-test/Primary-1/sem-2/" target="">P1 TL Spelling List by Unit Sem 2</a></li>
 </ul></td>
     <td class="tg-x5q1"><ul>
-<li><a href="https://punggolcovepri.moe.edu.sg/for-parents/subject-downloads/mother-tongue-spelling-list/tamil/p2-tl-spelling-list-by-unit-sem-1" target="">P2 TL Spelling List by Unit Sem 1</a></li>
-<li><a href="https://punggolcovepri.moe.edu.sg/for-parents/subject-downloads/mother-tongue-spelling-list/tamil/p2-tl-spelling-list-by-unit-sem-2" target="">P2 TL Spelling List by Unit Sem 2</a></li>
+<li><a href="/tamil-spelling-test/Primary-2/sem-1/" target="">P2 TL Spelling List by Unit Sem 1</a></li>
+<li><a href="/tamil-spelling-test/Primary-2/sem-2/" target="">P2 TL Spelling List by Unit Sem 2</a></li>
 </ul></td>
     <td class="tg-x5q1"><ul>
-<li><a href="https://punggolcovepri-moe-edu-sg-admin.cwp.sg/for-parents/subject-downloads/mother-tongue-spelling-list/tamil/p3-tl-spelling-list-by-unit-sem-1" target="">P3 TL Spelling List by Unit Sem 1</a></li>
-<li><a href="https://punggolcovepri-moe-edu-sg-admin.cwp.sg/for-parents/subject-downloads/mother-tongue-spelling-list/tamil/p3-tl-spelling-list-by-unit-sem-2" target="">P3 TL Spelling List by Unit Sem 2</a></li>
+<li><a href="/tamil-spelling-test/Primary-3/sem-1/" target="">P3 TL Spelling List by Unit Sem 1</a></li>
+<li><a href="/tamil-spelling-test/Primary-3/sem-2/" target="">P3 TL Spelling List by Unit Sem 2</a></li>
 </ul></td>
   </tr>
   <tr>
@@ -172,12 +172,12 @@ third_nav_title: Subject Downloads
   </tr>
   <tr>
     <td class="tg-x5q1"><ul>
-<li><a href="https://punggolcovepri-moe-edu-sg-admin.cwp.sg/for-parents/subject-downloads/mother-tongue-spelling-list/tamil/p4-tl-spelling-list-by-unit-sem-1" target="">P4 TL Spelling List by Unit Sem 1</a></li>
-<li><a href="https://punggolcovepri-moe-edu-sg-admin.cwp.sg/for-parents/subject-downloads/mother-tongue-spelling-list/tamil/p4-tl-spelling-list-by-unit-sem-2" target="">P4&nbsp;TL Spelling List by Unit Sem 2</a></li>
+<li><a href="/tamil-spelling-test/Primary-4/sem-1/" target="">P4 TL Spelling List by Unit Sem 1</a></li>
+<li><a href="/tamil-spelling-test/Primary-4/sem-2/" target="">P4&nbsp;TL Spelling List by Unit Sem 2</a></li>
 </ul></td>
     <td class="tg-x5q1"><ul>
-<li><a href="https://punggolcovepri-moe-edu-sg-admin.cwp.sg/for-parents/subject-downloads/mother-tongue-spelling-list/tamil/p5-tl-spelling-list-by-unit-sem-1" target="">P5 TL Spelling List by Unit Sem 1</a></li>
-<li><a href="https://punggolcovepri-moe-edu-sg-admin.cwp.sg/for-parents/subject-downloads/mother-tongue-spelling-list/tamil/p5-tl-spelling-list-by-unit-sem-2" target="">P5&nbsp;TL Spelling List by Unit Sem 2</a></li>
+<li><a href="/tamil-spelling-test/Primary-5/sem-1/" target="">P5 TL Spelling List by Unit Sem 1</a></li>
+<li><a href="/tamil-spelling-test/Primary-5/sem-2/" target="">P5&nbsp;TL Spelling List by Unit Sem 2</a></li>
 </ul></td>
     <td class="tg-x5q1"></td>
   </tr>
