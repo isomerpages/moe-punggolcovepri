@@ -26,9 +26,17 @@ third_nav_title: Subject Downloads
     <td class="tg-3eyl">PRIMARY 3 (CHINESE)</td>
   </tr>
   <tr>
-    <td class="tg-x5q1"></td>
-    <td class="tg-x5q1"></td>
-    <td class="tg-x5q1"></td>
+    <td class="tg-x5q1"><ul>
+<li><a href="https://punggolcovepri.moe.edu.sg/qql/slot/u726/CL%20Spelling%20List/1A%20%202022.pdf" target="_blank" rel="noopener">P1A Chinese Language Spelling List</a></li>
+</ul></td>
+    <td class="tg-x5q1"><ul>
+<li><a href="https://punggolcovepri.moe.edu.sg/qql/slot/u726/CL%20Spelling%20List/2A%20_Chapt%201%20to%2010.pdf" target="_blank" rel="noopener">P2A Chinese Language Spelling List</a></li>
+<li><a href="https://punggolcovepri.moe.edu.sg/qql/slot/u726/CL%20Spelling%20List/2B%20_Chapt%2011%20to%2019.pdf" target="_blank" rel="noopener">P2B Chinese Language Spelling List</a></li>
+</ul></td>
+    <td class="tg-x5q1"><ul>
+<li><a href="https://punggolcovepri.moe.edu.sg/qql/slot/u726/CL%20Spelling%20List/3A%20_Chapt%201%20to%209_HYPY.pdf" target="_blank" rel="noopener">P3A Chinese Language Spelling List</a></li>
+<li><a href="https://punggolcovepri.moe.edu.sg/qql/slot/u726/CL%20Spelling%20List/3B%20_Chapt%2010%20to%2017_HYPY.pdf" target="_blank" rel="noopener">P3B Chinese Language Spelling List</a></li>
+</ul></td>
   </tr>
   <tr>
     <td class="tg-3eyl">PRIMARY 4 (CHINESE)</td>
