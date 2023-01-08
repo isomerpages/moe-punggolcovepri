@@ -94,22 +94,22 @@ third_nav_title: Subject Downloads
   </tr>
   <tr>
     <td class="tg-x5q1"><ul>
-<li><a href="https://punggolcovepri-moe-edu-sg-admin.cwp.sg/for-parents/subject-downloads/mother-tongue-spelling-list/malay/p1a-malay-language-spelling-list-term-1" target="">P1 Malay Language Spelling List (Term 1)</a></li>
-<li><a href="https://punggolcovepri-moe-edu-sg-admin.cwp.sg/for-parents/subject-downloads/mother-tongue-spelling-list/malay/p1a-malay-language-spelling-list-term-2" target="">P1 Malay Language Spelling List (Term 2)</a></li>
-<li><a href="https://punggolcovepri.moe.edu.sg/for-parents/subject-downloads/mother-tongue-spelling-list/malay/p1b-malay-language-spelling-list-term-3" target="">P1 Malay Language Spelling List (Term 3)</a></li>
-<li><a href="https://punggolcovepri.moe.edu.sg/for-parents/subject-downloads/mother-tongue-spelling-list/malay/p1b-malay-language-spelling-list-term-4" target="">P1 Malay Language Spelling List (Term 4)</a></li>
+<li><a href="/malay-spelling-test/Primary-1/term-1/" target="">P1 Malay Language Spelling List (Term 1)</a></li>
+<li><a href="/malay-spelling-test/Primary-1/term-2/" target="">P1 Malay Language Spelling List (Term 2)</a></li>
+<li><a href="/malay-spelling-test/Primary-1/term-3/" target="">P1 Malay Language Spelling List (Term 3)</a></li>
+<li><a href="/malay-spelling-test/Primary-1/term-4/" target="">P1 Malay Language Spelling List (Term 4)</a></li>
 </ul></td>
     <td class="tg-x5q1"><ul>
-<li><a href="https://punggolcovepri-moe-edu-sg-admin.cwp.sg/for-parents/subject-downloads/mother-tongue-spelling-list/malay/p2a-malay-language-spelling-list-term-1" target="">P2 Malay Language Spelling List (Term 1)</a></li>
-<li><a href="https://punggolcovepri-moe-edu-sg-admin.cwp.sg/for-parents/subject-downloads/mother-tongue-spelling-list/malay/p2a-malay-language-spelling-list-term-2" target="">P2 Malay Language Spelling List (Term 2)</a></li>
-<li><a href="https://punggolcovepri.moe.edu.sg/for-parents/subject-downloads/mother-tongue-spelling-list/malay/p2b-malay-language-spelling-list-term-3" target="">P2 Malay Language Spelling List (Term 3)&nbsp;</a></li>
-<li><a href="https://punggolcovepri.moe.edu.sg/for-parents/subject-downloads/mother-tongue-spelling-list/malay/p2b-malay-language-spelling-list-term-4" target="">P2 Malay Language Spelling List (Term 4)</a></li>
+<li><a href="/malay-spelling-test/Primary-2/term-1/" target="">P2 Malay Language Spelling List (Term 1)</a></li>
+<li><a href="/malay-spelling-test/Primary-2/term-2/" target="">P2 Malay Language Spelling List (Term 2)</a></li>
+<li><a href="/malay-spelling-test/Primary-2/term-3/" target="">P2 Malay Language Spelling List (Term 3)&nbsp;</a></li>
+<li><a href="/malay-spelling-test/Primary-2/term-4/" target="">P2 Malay Language Spelling List (Term 4)</a></li>
 </ul></td>
     <td class="tg-x5q1"><ul>
-<li><a href="https://punggolcovepri-moe-edu-sg-admin.cwp.sg/for-parents/subject-downloads/mother-tongue-spelling-list/malay/p3a-malay-language-spelling-list-term-1" target="">P3 Malay Language Spelling List (Term 1)</a></li>
-<li><a href="https://punggolcovepri-moe-edu-sg-admin.cwp.sg/for-parents/subject-downloads/mother-tongue-spelling-list/malay/p3a-malay-language-spelling-list-term-2" target="">P3 Malay Language Spelling List (Term 2)</a></li>
-<li><a href="https://punggolcovepri.moe.edu.sg/for-parents/subject-downloads/mother-tongue-spelling-list/malay/p3b-malay-language-spelling-list-term-3" target="">P3 Malay Language Spelling List (Term 3)</a></li>
-<li><a href="https://punggolcovepri.moe.edu.sg/for-parents/subject-downloads/mother-tongue-spelling-list/malay/p3b-malay-language-spelling-list-term-4" target="">P3 Malay Language Spelling List (Term 4)</a></li>
+<li><a href="/malay-spelling-test/Primary-3/term-1/" target="">P3 Malay Language Spelling List (Term 1)</a></li>
+<li><a href="/malay-spelling-test/Primary-3/term-2/" target="">P3 Malay Language Spelling List (Term 2)</a></li>
+<li><a href="/malay-spelling-test/Primary-3/term-3/" target="">P3 Malay Language Spelling List (Term 3)</a></li>
+<li><a href="/malay-spelling-test/Primary-3/term-4/" target="">P3 Malay Language Spelling List (Term 4)</a></li>
 </ul></td>
   </tr>
   <tr>
@@ -119,8 +119,8 @@ third_nav_title: Subject Downloads
   </tr>
   <tr>
     <td class="tg-x5q1"><ul>
-<li><a href="https://punggolcovepri-moe-edu-sg-admin.cwp.sg/for-parents/subject-downloads/mother-tongue-spelling-list/malay/p4a-malay-language-spelling-list-term-1" target="">P4 Malay Language Spelling List (Term 1)</a></li>
-<li><a href="https://punggolcovepri-moe-edu-sg-admin.cwp.sg/for-parents/subject-downloads/mother-tongue-spelling-list/malay/p4a-malay-language-spelling-list-term-2" target="">P4 Malay Language Spelling List (Term 2)</a></li>
+<li><a href="/malay-spelling-test/Primary-4/term-1/" target="">P4 Malay Language Spelling List (Term 1)</a></li>
+<li><a href="/malay-spelling-test/Primary-4/term-2/" target="">P4 Malay Language Spelling List (Term 2)</a></li>
 </ul></td>
     <td class="tg-x5q1"></td>
     <td class="tg-x5q1"></td>
