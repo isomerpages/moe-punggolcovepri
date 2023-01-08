@@ -2,4 +2,5 @@ collections:
   malay-spelling-test:
     output: true
     order:
+      - Primary 4/P4A MALAY LANGUAGE SPELLING LIST (TERM 2).md
       - Primary 4/.keep
