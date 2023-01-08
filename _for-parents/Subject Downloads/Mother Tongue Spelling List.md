@@ -44,9 +44,25 @@ third_nav_title: Subject Downloads
     <td class="tg-3eyl">PRIMARY 6 (CHINESE)</td>
   </tr>
   <tr>
-    <td class="tg-x5q1"></td>
-    <td class="tg-x5q1"></td>
-    <td class="tg-x5q1"></td>
+    <td class="tg-x5q1"><ul>
+<li><a href="https://punggolcovepri.moe.edu.sg/qql/slot/u726/CL%20Spelling%20List/4A%20_1-9_23122021.pdf" target="_blank" rel="noopener">P4A Chinese Language Spelling List</a></li>
+<li><a href="https://punggolcovepri.moe.edu.sg/qql/slot/u726/CL%20Spelling%20List/4B%20_10-16_231221.pdf" target="_blank" rel="noopener">P4B Chinese Language Spelling List</a></li>
+</ul></td>
+    <td class="tg-x5q1"><ul>
+<li><a href="https://punggolcovepri.moe.edu.sg/qql/slot/u726/CL%20Spelling%20List/5A%20_1-8%20with%20HYPY.pdf" target="_blank" rel="noopener">P5A Chinese Language Spelling List</a></li>
+<li><a href="https://punggolcovepri.moe.edu.sg/qql/slot/u726/CL%20Spelling%20List/5B%20_9-15%20HYPY.pdf" target="_blank" rel="noopener">P5B Chinese Language Spelling List</a></li>
+<li><a href="https://punggolcovepri.moe.edu.sg/qql/slot/u726/CL%20Spelling%20List/5A%20__1-9.pdf" target="_blank" rel="noopener">P5A Higher Chinese Language Spelling List</a></li>
+<li><a href="https://punggolcovepri.moe.edu.sg/qql/slot/u726/CL%20Spelling%20List/5A%20FCL%20.pdf" target="_blank" rel="noopener">P5A Foundation Chinese Language Spelling List</a></li>
+<li><a href="https://punggolcovepri.moe.edu.sg/qql/slot/u726/CL%20Spelling%20List/5B%20FCL%20.pdf" target="_blank" rel="noopener">P5B Foundation Chinese Language Spelling List</a></li>
+</ul></td>
+    <td class="tg-x5q1"><ul>
+<li><a href="https://punggolcovepri.moe.edu.sg/qql/slot/u726/CL%20Spelling%20List/6A%20_1-6%20with%20HYPY.pdf" target="_blank" rel="noopener">P6A Chinese Language Spelling List</a></li>
+<li><a href="https://punggolcovepri.moe.edu.sg/qql/slot/u726/CL%20Spelling%20List/6B%20%20with%20HYPY_7-10.pdf" target="_blank" rel="noopener">P6B Chinese Language Spelling List</a></li>
+<li><a href="https://punggolcovepri.moe.edu.sg/qql/slot/u726/CL%20Spelling%20List/6A%20__1-7.pdf" target="_blank" rel="noopener">P6A Higher Chinese Language Spelling List</a></li>
+<li><a href="https://punggolcovepri.moe.edu.sg/qql/slot/u726/CL%20Spelling%20List/6B%20__8-12.pdf" target="_blank" rel="noopener">P6B Higher Chinese Language Spelling List</a></li>
+<li><a href="https://punggolcovepri.moe.edu.sg/qql/slot/u726/CL%20Spelling%20List/6A%20FCL%20%20with%20HYPY.pdf" target="_blank" rel="noopener">P6A Foundation Chinese Language Spelling List</a></li>
+<li><a href="https://punggolcovepri.moe.edu.sg/qql/slot/u726/CL%20Spelling%20List/6B%20FCL%20%20with%20HYPY.pdf" target="_blank" rel="noopener">P6B Foundation Chinese Language Spelling List</a></li>
+</ul></td>
   </tr>
 </tbody>
 </table>
