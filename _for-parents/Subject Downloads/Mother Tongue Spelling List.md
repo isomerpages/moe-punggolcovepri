@@ -127,3 +127,39 @@ third_nav_title: Subject Downloads
   </tr>
 </tbody>
 </table>
+
+### Tamil
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-x5q1{font-size:16px;text-align:left;vertical-align:top}
+.tg .tg-09dh{color:#4067ae;font-size:16px;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<tbody>
+  <tr>
+    <td class="tg-09dh">PRIMARY 1 (TAMIL)</td>
+    <td class="tg-09dh">PRIMARY 2 (TAMIL)</td>
+    <td class="tg-09dh">PRIMARY 3 (TAMIL)</td>
+  </tr>
+  <tr>
+    <td class="tg-x5q1"></td>
+    <td class="tg-x5q1"></td>
+    <td class="tg-x5q1"></td>
+  </tr>
+  <tr>
+    <td class="tg-09dh">PRIMARY 4 (TAMIL)</td>
+    <td class="tg-09dh">PRIMARY 5 (TAMIL)</td>
+    <td class="tg-09dh"></td>
+  </tr>
+  <tr>
+    <td class="tg-x5q1"></td>
+    <td class="tg-x5q1"></td>
+    <td class="tg-x5q1"></td>
+  </tr>
+</tbody>
+</table>
