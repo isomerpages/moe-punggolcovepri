@@ -2,5 +2,6 @@ collections:
   tamil-spelling-test:
     output: true
     order:
+      - Primary 5/Sem 1.md
       - Primary 5/Sem 2.md
       - Primary 5/.keep
