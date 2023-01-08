@@ -139,7 +139,12 @@ third_nav_title: Subject Downloads
 .tg .tg-x5q1{font-size:16px;text-align:left;vertical-align:top}
 .tg .tg-09dh{color:#4067ae;font-size:16px;font-weight:bold;text-align:center;vertical-align:top}
 </style>
-<table class="tg">
+<table class="tg" style="undefined;table-layout: fixed; width: 750px">
+<colgroup>
+<col style="width: 250px">
+<col style="width: 250px">
+<col style="width: 250px">
+</colgroup>
 <tbody>
   <tr>
     <td class="tg-09dh">PRIMARY 1 (TAMIL)</td>
