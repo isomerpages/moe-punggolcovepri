@@ -152,17 +152,17 @@ third_nav_title: Subject Downloads
   </tr>
   <tr>
     <td class="tg-r28n"><img src="/images/ict2018-2.jpeg" 
-     style="width:100%"></td></td>
+     style="width:100%"></td>
     <td class="tg-ewmv"><a href="/files/2018%20Sep%20ICT%20Newsletter.pdf" target="_blank" rel="noopener noreferrer"><span style="font-weight:400;font-style:normal;text-decoration:none">September Newsletter 2018</span></a></td>
   </tr>
   <tr>
     <td class="tg-r28n"><img src="/images/ict2018-3.png" 
-     style="width:100%"></td></td>
+     style="width:100%"></td>
     <td class="tg-ewmv"><a href="/files/2018%20May%20ICT%20Newsletter.pdf" target="_blank" rel="noopener noreferrer"><span style="font-weight:400;font-style:normal;text-decoration:none">May Newsletter 2018</span></a></td>
   </tr>
   <tr>
     <td class="tg-r28n"><img src="/images/ict2018-4.png" 
-     style="width:100%"></td></td>
+     style="width:100%"></td>
     <td class="tg-ewmv"><a href="/files/2018%20Mar%20ICT%20Newsletter.pdf" target="_blank" rel="noopener noreferrer"><span style="font-weight:400;font-style:normal;text-decoration:none">March Newsletter 2018</span></a></td>
   </tr>
 </tbody>
