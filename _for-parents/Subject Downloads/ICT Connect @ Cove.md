@@ -173,7 +173,43 @@ third_nav_title: Subject Downloads
     <input type="checkbox" id="accordion6">
     <label for="accordion6"><h5>ICT CONNECT @ COVE NEWSLETTER 2017</h5></label>
     <div>
-      <p>This is a simple one line item</p>
+      <style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-r28n{font-size:18px;text-align:center;vertical-align:middle}
+.tg .tg-ewmv{font-size:18px;text-align:left;vertical-align:middle}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 624px">
+<colgroup>
+<col style="width: 221px">
+<col style="width: 403px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-r28n"><img src="/images/ict17-1.png" 
+     style="width:100%"></td>
+    <td class="tg-ewmv"><a href="/files/2017%20Nov%20ICT%20Connect.pdf" target="_blank" rel="noopener noreferrer"><span style="font-weight:400;font-style:normal;text-decoration:none">November Newsletter 2017</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-r28n"><img src="/images/ict17-2.png" 
+     style="width:100%"></td>
+    <td class="tg-ewmv"><a href="/files/2017%20Sep%20ICT%20Connect.pdf" target="_blank" rel="noopener noreferrer"><span style="font-weight:400;font-style:normal;text-decoration:none">September Newsletter 2017</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-r28n"><img src="/images/ict17-3.png" 
+     style="width:100%"></td>
+    <td class="tg-ewmv"><a href="/files/ICT%20Newsletter%202017%20May.pdf" target="_blank" rel="noopener noreferrer"><span style="font-weight:400;font-style:normal;text-decoration:none">May Newsletter 2017</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-r28n"><img src="/images/ict17-4.png" 
+     style="width:100%"></td>
+    <td class="tg-ewmv"><a href="/files/ICT%20Newsletter%202017%20Mar.pdf" target="_blank" rel="noopener noreferrer"><span style="font-weight:400;font-style:normal;text-decoration:none">March Newsletter 2017</span></a></td>
+  </tr>
+</tbody>
+</table>
     </div>
 	</li>
 	<li>
