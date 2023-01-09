@@ -103,19 +103,23 @@ third_nav_title: Subject Downloads
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-r28n"></td>
+    <td class="tg-r28n"><img src="/images/ict19-1.png" 
+     style="width:100%"></td>
     <td class="tg-ewmv"><a href="/files/iCT%20CONNECT%20@%20Cove%20(Term%204%202019).pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none">November Newsletter 2019</span></a></td>
   </tr>
   <tr>
-    <td class="tg-r28n"></td>
+    <td class="tg-r28n"><img src="/images/ict19-2.png" 
+     style="width:100%"></td>
     <td class="tg-ewmv"><a href="/files/CW%202019%20Term%203%20Newsletter%20Ver%204.pdf" target="_blank" rel="noopener noreferrer"><span style="font-weight:400;font-style:normal;text-decoration:none">September Newsletter 2019</span></a></td>
   </tr>
   <tr>
-    <td class="tg-r28n"></td>
+    <td class="tg-r28n"><img src="/images/ict19-3.png" 
+     style="width:100%"></td>
     <td class="tg-ewmv"><a href="/files/2019%20June%20ICT%20Newsletter%20(final).pdf" target="_blank" rel="noopener noreferrer"><span style="font-weight:400;font-style:normal;text-decoration:none">June Newsletter 2019</span></a></td>
   </tr>
   <tr>
-    <td class="tg-r28n"></td>
+    <td class="tg-r28n"><img src="/images/ict19-4.png" 
+     style="width:100%"></td>
     <td class="tg-ewmv"><a href="/files/2019%20Mar%20ICT%20Newsletter.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none">March Newsletter 2019</span></a></td>
   </tr>
 </tbody>
