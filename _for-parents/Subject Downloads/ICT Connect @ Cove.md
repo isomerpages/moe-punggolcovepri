@@ -38,14 +38,12 @@ third_nav_title: Subject Downloads
 </table>
     </div>
 	</li>
-	</li>
 	<li>
     <input type="checkbox" id="accordion2">
     <label for="accordion2"><h5>ICT CONNECT @ COVE NEWSLETTER 2021</h5></label>
     <div>
       <p><a href="/files/2021%20Term%204%20CW%20Newsletter.pdf" target="_blank" rel="noopener">November Newsletter 2021</a><br /><a href="/files/2021%20Term%204%20CW%20Newsletter.pdf" target="_blank" rel="noopener">October Newsletter 2021</a></p>
     </div>
-	</li>
 	</li>
 	<li>
     <input type="checkbox" id="accordion3">
@@ -84,7 +82,6 @@ third_nav_title: Subject Downloads
 </tbody>
 </table>
     </div>
-	</li>
 	</li>
 	<li>
     <input type="checkbox" id="accordion4">
@@ -125,14 +122,12 @@ third_nav_title: Subject Downloads
 </table>
     </div>
 	</li>
-	</li>
 	<li>
     <input type="checkbox" id="accordion5">
     <label for="accordion5"><h5>ICT CONNECT @ COVE NEWSLETTER 2018</h5></label>
     <div>
       <p>This is a simple one line item</p>
     </div>
-	</li>
 	</li>
 	<li>
     <input type="checkbox" id="accordion6">
@@ -141,13 +136,11 @@ third_nav_title: Subject Downloads
       <p>This is a simple one line item</p>
     </div>
 	</li>
-	</li>
 	<li>
     <input type="checkbox" id="accordion7">
     <label for="accordion7"><h5>ICT CONNECT @ COVE NEWSLETTER 2016</h5></label>
     <div>
       <p>This is a simple one line item</p>
     </div>
-	</li>
 	</li>
 </ul>
