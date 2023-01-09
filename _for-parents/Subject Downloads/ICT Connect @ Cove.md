@@ -27,12 +27,12 @@ third_nav_title: Subject Downloads
   <tr>
     <td class="tg-r28n"><img src="/images/ict22-1.png" 
      style="width:100%"></td>
-    <td class="tg-ewmv"><a href="https://punggolcovepri.moe.edu.sg/qql/slot/u1242/ICT/June%202022_CW%20Newsletter.pdf" target="_blank" rel="noopener noreferrer"><span style="font-weight:400;font-style:normal;text-decoration:none">June Newsletter 2022</span></a></td>
+    <td class="tg-ewmv"><a href="/files/June%202022_CW%20Newsletter.pdf" target="_blank" rel="noopener noreferrer"><span style="font-weight:400;font-style:normal;text-decoration:none">June Newsletter 2022</span></a></td>
   </tr>
   <tr>
     <td class="tg-r28n"><img src="/images/ict22-2.png" 
      style="width:100%"></td>
-    <td class="tg-ewmv"><a href="https://punggolcovepri.moe.edu.sg/qql/slot/u1242/ICT/March%202022_CW%20Newsletter.pdf" target="_blank" rel="noopener noreferrer"><span style="font-weight:400;font-style:normal;text-decoration:none">March Newsletter 2022</span></a></td>
+    <td class="tg-ewmv"><a href="/files/March%202022_CW%20Newsletter.pdf" target="_blank" rel="noopener noreferrer"><span style="font-weight:400;font-style:normal;text-decoration:none">March Newsletter 2022</span></a></td>
   </tr>
 </tbody>
 </table>
