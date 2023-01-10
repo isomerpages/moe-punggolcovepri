@@ -26,9 +26,14 @@ locations:
     title: MOE Kindergarten
 contacts:
   - content:
-      - phone: +65 6123 4567
-      - email: enquiries@abc.gov.sg
-      - other: Any text here <i>including HTML</i>
+      - phone: +65 6385 7339
+      - email: punggolcove_ps@moe.edu.sg
+      - other: 'Fax: +65 63857261<br>Website:&nbsp;<a
+          href="https://punggolcovepri.moe.edu.sg/about-pcps/contact-us"
+          target="">www.punggolcovepri.moe.edu.sg</a><br />Facebook:&nbsp;<a
+          href="https://www.facebook.com/pages/Punggol-Cove-Primary-School/1452277625087945?ref=aymt_homepage_panel"
+          target="_blank"
+          rel="noopener">https://www.facebook.com/pages/Punggol-Cove-Primary-School</a>'
     title: General Enquiries & Feedback
   - content:
       - phone: +65 6282 2375
