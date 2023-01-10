@@ -4,6 +4,8 @@ permalink: /for-parents/Subject-Downloads/mother-tongue-spelling-list/
 description: ""
 third_nav_title: Subject Downloads
 ---
+<a id="chinese"></a>
+
 ### Chinese
 
 <style type="text/css">
@@ -69,6 +71,9 @@ third_nav_title: Subject Downloads
 </tbody>
 </table>
 
+
+<a id="malay"></a>
+
 ### Malay
 
 <style type="text/css">
@@ -127,6 +132,9 @@ third_nav_title: Subject Downloads
   </tr>
 </tbody>
 </table>
+
+
+<a id="tamil"></a>
 
 ### Tamil
 
