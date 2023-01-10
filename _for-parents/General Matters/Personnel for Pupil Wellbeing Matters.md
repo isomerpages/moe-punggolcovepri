@@ -22,7 +22,7 @@ third_nav_title: General Matters
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-g6yu">Any medical condition: <br></td>
+    <td class="tg-g6yu">Any medical condition: </td>
     <td class="tg-qtsq">  Form Teacher </td>
     <td class="tg-qtsq">Please Contact Respective Teachers </td>
   </tr>
