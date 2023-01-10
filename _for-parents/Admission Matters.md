@@ -19,23 +19,29 @@ description: ""
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-57o1"><span style="color:#FFF">Primary One Registration</span></td>
-    <td class="tg-57o1"><span style="color:#FFF">International Students</span></td>
-    <td class="tg-57o1"><span style="color:#FFF">Transfer to PCPS</span></td>
+		<td class="tg-57o1"><a href="#p1-reg"><span style="color:#FFF">Primary One Registration</span></a></td>
+    <td class="tg-57o1"><a href="#internationalstudents"><span style="color:#FFF">International Students</span></a></td>
+		<td class="tg-57o1"><a href="#transfer"><span style="color:#FFF">Transfer to PCPS</span></a></td>
   </tr>
 </tbody>
 </table>
 
 
+<a id="p1-reg"></a>
+
 ### PRIMARY 1 REGISTRATION
 
 For more information on Primary One Registration, please refer to [https://www.moe.gov.sg/primary/p1-registration](https://www.moe.gov.sg/primary/p1-registration) 
+
+
+<a id="internationalstudents"></a>
 
 ### INTERNATIONAL STUDENTS
 
 For more information on International Students Admissions, please refer to [https://www.moe.gov.sg/international-students](https://www.moe.gov.sg/international-students)  
 
   
+<a id="transfer"></a>
 
 ### TRANSFER TO PCPS
 
