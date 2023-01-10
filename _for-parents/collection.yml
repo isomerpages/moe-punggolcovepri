@@ -2,6 +2,8 @@ collections:
   for-parents:
     output: true
     order:
+      - General Matters/.keep
+      - General Matters/School Matters.md
       - General Matters/Communication Channel.md
       - General Matters/Personnel for Pupil Wellbeing Matters.md
       - General Matters/School Discipline Policy.md
@@ -9,8 +11,6 @@ collections:
       - General Matters/School Fees.md
       - General Matters/Drop Off and Pick Up.md
       - General Matters/P1 Orientation.md
-      - General Matters/School Matters.md
-      - General Matters/.keep
       - Useful Links.md
       - Parents Notes/2022.md
       - Parents Notes/2021.md
