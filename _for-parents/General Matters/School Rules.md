@@ -67,11 +67,15 @@ third_nav_title: General Matters
   </tr>
   <tr>
     <td class="tg-3kl0">7</td>
-    <td class="tg-5sko"><span style="font-weight:bold;text-decoration:underline">Make Up/ Body art </span><br></td>
+    <td class="tg-5sko"><span style="font-weight:bold;text-decoration:underline">Make Up/ Body art </span><br><ul>
+<li>No make-up or body art is allowed.</li>
+</ul></td>
   </tr>
   <tr>
     <td class="tg-3kl0">8</td>
-    <td class="tg-5sko"><span style="font-weight:bold;text-decoration:underline">Cardigan/Sweater or Sandals</span><br></td>
+    <td class="tg-5sko"><span style="font-weight:bold;text-decoration:underline">Cardigan/Sweater or Sandals</span><br><ul>
+<li>Cardigan, sweater or sandals worn on a prolonged basis must be supported by letter/s from the doctor.</li>
+</ul></td>
   </tr>
 </tbody>
 </table>
