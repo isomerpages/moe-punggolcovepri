@@ -31,19 +31,32 @@ third_nav_title: General Matters
   </tr>
   <tr>
     <td class="tg-3kl0">2</td>
-    <td class="tg-5sko"><span style="font-weight:bold;text-decoration:underline">PE Attire</span><br></td>
+    <td class="tg-5sko"><span style="font-weight:bold;text-decoration:underline">PE Attire</span><br><ul>
+<li>Students can put on their school PE shorts only on days with PE/PAL lessons. At other times, students are expected to wear their formal school attire (Skorts/Bermudas).</li>
+<li>CCA/ PE/ School-approved T-shirts and track shoes are allowed for special programmes/ activities with consent from teachers concerned.</li>
+</ul></td>
   </tr>
   <tr>
     <td class="tg-3kl0">3</td>
-    <td class="tg-5sko"><span style="font-weight:bold;text-decoration:underline">Hair</span> <br></td>
+    <td class="tg-5sko"><span style="font-weight:bold;text-decoration:underline">Hair</span><br><ul>
+<li>Hair is to be kept simple, neat and of natural colour.</li>
+<li>Students are not allowed to colour, highlight, tint or perm their hair.</li>
+<li>Boys must keep their hair short and tidy. They should not have hair touching the collar, ears, or eyebrows. Hair at the side and back must be sloped.</li>
+<li>Girls with long fringe are to keep them off their faces with blue/black pins or hair bands.</li>
+<li>Girls with long hair or hair reaching below the collar must be tied up neatly with plain blue/black rubber bands or clip.</li>
+</ul></td>
   </tr>
   <tr>
     <td class="tg-3kl0">4</td>
-    <td class="tg-5sko"><span style="font-weight:bold;text-decoration:underline">Moustache/ Beard/ Sideburns</span><br></td>
+    <td class="tg-5sko"><span style="font-weight:bold;text-decoration:underline">Moustache/ Beard/ Sideburns</span><br><ul>
+<li>Male students must be clean-shaven and neat in appearance. No facial hair including moustache, beard or sideburn is allowed.</li>
+</ul></td>
   </tr>
   <tr>
     <td class="tg-3kl0">5</td>
-    <td class="tg-5sko"><span style="font-weight:bold;text-decoration:underline">Fingernails</span> <br></td>
+    <td class="tg-5sko"><span style="font-weight:bold;text-decoration:underline">Fingernails</span> <br><ul>
+<li>Nails must be kept short, clean. No varnish or hardener is allowed.</li>
+</ul></td>
   </tr>
   <tr>
     <td class="tg-3kl0">6</td>
