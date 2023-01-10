@@ -21,9 +21,9 @@ third_nav_title: Subject Downloads
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-7jts"><span style="font-weight:bold;font-style:normal">CURRICULUM &amp; ACADEMIC BRIEFING</span></td>
-    <td class="tg-7jts"><span style="font-weight:bold;font-style:normal">ENGLISH SPELLING LIST</span></td>
-    <td class="tg-7jts"><span style="font-weight:bold;font-style:normal">MOTHER TONGUE SPELLING LIST</span></td>
+    <td class="tg-7jts">    <span style="font-weight:bold;font-style:normal;color:#4067AE">CURRICULUM &amp; ACADEMIC BRIEFING</span></td>
+    <td class="tg-7jts">    <span style="font-weight:bold;font-style:normal;color:#4067AE">ENGLISH SPELLING LIST</span></td>
+    <td class="tg-7jts">    <span style="font-weight:bold;font-style:normal;color:#4067AE">MOTHER TONGUE SPELLING LIST</span></td>
   </tr>
   <tr>
     <td class="tg-fuxe"><ul>
@@ -39,12 +39,14 @@ third_nav_title: Subject Downloads
 </ul></td>
   </tr>
   <tr>
-    <td class="tg-7jts"><span style="font-weight:bold">PHYSICAL EDUCATION</span></td>
+    <td class="tg-7jts">    <span style="font-weight:bold;font-style:normal;color:#4067AE">PHYSICAL EDUCATION</span></td>
     <td class="tg-7jts"></td>
     <td class="tg-7jts"></td>
   </tr>
   <tr>
-    <td class="tg-fuxe"></td>
+    <td class="tg-fuxe"><ul>
+<li><a href="https://punggolcovepri.moe.edu.sg/for-parents/subject-downloads/physical-education" target="">Home-Based Learning</a></li>
+</ul></td>
     <td class="tg-fuxe"></td>
     <td class="tg-fuxe"></td>
   </tr>
