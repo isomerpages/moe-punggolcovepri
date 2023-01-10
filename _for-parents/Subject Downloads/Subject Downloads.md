@@ -33,9 +33,9 @@ third_nav_title: Subject Downloads
 <li><a href="/for-parents/Subject-Downloads/english-spelling-test/" target="">English</a></li>
 </ul></td>
     <td class="tg-fuxe"><ul>
-<li><a href="https://punggolcovepri.moe.edu.sg/for-parents/subject-downloads/mother-tongue-spelling-list/chinese" target="">Chinese</a></li>
-<li><a href="https://punggolcovepri.moe.edu.sg/for-parents/subject-downloads/mother-tongue-spelling-list/malay" target="">Malay</a></li>
-<li><a href="linkhere" target="">Tamil</a></li>
+<li><a href="/for-parents/Subject-Downloads/mother-tongue-spelling-list/#chinese" target="">Chinese</a></li>
+<li><a href="/for-parents/Subject-Downloads/mother-tongue-spelling-list/#malay" target="">Malay</a></li>
+<li><a href="/for-parents/Subject-Downloads/mother-tongue-spelling-list/#tamil" target="">Tamil</a></li>
 </ul></td>
   </tr>
   <tr>
