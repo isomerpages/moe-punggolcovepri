@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - General Matters/General Matters.md
       - General Matters/.keep
       - Useful Links.md
       - Parents Notes/2022.md
