@@ -67,9 +67,14 @@ description: ""
 	</li>
 	<li>
     <input type="checkbox" id="accordion3">
-    <label for="accordion3">Simple</label>
+    <label for="accordion3">OTHER USEFUL SITES</label>
     <div>
-      <p>This is a simple one line item</p>
+      <p><ol>
+<li><a href="https://schoolbag.sg/" target="_blank" rel="noopener">Schoolbag</a></li>
+<li><a href="http://www.moe.gov.sg/education/primary/" target="_blank" rel="noopener">Primary Education</a></li>
+<li><a href="http://www.hpb.gov.sg/HOPPortal/" target="_blank" rel="noopener">Health Promotion Board</a></li>
+<li><a href="https://www.imda.gov.sg/community/consumer-education/digital-inclusion/neu-pc-plus-programme" target="_blank" rel="noopener">NEU PC Plus Programme</a></li>
+</ol></p>
     </div>
 	</li>
 </ul>
