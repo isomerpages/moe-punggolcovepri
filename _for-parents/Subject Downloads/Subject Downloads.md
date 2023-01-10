@@ -27,7 +27,7 @@ third_nav_title: Subject Downloads
   </tr>
   <tr>
     <td class="tg-fuxe"><ul>
-<li><a href="https://punggolcovepri-moe-edu-sg-admin.cwp.sg/for-parents/subject-downloads/curriculum-n-academic-briefing">P1 to P6 Curriculum&nbsp;&amp; Academic Briefing Slides</a></li>
+<li><a href="/for-parents/Subject-Downloads/curriculum-and-academic-briefing/">P1 to P6 Curriculum Academic Briefing Slides</a></li>
 </ul></td>
     <td class="tg-fuxe"><ul>
 <li><a href="https://punggolcovepri.moe.edu.sg/for-parents/subject-downloads/english-spelling-list" target="">English</a></li>
@@ -39,7 +39,7 @@ third_nav_title: Subject Downloads
 </ul></td>
   </tr>
   <tr>
-    <td class="tg-7jts">    <span style="font-weight:bold;font-style:normal;color:#4067AE">PHYSICAL EDUCATION</span></td>
+    <td class="tg-7jts"><span style="font-weight:bold;font-style:normal;color:#4067AE">PHYSICAL EDUCATION</span></td>
     <td class="tg-7jts"></td>
     <td class="tg-7jts"></td>
   </tr>
