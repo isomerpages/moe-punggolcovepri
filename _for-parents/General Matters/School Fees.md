@@ -68,3 +68,8 @@ third_nav_title: General Matters
   </tr>
 </tbody>
 </table>
+
+**Note:**  
+SG - Singaporean   
+PR - Permanent Resident   
+IS - International Student
