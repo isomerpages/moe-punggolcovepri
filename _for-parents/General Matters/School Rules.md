@@ -60,7 +60,10 @@ third_nav_title: General Matters
   </tr>
   <tr>
     <td class="tg-3kl0">6</td>
-    <td class="tg-5sko"><span style="font-weight:bold;text-decoration:underline">Jewellery/ Ornaments </span><br><br></td>
+    <td class="tg-5sko"><span style="font-weight:bold;text-decoration:underline">Jewellery/ Ornaments </span><br><ul>
+<li>No jewellery/ornament/accessory is to be worn.&nbsp;</li>
+<li>Girls are allowed to wear one pair of matching plain&nbsp;ear-studs (less than 5mm in diameter) on the ear lobe. For safety reason,&nbsp;<strong><u>NO&nbsp;</u></strong>dangling or multiple earrings are allowed.</li>
+</ul></td>
   </tr>
   <tr>
     <td class="tg-3kl0">7</td>
