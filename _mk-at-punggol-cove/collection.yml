@@ -1,4 +1,5 @@
 collections:
   mk-at-punggol-cove:
     output: true
-    order: []
+    order:
+      - MK Videos.md
