@@ -4,10 +4,6 @@ permalink: /for-parents/Subject-Downloads/mother-tongue-spelling-list/
 description: ""
 third_nav_title: Subject Downloads
 ---
-<a href="#malay">test</a>
-
-
-
 <a id="chinese"></a>
 
 ### Chinese
