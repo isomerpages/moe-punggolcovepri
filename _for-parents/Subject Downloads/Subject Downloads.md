@@ -29,8 +29,14 @@ third_nav_title: Subject Downloads
     <td class="tg-fuxe"><ul>
 <li><a href="https://punggolcovepri-moe-edu-sg-admin.cwp.sg/for-parents/subject-downloads/curriculum-n-academic-briefing">P1 to P6 Curriculum&nbsp;&amp; Academic Briefing Slides</a></li>
 </ul></td>
-    <td class="tg-fuxe"></td>
-    <td class="tg-fuxe"></td>
+    <td class="tg-fuxe"><ul>
+<li><a href="https://punggolcovepri.moe.edu.sg/for-parents/subject-downloads/english-spelling-list" target="">English</a></li>
+</ul></td>
+    <td class="tg-fuxe"><ul>
+<li><a href="https://punggolcovepri.moe.edu.sg/for-parents/subject-downloads/mother-tongue-spelling-list/chinese" target="">Chinese</a></li>
+<li><a href="https://punggolcovepri.moe.edu.sg/for-parents/subject-downloads/mother-tongue-spelling-list/malay" target="">Malay</a></li>
+<li><a href="https://punggolcovepri.moe.edu.sg/for-parents/subject-downloads/mother-tongue-spelling-list/tamil" target="">Tamil</a></li>
+</ul></td>
   </tr>
   <tr>
     <td class="tg-7jts"><span style="font-weight:bold">PHYSICAL EDUCATION</span></td>
