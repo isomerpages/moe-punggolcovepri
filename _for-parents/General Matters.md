@@ -5,8 +5,7 @@ description: ""
 ---
 ### SCHOOL MATTERS
 
-School Operating Hours
-
+School Operating Hours   
 7.30am – 5.30pm daily
 
 
@@ -41,9 +40,3 @@ School Operating Hours
 5. Other Safety Rules
 * Pupils are not to wear expensive jewellery or other valuables to school. They are also NOT to bring          too much money to school.
 * Any form of electronic devices is not allowed in school. Eg. handphone, electronic games
-
- 
-
-
-
-
