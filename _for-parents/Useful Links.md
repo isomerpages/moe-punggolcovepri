@@ -38,15 +38,16 @@ description: ""
     </div>
 	</li>
 	<li>
-    <input type="checkbox" id="accordion1">
-    <label for="accordion1">Simple</label>
+    <input type="checkbox" id="accordion2">
+    <label for="accordion2">SCHOOL VENDOR</label>
     <div>
-      <p>This is a simple one line item</p>
+      <p><u><strong>School Bus Operator</strong></u><br />SFX Transport Pte Ltd<br />31 Sin Ming Drive #01-299 Singapore 575705 <br />Contact No: 62820262 <br />Registration link: <a href="https://pcps-sfx.solo-cloud.com/schoolbus/" target="_blank" rel="noopener">pcps.sfxtransport.com.sg</a></p>
+<p><u><strong>School Uniform Supplier<br /></strong></u>Shanghai School Uniforms Pte Ltd<br />Tel: 63522741<br />Download Info:&nbsp;<a href="/files/Letter%20for%20Parents%202017.pdf">Letter for Parents 2017.pdf</a><br /><br /><u><strong>School Bookshop<br /></strong></u>BL Marketing<br />Tel: 62819274&nbsp;<br />Opening hours: 0830 &ndash; 1330<br />Lunch Hour: 1200 &ndash; 1300<br /><br /><u><strong>School Dental Clinic<br /></strong></u>Tel: 89409357<br /><br /><strong><u>SCC-KCare Information<br /></u></strong>PCPS Student Care (SCC) and Kindergarten Care (KCare) Centres</p>
     </div>
 	</li>
 	<li>
-    <input type="checkbox" id="accordion1">
-    <label for="accordion1">Simple</label>
+    <input type="checkbox" id="accordion3">
+    <label for="accordion3">Simple</label>
     <div>
       <p>This is a simple one line item</p>
     </div>
