@@ -43,6 +43,26 @@ description: ""
     <div>
       <p><u><strong>School Bus Operator</strong></u><br />SFX Transport Pte Ltd<br />31 Sin Ming Drive #01-299 Singapore 575705 <br />Contact No: 62820262 <br />Registration link: <a href="https://pcps-sfx.solo-cloud.com/schoolbus/" target="_blank" rel="noopener">pcps.sfxtransport.com.sg</a></p>
 <p><u><strong>School Uniform Supplier<br /></strong></u>Shanghai School Uniforms Pte Ltd<br />Tel: 63522741<br />Download Info:&nbsp;<a href="/files/Letter%20for%20Parents%202017.pdf">Letter for Parents 2017.pdf</a><br /><br /><u><strong>School Bookshop<br /></strong></u>BL Marketing<br />Tel: 62819274&nbsp;<br />Opening hours: 0830 &ndash; 1330<br />Lunch Hour: 1200 &ndash; 1300<br /><br /><u><strong>School Dental Clinic<br /></strong></u>Tel: 89409357<br /><br /><strong><u>SCC-KCare Information<br /></u></strong>PCPS Student Care (SCC) and Kindergarten Care (KCare) Centres</p>
+			<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-8aya{background-color:#FFF;color:#222;font-size:18px;text-align:center;vertical-align:middle}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 685px">
+<colgroup>
+<col style="width: 256px">
+<col style="width: 429px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-8aya"><span style="font-weight:normal">From 1 January 2021</span></td>
+    <td class="tg-8aya"><span style="font-weight:normal">Little Professors Learning Centre Pte Ltd</span><br><br><a href="https://punggolcovepri.moe.edu.sg/qql/slot/u1242/Student%20Care%20(Little%20Professor)/2022-09-05%20-%20SCC%20at%20Punggol%20Cove%20Primary%20School.pdf"><span style="text-decoration:none;color:#4067AE">SCC Introduction Letter</span></a><br><a href="https://docs.google.com/forms/d/e/1FAIpQLScZg_JQFAU4_G6CXcwZxsJ-WU-i-sGvy1B8Y1ATR7WM1bHwlw/viewform"><span style="text-decoration:none;color:#4067AE">SCC Form of Interest</span></a><br><a href="https://punggolcovepri-moe-edu-sg-admin.cwp.sg/qql/slot/u1242/Useful%20Links/2021-10-01%20-%20KCare%20at%20Punggol%20Cove%20Primary%20School.pdf"><span style="text-decoration:none;color:#4067AE">KCare Introduction Letter</span></a><br><a href="https://docs.google.com/forms/d/e/1FAIpQLSdSSKuoowy1bW4-vFJ944OB1Ucu8AzxVtIMRY-YyqalwkuyjA/viewform"><span style="text-decoration:none;color:#4067AE">KCare Form of Interest</span></a><br><a href="https://punggolcovepri.moe.edu.sg/qql/slot/u1242/Useful%20Links/2021-11-24%20-%20Information%20Pack%20SCC%20Punggol%20Cove%20Primary%20School%202022_Final.pdf"><span style="text-decoration:none;color:#4067AE">Information on Little Professors SCC@PCPS</span></a></td>
+  </tr>
+</tbody>
+</table>
     </div>
 	</li>
 	<li>
