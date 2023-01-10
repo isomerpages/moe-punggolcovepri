@@ -47,7 +47,8 @@ third_nav_title: Subject Downloads
     <td class="tg-fuxe"><ul>
 <li><a href="https://punggolcovepri.moe.edu.sg/for-parents/subject-downloads/physical-education" target="">Home-Based Learning</a></li>
 </ul></td>
-    <td class="tg-fuxe"></td>
+    <td class="tg-fuxe"><img src="/images/iCT%20CONNECT%201_rev2.jpeg" 
+     style="width:75%"></td>
     <td class="tg-fuxe"></td>
   </tr>
 </tbody>
