@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - General Matters/.keep
-      - General Matters.md
       - Useful Links.md
       - Parents Notes/2022.md
       - Parents Notes/2021.md
