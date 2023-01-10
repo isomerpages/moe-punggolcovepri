@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - General Matters/School Rules.md
       - General Matters/School Fees.md
       - General Matters/Drop Off and Pick Up.md
       - General Matters/P1 Orientation.md
