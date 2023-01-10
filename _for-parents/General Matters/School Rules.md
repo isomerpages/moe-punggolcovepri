@@ -21,7 +21,13 @@ third_nav_title: General Matters
 <tbody>
   <tr>
     <td class="tg-3kl0">1</td>
-    <td class="tg-5sko"><span style="font-weight:bold;text-decoration:underline">School Uniform</span><br></td>
+    <td class="tg-5sko"><span style="font-weight:bold;text-decoration:underline">School Uniform</span><br><ul>
+<li>Students are to wear the prescribed school uniform and modification to the uniform is not allowed.</li>
+<li><strong>Top</strong>: Clean School Polo T-shirt is to be tucked in at all times. Name tag must be sewn above the school badge. Girls are not to wear bright-coloured undergarments under their school uniform.</li>
+<li><strong>Bottom</strong>:&nbsp;Bermudas&nbsp;for boys should be no longer than1-inch above the knees. Girls are to wear&nbsp;skorts&nbsp;no longer than 1-inch above the knees.</li>
+<li><strong>Socks</strong>: Only plain white socks are allowed and they should be worn at least 2 inches above the ankles.</li>
+<li><strong>Shoes</strong>: Only black canvas/sports shoes are allowed. There should be no fanciful/ reflective/ coloured stripes on any part of the shoes.</li>
+</ul></td>
   </tr>
   <tr>
     <td class="tg-3kl0">2</td>
