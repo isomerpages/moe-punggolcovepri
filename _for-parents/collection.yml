@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Parents Notes/2020.md
       - Parents Notes/2019.md
       - Parents Notes/2018.md
       - Parents Notes/2017.md
