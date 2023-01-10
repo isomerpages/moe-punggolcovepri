@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Admission Matters.md
       - General Matters/.keep
       - General Matters/School Matters.md
       - General Matters/Communication Channel.md
