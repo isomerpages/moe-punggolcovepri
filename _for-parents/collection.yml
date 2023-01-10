@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Subject Downloads/Subject Downloads.md
       - Subject Downloads/ICT Connect @ Cove.md
       - Subject Downloads/Mother Tongue Spelling List.md
       - Subject Downloads/English Spelling Test.md
