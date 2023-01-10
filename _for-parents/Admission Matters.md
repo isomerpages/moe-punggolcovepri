@@ -25,3 +25,24 @@ description: ""
   </tr>
 </tbody>
 </table>
+
+
+### PRIMARY 1 REGISTRATION
+
+For more information on Primary One Registration, please refer to [https://www.moe.gov.sg/primary/p1-registration](https://www.moe.gov.sg/primary/p1-registration) 
+
+### INTERNATIONAL STUDENTS
+
+For more information on International Students Admissions, please refer to [https://www.moe.gov.sg/international-students](https://www.moe.gov.sg/international-students)  
+
+  
+
+### TRANSFER TO PCPS
+
+For more information on transfer, please refer to [https://www.moe.gov.sg/primary/transfers](https://www.moe.gov.sg/primary/transfers)  
+
+  
+
+### STUDENT CARE APPLICATION FORM
+
+For more information, please click [here.](https://docs.google.com/forms/d/e/1FAIpQLScZg_JQFAU4_G6CXcwZxsJ-WU-i-sGvy1B8Y1ATR7WM1bHwlw/viewform)
