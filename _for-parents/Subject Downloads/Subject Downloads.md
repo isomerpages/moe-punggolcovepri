@@ -26,7 +26,9 @@ third_nav_title: Subject Downloads
     <td class="tg-7jts"><span style="font-weight:bold;font-style:normal">MOTHER TONGUE SPELLING LIST</span></td>
   </tr>
   <tr>
-    <td class="tg-fuxe"></td>
+    <td class="tg-fuxe"><ul>
+<li><a href="https://punggolcovepri-moe-edu-sg-admin.cwp.sg/for-parents/subject-downloads/curriculum-n-academic-briefing">P1 to P6 Curriculum&nbsp;&amp; Academic Briefing Slides</a></li>
+</ul></td>
     <td class="tg-fuxe"></td>
     <td class="tg-fuxe"></td>
   </tr>
