@@ -9,4 +9,4 @@ third_nav_title: General Matters
 3. Termly Update Letter
 4. Meet-The-Parents-Session 
 5. Email: [punggolcove\_ps@moe.edu.sg](mailto:punggolcove_ps@moe.edu.sg)
-6. School website: [http://www.punggolcovepri.moe.edu.sg/](http://www.punggolcovepri.moe.edu.sg/)
+6. School website: [http://www.punggolcovepri.moe.edu.sg/](http://www.punggolcovepri.moe.edu.sg/)
