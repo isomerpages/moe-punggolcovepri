@@ -6,4 +6,4 @@ layout: post
 description: ""
 image: ""
 ---
-Click [here](/for-parents/Subject-Downloads/curriculum-and-academic-briefing/) for P6 Curriculum Briefing
+Click [here](/for-parents/Subject-Downloads/curriculum-and-academic-briefing/) for P6 Curriculum Briefing.
