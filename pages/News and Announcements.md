@@ -49,12 +49,11 @@ Please click [here](http://punggolcovepri-moe-edu-sg-admin.cwp.sg/qql/slot/u124
 
 ### P3 AND P4 HIGHER MOTHER TONGUE BRIEFING SLIDES FOR PARENTS
 
-Click [Here](https://punggolcovepri.moe.edu.sg/qql/slot/u1242/Curriculum%20&%20Academic%20Briefing/P3%20and%20P4%20HMTL_Briefing%20Slides%20for%20parents_v2.pdf) for the Briefing Slides
+Click [Here](/files/P3%20and%20P4%20HMTL_Briefing%20Slides%20for%20parents_v2.pdf) for the Briefing Slides
 
 ### SLS SUPPORT
 
-Please click [**here**](https://punggolcovepri.moe.edu.sg/for-parents/student-learning-space) for more information
-
+Please click [here](/for-parents/sls/) for more information
 SLS is best supported on web browser Chrome 80.0.3987.149 and 80.0.3987.122 
 
 It is not compatible with Internet Explorer
