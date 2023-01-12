@@ -3,3 +3,62 @@ title: News and Announcements
 permalink: /news-n-announcements/
 description: ""
 ---
+### P1 ORIENTATION SLIDES BRIEFING
+
+Please click [here](http://punggolcovepri-moe-edu-sg-admin.cwp.sg/qql/slot/u1242/01%20P1%20Orientation%20Slide%20Briefing/P1%20Orientation%20Sharing%20Slides_21%20Nov%202022_Uploaded%20to%20website.pdf) for more information.
+
+[Read More...](http://punggolcovepri-moe-edu-sg-admin.cwp.sg/qql/slot/u1242/01%20P1%20Orientation%20Slide%20Briefing/P1%20Orientation%20Sharing%20Slides_21%20Nov%202022_Uploaded%20to%20website.pdf)
+
+### 2022 HOME BASED LEARNING (HBL)
+
+Please click [here](https://punggolcovepri-moe-edu-sg-admin.cwp.sg/for-parents/home-based-learning) for more information on 
+
+2022 Home Based Learning (HBL)
+
+### 2022 P1 REGISTRATION EXERCISE
+
+ Click [here](https://punggolcovepri-moe-edu-sg-admin.cwp.sg/for-parents/2022-p1-registration-exercise) for more information
+
+### 2022 P2 CURICULUM BRIEFING
+
+Click [here](https://punggolcovepri-moe-edu-sg-admin.cwp.sg/qql/slot/u1242/2022%20curriculum%20briefing/For%20website_P2%20Curriculum%20Briefing%20Slides_2022.pdf) for P2 Curriculum Briefing 
+
+### 2022 P5 CURRICULUM BRIEFING
+
+[Add](https://punggolcovepri-moe-edu-sg-admin.cwp.sg/others/news-n-announcement&func=edit&rid=0)
+
+ Click [here](http://punggolcovepri-moe-edu-sg-admin.cwp.sg/qql/slot/u1242/2022%20curriculum%20briefing/P5%20CURRICULUM%20BRIEFING%202022.pdf) for P5 Curriculum Briefing
+
+ Click [here](http://punggolcovepri-moe-edu-sg-admin.cwp.sg/qql/slot/u726/Curriculum%20Briefing/P5%20Curriculum%20Info%20Annex%202022.pdf) for P5 Curriculum Info Annex
+
+### 2022 P1 CURRICULUM BRIEFING
+
+Click [here](http://punggolcovepri-moe-edu-sg-admin.cwp.sg/qql/slot/u1242/2022%20curriculum%20briefing/P1%20Curriculum%20Briefing%20Slides_2022.pdf) for P1 Curriculum Briefing
+
+### 2022 P4 CURRICULUM BRIEFING
+
+Click [here](https://punggolcovepri-moe-edu-sg-admin.cwp.sg/for-parents/subject-downloads/curriculum-n-academic-briefing) for P4 Curriculum Briefing
+
+### 2022 P6 CURRICULUM BRIEFING
+
+Click [here](https://punggolcovepri-moe-edu-sg-admin.cwp.sg/for-parents/subject-downloads/curriculum-n-academic-briefing) for P6 Curriculum Briefing
+
+### 2022 PRIMARY 1 ORIENTATION SLIDES
+
+Please click [here](http://punggolcovepri-moe-edu-sg-admin.cwp.sg/qql/slot/u1242/News&Announcement/2021_P1%20Orientation%20Sharing%20Slides_22%20Nov%202021.pdf) for 2022 Primary 1 Orientation Slide
+
+### P3 AND P4 HIGHER MOTHER TONGUE BRIEFING SLIDES FOR PARENTS
+
+Click [Here](https://punggolcovepri.moe.edu.sg/qql/slot/u1242/Curriculum%20&%20Academic%20Briefing/P3%20and%20P4%20HMTL_Briefing%20Slides%20for%20parents_v2.pdf) for the Briefing Slides
+
+### SLS SUPPORT
+
+Please click [**here**](https://punggolcovepri.moe.edu.sg/for-parents/student-learning-space) for more information
+
+SLS is best supported on web browser Chrome 80.0.3987.149 and 80.0.3987.122 
+
+It is not compatible with Internet Explorer
+
+### FOR DRIVERS
+
+After school pick up arrangement: Please note that cars will be allowed to enter the school after 1.45pm. If you need to come earlier, please park at nearby public carpark and walk over to school. We seek your understanding in this. Thank you.
