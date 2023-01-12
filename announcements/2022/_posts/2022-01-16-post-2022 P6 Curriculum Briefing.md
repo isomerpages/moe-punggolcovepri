@@ -1,0 +1,8 @@
+---
+title: 2022 P6 Curriculum Briefing
+permalink: /announcements/2022/p6-curriculum-briefing/
+date: 2022-01-16
+layout: post
+description: ""
+image: ""
+---
