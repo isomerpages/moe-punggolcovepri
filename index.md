@@ -25,4 +25,12 @@ sections:
       title: What's Happening @ PCPS
       subtitle: Student News
       button: View All
+  - infopic:
+      title: School Calendar
+      subtitle: School Events
+      description: PCPS Schedule
+      button: View Calendar
+      url: /calendar/
+      image: /images/calendarinfopicdemo.png
+      alt: calendar
 ---
