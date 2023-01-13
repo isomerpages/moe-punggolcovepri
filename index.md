@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/hero-banner.png
+      background: /images/homebannerdemo.png
       key_highlights:
         - title: For Parents
           description: Useful Links
