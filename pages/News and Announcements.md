@@ -31,11 +31,11 @@ Click [here](/files/P1%20Curriculum%20Briefing%20Slides_2022.pdf) for P1 Curri
 
 ### 2022 P4 CURRICULUM BRIEFING
 
-Click [here](/for-parents/Subject-Downloads/subject-downloads/) for P4 Curriculum Briefing
+Click [here](/for-parents/Subject-Downloads/curriculum-and-academic-briefing/) for P4 Curriculum Briefing
 
 ### 2022 P6 CURRICULUM BRIEFING
 
-Click [here](/for-parents/Subject-Downloads/subject-downloads/) for P6 Curriculum Briefing
+Click [here](/for-parents/Subject-Downloads/curriculum-and-academic-briefing/) for P6 Curriculum Briefing
 
 ### 2022 PRIMARY 1 ORIENTATION SLIDES
 
