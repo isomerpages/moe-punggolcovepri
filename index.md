@@ -16,8 +16,8 @@ sections:
           description: Useful Links
           url: https://gmail.com
   - resources:
-      title: NEWS AND ANNOUNCEMENTS
-      subtitle: Our Latest Updates
+      title: What's Happening @ PCPS
+      subtitle: Student News
       button: View All
   - infobar:
       title: News and Announcements
