@@ -11,10 +11,10 @@ sections:
       key_highlights:
         - title: For Parents
           description: Useful Links
-          url: ""
+          url: /useful-links/parents/
         - title: For Students
           description: Useful Links
-          url: https://gmail.com
+          url: /useful-links/students/
   - resources:
       title: What's Happening @ PCPS
       subtitle: Student News
