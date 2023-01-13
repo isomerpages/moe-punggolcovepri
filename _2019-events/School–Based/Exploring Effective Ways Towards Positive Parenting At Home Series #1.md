@@ -42,7 +42,7 @@ third_nav_title: School–Based
 Trust building is a cornerstone in parenting. As children grow, parents need to steadily allow their children to accept greater responsibilities so that trust can be fostered. How parents can go about would be to be a more effective listener, “walk-the-talk” by being a role model and learning not to fall into the trap of being an excessive “helicopter parent”.
 
 
-<center>Click <a href="https://photos.app.goo.gl/tMmi86YECAte9Mfc9">here</a> for more photos.</center>
+<center>Click <a href="https://photos.app.goo.gl/tMmi86YECAte9Mfc9">here</a> (broken link) for more photos.</center>
 
 
 <img src="/images/PW05.jpeg" 
