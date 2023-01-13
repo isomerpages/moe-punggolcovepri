@@ -4,7 +4,7 @@ title: Punggol Cove Primary School
 description: An Isomer site of the Singapore Government
 image: /images/Logo.jpeg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
       background: /images/hero-banner.png
