@@ -17,7 +17,7 @@ sections:
           url: /useful-links/students/
   - infobar:
       title: News and Announcements
-      subtitle: PCPS
+      subtitle: Punggol Cove Primary School
       description: Our Latest Updates
       button: View All
       url: /news-n-announcements/
