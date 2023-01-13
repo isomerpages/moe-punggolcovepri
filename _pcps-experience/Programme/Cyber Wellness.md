@@ -149,7 +149,7 @@ third_nav_title: Programme
 			<p><em>Our Cyber Wellness Student Ambassadors 2019 presenting on Personal Data Protection.</em><br><br>4.<strong><em> ICT Connect @ Cove</em></strong><br>To complement the CW curriculum in school, parents can play an important role in demonstrating how technology can be used responsibly by guiding our students on how to navigate the cyber safe safely.</p>
 <p>Our newsletters provide useful and bite-sized tips for parents on how to support our students in their Cyber Wellness education.</p>
 <p>Get your eyes and mind on our latest newsletter released termly!</p>
-<p>Please click on the&nbsp;<a href="https://punggolcovepri.moe.edu.sg/for-parents/subject-downloads/ict-connect-at-cove">image&nbsp;</a>below to get the newsletter<br><br><a href = "LINKHERE" target = "_self"> 
+<p>Please click on the&nbsp;<a href="/for-parents/Subject-Downloads/ict-connect-at-cove/">image&nbsp;</a>below to get the newsletter<br><br><a href = "/for-parents/Subject-Downloads/ict-connect-at-cove/" target = "_self"> 
           <img src="/images/cw7.png" 
      style="width:20%"></a></p>
     </div>
