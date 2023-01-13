@@ -2,6 +2,9 @@
 title: Privacy Statement
 permalink: /privacy/
 ---
+### PUNGGOL COVE PRIMARY SCHOOL PRIVACY STATEMENT
+
+
 1.  This is Punggol Cove Primary School website.
 
   
