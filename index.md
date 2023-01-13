@@ -15,14 +15,14 @@ sections:
         - title: For Students
           description: Useful Links
           url: /useful-links/students/
-  - resources:
-      title: What's Happening @ PCPS
-      subtitle: Student News
-      button: View All
   - infobar:
       title: News and Announcements
       subtitle: PCPS
       description: Our Latest Updates
       button: View All
       url: /news-n-announcements/
+  - resources:
+      title: What's Happening @ PCPS
+      subtitle: Student News
+      button: View All
 ---
