@@ -20,9 +20,9 @@ sections:
       subtitle: Our Latest Updates
       button: View All
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
+      title: News and Announcements
+      subtitle: PCPS
+      description: Our Latest Updates
+      button: View All
       url: /news-n-announcements/
 ---
