@@ -53,7 +53,7 @@ They learnt to recognise the SG heroes who have contributed to Singapore over th
 
 Our students also learnt about how Singaporeans supported one another during the COVID-19 crisis. The day ended on a high note as our students tapped along to the National Day songs and joined in the steps as one, despite being in their separate classrooms, for the SG Active Workout!
 
-<center>Click <a href="https://photos.google.com/share/AF1QipMkoKTBIm0sst1pDLbobq0D1g5HlESe6tle8s1NRv18Er6GA1oXrfy8nGbGiIkZEQ?key=MzVLcjFWNktFTG1zZzZYc0kwVGZ3QVdjeWZ4N2VB">here</a> for more photos.</center>
+<center>Click <a href="https://photos.google.com/share/AF1QipMkoKTBIm0sst1pDLbobq0D1g5HlESe6tle8s1NRv18Er6GA1oXrfy8nGbGiIkZEQ?key=MzVLcjFWNktFTG1zZzZYc0kwVGZ3QVdjeWZ4N2VB">here</a> (broken link) for more photos.</center>
 
 
 <img src="/images/Img%203.jpeg" 
