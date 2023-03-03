@@ -18,10 +18,9 @@ sections:
         - title: News & Announcement
           description: View All
           url: /news-n-announcements/
-  - resources:
-      title: What's Happening @ PCPS
-      subtitle: Student News
-      button: View All
+        - title: What's Happening @ PCPS
+          description: View all
+          url: ""
   - infopic:
       title: School Calendar
       subtitle: School Events
