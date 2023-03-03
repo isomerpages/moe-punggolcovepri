@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/pcpsbannerdemo1.png
+      background: /images/PCPS Animation GIF.gif
       key_highlights:
         - title: For Parents
           description: Useful Links
@@ -33,4 +33,15 @@ sections:
       url: /calendar/
       image: /images/calendarinfopicdemo.png
       alt: calendar
+  - infobar:
+      title: Infobar Title
+      subtitle: Infobar Subtitle
+      description: Infobar description
+      button: Button Text
+  - infopic:
+      title: Infopic Title
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 ---
