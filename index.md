@@ -33,10 +33,4 @@ sections:
       url: /calendar/
       image: /images/calendarinfopicdemo.png
       alt: calendar
-  - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
 ---
