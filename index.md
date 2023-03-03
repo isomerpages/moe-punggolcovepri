@@ -20,7 +20,7 @@ sections:
           url: /news-n-announcements/
         - title: What's Happening @ PCPS
           description: View all
-          url: "https://staging.d1e30n019j6xxa.amplifyapp.com/resources/ "
+          url: "/resources/ "
   - infopic:
       title: School Calendar
       subtitle: School Events
