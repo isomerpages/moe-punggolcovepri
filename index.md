@@ -31,7 +31,7 @@ sections:
       alt: calendar
   - infobar:
       title: Infobar Title
-      subtitle: Infobar Subtitle
+      subtitle: testing
       description: Infobar description
       button: Button Text
       url: file.go.gov.sg/8vx9n4.pdf
