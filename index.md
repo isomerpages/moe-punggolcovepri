@@ -29,4 +29,10 @@ sections:
       url: /calendar/
       image: /images/calendarinfopicdemo.png
       alt: calendar
+  - infobar:
+      title: Infobar Title
+      subtitle: Infobar Subtitle
+      description: Infobar description
+      button: Button Text
+      url: file.go.gov.sg/8vx9n4.pdf
 ---
