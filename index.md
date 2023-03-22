@@ -17,7 +17,7 @@ sections:
           url: /useful-links/students/
         - title: News & Announcement
           description: View All
-          url: /news-n-announcements/
+          url: /resources/news-and-announcements/
         - title: What's Happening @ PCPS
           description: View all
           url: "/resources/ "
