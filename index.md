@@ -20,7 +20,7 @@ sections:
           url: /resources/news-and-announcements/
         - title: What's Happening @ PCPS
           description: View all
-          url: "/resources/ "
+          url: /resources/whats-happening-at-pcps/
   - infopic:
       title: School Calendar
       subtitle: School Events
