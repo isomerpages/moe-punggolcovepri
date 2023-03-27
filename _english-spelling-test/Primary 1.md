@@ -91,23 +91,23 @@ description: ""
   </tr>
   <tr>
     <td class="tg-qec4">Spelling and Dictation 1</td>
-    <td class="tg-zurh"><a href="https://quizlet.com/_9z0zum?x=1qqt&i=1c2gxb" target="_blank" rel="noopener noreferrer"><span style="color:#4067AE">P1 English Spelling and Dictation Week 1</span></a></td>
+    <td class="tg-zurh"><a href="https://quizlet.com/_9z0zum?x=1qqt&i=1c2gxb" target="_blank" rel="noopener noreferrer"><span style="color:#4067AE">Term 2 Week 2</span></a></td>
   </tr>
   <tr>
     <td class="tg-qec4">Spelling and Dictation 2</td>
-    <td class="tg-zurh"><a href="https://quizlet.com/_9z2mem?x=1qqt&i=1c2gxb" target="_blank" rel="noopener noreferrer"><span style="color:#4067AE">P1 English Spelling and Dictation Week 2</span></a></td>
+    <td class="tg-zurh"><a href="https://quizlet.com/_9z2mem?x=1qqt&i=1c2gxb" target="_blank" rel="noopener noreferrer"><span style="color:#4067AE">Term 2 Week 3</span></a></td>
   </tr>
   <tr>
     <td class="tg-qec4"> Spelling and Dictation 3</td>
-    <td class="tg-zurh"><a href="https://quizlet.com/_9z2mus?x=1qqt&i=1c2gxb" target="_blank" rel="noopener noreferrer"><span style="color:#4067AE">P1 English Spelling and Dictation Week 3 </span></a></td>
+    <td class="tg-zurh"><a href="https://quizlet.com/_9z2mus?x=1qqt&i=1c2gxb" target="_blank" rel="noopener noreferrer"><span style="color:#4067AE">Term 2 Week 4</span></a></td>
   </tr>
   <tr>
     <td class="tg-qec4"> Spelling and Dictation 4</td>
-    <td class="tg-zurh"><a href="https://quizlet.com/_9z2ngg?x=1qqt&i=1c2gxb" target="_blank" rel="noopener noreferrer"><span style="color:#4067AE">P1 English Spelling and Dictation Week 4</span></a> </td>
+    <td class="tg-zurh"><a href="https://quizlet.com/_9z2ngg?x=1qqt&i=1c2gxb" target="_blank" rel="noopener noreferrer"><span style="color:#4067AE">Term 2 Week 5</span></a> </td>
   </tr>
   <tr>
     <td class="tg-qec4"> Spelling and Dictation 5</td>
-    <td class="tg-zurh"><a href="https://quizlet.com/_9z2o8g?x=1qqt&i=1c2gxb" target="_blank" rel="noopener noreferrer"><span style="color:#4067AE">P1 English Spelling and Dictation Week 5</span></a> </td>
+    <td class="tg-zurh"><a href="https://quizlet.com/_9z2o8g?x=1qqt&i=1c2gxb" target="_blank" rel="noopener noreferrer"><span style="color:#4067AE">Term 2 Week 6</span></a> </td>
   </tr>
   <tr>
     <td class="tg-qec4"> Spelling and Dictation 6</td>
@@ -162,7 +162,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-rwiu">Spelling and Dictation 3</td>
-    <td class="tg-lxnn"><a href="https://quizlet.com/_57l6ov?x=1jqt&i=1c2gxb" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#4067AE">Term 2 Week 4</span></a></td>
+    <td class="tg-lxnn"><a href="https://quizlet.com/_54ojc3?x=1jqt&i=1c2gxb" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#4067AE">Term 2 Week 4</span></a></td>
   </tr>
   <tr>
     <td class="tg-rwiu">Spelling and Dictation 4</td>
