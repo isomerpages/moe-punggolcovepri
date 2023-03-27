@@ -32,31 +32,31 @@ description: ""
     <td class="tg-sf6z">Quizlet link</td>
   </tr>
   <tr>
-    <td class="tg-qec4">2</td>
+    <td class="tg-qec4">Spelling and Dictation 2</td>
     <td class="tg-qcrs"><a href="https://quizlet.com/_a21nt5?x=1jqt&i=1c2gxb" target="_blank" rel="noopener noreferrer"><span style="color:#4067AE">P1 English Spelling and Dictation Week 2</span></a></td>
   </tr>
   <tr>
-    <td class="tg-qec4">3</td>
+    <td class="tg-qec4">Spelling and Dictation 3</td>
     <td class="tg-zurh"><a href="https://quizlet.com/_a21ohg?x=1qqt&i=1c2gxb" target="_blank" rel="noopener noreferrer"><span style="color:#4067AE">P1 English Spelling and Dictation Week 3</span></a></td>
   </tr>
   <tr>
-    <td class="tg-qec4"> 4</td>
+    <td class="tg-qec4">Spelling and Dictation 4</td>
     <td class="tg-zurh"><a href="https://quizlet.com/_a21p3t?x=1qqt&i=1c2gxb" target="_blank" rel="noopener noreferrer"><span style="color:#4067AE">P1 English Spelling and Dictation Week 4</span></a></td>
   </tr>
   <tr>
-    <td class="tg-qec4"> 5</td>
+    <td class="tg-qec4"> Spelling and Dictation 5</td>
     <td class="tg-zurh"><a href="https://quizlet.com/_a21pfu?x=1qqt&i=1c2gxb" target="_blank" rel="noopener noreferrer"><span style="color:#4067AE">P1 English Spelling and Dictation Week 5</span></a> </td>
   </tr>
   <tr>
-    <td class="tg-qec4"> 6</td>
+    <td class="tg-qec4"> Spelling and Dictation 6</td>
     <td class="tg-zurh"><a href="https://quizlet.com/_a21pvv?x=1qqt&i=1c2gxb" target="_blank" rel="noopener noreferrer"><span style="color:#4067AE">P1 English Spelling and Dictation Week 6</span></a> </td>
   </tr>
   <tr>
-    <td class="tg-qec4"> 7</td>
+    <td class="tg-qec4"> Spelling and Dictation 7</td>
     <td class="tg-zurh"><a href="https://quizlet.com/_bw7wu2?x=1jqt&i=1c2gxb" target="_blank" rel="noopener noreferrer"><span style="color:#4067AE">P1 English Spelling and Dictation Week 7 </span></a></td>
   </tr>
   <tr>
-    <td class="tg-qec4">8</td>
+    <td class="tg-qec4">Spelling and Dictation 8</td>
     <td class="tg-zurh"><a href="https://quizlet.com/_bw7wxl?x=1jqt&i=1c2gxb" target="_blank" rel="noopener noreferrer"><span style="color:#4067AE">P1 English Spelling and Dictation Week 8 </span></a></td>
   </tr>
 </tbody>
