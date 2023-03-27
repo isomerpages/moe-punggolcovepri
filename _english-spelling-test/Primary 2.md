@@ -158,7 +158,7 @@ description: ""
     <td class="tg-9uby">Quizlet Link</td>
   </tr>
   <tr>
-    <td class="tg-qxxr">2</td>
+    <td class="tg-qxxr">Spelling and Dictation 2</td>
     <td class="tg-9gqw"><a href="https://quizlet.com/_9j2sjp?x=1jqt&i=1c2gxb" target="_blank" rel="noopener noreferrer">P2 English Spelling and Dictation Week 2</a></td>
   </tr>
   <tr>
