@@ -111,15 +111,15 @@ description: ""
   </tr>
   <tr>
     <td class="tg-qec4"> Spelling and Dictation 6</td>
-    <td class="tg-zurh"><a href="https://quizlet.com/_9z2rsg?x=1qqt&i=1c2gxb" target="_blank" rel="noopener noreferrer"><span style="color:#4067AE">P1 English Spelling and Dictation Week 6 </span></a></td>
+    <td class="tg-zurh"><a href="https://quizlet.com/_9z2rsg?x=1qqt&i=1c2gxb" target="_blank" rel="noopener noreferrer"><span style="color:#4067AE">Term 2 Week 7</span></a></td>
   </tr>
   <tr>
     <td class="tg-qec4">Spelling and Dictation 8</td>
-    <td class="tg-zurh"><a href="https://quizlet.com/_9z2ryc?x=1qqt&i=1c2gxb" target="_blank" rel="noopener noreferrer"><span style="color:#4067AE">P1 English Spelling and Dictation Week 8 </span></a></td>
+    <td class="tg-zurh"><a href="https://quizlet.com/_9z2ryc?x=1qqt&i=1c2gxb" target="_blank" rel="noopener noreferrer"><span style="color:#4067AE">Term 2 Week 8 </span></a></td>
   </tr>
   <tr>
     <td class="tg-qec4">Spelling and Dictation 9</td>
-    <td class="tg-zurh"><a href="https://quizlet.com/_9z2s5b?x=1qqt&i=1c2gxb"><span style="text-decoration:none;color:#4067AE">P1 English Spelling and Dictation Week 9 </span></a></td>
+    <td class="tg-zurh"><a href="https://quizlet.com/_9z2s5b?x=1qqt&i=1c2gxb"><span style="text-decoration:none;color:#4067AE">Term 2 Week 9</span></a></td>
   </tr>
 </tbody>
 </table>
