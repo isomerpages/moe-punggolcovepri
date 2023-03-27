@@ -36,7 +36,7 @@ description: ""
     <td class="tg-qcrs"><a href="https://quizlet.com/_a21nt5?x=1jqt&i=1c2gxb" target="_blank" rel="noopener noreferrer"><span style="color:#4067AE">P1 English Spelling and Dictation Week 2</span></a></td>
   </tr>
   <tr>
-    <td class="tg-qec4">Spelling and Dictation 3</td>
+    <td class="tg-qec4">3</td>
     <td class="tg-zurh"><a href="https://quizlet.com/_a21ohg?x=1qqt&i=1c2gxb" target="_blank" rel="noopener noreferrer"><span style="color:#4067AE">P1 English Spelling and Dictation Week 3</span></a></td>
   </tr>
   <tr>
