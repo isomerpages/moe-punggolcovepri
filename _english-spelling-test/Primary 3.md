@@ -42,12 +42,12 @@ description: ""
     <td class="tg-zurh"><a href="https://quizlet.com/_bwez8z?x=1jqt&i=1c2gxb">Term 4 Week 4</a></td>
   </tr>
   <tr>
-    <td class="tg-qec4"> 5</td>
-    <td class="tg-zurh"><a href="https://quizlet.com/_bwf66n?x=1jqt&i=1c2gxb">P3 English Spelling and Dictation Week 5</a></td>
+    <td class="tg-qec4">Spelling and Dictation 5</td>
+    <td class="tg-zurh"><a href="https://quizlet.com/_bwf66n?x=1jqt&i=1c2gxb">Term 4 Week 5</a></td>
   </tr>
   <tr>
-    <td class="tg-qec4"> 9</td>
-    <td class="tg-zurh"><a href="https://quizlet.com/_bwf8d3?x=1jqt&i=1c2gxb">P3 English Spelling and Dictation Week 9</a></td>
+    <td class="tg-qec4">Spelling and Dictation 9</td>
+    <td class="tg-zurh"><a href="https://quizlet.com/_bwf8d3?x=1jqt&i=1c2gxb">Term 4 Week 9</a></td>
   </tr>
 </tbody>
 </table>
