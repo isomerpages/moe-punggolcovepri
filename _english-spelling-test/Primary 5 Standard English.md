@@ -33,12 +33,12 @@ description: ""
     <td class="tg-sf6z">Quizlet Link</td>
   </tr>
   <tr>
-    <td class="tg-qec4">2</td>
-    <td class="tg-6nyb"><a href="https://quizlet.com/_bwfyd9?x=1jqt&i=1c2gxb"><span style="text-decoration:none;color:#4067AE">P5 English Spelling and Dictation Week 2</span></a></td>
+    <td class="tg-qec4">Spelling and Dictation 2</td>
+    <td class="tg-6nyb"><a href="https://quizlet.com/_bwfyd9?x=1jqt&i=1c2gxb"><span style="text-decoration:none;color:#4067AE">Term 4 Week 2</span></a></td>
   </tr>
   <tr>
-    <td class="tg-qec4">3</td>
-    <td class="tg-6nyb"><a href="https://quizlet.com/_bwg0ep?x=1jqt&i=1c2gxb"><span style="text-decoration:none;color:#4067AE">P5 English Spelling and Dictation Week 3</span></a></td>
+    <td class="tg-qec4">Spelling and Dictation 3</td>
+    <td class="tg-6nyb"><a href="https://quizlet.com/_bwg0ep?x=1jqt&i=1c2gxb"><span style="text-decoration:none;color:#4067AE">Term 4 Week 3</span></a></td>
   </tr>
 </tbody>
 </table>
