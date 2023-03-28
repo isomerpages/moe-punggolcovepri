@@ -236,7 +236,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-jkqr">Spelling and Dictation 5</td>
-    <td class="tg-koma"><a href="https://quizlet.com/_9j2vtr?x=1jqt&i=1c2gxb"><span style="text-decoration:none;color:#4067AE">Term 2 Week 5 </span></a></td>
+    <td class="tg-ejbf">No Spelling</td>
   </tr>
   <tr>
     <td class="tg-jkqr">Spelling and Dictation 6</td>
