@@ -187,7 +187,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-qxxr">9</td>
-    <td class="tg-9gqw"><a href="https://quizlet.com/_9j30fx?x=1jqt&i=1c2gxb" target="_blank" rel="noopener noreferrer">P2 English Spelling and Dictation Week 9</a></td>
+    <td class="tg-9gqw"><a href="https://quizlet.com/_9j30fx?x=1jqt&i=1c2gxb" target="_blank" rel="noopener noreferrer">Term 2 Week 9</a></td>
   </tr>
 </tbody>
 </table>
@@ -244,19 +244,19 @@ description: ""
   </tr>
   <tr>
     <td class="tg-jkqr">Spelling and Dictation 7</td>
-    <td class="tg-koma"><a href="https://quizlet.com/_95ngzl?x=1jqt&i=1c2gxb"><span style="text-decoration:none;color:#4067AE">P2 English Spelling and Dictation Week 7 </span></a></td>
+    <td class="tg-koma"><a href="https://quizlet.com/_95ngzl?x=1jqt&i=1c2gxb"><span style="text-decoration:none;color:#4067AE">Term 2 Week 7</span></a></td>
   </tr>
   <tr>
     <td class="tg-jkqr">Spelling and Dictation 8</td>
-    <td class="tg-koma"><a href="https://quizlet.com/_95nhnl?x=1jqt&i=1c2gxb"><span style="text-decoration:none;color:#4067AE">P2 English Spelling and Dictation Week 8</span></a> </td>
+    <td class="tg-koma"><a href="https://quizlet.com/_95nhnl?x=1jqt&i=1c2gxb"><span style="text-decoration:none;color:#4067AE">Term 2 Week 8</span></a> </td>
   </tr>
   <tr>
     <td class="tg-jkqr">Spelling and Dictation 9</td>
-    <td class="tg-koma"><a href="https://quizlet.com/_95nidd?x=1jqt&i=1c2gxb"><span style="text-decoration:none;color:#4067AE">P2 English Spelling and Dictation Week 9</span></a>   </td>
+    <td class="tg-koma"><a href="https://quizlet.com/_95nidd?x=1jqt&i=1c2gxb"><span style="text-decoration:none;color:#4067AE">Term 2 Week 9</span></a>   </td>
   </tr>
   <tr>
     <td class="tg-jkqr">Spelling and Dictation 10</td>
-    <td class="tg-hyg2"><a href="https://quizlet.com/_95niy3?x=1jqt&i=1c2gxb" target="_blank" rel="noopener noreferrer"><span style="color:#4067AE">P2 English Spelling and Dictation Week 10</span></a></td>
+    <td class="tg-hyg2"><a href="https://quizlet.com/_95niy3?x=1jqt&i=1c2gxb" target="_blank" rel="noopener noreferrer"><span style="color:#4067AE">Term 2 Week 10</span></a></td>
   </tr>
 </tbody>
 </table>
