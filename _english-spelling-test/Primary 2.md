@@ -224,23 +224,23 @@ description: ""
   </tr>
   <tr>
     <td class="tg-jkqr">Spelling and Dictation 2</td>
-    <td class="tg-koma"><a href="https://quizlet.com/_95ne7a?x=1jqt&i=1c2gxb"><span style="text-decoration:none;color:#4067AE">P2 English Spelling and Dictation Week 2</span></a></td>
+    <td class="tg-koma"><a href="https://quizlet.com/_95ne7a?x=1jqt&i=1c2gxb"><span style="text-decoration:none;color:#4067AE">Term 2 Week 2</span></a></td>
   </tr>
   <tr>
     <td class="tg-jkqr">Spelling and Dictation 3</td>
-    <td class="tg-koma"><a href="https://quizlet.com/_95nevv?x=1jqt&i=1c2gxb" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#4067AE">P2 English Spelling and Dictation Week 3</span></a></td>
+    <td class="tg-koma"><a href="https://quizlet.com/_95nevv?x=1jqt&i=1c2gxb" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#4067AE">Term 2 Week 3</span></a></td>
   </tr>
   <tr>
     <td class="tg-jkqr">Spelling and Dictation 4</td>
-    <td class="tg-koma"><a href="https://quizlet.com/_95nfmm?x=1jqt&i=1c2gxb"><span style="text-decoration:none;color:#4067AE">P2 English Spelling and Dictation Week 4</span></a></td>
+    <td class="tg-koma"><a href="https://quizlet.com/_95nfmm?x=1jqt&i=1c2gxb"><span style="text-decoration:none;color:#4067AE">Term 2 Week 4</span></a></td>
   </tr>
   <tr>
     <td class="tg-jkqr">Spelling and Dictation 5</td>
-    <td class="tg-ejbf">No Spelling</td>
+    <td class="tg-koma"><a href="https://quizlet.com/_9j2vtr?x=1jqt&i=1c2gxb"><span style="text-decoration:none;color:#4067AE">Term 2 Week 5 </span></a></td>
   </tr>
   <tr>
     <td class="tg-jkqr">Spelling and Dictation 6</td>
-    <td class="tg-koma"><a href="https://quizlet.com/_95ngd2?x=1jqt&i=1c2gxb"><span style="text-decoration:none;color:#4067AE">P2 English Spelling and Dictation Week 6 </span></a></td>
+    <td class="tg-koma"><a href="https://quizlet.com/_95ngd2?x=1jqt&i=1c2gxb"><span style="text-decoration:none;color:#4067AE">Term 2 Week 6 </span></a></td>
   </tr>
   <tr>
     <td class="tg-jkqr">Spelling and Dictation 7</td>
