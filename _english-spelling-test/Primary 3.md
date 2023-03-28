@@ -172,16 +172,18 @@ description: ""
     <input type="checkbox" id="accordion4">
 		<label for="accordion4"><h5>PRIMARY 3 ENGLISH SPELLING AND DICTATION TERM 1</h5></label>
     <div>
-     <style type="text/css">
+      <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-8bqu{background-color:#FFF;color:#303545;font-size:16px;text-align:center;vertical-align:top}
-.tg .tg-5tyd{background-color:#FFF;color:#303545;font-size:16px;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-sf6z{background-color:#FFF;color:#222;font-size:16px;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-3cbn{background-color:#FFF;color:#222;font-size:16px;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-qec4{background-color:#FFF;color:#222;font-size:16px;text-align:center;vertical-align:top}
+.tg .tg-zurh{background-color:#FFF;color:#4067AE;font-size:16px;text-align:left;vertical-align:top}
+.tg .tg-g6yu{background-color:#FFF;color:#222;font-size:16px;text-align:left;vertical-align:top}
+.tg .tg-rb2w{background-color:#FFF;color:#0382cb;font-size:16px;text-align:left;vertical-align:top}
 </style>
 <table class="tg" style="undefined;table-layout: fixed; width: 553px">
 <colgroup>
