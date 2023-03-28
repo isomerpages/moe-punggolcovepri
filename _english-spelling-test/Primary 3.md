@@ -30,16 +30,16 @@ description: ""
     <td class="tg-sf6z">Quizlet Link</td>
   </tr>
   <tr>
-    <td class="tg-qec4"> 2</td>
-    <td class="tg-zurh"><a href="https://quizlet.com/_bwewv8?x=1jqt&i=1c2gxb">P3 English Spelling and Dictation Week 2</a></td>
+    <td class="tg-qec4">Spelling and Dictation 2</td>
+    <td class="tg-zurh"><a href="https://quizlet.com/_bwewv8?x=1jqt&i=1c2gxb">Term 4 Week 2</a></td>
   </tr>
   <tr>
-    <td class="tg-qec4"> 3</td>
-    <td class="tg-zurh"><a href="https://quizlet.com/_bwez8z?x=1jqt&i=1c2gxb">P3 English Spelling and Dictation Week 3</a></td>
+    <td class="tg-qec4">Spelling and Dictation 3</td>
+    <td class="tg-zurh"><a href="https://quizlet.com/_bwez8z?x=1jqt&i=1c2gxb">Term 4 Week 3</a></td>
   </tr>
   <tr>
-    <td class="tg-qec4"> 4</td>
-    <td class="tg-zurh"><a href="https://quizlet.com/_bwez8z?x=1jqt&i=1c2gxb">P3 English Spelling and Dictation Week 4</a></td>
+    <td class="tg-qec4">Spelling and Dictation 4</td>
+    <td class="tg-zurh"><a href="https://quizlet.com/_bwez8z?x=1jqt&i=1c2gxb">Term 4 Week 4</a></td>
   </tr>
   <tr>
     <td class="tg-qec4"> 5</td>
