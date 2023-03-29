@@ -3,7 +3,7 @@ title: Teaching Staff
 permalink: /pcps-personnel/teaching-staff/
 description: ""
 ---
-#### 2022 PRIMARY 1
+#### 2023 PRIMARY 1
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
@@ -627,4 +627,3 @@ description: ""
   </tr>
 </tbody>
 </table>
-
