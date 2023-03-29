@@ -70,36 +70,36 @@ description: ""
     <td class="tg-sf6z">Quizlet Link</td>
   </tr>
   <tr>
-    <td class="tg-qec4">1</td>
-    <td class="tg-zurh"><a href="https://quizlet.com/_9z37qs?x=1qqt&i=1c2gxb" target="_blank" rel="noopener noreferrer"><span style="color:#4067AE">P5 English Spelling and Dictation Week 1</span></a></td>
+    <td class="tg-qec4">Spelling and Dictation 1</td>
+    <td class="tg-zurh"><a href="https://quizlet.com/_9z37qs?x=1qqt&i=1c2gxb" target="_blank" rel="noopener noreferrer"><span style="color:#4067AE">Term 3 Week 1</span></a></td>
   </tr>
   <tr>
-    <td class="tg-qec4">2</td>
-    <td class="tg-zurh"><a href="https://quizlet.com/_9z5dac?x=1qqt&i=1c2gxb" target="_blank" rel="noopener noreferrer"><span style="color:#4067AE">P5 English Spelling and Dictation Week 2</span></a></td>
+    <td class="tg-qec4">Spelling and Dictation 2</td>
+    <td class="tg-zurh"><a href="https://quizlet.com/_9z5dac?x=1qqt&i=1c2gxb" target="_blank" rel="noopener noreferrer"><span style="color:#4067AE">Term 3 Week 2</span></a></td>
   </tr>
   <tr>
-    <td class="tg-qec4">3</td>
-    <td class="tg-zurh"><a href="https://quizlet.com/_9z5dw4?x=1qqt&i=1c2gxb" target="_blank" rel="noopener noreferrer"><span style="color:#4067AE">P5 English Spelling and Dictation Week 3</span></a></td>
+    <td class="tg-qec4">Spelling and Dictation 3</td>
+    <td class="tg-zurh"><a href="https://quizlet.com/_9z5dw4?x=1qqt&i=1c2gxb" target="_blank" rel="noopener noreferrer"><span style="color:#4067AE">Term 3 Week 3</span></a></td>
   </tr>
   <tr>
-    <td class="tg-qec4">4</td>
-    <td class="tg-zurh"><a href="https://quizlet.com/_9z5mj4?x=1qqt&i=1c2gxb" target="_blank" rel="noopener noreferrer"><span style="color:#4067AE">P5 English Spelling and Dictation Week 4</span></a> </td>
+    <td class="tg-qec4">Spelling and Dictation 4</td>
+    <td class="tg-zurh"><a href="https://quizlet.com/_9z5mj4?x=1qqt&i=1c2gxb" target="_blank" rel="noopener noreferrer"><span style="color:#4067AE">Term 3 Week 4</span></a> </td>
   </tr>
   <tr>
-    <td class="tg-qec4">5</td>
-    <td class="tg-zurh"><a href="https://quizlet.com/_9z5dkw?x=1qqt&i=1c2gxb" target="_blank" rel="noopener noreferrer"><span style="color:#4067AE">P5 English Spelling and Dictation Week 5 </span></a></td>
+    <td class="tg-qec4">Spelling and Dictation 5</td>
+    <td class="tg-zurh"><a href="https://quizlet.com/_9z5dkw?x=1qqt&i=1c2gxb" target="_blank" rel="noopener noreferrer"><span style="color:#4067AE">Term 3 Week 5 </span></a></td>
   </tr>
   <tr>
-    <td class="tg-qec4">6</td>
-    <td class="tg-zurh"><a href="https://quizlet.com/_9z5nkp?x=1qqt&i=1c2gxb" target="_blank" rel="noopener noreferrer"><span style="color:#4067AE">P5 English Spelling and Dictation Week 6 </span></a></td>
+    <td class="tg-qec4">Spelling and Dictation 6</td>
+    <td class="tg-zurh"><a href="https://quizlet.com/_9z5nkp?x=1qqt&i=1c2gxb" target="_blank" rel="noopener noreferrer"><span style="color:#4067AE">Term 3 Week 6 </span></a></td>
   </tr>
   <tr>
-    <td class="tg-qec4">7</td>
-    <td class="tg-zurh"><a href="https://quizlet.com/_9z5o7k?x=1qqt&i=1c2gxb" target="_blank" rel="noopener noreferrer"><span style="color:#4067AE">P5 English Spelling and Dictation Week 7</span></a></td>
+    <td class="tg-qec4">Spelling and Dictation 7</td>
+    <td class="tg-zurh"><a href="https://quizlet.com/_9z5o7k?x=1qqt&i=1c2gxb" target="_blank" rel="noopener noreferrer"><span style="color:#4067AE">Term 3 Week 7</span></a></td>
   </tr>
   <tr>
-    <td class="tg-qec4">8</td>
-    <td class="tg-zurh"><a href="https://quizlet.com/_9z5xjb?x=1qqt&i=1c2gxb" target="_blank" rel="noopener noreferrer"><span style="color:#4067AE">P5 English Spelling and Dictation Week 8 </span></a></td>
+    <td class="tg-qec4">Spelling and Dictation 8</td>
+    <td class="tg-zurh"><a href="https://quizlet.com/_9z5xjb?x=1qqt&i=1c2gxb" target="_blank" rel="noopener noreferrer"><span style="color:#4067AE">Term 3 Week 8 </span></a></td>
   </tr>
   <tr>
     <td class="tg-qec4"></td>
@@ -136,36 +136,36 @@ description: ""
     <td class="tg-sf6z">Quizlet Link</td>
   </tr>
   <tr>
-    <td class="tg-qec4">2</td>
-    <td class="tg-lxnn"><a href="https://quizlet.com/_849l6c?x=1jqt&i=1c2gxb" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#4067AE">P5 English Spelling and Dictation Week 2</span></a></td>
+    <td class="tg-qec4">Spelling and Dictation 1</td>
+    <td class="tg-lxnn"><a href="https://quizlet.com/_849l6c?x=1jqt&i=1c2gxb" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#4067AE">Term 2 Week 2</span></a></td>
   </tr>
   <tr>
-    <td class="tg-qec4">3</td>
-    <td class="tg-lxnn"><a href="https://quizlet.com/_84azbm?x=1jqt&i=1c2gxb" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#4067AE">P5 English Spelling and Dictation Week 3</span></a></td>
+    <td class="tg-qec4">Spelling and Dictation 2</td>
+    <td class="tg-lxnn"><a href="https://quizlet.com/_cz7ymn?x=1jqt&i=1c2gxb" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#4067AE">Term 2 Week 3</span></a></td>
   </tr>
   <tr>
-    <td class="tg-qec4">4</td>
-    <td class="tg-lxnn"><a href="https://quizlet.com/_84azux?x=1jqt&i=1c2gxb" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#4067AE">P5 English Spelling and Dictation Week 4</span></a></td>
+    <td class="tg-qec4">Spelling and Dictation 3</td>
+    <td class="tg-lxnn"><a href="https://quizlet.com/_84azux?x=1jqt&i=1c2gxb" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#4067AE">Term 2 Week 4</span></a></td>
   </tr>
   <tr>
-    <td class="tg-qec4">5</td>
-    <td class="tg-lxnn"><a href="https://quizlet.com/_84b0hf?x=1jqt&i=1c2gxb" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#4067AE">P5 English Spelling and Dictation Week 5</span></a></td>
+    <td class="tg-qec4">Spelling and Dictation 4</td>
+    <td class="tg-lxnn"><a href="https://quizlet.com/_84b0hf?x=1jqt&i=1c2gxb" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#4067AE">Term 2 Week 5</span></a></td>
   </tr>
   <tr>
-    <td class="tg-qec4">6</td>
-    <td class="tg-lxnn"><a href="https://quizlet.com/_84fl2z?x=1jqt&i=1c2gxb" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#4067AE">P5 English Spelling and Dictation Week 6</span></a></td>
+    <td class="tg-qec4">Spelling and Dictation 5</td>
+    <td class="tg-lxnn"><a href="https://quizlet.com/_84fl2z?x=1jqt&i=1c2gxb" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#4067AE">Term 2 Week 6</span></a></td>
   </tr>
   <tr>
-    <td class="tg-qec4">7</td>
-    <td class="tg-lxnn"><a href="https://quizlet.com/_84fltx?x=1jqt&i=1c2gxb" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#4067AE">P5 English Spelling and Dictation Week 7</span></a></td>
+    <td class="tg-qec4">Spelling and Dictation 6</td>
+    <td class="tg-lxnn"><a href="https://quizlet.com/_84fltx?x=1jqt&i=1c2gxb" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#4067AE">Term 2 Week 7</span></a></td>
   </tr>
   <tr>
-    <td class="tg-qec4">9</td>
-    <td class="tg-lxnn"><a href="https://quizlet.com/_84fn45?x=1jqt&i=1c2gxb" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#4067AE">P5 English Spelling and Dictation Week 9</span></a></td>
+    <td class="tg-qec4">Spelling and Dictation 7</td>
+    <td class="tg-lxnn"><a href="https://quizlet.com/_84fn45?x=1jqt&i=1c2gxb" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#4067AE">Term 2 Week 8</span></a></td>
   </tr>
   <tr>
-    <td class="tg-qec4">8</td>
-    <td class="tg-lxnn"><a href="https://quizlet.com/_9z5xjb?x=1qqt&i=1c2gxb" target="_blank" rel="noopener noreferrer"><span style="color:#4067AE">P5 English Spelling and Dictation Week 8 </span></a></td>
+    <td class="tg-qec4">Spelling and Dictation 8</td>
+    <td class="tg-lxnn"><a href="https://quizlet.com/_9z5xjb?x=1qqt&i=1c2gxb" target="_blank" rel="noopener noreferrer"><span style="color:#4067AE">Term 2 Week 9 </span></a></td>
   </tr>
 </tbody>
 </table>
@@ -196,40 +196,40 @@ description: ""
     <td class="tg-sf6z">Quizlet Link</td>
   </tr>
   <tr>
-    <td class="tg-g6yu">2</td>
-    <td class="tg-zurh"><a href="https://quizlet.com/_7s4dgn?x=1jqt&i=1c2gxb">P5 English Spelling and Dictation 1               </a></td>
+    <td class="tg-g6yu">Spelling and Dictation 2</td>
+    <td class="tg-zurh"><a href="https://quizlet.com/_7s4dgn?x=1jqt&i=1c2gxb">Term 1 Week 2 </a></td>
   </tr>
   <tr>
-    <td class="tg-g6yu">3</td>
-    <td class="tg-zurh"><a href="https://quizlet.com/_7scu65?x=1jqt&i=1c2gxb">P5 English Spelling and Dictation 2</a></td>
+    <td class="tg-g6yu">Spelling and Dictation 3</td>
+    <td class="tg-zurh"><a href="https://quizlet.com/_7scu65?x=1jqt&i=1c2gxb">Term 1 Week 3</a></td>
   </tr>
   <tr>
-    <td class="tg-g6yu">4</td>
-    <td class="tg-zurh"><a href="https://quizlet.com/_7s4gu0?x=1jqt&i=1c2gxb">P5 English Spelling and Dictation 3</a></td>
+    <td class="tg-g6yu">Spelling and Dictation 4</td>
+    <td class="tg-zurh"><a href="https://quizlet.com/_7s4gu0?x=1jqt&i=1c2gxb">Term 1 Week 4</a></td>
   </tr>
   <tr>
-    <td class="tg-g6yu">5</td>
+    <td class="tg-g6yu">Spelling and Dictation 5</td>
     <td class="tg-g6yu">No Spelling</td>
   </tr>
   <tr>
-    <td class="tg-g6yu">6</td>
-    <td class="tg-zurh"><a href="https://quizlet.com/_7s4hq5?x=1jqt&i=1c2gxb">P5 English Spelling and Dictation 5</a></td>
+    <td class="tg-g6yu">Spelling and Dictation 6</td>
+    <td class="tg-zurh"><a href="https://quizlet.com/_7s4hq5?x=1jqt&i=1c2gxb">Term 1 Week 6</a></td>
   </tr>
   <tr>
-    <td class="tg-g6yu">7</td>
-    <td class="tg-zurh"><a href="https://quizlet.com/_7scuzf?x=1jqt&i=1c2gxb">P5 English Spelling and Dictation 6</a></td>
+    <td class="tg-g6yu">Spelling and Dictation 7</td>
+    <td class="tg-zurh"><a href="https://quizlet.com/_7scuzf?x=1jqt&i=1c2gxb">Term 1 Week 7</a></td>
   </tr>
   <tr>
-    <td class="tg-g6yu">8</td>
-    <td class="tg-zurh"><a href="https://quizlet.com/_7s4ipu?x=1jqt&i=1c2gxb">P5 English Spelling and Dictation 7</a></td>
+    <td class="tg-g6yu">Spelling and Dictation 8</td>
+    <td class="tg-zurh"><a href="https://quizlet.com/_7s4ipu?x=1jqt&i=1c2gxb">Term 1 Week 8</a></td>
   </tr>
   <tr>
-    <td class="tg-g6yu">9</td>
-    <td class="tg-zurh"><a href="https://quizlet.com/_7s4vrt?x=1jqt&i=1c2gxb">P5 English Spelling and Dictation 8</a></td>
+    <td class="tg-g6yu">Spelling and Dictation 9</td>
+    <td class="tg-zurh"><a href="https://quizlet.com/_7s4vrt?x=1jqt&i=1c2gxb">Term 1 Week 9</a></td>
   </tr>
   <tr>
-    <td class="tg-g6yu">10</td>
-    <td class="tg-zurh"><a href="https://quizlet.com/_7scsz5?x=1jqt&i=1c2gxb">P5 English Spelling and Dictation 9</a></td>
+    <td class="tg-g6yu">Spelling and Dictation 10</td>
+    <td class="tg-zurh"><a href="https://quizlet.com/_7scsz5?x=1jqt&i=1c2gxb">Term 1 Week 10</a></td>
   </tr>
 </tbody>
 </table>
