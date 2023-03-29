@@ -48,14 +48,14 @@ description: ""
     <td class="tg-qtsq">norlela_ab_rahaman@schools.gov.sg<span style="color:#222;background-color:transparent"> </span></td>
   </tr>
   <tr>
-    <td class="tg-qtsq">Ms Victoria Lee<span style="color:#222;background-color:transparent"> </span></td>
+    <td class="tg-qtsq">Ms Leow Hui Zheng<span style="color:#222;background-color:transparent"> </span></td>
     <td class="tg-qtsq">Form Teacher<br><span style="background-color:transparent">1 Diamond</span></td>
-    <td class="tg-qtsq">victoria_lee@schools.gov.sg</td>
+    <td class="tg-qtsq">Leow_Hui_zheng@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-qtsq"><span style="color:#000">Mdm Lynn Lee</span></td>
-    <td class="tg-qtsq">Form Teacher<br><span style="background-color:transparent">1 Diamond</span></td>
-    <td class="tg-qtsq"><span style="color:#000">lynn_lee_wen_lin@schools.gov.sg</span></td>
+    <td class="tg-qtsq"><span style="color:#000">Ms Chew Kim Kee</span></td>
+    <td class="tg-qtsq">Form Teacher<br><span style="background-color:transparent">1 Diamond <br> CL Teacher</span></td>
+    <td class="tg-qtsq"><span style="color:#000">chew_kim_kee@schools.gov.sg</span></td>
   </tr>
   <tr>
     <td class="tg-qtsq">Mdm Varjeet Kaur Gill</td>
