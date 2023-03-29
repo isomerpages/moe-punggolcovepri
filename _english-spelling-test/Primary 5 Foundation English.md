@@ -133,12 +133,12 @@ description: ""
     <td class="tg-kztb">Quizlet Link</td>
   </tr>
   <tr>
-    <td class="tg-qec4">2</td>
-    <td class="tg-lxnn"><a href="https://quizlet.com/_84fojd?x=1jqt&i=1c2gxb" target="_blank" rel="noopener noreferrer">P5 English Spelling and Dictation Week 2</a></td>
+    <td class="tg-qec4">Spelling and Dictation 2</td>
+    <td class="tg-lxnn"><a href="https://quizlet.com/_84fojd?x=1jqt&i=1c2gxb" target="_blank" rel="noopener noreferrer">Term 2 Week 2</a></td>
   </tr>
   <tr>
-    <td class="tg-qec4">3</td>
-    <td class="tg-lxnn"><a href="https://quizlet.com/_84fpew?x=1jqt&i=1c2gxb" target="_blank" rel="noopener noreferrer">P5 English Spelling and Dictation Week 3</a></td>
+    <td class="tg-qec4">Spelling and Dictation 3</td>
+    <td class="tg-lxnn"><a href="https://quizlet.com/_84fpew?x=1jqt&i=1c2gxb" target="_blank" rel="noopener noreferrer">Term 2  Week 3</a></td>
   </tr>
   <tr>
     <td class="tg-qec4">4</td>
