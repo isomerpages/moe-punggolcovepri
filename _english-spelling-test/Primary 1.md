@@ -23,8 +23,8 @@ description: ""
 </style>
 <table class="tg" style="undefined;table-layout: fixed; width: 550px">
 <colgroup>
-<col style="width: 115px">
-<col style="width: 435px">
+<col style="width: 300px">
+<col style="width: 300px">
 </colgroup>
 <tbody>
   <tr>
@@ -81,8 +81,8 @@ description: ""
 </style>
 <table class="tg" style="undefined;table-layout: fixed; width: 550px">
 <colgroup>
-<col style="width: 115px">
-<col style="width: 435px">
+<col style="width: 300px">
+<col style="width: 300px">
 </colgroup>
 <tbody>
   <tr>
@@ -144,8 +144,8 @@ description: ""
 </style>
 <table class="tg" style="undefined;table-layout: fixed; width: 550px">
 <colgroup>
-<col style="width: 115px">
-<col style="width: 435px">
+<col style="width: 300px">
+<col style="width: 300px">
 </colgroup>
 <tbody>
   <tr>
