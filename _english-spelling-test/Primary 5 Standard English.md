@@ -24,7 +24,7 @@ description: ""
 </style>
 <table class="tg" style="undefined;table-layout: fixed; width: 550px">
 <colgroup>
-<col style="width: 86px">
+<col style="width: 100px">
 <col style="width: 464px">
 </colgroup>
 <tbody>
