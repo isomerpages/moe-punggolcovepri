@@ -31,23 +31,23 @@ description: ""
   </tr>
   <tr>
     <td class="tg-qec4">Spelling and Dictation 2</td>
-    <td class="tg-zurh"><a href="https://quizlet.com/_bwewv8?x=1jqt&i=1c2gxb">Term 4 Week 2</a></td>
+    <td class="tg-zurh"><a href="https://quizlet.com/_bwewv8?x=1jqt&i=1c2gxb" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#4067AE">Term 4 Week 2</span></a></td>
   </tr>
   <tr>
     <td class="tg-qec4">Spelling and Dictation 3</td>
-    <td class="tg-zurh"><a href="https://quizlet.com/_bwez8z?x=1jqt&i=1c2gxb">Term 4 Week 3</a></td>
+    <td class="tg-zurh"><a href="https://quizlet.com/_bwez8z?x=1jqt&i=1c2gxb" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#4067AE">Term 4 Week 3</span></a></td>
   </tr>
   <tr>
     <td class="tg-qec4">Spelling and Dictation 4</td>
-    <td class="tg-zurh"><a href="https://quizlet.com/_bwez8z?x=1jqt&i=1c2gxb">Term 4 Week 4</a></td>
+    <td class="tg-zurh"><a href="https://quizlet.com/_bwez8z?x=1jqt&i=1c2gxb" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#4067AE">Term 4 Week 4</span></a></td>
   </tr>
   <tr>
     <td class="tg-qec4">Spelling and Dictation 5</td>
-    <td class="tg-zurh"><a href="https://quizlet.com/_bwf66n?x=1jqt&i=1c2gxb">Term 4 Week 5</a></td>
+    <td class="tg-zurh"><a href="https://quizlet.com/_bwf66n?x=1jqt&i=1c2gxb" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#4067AE">Term 4 Week 5</span></a></td>
   </tr>
   <tr>
     <td class="tg-qec4">Spelling and Dictation 9</td>
-    <td class="tg-zurh"><a href="https://quizlet.com/_bwf8d3?x=1jqt&i=1c2gxb">Term 4 Week 9</a></td>
+    <td class="tg-zurh"><a href="https://quizlet.com/_bwf8d3?x=1jqt&i=1c2gxb" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#4067AE">Term 4 Week 9</span></a></td>
   </tr>
 </tbody>
 </table>
@@ -81,19 +81,19 @@ description: ""
   </tr>
   <tr>
     <td class="tg-4jzo">Spelling and Dictation 2</td>
-    <td class="tg-26yr"><a href="https://quizlet.com/_bth7k3?x=1jqt&i=1c2gxb" target="_blank" ><span style="color:#4067AE">Term 3 Week 2</span></a></td>
+    <td class="tg-26yr"><a href="https://quizlet.com/_bth7k3?x=1jqt&i=1c2gxb" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#4067AE">Term 3 Week 2</span></a></td>
   </tr>
   <tr>
     <td class="tg-4jzo">Spelling and Dictation 3</td>
-    <td class="tg-f6m5"><a href="https://quizlet.com/_bthk3k?x=1jqt&i=1c2gxb"><span style="text-decoration:none;color:#4067AE">Term 3 Week 3</span></a></td>
+    <td class="tg-f6m5"><a href="https://quizlet.com/_bthk3k?x=1jqt&i=1c2gxb" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#4067AE">Term 3 Week 3</span></a></td>
   </tr>
   <tr>
     <td class="tg-4jzo">Spelling and Dictation 4</td>
-    <td class="tg-f6m5"><a href="https://quizlet.com/_bthkbc?x=1jqt&i=1c2gxb"><span style="text-decoration:none;color:#4067AE">Term 3 Week 4 </span></a></td>
+    <td class="tg-f6m5"><a href="https://quizlet.com/_bthkbc?x=1jqt&i=1c2gxb" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#4067AE">Term 3 Week 4 </span></a></td>
   </tr>
   <tr>
     <td class="tg-4jzo">Spelling and Dictation 5</td>
-    <td class="tg-f6m5"><a href="https://quizlet.com/_bthkuy?x=1jqt&i=1c2gxb" target="_blank"><span style="color:#4067AE">Term 3 Week 5</span></a></td>
+    <td class="tg-f6m5"><a href="https://quizlet.com/_bthkuy?x=1jqt&i=1c2gxb"  target="_blank" rel="noopener noreferrer"><span style="color:#4067AE">Term 3 Week 5</span></a></td>
   </tr>
   <tr>
     <td class="tg-4jzo">Spelling and Dictation 6</td>
@@ -197,15 +197,15 @@ description: ""
   </tr>
   <tr>
     <td class="tg-qec4">Spelling and Dictation 2</td>
-    <td class="tg-zurh"><a href="https://quizlet.com/_5niu9g?x=1jqt&i=1c2gxb">Term 1 Week 2</a></td>
+    <td class="tg-zurh"><a href="https://quizlet.com/_5niu9g?x=1jqt&i=1c2gxb"  target="_blank" rel="noopener noreferrer"><span style="color:#4067AE">Term 1 Week 2</span></a></td>
   </tr>
   <tr>
     <td class="tg-qec4">Spelling and Dictation 3</td>
-    <td class="tg-zurh"><a href="https://quizlet.com/_5niwhe?x=1jqt&i=1c2gxbhttps://quizlet.com/_5niwhe?x=1jqt&i=1c2gxb" target="_blank" rel="noopener noreferrer">Term 1 Week 3</a></td>
+    <td class="tg-zurh"><a href="https://quizlet.com/_5niwhe?x=1jqt&i=1c2gxbhttps://quizlet.com/_5niwhe?x=1jqt&i=1c2gxb" target="_blank" rel="noopener noreferrer"><span style="color:#4067AE">Term 1 Week 3</span></a></td>
   </tr>
   <tr>
     <td class="tg-qec4">Spelling and Dictation 4</td>
-    <td class="tg-zurh"><a href="https://quizlet.com/_5nizyy?x=1jqt&i=1c2gxb" target="_blank" rel="noopener noreferrer">Term 1 Week 4 </a></td>
+    <td class="tg-zurh"><a href="https://quizlet.com/_5nizyy?x=1jqt&i=1c2gxb" target="_blank" rel="noopener noreferrer"><span style="color:#4067AE">Term 1 Week 4 </span></a></td>
   </tr>
   <tr>
     <td class="tg-qec4">Spelling and Dictation 5</td>
@@ -217,15 +217,15 @@ description: ""
   </tr>
   <tr>
     <td class="tg-qec4">Spelling and Dictation 7</td>
-    <td class="tg-zurh"><a href="https://quizlet.com/_5nj2u4?x=1jqt&i=1c2gxb" target="_blank" rel="noopener noreferrer">Term 1 Week 7</a></td>
+    <td class="tg-zurh"><a href="https://quizlet.com/_5nj2u4?x=1jqt&i=1c2gxb" target="_blank" rel="noopener noreferrer"><span style="color:#4067AE">Term 1 Week 7</span></a></td>
   </tr>
   <tr>
     <td class="tg-qec4">Spelling and Dictation 8</td>
-    <td class="tg-zurh"><a href="https://quizlet.com/_5nj5lx?x=1jqt&i=1c2gxb" target="_blank" rel="noopener noreferrer">Term 1 Week 8</a></td>
+    <td class="tg-zurh"><a href="https://quizlet.com/_5nj5lx?x=1jqt&i=1c2gxb" target="_blank" rel="noopener noreferrer"><span style="color:#4067AE">Term 1 Week 8</span></a></td>
   </tr>
   <tr>
     <td class="tg-qec4">Spelling and Dictation 9</td>
-    <td class="tg-zurh"><a href="https://quizlet.com/_5nj1ik?x=1jqt&i=1c2gxb">Term 1 Week 9</a></td>
+    <td class="tg-zurh"><a href="https://quizlet.com/_5nj1ik?x=1jqt&i=1c2gxb" target="_blank" rel="noopener noreferrer"><span style="color:#4067AE">Term 1 Week 9</span></a></td>
   </tr>
 </tbody>
 </table>
