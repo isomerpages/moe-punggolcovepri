@@ -30,36 +30,36 @@ description: ""
     <td class="tg-cawn">Quizlet Link</td>
   </tr>
   <tr>
-    <td class="tg-rwiu">2</td>
-    <td class="tg-him5"><a href="https://quizlet.com/_9j28sm?x=1jqt&i=1c2gxb" target="_blank" rel="noopener noreferrer"><span style="color:#4067AE">P6 Foundation English Spelling and Dictation Week 2</span></a></td>
+    <td class="tg-rwiu">Spelling and Dictation 1</td>
+    <td class="tg-him5"><a href="https://quizlet.com/_9j28sm?x=1jqt&i=1c2gxb" target="_blank" rel="noopener noreferrer"><span style="color:#4067AE">Term 2 Week 1</span></a></td>
   </tr>
   <tr>
-    <td class="tg-rwiu">3</td>
-    <td class="tg-3lib"><a href="https://quizlet.com/_9j29ud?x=1jqt&i=1c2gxb" target="_blank" rel="noopener noreferrer"><span style="color:#4067AE">P6 Foundation English Spelling and Dictation Week 3</span></a></td>
+    <td class="tg-rwiu">Spelling and Dictation 2</td>
+    <td class="tg-3lib"><a href="https://quizlet.com/_9j29ud?x=1jqt&i=1c2gxb" target="_blank" rel="noopener noreferrer"><span style="color:#4067AE">Term 2 Week 2</span></a></td>
   </tr>
   <tr>
-    <td class="tg-rwiu">4</td>
-    <td class="tg-him5"><a href="https://quizlet.com/_9j29ud?x=1jqt&i=1c2gxb" target="_blank" rel="noopener noreferrer"><span style="color:#4067AE">P6 Foundation English Spelling and Dictation Week 4</span></a></td>
+    <td class="tg-rwiu">Spelling and Dictation 3</td>
+    <td class="tg-him5"><a href="https://quizlet.com/_9j2ad6?x=1jqt&i=1c2gxb" target="_blank" rel="noopener noreferrer"><span style="color:#4067AE">Term 2 Week 3</span></a></td>
   </tr>
   <tr>
-    <td class="tg-rwiu">5</td>
-    <td class="tg-him5"><a href="https://quizlet.com/_9j2ar4?x=1jqt&i=1c2gxb" target="_blank" rel="noopener noreferrer"><span style="color:#4067AE">P6 Foundation English Spelling and Dictation Week 5</span></a></td>
+    <td class="tg-rwiu">Spelling and Dictation 4</td>
+    <td class="tg-him5"><a href="https://quizlet.com/_9j2ar4?x=1jqt&i=1c2gxb" target="_blank" rel="noopener noreferrer"><span style="color:#4067AE">Term 2 Week 4</span></a></td>
   </tr>
   <tr>
-    <td class="tg-rwiu">6</td>
-    <td class="tg-him5"><a href="https://quizlet.com/_9j2ar4?x=1jqt&i=1c2gxb" target="_blank" rel="noopener noreferrer"><span style="color:#4067AE">P6 Foundation English Spelling and Dictation Week 6</span></a></td>
+    <td class="tg-rwiu">Spelling and Dictation 5</td>
+    <td class="tg-him5"><a href="https://quizlet.com/_9j2ar4?x=1jqt&i=1c2gxb" target="_blank" rel="noopener noreferrer"><span style="color:#4067AE">Term 2 Week 5</span></a></td>
   </tr>
   <tr>
-    <td class="tg-rwiu">8</td>
-    <td class="tg-him5"><a href="https://quizlet.com/_9j2bh8?x=1jqt&i=1c2gxb" target="_blank" rel="noopener noreferrer"><span style="color:#4067AE">P6 Foundation English Spelling and Dictation Week 8</span></a></td>
+    <td class="tg-rwiu">Spelling and Dictation 6</td>
+    <td class="tg-him5"><a href="https://quizlet.com/_9j2bh8?x=1jqt&i=1c2gxb" target="_blank" rel="noopener noreferrer"><span style="color:#4067AE">Term 2 Week 6</span></a></td>
   </tr>
   <tr>
-    <td class="tg-rwiu">9</td>
-    <td class="tg-him5"><a href="https://quizlet.com/_9j2c8m?x=1jqt&i=1c2gxb" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#4067AE">P6 Foundation English Spelling and Dictation Week 9</span></a></td>
+    <td class="tg-rwiu">Spelling and Dictation 7</td>
+    <td class="tg-him5"><a href="https://quizlet.com/_9j2c8m?x=1jqt&i=1c2gxb" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#4067AE">Term 2 Week 7</span></a></td>
   </tr>
   <tr>
-    <td class="tg-rwiu">10</td>
-    <td class="tg-him5"><a href="https://quizlet.com/_9j2c8m?x=1qqt&i=1c2gxb" target="_blank" rel="noopener noreferrer"><span style="color:#4067AE">P6 Foundation English Spelling and Dictation Week 9</span></a></td>
+    <td class="tg-rwiu">Spelling and Dictation 8</td>
+    <td class="tg-him5"><a href="https://quizlet.com/_9j2c8m?x=1qqt&i=1c2gxb" target="_blank" rel="noopener noreferrer"><span style="color:#4067AE">Term 2 Week 8</span></a></td>
   </tr>
 </tbody>
 </table>
