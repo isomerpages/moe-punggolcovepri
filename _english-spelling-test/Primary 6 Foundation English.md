@@ -96,23 +96,23 @@ description: ""
   </tr>
   <tr>
     <td class="tg-qec4">Spelling and Dictation 2</td>
-    <td class="tg-zurh"><a href="https://quizlet.com/_98v646?x=1jqt&i=1c2gxb"><span style="text-decoration:none;color:#4067AE">Term 1 Week 2</span></a></td>
+    <td class="tg-zurh"><a href="https://quizlet.com/_98v646?x=1jqt&i=1c2gxb" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#4067AE">Term 1 Week 2</span></a></td>
   </tr>
   <tr>
     <td class="tg-qec4">Spelling and Dictation 3</td>
-    <td class="tg-zurh"><a href="https://quizlet.com/_98v6a3?x=1jqt&i=1c2gxb"><span style="text-decoration:none;color:#4067AE">Term 1 Week 3</span></a></td>
+    <td class="tg-zurh"><a href="https://quizlet.com/_98v6a3?x=1jqt&i=1c2gxb" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#4067AE">Term 1 Week 3</span></a></td>
   </tr>
   <tr>
     <td class="tg-qec4">Spelling and Dictation 4</td>
-    <td class="tg-zurh"><a href="https://quizlet.com/_98v7p2?x=1qqt&i=1c2gxb"> </a>No Spelling</td>
+    <td class="tg-zurh">No Spelling</td>
   </tr>
   <tr>
     <td class="tg-qec4">Spelling and Dictation 5</td>
-    <td class="tg-zurh"><a href="https://quizlet.com/_98v7p2?x=1jqt&i=1c2gxb"><span style="text-decoration:none;color:#4067AE">Term 1 Week 5</span></a></td>
+    <td class="tg-zurh"><a href="https://quizlet.com/_98v7p2?x=1jqt&i=1c2gxb" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#4067AE">Term 1 Week 5</span></a></td>
   </tr>
   <tr>
     <td class="tg-qec4">Spelling and Dictation 6</td>
-    <td class="tg-zurh"><a href="https://quizlet.com/_98v8hd?x=1jqt&i=1c2gxb"><span style="text-decoration:none;color:#4067AE">Term 1 Week 6</span></a></td>
+    <td class="tg-zurh"><a href="https://quizlet.com/_98v8hd?x=1jqt&i=1c2gxb" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#4067AE">Term 1 Week 6</span></a></td>
   </tr>
   <tr>
     <td class="tg-qec4">Spelling and Dictation 7</td>
