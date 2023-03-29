@@ -32,32 +32,32 @@ description: ""
     <td class="tg-sf6z">Quizlet Link</td>
   </tr>
   <tr>
-    <td class="tg-qec4">Spelling and Dictation 2</td>
+    <td class="tg-qec4">Spelling and Dictation 1</td>
     <td class="tg-him5"><a href="https://quizlet.com/_9j2hga?x=1jqt&i=1c2gxb" target="_blank" rel="noopener noreferrer">Term 2 Week 2</span></a></td>
   </tr>
   <tr>
-    <td class="tg-qec4">Spelling and Dictation 3</td>
+    <td class="tg-qec4">Spelling and Dictation 2</td>
     <td class="tg-him5"><a href="https://quizlet.com/_9j2i5h?x=1jqt&i=1c2gxb" target="_blank" rel="noopener noreferrer">Term 2 Week 3</span></a></td>
   </tr>
   <tr>
-    <td class="tg-qec4">Spelling and Dictation 4</td>
+    <td class="tg-qec4">Spelling and Dictation 3</td>
     <td class="tg-him5"><a href="https://quizlet.com/_9j2im4?x=1jqt&i=1c2gxb" target="_blank" rel="noopener noreferrer">Term 2 Week 4</span></a></td>
   </tr>
   <tr>
-    <td class="tg-qec4">Spelling and Dictation 5</td>
+    <td class="tg-qec4">Spelling and Dictation 4</td>
     <td class="tg-him5"><a href="https://quizlet.com/_9j2izv?x=1jqt&i=1c2gxb" target="_blank" rel="noopener noreferrer">Term 2 Week 5</span></a></td>
   </tr>
   <tr>
-    <td class="tg-qec4"> Spelling and Dictation 6</td>
+    <td class="tg-qec4">Spelling and Dictation 5</td>
     <td class="tg-him5"><a href="https://quizlet.com/_9j2jkx?x=1jqt&i=1c2gxb" target="_blank" rel="noopener noreferrer">Term 2 Week 6</a></span></a></td>
   </tr>
   <tr>
-    <td class="tg-qec4"> 8</td>
-    <td class="tg-him5"><a href="https://quizlet.com/_9j2k0i?x=1jqt&i=1c2gxb" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none"> </span></a><a href="https://quizlet.com/_9j2k0i?x=1jqt&i=1c2gxb" target="_blank" rel="noopener noreferrer">P6 English Spelling and Dictation Week </a><a href="https://quizlet.com/_9j2k0i?x=1jqt&i=1c2gxb" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none">8</span></a></td>
+    <td class="tg-qec4">Spelling and Dictation 6</td>
+    <td class="tg-him5"><a href="https://quizlet.com/_9j2k0i?x=1jqt&i=1c2gxb" target="_blank" rel="noopener noreferrer">Term 2 Week 8</a></span></a></td>
   </tr>
   <tr>
-    <td class="tg-qec4"> 9</td>
-    <td class="tg-g6yu"> P6 English Spelling and Dictation Week 9</td>
+    <td class="tg-qec4">Spelling and Dictation 7</td>
+    <td class="tg-g6yu"><a href="https://quizlet.com/_9j2kje?x=1jqt&i=1c2gxb" target="_blank" rel="noopener noreferrer">Term 2 Week 9</a></span></a></td>
   </tr>
 </tbody>
 </table>
