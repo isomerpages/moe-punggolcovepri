@@ -32,8 +32,8 @@ description: ""
     <td class="tg-sf6z">Quizlet Link</td>
   </tr>
   <tr>
-    <td class="tg-qec4">2</td>
-    <td class="tg-him5"><a href="https://quizlet.com/_9j2hga?x=1jqt&i=1c2gxb" target="_blank" rel="noopener noreferrer">P6 English Spelling and Dictation Week </a><a href="https://quizlet.com/_9j2hga?x=1jqt&i=1c2gxb" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none">2</span></a></td>
+    <td class="tg-qec4">Spelling and Dictation 2</td>
+    <td class="tg-him5"><a href="https://quizlet.com/_9j2hga?x=1jqt&i=1c2gxb" target="_blank" rel="noopener noreferrer">Term 2 Week 2 </a></span></a></td>
   </tr>
   <tr>
     <td class="tg-qec4">3</td>
@@ -89,8 +89,8 @@ description: ""
     <td class="tg-sf6z">Quizlet Link</td>
   </tr>
   <tr>
-    <td class="tg-qec4">2</td>
-    <td class="tg-zurh"><a href="https://quizlet.com/_93pmxe?x=1jqt&i=1c2gxb"><span style="text-decoration:none;color:#4067AE">P6 English Spelling and Dictation 1</span></a></td>
+    <td class="tg-qec4">Spelling and Dictation 2</td>
+    <td class="tg-zurh"><a href="https://quizlet.com/_93pmxe?x=1jqt&i=1c2gxb"><span style="text-decoration:none;color:#4067AE">Term 2 Week 1</span></a></td>
   </tr>
   <tr>
     <td class="tg-qec4">3</td>
