@@ -70,12 +70,12 @@ description: ""
   <tr>
     <td class="tg-qtsq">Mdm Manimekalai d/o Panner Selvam<span style="color:#222;background-color:transparent"> </span></td>
     <td class="tg-qtsq">Form Teacher<br><span style="background-color:transparent">1 Jade</span><br></td>
-    <td class="tg-qtsq">jessica_patricia_tan@schools.gov.sg</td>
+    <td class="tg-qtsq">manimekalai_panneer_selvam@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-qtsq">Miss Kasmini Bte Kasmohen</td>
-    <td class="tg-qtsq">Form Teacher<br><span style="background-color:transparent">1 Jade</span></td>
-    <td class="tg-5ucw"><span style="color:#231F20">kasmini_kasmohen@schools.gov.sg</span></td>
+    <td class="tg-qtsq">Ms Audrey Lee</td>
+    <td class="tg-qtsq">Form Teacher<br><span style="background-color:transparent">1 Jade <br> CL Teacher</span></td>
+    <td class="tg-5ucw"><span style="color:#231F20">lee_wen_zhen_audrey@schools.gov.sg</span></td>
   </tr>
   <tr>
     <td class="tg-qtsq">Mdm Linda Yang</td>
