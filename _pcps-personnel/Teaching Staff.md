@@ -58,17 +58,17 @@ description: ""
     <td class="tg-qtsq"><span style="color:#000">chew_kim_kee@schools.gov.sg</span></td>
   </tr>
   <tr>
-    <td class="tg-qtsq">Mdm Varjeet Kaur Gill</td>
-    <td class="tg-qtsq">Form Teacher<br><span style="background-color:transparent">1 Emerald</span><br></td>
-    <td class="tg-qtsq">varjeet_kaur@schools.gov.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-qtsq">Mdm Dou Jin Yi</td>
+   <td class="tg-qtsq">Ms Shankari d/o Balakrishnan</td>
     <td class="tg-qtsq">Form Teacher<br><span style="background-color:transparent">1 Emerald</span></td>
-    <td class="tg-5ucw"><span style="color:#231F20">dou_jin_yi@s</span>chools.gov.sg</td>
+    <td class="tg-5ucw"><span style="color:#231F20">shankari_balakrishnan@schools.gov.sg</span></td>
+	</tr>
+  <tr>
+    <td class="tg-qtsq">Mdm Hafizzah Bedin</td>
+    <td class="tg-qtsq">Form Teacher<br><span style="background-color:transparent">1 Emerald <br> SH Malay</span></td>
+    <td class="tg-5ucw"><span style="color:#231F20">	hafizzah_bedin@schools.gov.sg</span></td>
   </tr>
   <tr>
-    <td class="tg-qtsq">Mrs Jessica Lum<span style="color:#222;background-color:transparent"> </span></td>
+    <td class="tg-qtsq">Mdm Manimekalai d/o Panner Selvam<span style="color:#222;background-color:transparent"> </span></td>
     <td class="tg-qtsq">Form Teacher<br><span style="background-color:transparent">1 Jade</span><br></td>
     <td class="tg-qtsq">jessica_patricia_tan@schools.gov.sg</td>
   </tr>
