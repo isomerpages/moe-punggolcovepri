@@ -124,7 +124,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-qec4">Spelling and Dictation 9</td>
-    <td class="tg-zurh"><a href="https://quizlet.com/_98v9qd?x=1jqt&i=1c2gxb"><span style="text-decoration:none;color:#4067AE">Term 1 Week 9</span></a></td>
+    <td class="tg-zurh" target="_blank" rel="noopener noreferrer"><a href="https://quizlet.com/_98v9qd?x=1jqt&i=1c2gxb"><span style="text-decoration:none;color:#4067AE">Term 1 Week 9</span></a></td>
   </tr>
 </tbody>
 </table>
