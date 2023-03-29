@@ -119,7 +119,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-qec4">Spelling and Dictation 9</td>
-    <td class="tg-zurh"><a href="https://quizlet.com/_9z2s5b?x=1qqt&i=1c2gxb"><span style="text-decoration:none;color:#4067AE">Term 3 Week 9</span></a></td>
+    <td class="tg-zurh"><a href="https://quizlet.com/_9z2s5b?x=1qqt&i=1c2gxb" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#4067AE">Term 3 Week 9</span></a></td>
   </tr>
 </tbody>
 </table>
