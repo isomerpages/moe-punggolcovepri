@@ -15,8 +15,8 @@ description: ""
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-sf6z{background-color:#FFF;color:#222;font-size:16px;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-3cbn{background-color:#FFF;color:#222;font-size:16px;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-qec4{background-color:#FFF;color:#222;font-size:16px;text-align:center;vertical-align:top}
+.tg .tg-3cbn{background-color:#FFF;color:#222;font-size:16px;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-qec4{background-color:#FFF;color:#222;font-size:16px;text-align:left;vertical-align:top}
 .tg .tg-6nyb{background-color:#FFF;color:#4067AE;font-size:16px;text-align:left;text-decoration:underline;vertical-align:top}
 .tg .tg-c6yb{background-color:#FFF;color:#00E;font-size:16px;text-align:left;text-decoration:underline;vertical-align:top}
 .tg .tg-zurh{background-color:#FFF;color:#4067AE;font-size:16px;text-align:left;vertical-align:top}
