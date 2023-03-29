@@ -33,15 +33,15 @@ description: ""
   </tr>
   <tr>
     <td class="tg-qec4">Spelling and Dictation 2</td>
-    <td class="tg-him5"><a href="https://quizlet.com/_9j2hga?x=1jqt&i=1c2gxb" target="_blank" rel="noopener noreferrer">Term 2 Week 2 </a></span></a></td>
+    <td class="tg-him5"><a href="https://quizlet.com/_9j2hga?x=1jqt&i=1c2gxb" target="_blank" rel="noopener noreferrer">Term 2 Week 2</span></a></td>
   </tr>
   <tr>
-    <td class="tg-qec4">3</td>
-    <td class="tg-him5"><a href="https://quizlet.com/_9j2i5h?x=1jqt&i=1c2gxb" target="_blank" rel="noopener noreferrer">P6 English Spelling and Dictation Week </a><a href="https://quizlet.com/_9j2i5h?x=1jqt&i=1c2gxb" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none">3</span></a></td>
+    <td class="tg-qec4">Spelling and Dictation 3</td>
+    <td class="tg-him5"><a href="https://quizlet.com/_9j2i5h?x=1jqt&i=1c2gxb" target="_blank" rel="noopener noreferrer">Term 2 Week 3</span></a></td>
   </tr>
   <tr>
-    <td class="tg-qec4"> 4</td>
-    <td class="tg-him5"><a href="https://quizlet.com/_9j2im4?x=1jqt&i=1c2gxb" target="_blank" rel="noopener noreferrer">P6 English Spelling and Dictation Week </a><a href="https://quizlet.com/_9j2im4?x=1jqt&i=1c2gxb" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none">4</span></a></td>
+    <td class="tg-qec4">Spelling and Dictation 4</td>
+    <td class="tg-him5"><a href="https://quizlet.com/_9j2im4?x=1jqt&i=1c2gxb" target="_blank" rel="noopener noreferrer">Term 2 Week 4</span></a></td>
   </tr>
   <tr>
     <td class="tg-qec4"> 5</td>
