@@ -92,7 +92,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-qec4">Spelling and Dictation 1</td>
-    <td class="tg-zurh"><a href="https://quizlet.com/_98v349?x=1jqt&i=1c2gxb"><span style="text-decoration:none;color:#4067AE">Term 1 Week 1</span></a></td>
+    <td class="tg-zurh"><a href="https://quizlet.com/_98v349?x=1jqt&i=1c2gxb" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#4067AE">Term 1 Week 1</span></a></td>
   </tr>
   <tr>
     <td class="tg-qec4">Spelling and Dictation 2</td>
