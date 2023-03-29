@@ -28,24 +28,24 @@ description: ""
     <td class="tg-1zrx"><span style="color:#222">Email</span></td>
   </tr>
   <tr>
-    <td class="tg-qtsq">Mrs Lim-Yeo Mui Eng<span style="color:#222;background-color:transparent"> </span></td>
-    <td class="tg-qtsq">Form Teacher<br><span style="background-color:transparent">1 Amber</span></td>
-    <td class="tg-qtsq">Yeo_MUI_ENG@schools.gov.sg<span style="color:#222;background-color:transparent"> </span></td>
+    <td class="tg-qtsq">Mrs Sheryl Wong<span style="color:#222;background-color:transparent"> </span></td>
+    <td class="tg-qtsq">Form Teacher<br><span style="background-color:transparent">1 Amber <br> ST Aesthetics</span></td>
+    <td class="tg-qtsq">sim_jia_yun_sheryl@schools.gov.sg <span style="color:#222;background-color:transparent"> </span></td>
   </tr>
   <tr>
-    <td class="tg-qtsq">Mdm Lee Chow Ching</td>
-    <td class="tg-qtsq">Form Teacher<br><span style="background-color:transparent">1 Amber</span></td>
-    <td class="tg-qtsq">lee_chow_ching@schools.gov.sg<span style="color:#222;background-color:transparent"> </span></td>
+    <td class="tg-qtsq">Ms Lee Xiao Wei</td>
+    <td class="tg-qtsq">Form Teacher<br><span style="background-color:transparent">1 Amber <br> CL Teacher</span></td>
+    <td class="tg-qtsq">lee_xiao_wei@schools.gov.sg<span style="color:#222;background-color:transparent"> </span></td>
   </tr>
   <tr>
-    <td class="tg-qtsq">Mdm Annie Hwan</td>
+    <td class="tg-qtsq">Mdm Sharmini d/o Kesavamoorthy</td>
     <td class="tg-qtsq">Form Teacher<br><span style="background-color:transparent">1 Coral</span></td>
     <td class="tg-qtsq">hwan_geok_peng_annie@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-qtsq">Mdm Agnes Chia </td>
-    <td class="tg-qtsq">Form Teacher<br><span style="background-color:transparent">1 Coral</span></td>
-    <td class="tg-qtsq">chia_boon_yung_agnes@schools.gov.sg<span style="color:#222;background-color:transparent"> </span></td>
+    <td class="tg-qtsq">Mdm Norlela Bt Ab Rahaman </td>
+    <td class="tg-qtsq">Form Teacher<br><span style="background-color:transparent">1 Coral <br> ML Teacher</span></td>
+    <td class="tg-qtsq">norlela_ab_rahaman@schools.gov.sg<span style="color:#222;background-color:transparent"> </span></td>
   </tr>
   <tr>
     <td class="tg-qtsq">Ms Victoria Lee<span style="color:#222;background-color:transparent"> </span></td>
