@@ -186,36 +186,36 @@ description: ""
     <td class="tg-3cbn">Quizlet Link</td>
   </tr>
   <tr>
-    <td class="tg-qec4">2</td>
-    <td class="tg-zurh"><a href="https://quizlet.com/_7slblk?x=1jqt&i=1c2gxb" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#3D85C6">P5 Foundation English Spelling and Dictation Week 2</span></a></td>
+    <td class="tg-qec4">Spelling and Dictation 2</td>
+    <td class="tg-zurh"><a href="https://quizlet.com/_7slblk?x=1jqt&i=1c2gxb" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#3D85C6">Term 1 Week 2</span></a></td>
   </tr>
   <tr>
-    <td class="tg-qec4">3</td>
-    <td class="tg-39zx"><a href="https://quizlet.com/_7sldh2?x=1jqt&i=1c2gxb">P5 Foundation English Spelling and Dictation Week 3</a></td>
+    <td class="tg-qec4">Spelling and Dictation 3</td>
+    <td class="tg-39zx"><a href="https://quizlet.com/_7sldh2?x=1jqt&i=1c2gxb">Term 1 Week 3</a></td>
   </tr>
   <tr>
-    <td class="tg-qec4">4</td>
-    <td class="tg-39zx"><a href="https://quizlet.com/_7slene?x=1jqt&i=1c2gxb">P5 Foundation English Spelling and Dictation Week 4</a></td>
+    <td class="tg-qec4">Spelling and Dictation 4</td>
+    <td class="tg-39zx"><a href="https://quizlet.com/_7slene?x=1jqt&i=1c2gxb">Term 1 Week 4</a></td>
   </tr>
   <tr>
-    <td class="tg-qec4">5</td>
+    <td class="tg-qec4">Spelling and Dictation 5</td>
     <td class="tg-zurh">No Spelling</td>
   </tr>
   <tr>
-    <td class="tg-qec4">6</td>
-    <td class="tg-zurh"><a href="https://quizlet.com/_7slfxu?x=1jqt&i=1c2gxb" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#3D85C6">P5 Foundation English Spelling and Dictation Week 6</span></a></td>
+    <td class="tg-qec4">Spelling and Dictation 6</td>
+    <td class="tg-zurh"><a href="https://quizlet.com/_7slfxu?x=1jqt&i=1c2gxb" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#3D85C6">Term 1 Week 6</span></a></td>
   </tr>
   <tr>
-    <td class="tg-qec4">7</td>
-    <td class="tg-39zx"><a href="https://quizlet.com/_7slgye?x=1jqt&i=1c2gxb">P5 Foundation English Spelling and Dictation Week 7</a></td>
+    <td class="tg-qec4">Spelling and Dictation 7</td>
+    <td class="tg-39zx"><a href="https://quizlet.com/_7slgye?x=1jqt&i=1c2gxb">Term 1 Week 7</a></td>
   </tr>
   <tr>
-    <td class="tg-qec4">8</td>
-    <td class="tg-39zx"><a href="https://quizlet.com/_7st8gs?x=1jqt&i=1c2gxb">P5 Foundation English Spelling and Dictation Week 8</a></td>
+    <td class="tg-qec4">Spelling and Dictation 8</td>
+    <td class="tg-39zx"><a href="https://quizlet.com/_7st8gs?x=1jqt&i=1c2gxb">Term 1 Week 8</a></td>
   </tr>
   <tr>
-    <td class="tg-qec4">9</td>
-    <td class="tg-39zx"><a href="https://quizlet.com/_7staba?x=1jqt&i=1c2gxb">P5 Foundation English Spelling and Dictation Week 9</a></td>
+    <td class="tg-qec4">Spelling and Dictation 9</td>
+    <td class="tg-39zx"><a href="https://quizlet.com/_7staba?x=1jqt&i=1c2gxb">Term 1 Week 9</a></td>
   </tr>
 </tbody>
 </table>
