@@ -11,7 +11,7 @@ description: ""
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-1zrx{background-color:#FFF;color:#222;font-size:16px;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-1zrx{background-color:#FFF;color:#222;font-size:16px;font-weight:bold;text-align:left;vertical-align:middle}
 .tg .tg-qtsq{background-color:#FFF;color:#222;font-size:16px;text-align:left;vertical-align:middle}
 .tg .tg-5ucw{background-color:#FFF;color:#231F20;font-size:16px;text-align:left;vertical-align:middle}
 </style>
