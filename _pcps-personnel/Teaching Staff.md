@@ -251,7 +251,7 @@ description: ""
 <table class="tg" style="undefined;table-layout: fixed; width: 800px">
 <colgroup>
 <col style="width: 300px">
-<col style="width: 140px">
+<col style="width: 180px">
 <col style="width: 360px">
 </colgroup>
 <tbody>
@@ -261,9 +261,9 @@ description: ""
     <td class="tg-1zrx"><span style="color:#222">Email</span></td>
   </tr>
   <tr>
-    <td class="tg-hsqg"><span style="background-color:transparent">Ms Tan Sze Huey</span></td>
-    <td class="tg-qtsq"><span style="color:#222">Form Teacher</span><br><span style="background-color:transparent">3 Amber</span></td>
-    <td class="tg-hsqg"><span style="background-color:transparent">tan_sze_huey@schools.gov.sg</span></td>
+    <td class="tg-hsqg"><span style="background-color:transparent">Ms Koh Hui Ling</span></td>
+    <td class="tg-qtsq"><span style="color:#222">Form Teacher<br>3 Amber</span></td>
+    <td class="tg-hsqg"><span style="background-color:transparent">koh_hui_ling@schools.gov.sg</span></td>
   </tr>
   <tr>
     <td class="tg-hsqg"><span style="background-color:transparent">Ms Chen Kang Li</span></td>
