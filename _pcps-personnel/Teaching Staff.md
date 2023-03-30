@@ -160,9 +160,10 @@ description: ""
     <td class="tg-qtsq">lynn_lee_wen_lin@chools.gov.sg  <br></td>
   </tr>
   <tr>
-    <td class="tg-qtsq">Mrs Ada Chung<br></td>
-    <td class="tg-qtsq">Form Teacher<br><span style="background-color:transparent">2 Emerald</span><span style="color:#222;background-color:transparent"> </span></td>
-    <td class="tg-qtsq">ng_xinying_ada@schools.gov.sg<br></td>
+    <td class="tg-qtsq">Mr Chandra S/O Kalimuthu<br></td>
+    <td class="tg-qtsq">Form Teacher<br><span style="background-color:transparent">2 Diamond <br> TL Teacher</span><span style="color:#222;background-color:transparent"> </span></td>
+    <td class="tg-qtsq">chanthirasekar_kalimuthu@schools.gov.sg
+<br></td>
   </tr>
   <tr>
     <td class="tg-qtsq">Mdm Ayisha Ruksana<br></td>
