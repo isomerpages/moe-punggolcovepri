@@ -267,13 +267,14 @@ description: ""
   </tr>
   <tr>
     <td class="tg-hsqg"><span style="background-color:transparent">Mdm Noor Ayisha Rukhsana</span></td>
-    <td class="tg-qtsq"><span style="color:#222">Form Teacher <br> 3 Coral</span><br></td>
-    <td class="tg-hsqg"><span style="background-color:transparent">chen_kang_li@schools.gov.sg</span></td>
+    <td class="tg-qtsq"><span style="color:#222">Form Teacher <br> 3 Amber <br> TL Teacher</span><br></td>
+    <td class="tg-hsqg"><span style="background-color:transparent">noor_mohamed_ayisha_rukhsana@schools.gov.sg
+			</span></td>
   </tr>
   <tr>
-    <td class="tg-hsqg"><span style="background-color:transparent">Mr Marvin Seah</span></td>
-    <td class="tg-qtsq"><span style="color:#222">Form Teacher</span><br><span style="background-color:transparent">3 Coral</span></td>
-    <td class="tg-hsqg"><span style="background-color:transparent">seah_kim_san_marvin@schools.gov.sg</span></td>
+    <td class="tg-hsqg"><span style="background-color:transparent">Ms Chan Soo Keng</span></td>
+    <td class="tg-qtsq"><span style="color:#222">Form Teacher</span><br><span style="background-color:transparent">3 Coral <br> CL Teacher</span></td>
+    <td class="tg-hsqg"><span style="background-color:transparent">chan_soo_keng@schools.gov.sg </span></td>
   </tr>
   <tr>
     <td class="tg-hsqg"><span style="background-color:transparent">Mr Jason Hong</span></td>
