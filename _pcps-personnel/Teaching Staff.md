@@ -225,6 +225,12 @@ description: ""
     <td class="tg-qtsq">Form Teacher<br><span style="background-color:transparent">2 Sapphire</span><br></td>
     <td class="tg-5ucw">ng_li_qing@schools.gov.sg </td>
   </tr>
+			  <tr>
+    <td class="tg-qtsq">Mdm Chew Wee San Cheryl<br></td>
+    <td class="tg-qtsq">Form Teacher<br><span style="background-color:transparent">2 Sapphire <br> CL Teacher</span><br></td>
+    <td class="tg-5ucw">chew_wee_san@schools.gov.sg 
+</td>
+  </tr>
 </tbody>
 </table>
 
