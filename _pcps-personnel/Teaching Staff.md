@@ -262,7 +262,7 @@ description: ""
     <td class="tg-hsqg">koh_hui_ling@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-hsqg">Mdm Noor Ayisha Rukhsana</td>
+    <td class="tg-hsqg">Mdm&nbsp;Noor Ayisha Rukhsana</td>
     <td class="tg-qtsq">Form Teacher <br> 3 Amber <br> TL Teacher</td>
     <td class="tg-hsqg">noor_mohamed_ayisha_rukhsana@schools.gov.sg
 			</td>
