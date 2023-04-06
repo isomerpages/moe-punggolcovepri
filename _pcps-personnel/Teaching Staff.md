@@ -530,27 +530,31 @@ description: ""
     <td class="tg-1zrx">Email</td>
   </tr>
   <tr>
-    <td class="tg-qtsq">Mdm Woo Sye Lai</td>
+    <td class="tg-qtsq">Mdm Ellia Mardiana Rahmat</td>
     <td class="tg-qtsq">Form Teacher<br>6 Amber</td>
-    <td class="tg-qtsq">woo_sye_lai@schools.gov.sg</td>
+    <td class="tg-qtsq">ellia_mardiana_rahmat@schools.gov.sg
+</td>
+  </tr>
+  <tr>
+    <td class="tg-qtsq">Mrs Haider</td>
+    <td class="tg-qtsq">Form Teacher<br>6 Amber<br>TAMIL Teacher</td>
+    <td class="tg-qtsq">shanthi_marimuthu@schools.gov.sg
+</td>
+  </tr>
+  <tr>
+    <td class="tg-qtsq">Mdm Agnes Chia Boon Yung</td>
+    <td class="tg-qtsq">Form Teacher<br>6 Coral<br>CL Teacher<br></td>
+    <td class="tg-qtsq">chia_boon_yung_agnes@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-qtsq">Mdm Norihsani Bte Tavant</td>
-    <td class="tg-qtsq">Form Teacher<br>6 Coral<br>LH Science - Int</td>
-    <td class="tg-qtsq">norihsani_tavant@schools.gov.sg</td>
+    <td class="tg-qtsq">Form Teacher<br>6 Coral<br>LH Science</td>
+    <td class="tg-qtsq">norihsani_tavant@schools.gov.sg
+</td>
   </tr>
   <tr>
-    <td class="tg-qtsq">Mdm Fatimah Bte Hashim</td>
-    <td class="tg-qtsq">Form Teacher<br>6 Diamond<br>ST CCE<br></td>
-    <td class="tg-qtsq">fatimah_hashim@schools.gov.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-qtsq">Mdm Chua Swan Lynn</td>
-    <td class="tg-qtsq">Form Teacher<br>6 Emerald<br><br>LH English</td>
-    <td class="tg-qtsq">hua_swan_lynn@schools.gov.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-qtsq">Mrs Jasmine Wong</td>
+    <td class="tg-qtsq">Ms Goh Yan Ping Yvonne
+</td>
     <td class="tg-qtsq">Form Teacher<br>6 Jade<br>AYH - Int</td>
     <td class="tg-qtsq">tang_yuen_har_jasmine@schools.gov.sg</td>
   </tr>
