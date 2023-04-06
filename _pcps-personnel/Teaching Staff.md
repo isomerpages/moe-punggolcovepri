@@ -380,7 +380,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-qtsq">Mr Joshua Tan Kiat Fong</td>
-    <td class="tg-qtsq">Form Teacher<br>4 Emerald</td>
+    <td class="tg-qtsq">Form Teacher<br>4 Emerald <br> PE Teacher</td>
     <td class="tg-qtsq">tan_kiat_fong_joshua@schools.gov.sg </td>
   </tr>
   <tr>
@@ -394,19 +394,19 @@ description: ""
     <td class="tg-qtsq">llu_jie@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-qtsq">Mdm Nur Shafiqah Rosland</td>
-    <td class="tg-qtsq">Form Teacher<br>4 Jade<br></td>
+    <td class="tg-qtsq">Mdm Muliyati Binte Zailani</td>
+    <td class="tg-qtsq">Form Teacher<br>4 Jade<br> ML Teacher</td>
     <td class="tg-qtsq">nur_shafiqah_rosland@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-qtsq">Mr Mohd Hafiizh Dzulkifli</td>
-    <td class="tg-qtsq">Form Teacher<br>4 Jade<br>SH PE CCA</td>
-    <td class="tg-qtsq">mohammed_hafiizh_dzulkifli@schools.gov.sg</td>
+    <td class="tg-qtsq">Mdm Nur Sufriena Binte Suhaini</td>
+    <td class="tg-qtsq">Form Teacher<br>4 Opal</td>
+    <td class="tg-qtsq">nur_sufriena_suhaini@schools.gov.sg </td>
   </tr>
   <tr>
-    <td class="tg-qtsq">Mdm Murni Alidawati Bte Mohd Amin</td>
+    <td class="tg-qtsq">Mr Reyhan Amierul </td>
     <td class="tg-qtsq">Form Teacher<br>4 Opal</td>
-    <td class="tg-qtsq">murni_alidawati_mohamed@schools.gov.sg</td>
+    <td class="tg-qtsq">muhammad_reyhan_amierul_abdul@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-qtsq">Ms Nur Alisa</td>
