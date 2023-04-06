@@ -555,18 +555,45 @@ description: ""
   <tr>
     <td class="tg-qtsq">Ms Goh Yan Ping Yvonne
 </td>
-    <td class="tg-qtsq">Form Teacher<br>6 Jade<br>AYH - Int</td>
-    <td class="tg-qtsq">tang_yuen_har_jasmine@schools.gov.sg</td>
+    <td class="tg-qtsq">Form Teacher<br>6 Diamond<br>Aspiring ST Math</td>
+    <td class="tg-qtsq">goh_yan_ping_yvonne@schools.gov.sg </td>
   </tr>
   <tr>
-    <td class="tg-qtsq">Ms Charmaine Lim</td>
-    <td class="tg-qtsq">Form Teacher<br>6 Ruby<br>ST SEN</td>
-    <td class="tg-qtsq">Charmaine_Lim@schools.gov.sg</td>
+    <td class="tg-qtsq">Ms Tang Yu Ying
+</td>
+    <td class="tg-qtsq">Form Teacher<br>6 Emerald<br>Int LH Science</td>
+    <td class="tg-qtsq">tang_yu_ying@schools.gov.sg 
+</td>
   </tr>
   <tr>
-    <td class="tg-qtsq">Mdm Nurafizah Binte Abdul Razak</td>
+    <td class="tg-qtsq">Ms Debbie Huang Kaixin</td>
+    <td class="tg-qtsq">Form Teacher<br>6 Jade <br> PE Teacher</td>
+    <td class="tg-qtsq">debbie_huang_kaixin@schools.gov.sg 
+</td>
+  </tr>
+	  <tr>
+    <td class="tg-qtsq">Mdm Chua Swan Lynn
+</td>
+    <td class="tg-qtsq">Form Teacher<br>6 Jade <br> LH English</td>
+    <td class="tg-qtsq">chua_swan_lynn@schools.gov.sg
+</td>
+  </tr>
+	 <tr>
+    <td class="tg-qtsq">Ms Munawarrah Sultana Unwar</td>
+    <td class="tg-qtsq">Form Teacher<br>6 Opal <br> ST English</td>
+    <td class="tg-qtsq">munawarrah_sultana_unwar@schools.gov.sg </td>
+  </tr>
+	<tr>
+    <td class="tg-qtsq">Mdm Fatimah Bte Hashim</td>
+    <td class="tg-qtsq">Form Teacher<br>6 Pearl <br> ST CCE</td>
+    <td class="tg-qtsq">fatimah_hashim@schools.gov.sg 
+</td>
+  </tr>
+	<tr>
+    <td class="tg-qtsq">Ms Nur Alisa Binte Zanal</td>
     <td class="tg-qtsq">Form Teacher<br>6 Ruby</td>
-    <td class="tg-qtsq">urafizah_abdul_razak@schools.gov.sg</td>
+    <td class="tg-qtsq">nur_alisa_zanal@schools.gov.sg  
+</td>
   </tr>
 </tbody>
 </table>
