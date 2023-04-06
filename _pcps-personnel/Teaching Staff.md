@@ -319,9 +319,9 @@ description: ""
     <td class="tg-hsqg">mohammad_hafiizh_dzulkifli@schools.gov.sg </td>
   </tr>
   <tr>
-    <td class="tg-hsqg">Mrs Haider</td>
+    <td class="tg-hsqg">Mr Teo Jia Hao</td>
     <td class="tg-qtsq">Form Teacher <br> 3 Pearl </td>
-    <td class="tg-hsqg">shanthi_marimuthu@schools.gov.sg</td>
+    <td class="tg-hsqg">teo\_jia\_hao@schools.gov.sg</td>
   </tr>
 </tbody>
 </table>
