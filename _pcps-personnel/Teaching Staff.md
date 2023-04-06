@@ -351,44 +351,47 @@ description: ""
     <td class="tg-1zrx">Email</td>
   </tr>
   <tr>
-    <td class="tg-qtsq">Mr M Prakash</td>
+    <td class="tg-qtsq">Ms Chin Ruey, Amanda</td>
     <td class="tg-qtsq">Form Teacher <br> 4 Amber</td>
-    <td class="tg-qtsq">m_prakash@schools.gov.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-qtsq">Ms Oh Pei Ying</td>
-    <td class="tg-qtsq">Form Teacher<br>4 Coral</td>
-    <td class="tg-qtsq">oh_pei_ying@schools.gov.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-qtsq">Ms Chan Soo Keng, Victoria</td>
-    <td class="tg-qtsq">Form Teacher<br>4 Coral</td>
-    <td class="tg-qtsq">chan_soo_keng@schools.gov.sg</td>
+    <td class="tg-qtsq">	chin_ruey_amanda@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-qtsq">Mr Adrian Liang</td>
-    <td class="tg-qtsq">Form Teacher<br>4 Diamond<br>LH ICT</td>
-    <td class="tg-qtsq">Adrian_LIANG@schools.gov.sg</td>
+    <td class="tg-qtsq">Form Teacher<br>4 Amber <br> LH ICT</td>
+    <td class="tg-qtsq">adrian_liang@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-qtsq">Ms Chen Soo Juan</td>
+    <td class="tg-qtsq">Ms Chen Kang Li
+</td>
+    <td class="tg-qtsq">Form Teacher<br>4 Coral</td>
+    <td class="tg-qtsq">chen_kang_li@schools.gov.sg </td>
+  </tr>
+  <tr>
+    <td class="tg-qtsq">Ms Nellia Yezmin Shameer
+</td>
+    <td class="tg-qtsq">Form Teacher<br>4 Coral</td>
+    <td class="tg-qtsq">nellia_yezmin_shameer@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-qtsq">Mr M Prakash
+</td>
     <td class="tg-qtsq">Form Teacher<br>4 Diamond</td>
-    <td class="tg-qtsq">ding_soo_juan@schools.gov.sg</td>
+    <td class="tg-qtsq">m_prakash@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-qtsq">Mr Teo Jia Hao</td>
-    <td class="tg-qtsq">Form Teacher<br>4 Diamond</td>
-    <td class="tg-qtsq">Teo_jia_hao@schools.gov.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-qtsq">Ms Lim Xin Wan</td>
+    <td class="tg-qtsq">Mr Joshua Tan Kiat Fong</td>
     <td class="tg-qtsq">Form Teacher<br>4 Emerald</td>
-    <td class="tg-qtsq">lim_xin_wan@schools.gov.sg</td>
+    <td class="tg-qtsq">tan_kiat_fong_joshua@schools.gov.sg </td>
   </tr>
   <tr>
-    <td class="tg-qtsq">Ms Audrey Lee</td>
+    <td class="tg-qtsq">Mdm Nur Syazwani Jantan</td>
     <td class="tg-qtsq">Form Teacher<br>4 Emerald</td>
-    <td class="tg-qtsq">lee_wen_zhen_audrey@schools.gov.sg</td>
+    <td class="tg-qtsq">nur_syazwani_jantan@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-qtsq">Mr Lu Jie</td>
+    <td class="tg-qtsq">Form Teacher<br>4 Jade</td>
+    <td class="tg-qtsq">llu_jie@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-qtsq">Mdm Nur Shafiqah Rosland</td>
