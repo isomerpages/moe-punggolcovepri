@@ -441,9 +441,10 @@ description: ""
     <td class="tg-1zrx">Email</td>
   </tr>
   <tr>
-    <td class="tg-qtsq">Mdm Ellia Mardiana Binte Rahmat</td>
+    <td class="tg-qtsq">Mdm Nur Shafiqah Binte Rosland</td>
     <td class="tg-qtsq">Form Teacher<br>5 Amber</td>
-    <td class="tg-qtsq">ellia_mardiana_rahmat@schools.gov.sg</td>
+    <td class="tg-qtsq">nur_shafiqah_rosland@schools.gov.sg
+</td>
   </tr>
   <tr>
     <td class="tg-qtsq">Mrs Melissa Chan</td>
