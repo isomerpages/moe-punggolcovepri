@@ -447,19 +447,22 @@ description: ""
 </td>
   </tr>
   <tr>
-    <td class="tg-qtsq">Mrs Melissa Chan</td>
+    <td class="tg-qtsq">Mrs Ada Chung
+</td>
     <td class="tg-qtsq">Form Teacher<br>5 Coral</td>
-    <td class="tg-qtsq">melissa_lee_pei-ju@schools.gov.sg</td>
+    <td class="tg-qtsq">ng_xinying_ada@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-qtsq">Ms Loh Qiwen Angeline</td>
-    <td class="tg-qtsq">Form Teacher<br>5 Diamond</td>
-    <td class="tg-qtsq">loh_qiwen_angeline@schools.gov.sg</td>
+    <td class="tg-qtsq">Ms Charmaine Lim
+</td>
+    <td class="tg-qtsq">Form Teacher<br>5 Coral <br> ST SEN</td>
+    <td class="tg-qtsq">	charmaine_lim@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-qtsq">Ms Tang Yu Ying</td>
+    <td class="tg-qtsq">Mr Yeo Yee Peng
+</td>
     <td class="tg-qtsq">Form Teacher<br>5 Emerald</td>
-    <td class="tg-qtsq">tang_yu_ying@schools.gov.sg</td>
+    <td class="tg-qtsq">yeo_yee_peng@schools.gov.sg </td>
   </tr>
   <tr>
     <td class="tg-qtsq">Mr Yeo Yee Peng</td>
