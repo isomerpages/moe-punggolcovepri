@@ -309,14 +309,14 @@ description: ""
     <td class="tg-hsqg">ding_soo_juan@schools.gov.sg </td>
   </tr>
   <tr>
-    <td class="tg-hsqg">Mdm Chew Kim Kee</td>
+    <td class="tg-hsqg">Mr Gan Zhan Yi</td>
     <td class="tg-qtsq">Form Teacher<br>3 Opal</td>
-    <td class="tg-hsqg">chew_kim_kee@schools.gov.sg</td>
+    <td class="tg-hsqg">gan_zhan_yi@schools.gov.sg </td>
   </tr>
   <tr>
-    <td class="tg-hsqg">Ms Jaslyn Kong</td>
-    <td class="tg-qtsq">Form Teacher <br> 3 Pearl</td>
-    <td class="tg-hsqg">Kong_Peiling@schools.gov.sg</td>
+    <td class="tg-hsqg">Mr Mohammed Hafiizh Bin Dzulkifli</td>
+    <td class="tg-qtsq">Form Teacher <br> 3 Opal <br>  SH PE &amp; CCA</td>
+    <td class="tg-hsqg">mohammad_hafiizh_dzulkifli@schools.gov.sg </td>
   </tr>
   <tr>
     <td class="tg-hsqg">Mrs Haider</td>
