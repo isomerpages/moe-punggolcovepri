@@ -465,14 +465,18 @@ description: ""
     <td class="tg-qtsq">yeo_yee_peng@schools.gov.sg </td>
   </tr>
   <tr>
-    <td class="tg-qtsq">Mr Yeo Yee Peng</td>
-    <td class="tg-qtsq">Form Teacher<br>5 Jade</td>
-    <td class="tg-qtsq">yeo_yee_peng@schools.gov.sg</td>
+    <td class="tg-qtsq">Mrs Jasmine Wong
+</td>
+    <td class="tg-qtsq">Form Teacher<br>5 Emerald</td>
+    <td class="tg-qtsq">tang_yuen_har_jasmine@schools.gov.sg 
+</td>
   </tr>
   <tr>
-    <td class="tg-qtsq">Ms Munawarrah Sultana</td>
-    <td class="tg-qtsq">Form Teacher<br>5 Opal<br>ST English</td>
-    <td class="tg-qtsq">munawarrah_sultana_unwar@schools.gov.sg</td>
+    <td class="tg-qtsq">Ms Felicia Nah Ya Rui
+</td>
+    <td class="tg-qtsq">Form Teacher<br>5 Jade</td>
+    <td class="tg-qtsq">nah_ya_rui_felicia@schools.gov.sg 
+</td>
   </tr>
   <tr>
     <td class="tg-qtsq">Ms Felicia Nah</td>
@@ -480,14 +484,24 @@ description: ""
     <td class="tg-qtsq">nah_ya_rui_felicia@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-qtsq">Mdm Nur Sufriena Suhaini</td>
-    <td class="tg-qtsq">Form Teacher<br>5 Ruby</td>
-    <td class="tg-qtsq">nur_sufriena_suhaini@schools.gov.sg</td>
+    <td class="tg-qtsq">Mdm Woo Sye Lai
+</td>
+    <td class="tg-qtsq">Form Teacher<br>5 Opal</td>
+    <td class="tg-qtsq">woo_sye_lai@schools.gov.sg 
+</td>
   </tr>
   <tr>
-    <td class="tg-qtsq">Mrs Shahrin</td>
+    <td class="tg-qtsq">Ms Ng Hui Jie Rimes
+</td>
+    <td class="tg-qtsq">Form Teacher<br>5 Pearl</td>
+    <td class="tg-qtsq">ng_hui_jie_rimes@schools.gov.sg 
+</td>
+  </tr>
+	 <tr>
+    <td class="tg-qtsq">Ms Loh Qiwen Angeline</td>
     <td class="tg-qtsq">Form Teacher<br>5 Ruby</td>
-    <td class="tg-qtsq">m_sainava_buang@moe.edu.sg</td>
+    <td class="tg-qtsq">loh_qiwen_angeline@schools.gov.sg 
+</td>
   </tr>
 </tbody>
 </table>
