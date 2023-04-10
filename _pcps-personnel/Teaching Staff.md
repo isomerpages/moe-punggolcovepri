@@ -625,10 +625,6 @@ description: ""
     <td class="tg-hsqg">A_Fathima_Beevi@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-hsqg">Ms Divyasri Rajendran </td>
-    <td class="tg-hsqg">Divyasri_Rajendran_A@schools.gov.sg </td>
-  </tr>
-  <tr>
     <td class="tg-hsqg">Mdm Hernie Maslinda</td>
     <td class="tg-hsqg">hernie_maslinda_mohamed@schools.gov.sg</td>
   </tr>
