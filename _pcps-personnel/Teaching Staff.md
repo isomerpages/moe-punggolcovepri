@@ -126,11 +126,11 @@ description: ""
 .tg .tg-1ppo{background-color:#FFF;color:#222;text-align:left;vertical-align:middle}
 .tg .tg-yq3i{background-color:#FFF;color:#231F20;text-align:left;vertical-align:middle}
 </style>
-<table style="undefined;table-layout: fixed; width: 666px" class="tg">
+<table style="undefined;table-layout: fixed; width: 800px" class="tg">
 <colgroup>
-<col style="width: 222px">
-<col style="width: 142px">
-<col style="width: 302px">
+<col style="width: 200px">
+<col style="width: 200px">
+<col style="width: 400px">
 </colgroup>
 <thead>
   <tr>
@@ -246,11 +246,11 @@ description: ""
 .tg .tg-1ppo{background-color:#FFF;color:#222;text-align:left;vertical-align:middle}
 .tg .tg-yq3i{background-color:#FFF;color:#231F20;text-align:left;vertical-align:middle}
 </style>
-<table style="undefined;table-layout: fixed; width: 666px" class="tg">
+<table style="undefined;table-layout: fixed; width: 800px" class="tg">
 <colgroup>
-<col style="width: 222px">
-<col style="width: 142px">
-<col style="width: 302px">
+<col style="width: 200px">
+<col style="width: 200px">
+<col style="width: 400px">
 </colgroup>
 <thead>
   <tr>
@@ -366,11 +366,11 @@ description: ""
 .tg .tg-6ua2{background-color:#FFF;border-color:inherit;color:#222;font-weight:bold;text-align:left;vertical-align:middle}
 .tg .tg-1ppo{background-color:#FFF;color:#222;text-align:left;vertical-align:middle}
 </style>
-<table style="undefined;table-layout: fixed; width: 1118px" class="tg">
+<table style="undefined;table-layout: fixed; width: 800px" class="tg">
 <colgroup>
-<col style="width: 373px">
-<col style="width: 238px">
-<col style="width: 507px">
+<col style="width: 200px">
+<col style="width: 200px">
+<col style="width: 400px">
 </colgroup>
 <thead>
   <tr>
