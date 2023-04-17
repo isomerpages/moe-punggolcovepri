@@ -611,71 +611,74 @@ description: ""
 #### OTHER TEACHING STAFF
 
 <style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-hsqg{background-color:#FFF;font-size:16px;text-align:left;vertical-align:middle}
-.tg .tg-st6x{background-color:#FFF;font-size:16px;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-clhh{background-color:#FFF;color:#222;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-6ua2{background-color:#FFF;border-color:inherit;color:#222;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 686px">
+<table style="undefined;table-layout: fixed; width:800px" class="tg">
 <colgroup>
-<col style="width: 250px">
-<col style="width: 436px">
+<col style="width: 400px">
+<col style="width: 400px">
 </colgroup>
+<thead>
+  <tr>
+    <th class="tg-6ua2"><span style="font-weight:bold;background-color:#FFF">Name</span></th>
+    <th class="tg-clhh"><span style="font-weight:bold;background-color:#FFF">Email</span></th>
+  </tr>
+</thead>
 <tbody>
   <tr>
-    <td class="tg-st6x">Name</td>
-    <td class="tg-st6x">Email</td>
+    <td class="tg-zr06"><span style="background-color:#FFF">Mdm A Fathima Beevi</span></td>
+    <td class="tg-zr06"><span style="background-color:#FFF">A_Fathima_Beevi@schools.gov.sg</span></td>
   </tr>
   <tr>
-    <td class="tg-hsqg">Mdm A Fathima Beevi </td>
-    <td class="tg-hsqg">A_Fathima_Beevi@schools.gov.sg</td>
+    <td class="tg-zr06"><span style="background-color:#FFF">Mdm Hernie Maslinda</span></td>
+    <td class="tg-zr06"><span style="background-color:#FFF">hernie_maslinda_mohamed@schools.gov.sg</span></td>
   </tr>
   <tr>
-    <td class="tg-hsqg">Mdm Hernie Maslinda</td>
-    <td class="tg-hsqg">hernie_maslinda_mohamed@schools.gov.sg</td>
+    <td class="tg-zr06"><span style="background-color:#FFF">Ms Magdalene Teo</span></td>
+    <td class="tg-zr06"><span style="background-color:#FFF">Magdalene_Teo_Rou_En@schools.gov.sg</span></td>
   </tr>
   <tr>
-    <td class="tg-hsqg">Ms Magdalene Teo</td>
-    <td class="tg-hsqg">Magdalene_Teo_Rou_En@schools.gov.sg</td>
+    <td class="tg-zr06"><span style="background-color:#FFF">Mrs Margaret Tan</span></td>
+    <td class="tg-zr06"><span style="background-color:#FFF">Margaret_Cheng_Poh_Wan@schools.gov.sg</span></td>
   </tr>
   <tr>
-    <td class="tg-hsqg">Mrs Margaret Tan </td>
-    <td class="tg-hsqg">Margaret_Cheng_Poh_Wan@schools.gov.sg </td>
+    <td class="tg-zr06"><span style="background-color:#FFF">Mdm Norzaida Daot</span></td>
+    <td class="tg-zr06"><span style="background-color:#FFF">Norzaida_Daot@schools.gov.sg</span></td>
   </tr>
   <tr>
-    <td class="tg-hsqg">Mdm Norzaida Daot</td>
-    <td class="tg-hsqg">Norzaida_Daot@schools.gov.sg</td>
+    <td class="tg-zr06"><span style="background-color:#FFF">Mdm Rehanna</span></td>
+    <td class="tg-zr06"><span style="background-color:#FFF">rehanna_dawood@schools.gov.sg</span></td>
   </tr>
   <tr>
-    <td class="tg-hsqg">Mdm Rehanna </td>
-    <td class="tg-hsqg">rehanna_dawood@schools.gov.sg </td>
+    <td class="tg-zr06"><span style="background-color:#FFF">Mrs Alice Tan</span></td>
+    <td class="tg-zr06"><span style="background-color:#FFF">See_Shin_Yee_alice@schools.gov.sg</span></td>
   </tr>
   <tr>
-    <td class="tg-hsqg">Mrs Alice Tan</td>
-    <td class="tg-hsqg">See_Shin_Yee_alice@schools.gov.sg</td>
+    <td class="tg-zr06"><span style="background-color:#FFF">Mrs Serene Tay</span></td>
+    <td class="tg-zr06"><span style="background-color:#FFF">serene_tay_khiok_sing@schools.gov.sg</span></td>
   </tr>
   <tr>
-    <td class="tg-hsqg">Mrs Serene Tay </td>
-    <td class="tg-hsqg">serene_tay_khiok_sing@schools.gov.sg</td>
+    <td class="tg-zr06"><span style="background-color:#FFF">Ms Tan Qiu Ling</span></td>
+    <td class="tg-zr06"><span style="background-color:#FFF">tan_qiu_ling@schools.gov.sg</span></td>
   </tr>
   <tr>
-    <td class="tg-hsqg">Ms Tan Qiu Ling </td>
-    <td class="tg-hsqg">tan_qiu_ling@schools.gov.sg</td>
+    <td class="tg-zr06"><span style="background-color:#FFF">Ms Wendy Yeo</span></td>
+    <td class="tg-zr06"><span style="background-color:#FFF">Yeo_Wan_Tin@schools.gov.sg</span></td>
   </tr>
   <tr>
-    <td class="tg-hsqg">Ms Wendy Yeo</td>
-    <td class="tg-hsqg">Yeo_Wan_Tin@schools.gov.sg </td>
+    <td class="tg-zr06"><span style="background-color:#FFF">Ms Yeo Hui Cheng Serena</span></td>
+    <td class="tg-zr06"><span style="background-color:#FFF">yeo_hui_cheng_serena@schools.gov.sg</span></td>
   </tr>
   <tr>
-    <td class="tg-hsqg">Ms Yeo Hui Cheng Serena</td>
-    <td class="tg-hsqg">yeo_hui_cheng_serena@schools.gov.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-hsqg">Mdm Zahira </td>
-    <td class="tg-hsqg">zahira_abdul_majeed@schools.gov.sg</td>
+    <td class="tg-zr06"><span style="background-color:#FFF">Mdm Zahira</span></td>
+    <td class="tg-zr06"><span style="background-color:#FFF">zahira_abdul_majeed@schools.gov.sg</span></td>
   </tr>
 </tbody>
 </table>
