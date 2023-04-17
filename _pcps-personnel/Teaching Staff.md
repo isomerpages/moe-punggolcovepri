@@ -3,7 +3,7 @@ title: Teaching Staff
 permalink: /pcps-personnel/teaching-staff/
 description: ""
 ---
-#### 2023 PRIMARY 1
+#### **2023 PRIMARY 1**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -113,7 +113,7 @@ description: ""
 </tbody>
 </table>
 
-#### 2023 PRIMARY 2
+#### **2023 PRIMARY 2**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -233,7 +233,7 @@ description: ""
 </tbody>
 </table>
 
-#### 2023 PRIMARY 3
+#### **2023 PRIMARY 3**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -354,7 +354,7 @@ description: ""
 </table>
 
 
-#### 2023 PRIMARY 4
+#### **2023 PRIMARY 4**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -444,7 +444,7 @@ description: ""
 </table>
 
 
-#### 2023 PRIMARY 5
+#### **2023 PRIMARY 5**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -523,7 +523,7 @@ description: ""
 </tbody>
 </table>
 
-#### 2023 PRIMARY 6
+#### **2023 PRIMARY 6**
 
  <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -608,7 +608,7 @@ description: ""
 </table>
 
 
-#### OTHER TEACHING STAFF
+#### **OTHER TEACHING STAFF**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
