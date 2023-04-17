@@ -535,11 +535,11 @@ description: ""
 .tg .tg-6ua2{background-color:#FFF;border-color:inherit;color:#222;font-weight:bold;text-align:left;vertical-align:middle}
 .tg .tg-1ppo{background-color:#FFF;color:#222;text-align:left;vertical-align:middle}
 </style>
-<table style="undefined;table-layout: fixed; width: 999px" class="tg">
+<table style="undefined;table-layout: fixed; width: 800px" class="tg">
 <colgroup>
-<col style="width: 388px">
-<col style="width: 195px">
-<col style="width: 416px">
+<col style="width: 200px">
+<col style="width: 200px">
+<col style="width: 400px">
 </colgroup>
 <thead>
   <tr>
