@@ -25,11 +25,6 @@ description: ""
     <td class="tg-9hzb">Email</td>
   </tr>
   <tr>
-    <td class="tg-ktyi">Mr James Leong</td>
-    <td class="tg-ktyi">Administration Manager</td>
-    <td class="tg-ktyi">james_leong@schools.gov.sg</td>
-  </tr>
-  <tr>
     <td class="tg-ktyi">Mr Kesa Gill</td>
     <td class="tg-ktyi">Operations Manager</td>
     <td class="tg-ktyi">kesa_singh@schools.gov.sg</td>
