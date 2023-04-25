@@ -36,7 +36,7 @@ description: ""
     <input type="checkbox" id="accordion5">
     <label for="accordion5">P5 (Y2023) BOOKLIST</label>
     <div>
-      <p>Please click <a href="https://go.gov.sg/2023pcpsp5hdnbooklist" target="_blank" rel="noopener">here</a> for P5 Foundation (Y2023) Booklist<br><br>Please click <a href="/files/2022%20PCPS%20P5%20HMT.pdf" target="_blank" rel="noopener">here</a> for P5 Higher MT (Y2022) Booklist<br><br>Please click <a href="/files/2022%20PCPS%20P5%20STD%20MT.pdf" target="_blank" rel="noopener">here</a> for P5 Standard MT (Y2022) Booklist</p>
+      <p>Please click <a href="https://go.gov.sg/2023pcpsp5hdnbooklist" target="_blank" rel="noopener">here</a> for P5 Foundation (Y2023) Booklist<br><br>Please click <a href="/files/2022%20PCPS%20P5%20HMT.pdf" target="_blank" rel="noopener">here</a> for P5 Higher MT (Y2022) Booklist<br><br>Please click <a href="https://go.gov.sg/2023pcpsp5hmtbooklist" target="_blank" rel="noopener">here</a> for P5 Standard MT (Y2023) Booklist</p>
     </div>
 	</li>
 	<li>
