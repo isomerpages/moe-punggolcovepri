@@ -8,7 +8,7 @@ description: ""
     <input type="checkbox" id="accordion1">
     <label for="accordion1">P1 (Y2023) BOOKLIST</label>
     <div>
-      <p>Please click <a href="/files/2022%20PCPS%20P1.pdf" target="_blank" rel="noopener">here</a> for P1 (Y2022) Booklist</p>
+      <p>Please click <a href="https://go.gov.sg/2023pcpsp1booklist" target="_blank" rel="noopener">here</a> for P1 (Y2023) Booklist</p>
     </div>
 	</li>  
 	  <li>
