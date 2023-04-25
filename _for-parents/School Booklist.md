@@ -22,7 +22,7 @@ description: ""
     <input type="checkbox" id="accordion3">
     <label for="accordion3">P3 (Y2023) BOOKLIST</label>
     <div>
-      <p>Please click <a href="https://go.gov.sg/2023pcpsp3hmtbooklist" target="_blank" rel="noopener">here</a> for  P3 Higher MT (Y2023) Booklist<br><br>Please click <a href="/files/2022%20PCPS%20P3.pdf" target="_blank" rel="noopener">here</a> for P3(Y2022) Booklist</p>
+      <p>Please click <a href="https://go.gov.sg/2023pcpsp3hmtbooklist" target="_blank" rel="noopener">here</a> for  P3 Higher MT (Y2023) Booklist<br><br>Please click <a href="https://go.gov.sg/2023pcpsp3booklist" target="_blank" rel="noopener">here</a> for P3(Y2023) Booklist</p>
     </div>
 	</li>  
 	  <li>
