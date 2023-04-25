@@ -36,14 +36,14 @@ description: ""
     <input type="checkbox" id="accordion5">
     <label for="accordion5">P5 (Y2023) BOOKLIST</label>
     <div>
-      <p>Please click <a href="https://go.gov.sg/2023pcpsp5hdnbooklist" target="_blank" rel="noopener">here</a> for P5 Foundation (Y2023) Booklist<br><br>Please click <a href="https://go.gov.sg/2023pcpsp5hmtbooklistf" target="_blank" rel="noopener">here</a> for P5 Higher MT (Y2023) Booklist<br><br>Please click <a href="https://go.gov.sg/2023pcpsp5stdmtbooklist" target="_blank" rel="noopener">here</a> for P5 Standard MT (Y2023) Booklist</p>
+      <p>Please click <a href="https://go.gov.sg/2023pcpsp5hdnbooklist" target="_blank" rel="noopener">here</a> for P5 Foundation (Y2023) Booklist<br>Please click <a href="https://go.gov.sg/2023pcpsp5hmtbooklistf" target="_blank" rel="noopener">here</a> for P5 Higher MT (Y2023) Booklist<br>Please click <a href="https://go.gov.sg/2023pcpsp5stdmtbooklist" target="_blank" rel="noopener">here</a> for P5 Standard MT (Y2023) Booklist</p>
     </div>
 	</li>
 	<li>
     <input type="checkbox" id="accordion6">
     <label for="accordion6">P6 (Y2023) BOOKLIST</label>
     <div>
-      <p>Please click <a href="https://go.gov.sg/2023pcpsp6fdnbooklist" target="_blank" rel="noopener">here</a> for P6 Foundation (Y2023) Booklist<br><br>Please click <a href="https://go.gov.sg/2023pcpsp6hmtbooklist" target="_blank" rel="noopener">here</a> for P6 Higher MT (Y2023) Booklist<br><br>Please click <a href="https://go.gov.sg/2023pcpsp6stdmtbooklist" target="_blank" rel="noopener">here</a> for P6 Standard MT (Y2023) Booklist</p>
+      <p>Please click <a href="https://go.gov.sg/2023pcpsp6fdnbooklist" target="_blank" rel="noopener">here</a> for P6 Foundation (Y2023) Booklist<br>Please click <a href="https://go.gov.sg/2023pcpsp6hmtbooklist" target="_blank" rel="noopener">here</a> for P6 Higher MT (Y2023) Booklist<br>Please click <a href="https://go.gov.sg/2023pcpsp6stdmtbooklist" target="_blank" rel="noopener">here</a> for P6 Standard MT (Y2023) Booklist</p>
     </div>
 	</li>
 </ul>
