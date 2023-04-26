@@ -1,0 +1,7 @@
+collections:
+  mk-at-punggol-cove:
+    output: true
+    order:
+      - Staff Contact List.md
+      - Contact Us.md
+      - MK Videos.md

@@ -1,0 +1,42 @@
+collections:
+  for-parents:
+    output: true
+    order:
+      - Admission Matters.md
+      - General Matters/.keep
+      - General Matters/School Matters.md
+      - General Matters/Communication Channel.md
+      - General Matters/Personnel for Pupil Wellbeing Matters.md
+      - General Matters/School Discipline Policy.md
+      - General Matters/School Rules.md
+      - General Matters/School Fees.md
+      - General Matters/Drop Off and Pick Up.md
+      - General Matters/P1 Orientation.md
+      - Useful Links.md
+      - Parents Notes/2022.md
+      - Parents Notes/2021.md
+      - Parents Notes/2020.md
+      - Parents Notes/2019.md
+      - Parents Notes/2018.md
+      - Parents Notes/2017.md
+      - Parents Notes/2016.md
+      - Parents Notes/.keep
+      - Forms.md
+      - Subject Downloads/Subject Downloads.md
+      - Subject Downloads/ICT Connect @ Cove.md
+      - Subject Downloads/Mother Tongue Spelling List.md
+      - Subject Downloads/English Spelling Test.md
+      - Subject Downloads/Curriculum and Academic Briefing.md
+      - Subject Downloads/Physical Education.md
+      - Subject Downloads/.keep
+      - Frequently Asked Questions.md
+      - Student Learning Space.md
+      - Home Based Learning/.keep
+      - Home Based Learning/Home–Based Learning.md
+      - Home Based Learning/Primary 1.md
+      - Home Based Learning/Primary 2.md
+      - Home Based Learning/Primary 3.md
+      - Home Based Learning/Primary 4.md
+      - Home Based Learning/Primary 5.md
+      - School Booklist.md
+      - 2022 P1 Registration Exercise & PCPS Virtual Tour.md

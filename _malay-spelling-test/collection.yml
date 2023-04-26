@@ -1,0 +1,22 @@
+collections:
+  malay-spelling-test:
+    output: true
+    order:
+      - Primary 1/P1A MALAY LANGUAGE SPELLING LIST (TERM 1).md
+      - Primary 1/P1A MALAY LANGUAGE SPELLING LIST (TERM 2).md
+      - Primary 1/P1B MALAY LANGUAGE SPELLING LIST (TERM 3).md
+      - Primary 1/P1B MALAY LANGUAGE SPELLING LIST (TERM 4).md
+      - Primary 1/.keep
+      - Primary 2/P2A MALAY LANGUAGE SPELLING LIST (TERM 1).md
+      - Primary 2/P2A MALAY LANGUAGE SPELLING LIST (TERM 2).md
+      - Primary 2/P2B MALAY LANGUAGE SPELLING LIST (TERM 3).md
+      - Primary 2/P2B MALAY LANGUAGE SPELLING LIST (TERM 4).md
+      - Primary 2/.keep
+      - Primary 3/P3A MALAY LANGUAGE SPELLING LIST (TERM 1).md
+      - Primary 3/P3A MALAY LANGUAGE SPELLING LIST (TERM 2).md
+      - Primary 3/P3B MALAY LANGUAGE SPELLING LIST (TERM 3).md
+      - Primary 3/P3B MALAY LANGUAGE SPELLING LIST (TERM 4).md
+      - Primary 3/.keep
+      - Primary 4/P4A MALAY LANGUAGE SPELLING LIST (TERM 1).md
+      - Primary 4/P4A MALAY LANGUAGE SPELLING LIST (TERM 2).md
+      - Primary 4/.keep

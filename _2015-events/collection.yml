@@ -1,0 +1,6 @@
+collections:
+  2015-events:
+    output: true
+    order:
+      - School–Based/P1 Orientation Day.md
+      - School–Based/.keep

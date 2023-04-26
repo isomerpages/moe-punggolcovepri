@@ -1,15 +1,16 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/MASTERHEAD1.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: About PCPS
+    collection: about-pcps
+  - title: PCPS Experience
+    collection: pcps-experience
+  - title: PCPS PErsonnel
+    collection: pcps-personnel
+  - title: PCPS Stakeholders
+    collection: pcps-stakeholders
+  - title: For Parents
+    collection: for-parents
+  - title: For Staff
+    url: /permalink
+  - title: MK @ Punggol Cove
+    collection: mk-at-punggol-cove
