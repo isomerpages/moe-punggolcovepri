@@ -2,4 +2,4 @@ collections:
   for-staff:
     output: true
     order:
-      - For Staff.md
+      - Quick Links.md
