@@ -26,7 +26,7 @@ description: ""
     <td class="tg-8tt2">Email</td>
   </tr>
   <tr>
-    <td class="tg-uarv">Mr Dennis Yap</td>
+    <td class="tg-uarv">Mrs Teo</td>
     <td class="tg-uarv">Principal</td>
     <td class="tg-uarv">dennis_yap@schools.gov.sg</td>
   </tr>
