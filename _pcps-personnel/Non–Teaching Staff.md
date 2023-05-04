@@ -25,9 +25,9 @@ description: ""
     <td class="tg-9hzb">Email</td>
   </tr>
   <tr>
-    <td class="tg-ktyi">Ms Linda Lau</td>
+    <td class="tg-ktyi">Ms Adelena Loh</td>
     <td class="tg-ktyi">Administration Manager</td>
-    <td class="tg-ktyi">lau_vunyin@schools.gov.sg</td>
+    <td class="tg-ktyi">punggolcove_ps@</td>
   </tr>
   <tr>
     <td class="tg-ktyi">Mr Kesa Gill</td>
