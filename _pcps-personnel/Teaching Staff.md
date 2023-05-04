@@ -321,34 +321,9 @@ description: ""
     <td class="tg-1ppo"><span style="color:#222;background-color:#FFF">mohammed_hafiizh_dzulkifli@schools.gov.sg</span><br></td>
   </tr>
   <tr>
-    <td class="tg-1ppo"><span style="color:#222;background-color:#FFF">Mdm Mardiana Binte Mohamed Yusof</span><br></td>
-    <td class="tg-1ppo"><span style="color:#222;background-color:#FFF">Form Teacher</span><br><span style="color:#222;background-color:#FFF">2 Pearl</span></td>
-    <td class="tg-1ppo"><span style="color:#222;background-color:#FFF">mardiana_mohamed_yusof@schools.gov.sg</span></td>
-  </tr>
-  <tr>
-    <td class="tg-1ppo"><span style="color:#222;background-color:#FFF">Ms Low Si Hui Sofia</span></td>
-    <td class="tg-1ppo"><span style="color:#222;background-color:#FFF">Form Teacher</span><br><span style="color:#222;background-color:#FFF">2 Pearl</span><br><span style="color:#222;background-color:#FFF">Music Teacher</span></td>
-    <td class="tg-1ppo"><span style="color:#222;background-color:#FFF">low_si_hui@schools.gov.sg</span></td>
-  </tr>
-  <tr>
-    <td class="tg-1ppo"><span style="color:#222;background-color:#FFF">Mrs Wendy Yong (Goy Yeong Ee)</span></td>
-    <td class="tg-1ppo"><span style="color:#222;background-color:#FFF">Form Teacher</span><br><span style="color:#222;background-color:#FFF">2 Ruby</span></td>
-    <td class="tg-1ppo"><span style="color:#222;background-color:#FFF">goy_yeong_ee@schools.gov.sg</span></td>
-  </tr>
-  <tr>
-    <td class="tg-1ppo"><span style="color:#222;background-color:#FFF">Mr Ting Jian Hong Kelvin</span></td>
-    <td class="tg-1ppo"><span style="color:#222;background-color:#FFF">Form Teacher</span><br><span style="color:#222;background-color:#FFF">2 Ruby</span><br><span style="color:#222;background-color:#FFF">ART Teacher</span></td>
-    <td class="tg-1ppo"><span style="color:#222;background-color:#FFF">ting_jian_hong_kelvin@schools.gov.sg</span></td>
-  </tr>
-  <tr>
-    <td class="tg-1ppo"><span style="color:#222;background-color:#FFF">Ms Ng Li Qing</span></td>
-    <td class="tg-1ppo"><span style="color:#222;background-color:#FFF">Form Teacher</span><br><span style="color:#222;background-color:#FFF">2 Sapphire</span></td>
-    <td class="tg-yq3i"><span style="color:#231F20;background-color:#FFF">ng_li_qing@schools.gov.sg</span></td>
-  </tr>
-  <tr>
-    <td class="tg-1ppo"><span style="color:#222;background-color:#FFF">Mdm Chew Wee San Cheryl</span></td>
-    <td class="tg-1ppo"><span style="color:#222;background-color:#FFF">Form Teacher</span><br><span style="color:#222;background-color:#FFF">2 Sapphire</span><br><span style="color:#222;background-color:#FFF">CL Teacher</span></td>
-    <td class="tg-yq3i"><span style="color:#231F20;background-color:#FFF">chew_wee_san@schools.gov.sg</span></td>
+    <td class="tg-1ppo"><span style="color:#222;background-color:#FFF">Mr Teo Jia Hao</span><br></td>
+    <td class="tg-1ppo"><span style="color:#222;background-color:#FFF">Form Teacher</span><br><span style="color:#222;background-color:#FFF">3 Pearl</span></td>
+    <td class="tg-1ppo"><span style="color:#222;background-color:#FFF">teo_jia_hao@schools.gov.sg</span></td>
   </tr>
 </tbody>
 </table>
