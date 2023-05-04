@@ -107,7 +107,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-1ppo">Ms Tan Sze Huey</td>
-    <td class="tg-1ppo">Form Teacher<br>1 Ruby<br>Aspiring ST Chinese</td>
+    <td class="tg-1ppo">Form Teacher<br>1 Ruby<br>ST Chinese</td>
     <td class="tg-1ppo">tan_sze_huey@schools.gov.sg</td>
   </tr>
 </tbody>
@@ -546,7 +546,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-1ppo">Ms Goh Yan Ping Yvonne</td>
-    <td class="tg-1ppo">Form Teacher<br>6 Diamond<br>Aspiring ST Math</td>
+    <td class="tg-1ppo">Form Teacher<br>6 Diamond<br>ST Math</td>
     <td class="tg-1ppo">goh_yan_ping_yvonne@schools.gov.sg</td>
   </tr>
   <tr>
