@@ -28,22 +28,22 @@ description: ""
   <tr>
     <td class="tg-uarv">Mrs Teo</td>
     <td class="tg-uarv">Principal</td>
-    <td class="tg-uarv">dennis_yap@schools.gov.sg</td>
+    <td class="tg-uarv">punggolcove_ps@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-uarv">Ms Thia Hwei Ling <span style="background-color:initial">Sharon </span></td>
     <td class="tg-uarv">Vice-Principal</td>
-    <td class="tg-uarv">sharon_thia@schools.gov.sg</td>
+    <td class="tg-uarv">punggolcove_ps@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-7qt1">Ms Chng Shi Hua</td>
     <td class="tg-7qt1">Vice-Principal (Admin)</td>
-    <td class="tg-7qt1">chng_shi_hua@schools.gov.sg</td>
+    <td class="tg-7qt1">punggolcove_ps@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-7qt1">Mr Wan Imran Bin Mohamed Woojdy <br></td>
+    <td class="tg-7qt1">Ms Cai Xirui <br></td>
     <td class="tg-7qt1">Vice-Principal </td>
-    <td class="tg-7qt1">Wan_Imran_Mohd_WOOJDY@schools.gov.sg </td>
+    <td class="tg-7qt1">punggolcove_ps@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-uarv">Ms Norjanah Ramli</td>
