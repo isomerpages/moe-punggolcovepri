@@ -457,21 +457,21 @@ description: ""
   </tr>
   <tr>
     <td class="tg-1ppo">Ms Charmaine Lim</td>
-    <td class="tg-1ppo"><span style="color:#222;background-color:#FFF">Form Teacher</span><br><span style="color:#222;background-color:#FFF">5 Coral</span><br><span style="color:#222;background-color:#FFF">ST SEN</span></td>
-    <td class="tg-1ppo"><span style="color:#222;background-color:#FFF">charmaine_lim@schools.gov.sg</span></td>
+    <td class="tg-1ppo">Form Teacher<br>5 Coral<br>ST SEN</td>
+    <td class="tg-1ppo">charmaine_lim@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-1ppo"><span style="color:#222;background-color:#FFF">Mr Yeo Yee Peng</span></td>
-    <td class="tg-1ppo"><span style="color:#222;background-color:#FFF">Form Teacher</span><br><span style="color:#222;background-color:#FFF">5 Emerald</span></td>
-    <td class="tg-1ppo"><span style="color:#222;background-color:#FFF">yeo_yee_peng@schools.gov.sg</span></td>
+    <td class="tg-1ppo">Mr Yeo Yee Peng</td>
+    <td class="tg-1ppo">Form Teacher<br>5 Emerald</td>
+    <td class="tg-1ppo">yeo_yee_peng@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-1ppo"><span style="color:#222;background-color:#FFF">Mrs Jasmine Wong</span></td>
-    <td class="tg-1ppo"><span style="color:#222;background-color:#FFF">Form Teacher</span><br><span style="color:#222;background-color:#FFF">5 Emerald</span></td>
-    <td class="tg-1ppo"><span style="color:#222;background-color:#FFF">tang_yuen_har_jasmine@schools.gov.sg</span></td>
+    <td class="tg-1ppo">Mrs Jasmine Wong</td>
+    <td class="tg-1ppo">Form Teacher<br>5 Emerald</td>
+    <td class="tg-1ppo">tang_yuen_har_jasmine@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-1ppo"><span style="color:#222;background-color:#FFF">Ms Felicia Nah Ya Rui</span></td>
+    <td class="tg-1ppo">Ms Felicia Nah Ya Rui</td>
     <td class="tg-1ppo"><span style="color:#222;background-color:#FFF">Form Teacher</span><br><span style="color:#222;background-color:#FFF">5 Jade</span></td>
     <td class="tg-1ppo"><span style="color:#222;background-color:#FFF">nah_ya_rui_felicia@schools.gov.sg</span></td>
   </tr>
