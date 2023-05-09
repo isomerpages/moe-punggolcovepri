@@ -462,7 +462,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-1ppo">Mr Yeo Yee Peng</td>
-    <td class="tg-1ppo">Form Teacher<br>5 Emerald</td>
+    <td class="tg-1ppo">Form Teacher<br>5 Diamond</td>
     <td class="tg-1ppo">yeo_yee_peng@schools.gov.sg</td>
   </tr>
   <tr>
