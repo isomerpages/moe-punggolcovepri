@@ -14,6 +14,7 @@ description: ""
 <p style="font-size:30px"><b> Mrs Teo-Seah Whye Choo</b></p>
 <p style="font-size:20px"> PPA (Silver), PBS BSc (Hons), MSc, PGDE (Sec)</p>
 
+<br>
 <p style="font-size:18px"> Mrs Teo was appointed Principal of Punggol Cove Primary School on 15 Dec 2022.</p>
 
 <p style="font-size:18px">Prior to Punggol Cove Primary School, Mrs Teo was Principal of Yio Chu Kang Primary from January 2010 to December 2016 and Principal of Seng Kang Primary from January 2017 to December 2022. For her contributions and service to MOE, Mrs Teo was deeply honoured to receive a National Day Award, The Public Administration Medal (Silver) (Pingat Pentadbiran Awam) (Gangsa) in 2019. For having served more than 25 years in the Public Service, she received the Long Service Medal (Pingat Bakti Setia) in 2015.</p>
