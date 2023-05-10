@@ -5,98 +5,88 @@ description: ""
 ---
 #### ABOUT THE PRINCIPAL
 
-<img src="/images/MR%20Yap.png" 
-     style="width:25%">
+<img src="/images/mrs%20teo.jpg" style="width:30%" align="left">
 
-**Mr Dennis Yap Swee Beng**, PPA (G), P. Kepujian, **PBS**  
-BA (Hons), MA, PGDE (Sec)
+<br>
+<br>
+<br>
 
-  
+<p style="font-size:30px"><b> Mrs Teo-Seah Whye Choo</b></p>
+<p style="font-size:20px"> PPA (Silver), PBS BSc (Hons), MSc, PGDE (Sec)</p>
 
-Mr Dennis Yap was appointed Principal-Designate of Punggol Cove Primary School on 27 April 2015, thereafter Principal on 15 Dec 2015.
+<br>
+<p style="font-size:18px"> Mrs Teo was appointed Principal of Punggol Cove Primary School on 15 Dec 2022.</p>
 
-  
+<p style="font-size:18px">Prior to Punggol Cove Primary School, Mrs Teo was Principal of Yio Chu Kang Primary from January 2010 to December 2016 and Principal of Seng Kang Primary from January 2017 to December 2022. For her contributions and service to MOE, Mrs Teo was deeply honoured to receive a National Day Award, The Public Administration Medal (Silver) (Pingat Pentadbiran Awam) (Gangsa) in 2019. For having served more than 25 years in the Public Service, she received the Long Service Medal (Pingat Bakti Setia) in 2015.</p>
 
-Prior setting up Punggol Cove Primary School, Mr Yap was Principal of Opera Estate Primary School from January 2010 to December 2015. For the work done in Opera Estate Primary School, Mr Yap received a National Day Award, The Public Administration Medal (Bronze) (Pingat Pentadbiran Awam) (Gangsa) in 2015.
+<p style="font-size:18px">Mrs Teo began her career in Education in 1989 when she joined CHIJ Secondary School(Toa Payoh) for 12 years as a Chemistry and Mathematics teacher. She later became the Head of Department for ICT/MRL in the same school where she spearheaded the implementation of ICT MasterPlan 1. </p>
 
-  
+<p style="font-size:18px">In 2003, Mrs Teo joined Educational Technology Division, Research and Development Section, Ministry of Education, as Educational Technology Officer, and in the following year, pursued her Master of Science (by research) degree at the National Institute of Education (NIE). She was involved in working with schools to experiment with emerging technologies for teaching and learning during IT MasterPlan 2 and areas of work such as Lead ICT@Schools and FutureSchools@SG. </p>
 
-Mr Yap began his career in Education in 1998 when he joined Kuo Chuan Presbyterian Secondary School as an English Language and Geography Teacher. He later became the Head of Department for English at the same school.
+<p style="font-size:18px">Upon completing her 4-year stint in ETD, Mrs Teo was posted to Anderson Secondary School as Vice-Principal in 2007. In March 2008, Mrs Teo was selected to attend the "Leaders in Education Programme", an Educational Leadership Development programme at NIE, Singapore to prepare her for school leadership. After the programme, she served as Vice-Principal of Jiemin Primary School from Sep 2008 to 2009. </p>
 
-  
-
-In end 2003, Mr Yap joined Schools Division, Ministry of Education, as Project Officer, and in the following year, having been awarded the MOE Post-Graduate Scholarship, pursued his Master of Arts (by research) degree in English Language at the National Institute of Education (NIE).
-
-  
-
-Upon completing his Masters programme, Mr Yap was posted to Zhenghua Secondary School (ZSS) as Vice-Principal in mid-2005 where he served for almost 4 years. In 2008, Mr Yap received a National Day Award, The Commendation Medal (Pingat Kepujian), for work done at the school.
-
-  
-
-In March 2009, Mr Yap entered the next phase of his career when he was selected to attend the "Leaders in Education Programme", an executive programme at NIE to prepare him for school leadership and the subsequent appointment as Principal at Opera Estate Primary School. 
-
-  
-
-In August 2021, Mr Yap was honoured to receive another National Day Award, The Long Service Medal (Pingat Bakti Setia), having served more than 25 years in Government Service.  
-
-  
-
-Mr Yap is excited to be appointed as the first Principal of Punggol Cove Primary School and looks forward to starting a brand new school where children are developed holistically and learn To Serve and To Lead.
+<p style="font-size:18px">Mrs Teo strongly believes that Every Child Can Learn, Wants to Learn and Wants to Succeed. She feels privileged and values the opportunity to serve and contribute to the learning and development of the students and staff of PCPS and MK@PC. She looks forward to forge strategic and win-win partnerships with parents and community to broaden the horizons and enrich learning of staff and students. Together as One PCPS, she aspires to nurture every PCPS child holistically to ready them for the future To Serve and To Lead, anchored on school values of Care, Empathy and Mindfulness. </p>
 
 #### ABOUT THE VICE-PRINCIPAL
 
-<img src="/images/Sharon.jpeg" 
-     style="width:25%">
+<img src="/images/Sharon.jpeg" style="width:30%" align="left">
 
-**Ms Sharon Thia**  
-Vice-Principal   
-DipEd (Pri), BSc
+<br>
+<br>
+<br>
 
-Ms Sharon Thia was appointed Vice-Principal Designate on 23 March 2015. She started out as a teacher in St. Stephen’s School in 1995 and held the post of Head of Department for Mathematics from 2004 to 2011.  She was then appointed Vice-Principal in the same school in Dec 2011 till Mar 2015. 
+<p style="font-size:30px"><b>Ms Sharon Thia</b></p>  
+<p style="font-size:20px"> DipEd (Pri), BSc </p>
+<br>
 
-During her stint in St. Stephen’s School, she had taught students of varying abilities at all levels. She believes that students must learn how to learn as this is an essential life-long skill necessary for the future. 
+<p style="font-size:18px">Ms Sharon Thia was appointed Vice-Principal Designate on 23 March 2015. She started out as a teacher in St. Stephen’s School in 1995 and held the post of Head of Department for Mathematics from 2004 to 2011.  She was then appointed Vice-Principal in the same school in Dec 2011 till Mar 2015. </p>
 
-Ms Thia also believes that, like parents, teachers labour to form the minds and characters of students. This process enables both the teacher and student to grow as people.
+<p style="font-size:18px">During her stint in St. Stephen’s School, she had taught students of varying abilities at all levels. She believes that students must learn how to learn as this is an essential life-long skill necessary for the future. </p>
 
-Ms Thia would like to see that every student in Punggol Cove Primary is guided by strong moral values and grow to be men of sound character. Every student will be confident and equipped with the necessary skills to serve and to lead.
+<p style="font-size:18px">Ms Thia also believes that, like parents, teachers labour to form the minds and characters of students. This process enables both the teacher and student to grow as people. </p>
 
-Ms Thia strongly advocates the need to establish a strong partnership with parents and to work alongside parents to support their child’s learning and development in primary education.
+<p style="font-size:18px"> Ms Thia would like to see that every student in Punggol Cove Primary is guided by strong moral values and grow to be men of sound character. Every student will be confident and equipped with the necessary skills to serve and to lead. </p>
+
+<p style="font-size:18px"> Ms Thia strongly advocates the need to establish a strong partnership with parents and to work alongside parents to support their child’s learning and development in primary education. </p>
 
 
 #### ABOUT THE VICE-PRINCIPAL (ADMINISTRATION)
 
-<img src="/images/PCPS_Ms%20Chng%20Shi%20Hua.jpeg" 
-     style="width:25%">
+<img src="/images/PCPS_Ms%20Chng%20Shi%20Hua.jpeg" style="width:30%" align="left">
 
-**Ms Chng Shi Hua**  
-Vice-Principal (Administration)
+<br>
+<br>
+<br>
 
-Ms Chng Shi Hua was posted to Punggol Cove Primary School as Vice-Principal (Administration) on 15 December 2017. She started off her career with the Ministry of Education (MOE) as an Administration Manager (then termed School Administrator) in Zhangde Primary School from February 2000 till January 2010. In February 2010, Ms Chng joined the Training and Development Division and Academy of Singapore Teacher, MOE as an Executive under the facilitated job rotation programme. Following which, she was appointed Vice-Principal (Administration) to Zhangde Primary School from December 2012 till December 2017.
+<p style="font-size:30px"><b>Ms Chng Shi Hua </b></p> 
+<p style="font-size:20px"> Vice-Principal (Administration) </p>
 
-Through her years of service in Zhangde Primary School, she had established and put in place various administrative and operations processes in the school to support teaching and learning. She also worked very closely with the Parent Support Group to enhance the learning experiences of the students in the school.
+<br>
 
+<p style="font-size:18px"> Ms Chng Shi Hua was posted to Punggol Cove Primary School as Vice-Principal (Administration) on 15 December 2017. She started off her career with the Ministry of Education (MOE) as an Administration Manager (then termed School Administrator) in Zhangde Primary School from February 2000 till January 2010. In February 2010, Ms Chng joined the Training and Development Division and Academy of Singapore Teacher, MOE as an Executive under the facilitated job rotation programme. Following which, she was appointed Vice-Principal (Administration) to Zhangde Primary School from December 2012 till December 2017. </p>
 
+<p style="font-size:18px">Through her years of service in Zhangde Primary School, she had established and put in place various administrative and operations processes in the school to support teaching and learning. She also worked very closely with the Parent Support Group to enhance the learning experiences of the students in the school. </p>
 
-For her consistent performance and contribution in her work, Ms Chng was presented the National Day Award – Commendation Medal (Pingat Kepujian) in 2014. In addition, she was also awarded the MOE Service Excellence Award (Gold) and Excellent Service Award (Gold) in 2011 and 2012 respectively for her contribution towards service excellence during her stint in MOE HQ.
+<p style="font-size:18px">For her consistent performance and contribution in her work, Ms Chng was presented the National Day Award – Commendation Medal (Pingat Kepujian) in 2014. In addition, she was also awarded the MOE Service Excellence Award (Gold) and Excellent Service Award (Gold) in 2011 and 2012 respectively for her contribution towards service excellence during her stint in MOE HQ. </p>
 
-Ms Chng endeavours to continue to do her best and lead her team of Executive and Administrative Staff in ensuring strategic management of resources to support the delivery of holistic education, thereby enhancing the learning experiences of the students in Punggol Cove Primary School.
+<p style="font-size:18px">Ms Chng endeavours to continue to do her best and lead her team of Executive and Administrative Staff in ensuring strategic management of resources to support the delivery of holistic education, thereby enhancing the learning experiences of the students in Punggol Cove Primary School. </p>
 
 
 #### ABOUT THE VICE-PRINCIPAL
 
-<img src="/images/pcps_vp_wanimran.jpeg" 
-     style="width:25%">
+<img src="/images/ms%20cai.jpg" style="width:30%" align="left">
 
-**Wan Imran**  
-Vice-Principal   
-BA (Hons),   
-MA, Cert-Ed  
+<br>
+<br>
+<br>
 
+<p style="font-size:30px"><b>Ms Cai Xirui</b></p>  
+<p style="font-size:20px">BECE (Hons), PGDE (Sec)</p>  
 
-Mr Wan Imran was appointed Vice-principal at Punggol Cove Primary School on 1 Jun 2020. He was with the ministry’s Pre-school Education Branch from 2013 where he was involved in the pre-school curriculum and the setting up of MOE Kindergartens (MK) and Kindergarten Care (KCare). He also worked on the regulatory requirements for MK and KCare, safety aspects and data management system for MKs. At the ministry, Wan Imran was also involved in the Lee Kuan Yew Fund for Bilingualism and the Malay Language Learning and Promotion Committee.
+<br>
 
-He began his teaching career at Christ Church Secondary School in 1987 and has taught at Naval Base Secondary School and Anderson Secondary School before joining the Curriculum Planning and Development Division in 1997. He has been a school leader at Yuhua Primary School and Boon Lay Garden Primary School.
+<p style="font-size:18px">Ms Cai Xirui was appointed Vice-Principal at Punggol Cove Primary School on 15 December 2022. She started out as a teacher in Victoria Junior College (VJC) in 2005. Ms Cai served as Subject Head for Project Work from 2008 to 2011, before holding the post of Head of Department for Project Work from 2012 to 2022. During her years at VJC, she taught ‘A’ Level Physics and ‘A’ Level Project Work to the students in the junior college section, and Physics to students in the Victoria Integrated Programme. She was also involved in leading a team of teachers to develop a set of rubrics for the evaluation of 21st Century Competencies (21CCs) in the total curriculum. </p>
 
-Wan Imran completed his Leaders in Education Programme in 2004 and Masters in Educational Leadership in 2010 at the National Institute of Education, Nanyang Technological University.
+<p style="font-size:18px">During her stint as HOD (PW), Ms Cai and her department guided students through their coursework-based ‘A’ Level Project Work Examination using the Design Thinking approach. Design Thinking is a human-centred approach which places the user at the core of the problem definition, as well as the creative thinking process. In a world where problems are increasingly complex, being sensitive to human needs, and working collaboratively with others, through empathy, mindfulness and care, are essential. </p>
 
-He strongly believes in character development through co-curricular activities and experiential learning. All children must have the opportunity to discover their abilities, strengths and passion and grow up guided by positive values to become active citizens and blessings to their families, community and humanity.
+<p style="font-size:18px">Ms Cai strongly believes in the need for students to have opportunities and guidance to hone their 21CCs. She hopes that through both the academic and non-academic programme at PCPS, as well as partnership with parents and important stakeholders, students will have experiences which enable them to grow holistically. As they develop to become concerned citizens, the students can then serve and lead, both themselves as well as their communities, with purpose. </p>
