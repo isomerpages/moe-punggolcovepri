@@ -3,7 +3,7 @@ title: Principal's Message
 permalink: /about-pcps/permalink/
 description: ""
 ---
-<p style="font-size:30px"><b> Dear Parents/Guardians and Partners,</b> </p>
+<p style="font-size:25px"><b> Dear Parents/Guardians and Partners,</b> </p>
 
 ##### Greetings and Happy New Year to all!
  
