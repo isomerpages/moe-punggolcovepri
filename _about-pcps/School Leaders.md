@@ -89,5 +89,3 @@ description: ""
 <p style="font-size:18px">During her stint as HOD (PW), Ms Cai and her department guided students through their coursework-based ‘A’ Level Project Work Examination using the Design Thinking approach. Design Thinking is a human-centred approach which places the user at the core of the problem definition, as well as the creative thinking process. In a world where problems are increasingly complex, being sensitive to human needs, and working collaboratively with others, through empathy, mindfulness and care, are essential. </p>
 
 <p style="font-size:18px">Ms Cai strongly believes in the need for students to have opportunities and guidance to hone their 21CCs. She hopes that through both the academic and non-academic programme at PCPS, as well as partnership with parents and important stakeholders, students will have experiences which enable them to grow holistically. As they develop to become concerned citizens, the students can then serve and lead, both themselves as well as their communities, with purpose. </p>
-
-
