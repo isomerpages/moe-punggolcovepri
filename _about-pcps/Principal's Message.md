@@ -24,5 +24,4 @@ description: ""
 <p style="font-size:20px"><b> Principal </b></p>
  
 &gt; <p style="font-size:20px"><b> `It’s what students do with what they learn when they can do what they want to do that is the real measure of educational achievement.' </b></p>
-&gt; 
 &gt; <p style="font-size:20px"><b> `Elliot W. Eisner’ </b></p>
