@@ -23,5 +23,5 @@ description: ""
 
 <p style="font-size:20px"><b> Principal </b></p>
  
-&gt; It’s what students do with what they learn when they can do what they want to do that is the real measure of educational achievement. <br>
-&gt; `Elliot W. Eisner
+&gt;  It’s what students do with what they learn when they can do what they want to do that is the real measure of educational achievement. <br>
+&gt; Elliot W. Eisner
