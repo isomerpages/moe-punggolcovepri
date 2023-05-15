@@ -27,7 +27,7 @@ description: ""
   <tr>
     <td class="tg-ktyi">Ms Adelena Loh</td>
     <td class="tg-ktyi">Administration Manager</td>
-    <td class="tg-ktyi">punggolcove_ps@moe.edu.sg</td>
+    <td class="tg-ktyi">loh_khar_yin_a@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-ktyi">Mr Kesa Gill</td>
