@@ -43,7 +43,7 @@ description: ""
   <tr>
     <td class="tg-1ppo">Mdm Sharmini d/o Kesavamoorthy</td>
     <td class="tg-1ppo">Form Teacher<br>1 Coral</td>
-    <td class="tg-1ppo">hwan_geok_peng_annie@schools.gov.sg</td>
+    <td class="tg-1ppo">sharmini_kesevamoorthy@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-1ppo">Mdm Norlela Bt Ab Rahaman</td>
