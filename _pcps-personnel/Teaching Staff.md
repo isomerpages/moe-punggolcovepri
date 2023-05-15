@@ -32,7 +32,7 @@ description: ""
 <tbody>
   <tr>
     <td class="tg-1ppo">Mrs Sheryl Wong</td>
-    <td class="tg-1ppo">Form Teacher<br>1 Amber<br>ST Aesthetics</td>
+    <td class="tg-1ppo">Form Teacher<br>1 Amber<br>ST Music</td>
     <td class="tg-1ppo">sim_jia_yun_sheryl@schools.gov.sg</td>
   </tr>
   <tr>
