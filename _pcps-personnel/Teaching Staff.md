@@ -632,7 +632,7 @@ description: ""
     <td class="tg-zr06">rehanna_dawood@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-zr06">&gt;Mrs Alice Tan</td>
+    <td class="tg-zr06">Mrs Alice Tan</td>
     <td class="tg-zr06">See_Shin_Yee_alice@schools.gov.sg</td>
   </tr>
   <tr>
@@ -654,6 +654,10 @@ description: ""
   <tr>
     <td class="tg-zr06">Mdm Zahira</td>
     <td class="tg-zr06">zahira_abdul_majeed@schools.gov.sg</td>
+  </tr>
+	 <tr>
+    <td class="tg-zr06">Mrs Shahrin</td>
+    <td class="tg-zr06">m_sainava_buang@schools.gov.sg</td>
   </tr>
 </tbody>
 </table>
