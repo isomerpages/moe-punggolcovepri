@@ -31,7 +31,7 @@ description: ""
     <td class="tg-uarv">punggolcove_ps@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-uarv">Ms Thia Hwei Ling <span style="background-color:initial">Sharon </span></td>
+    <td class="tg-uarv">Ms Thia Hwei Ling Sharon </td>
     <td class="tg-uarv">Vice-Principal</td>
     <td class="tg-uarv">punggolcove_ps@moe.edu.sg</td>
   </tr>
