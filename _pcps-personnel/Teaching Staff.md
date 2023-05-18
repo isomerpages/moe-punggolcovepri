@@ -32,7 +32,7 @@ description: ""
 <tbody>
   <tr>
     <td class="tg-1ppo">Mrs Sheryl Wong</td>
-    <td class="tg-1ppo">Form Teacher<br>1 Amber<br>ST Aesthetics</td>
+    <td class="tg-1ppo">Form Teacher<br>1 Amber<br>ST Music</td>
     <td class="tg-1ppo">sim_jia_yun_sheryl@schools.gov.sg</td>
   </tr>
   <tr>
@@ -43,7 +43,7 @@ description: ""
   <tr>
     <td class="tg-1ppo">Mdm Sharmini d/o Kesavamoorthy</td>
     <td class="tg-1ppo">Form Teacher<br>1 Coral</td>
-    <td class="tg-1ppo">hwan_geok_peng_annie@schools.gov.sg</td>
+    <td class="tg-1ppo">sharmini_kesevamoorthy@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-1ppo">Mdm Norlela Bt Ab Rahaman</td>
@@ -632,7 +632,7 @@ description: ""
     <td class="tg-zr06">rehanna_dawood@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-zr06">&gt;Mrs Alice Tan</td>
+    <td class="tg-zr06">Mrs Alice Tan</td>
     <td class="tg-zr06">See_Shin_Yee_alice@schools.gov.sg</td>
   </tr>
   <tr>
@@ -654,6 +654,10 @@ description: ""
   <tr>
     <td class="tg-zr06">Mdm Zahira</td>
     <td class="tg-zr06">zahira_abdul_majeed@schools.gov.sg</td>
+  </tr>
+	 <tr>
+    <td class="tg-zr06">Mrs Shahrin</td>
+    <td class="tg-zr06">m_sainava_buang@schools.gov.sg</td>
   </tr>
 </tbody>
 </table>
