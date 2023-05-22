@@ -23,6 +23,14 @@ description: ""
 #### Mrs Teo Whye Choo
 
 #### Principal
+<br>
 
-> #### It’s what students do with what they learn when they can do what they want to do that is the real measure of educational achievement.
-> #### Elliot W. Eisner
+<blockquote>
+	<h4 style="color:black">
+It’s what students do with what they learn when they can do what they want to do that is the real measure of educational achievement.
+		
+<br>
+		
+Elliot W. Eisner
+		</h4><h4>
+	</h4></blockquote>
