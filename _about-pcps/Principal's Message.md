@@ -25,7 +25,7 @@ description: ""
 <h4 style="color:black"> Principal </h4>
 <br>
 
-<blockquote>
+<blockquote style="color:black">
 	<h4 style="color:black">
 It’s what students do with what they learn when they can do what they want to do that is the real measure of educational achievement.
 		
