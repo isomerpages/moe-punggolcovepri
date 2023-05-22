@@ -22,7 +22,7 @@ description: ""
 
 #### Mrs Teo Whye Choo
 
-#### Principal
+<h4 style="color:black"> Principal </h4>
 <br>
 
 <blockquote>
@@ -32,5 +32,5 @@ It’s what students do with what they learn when they can do what they want to 
 <br>
 		
 Elliot W. Eisner
-		</h4><h4>
-	</h4></blockquote>
+		</h4>
+</blockquote>
