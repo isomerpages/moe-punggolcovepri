@@ -23,7 +23,7 @@ description: ""
 #### Mrs Teo Whye Choo
 
 <h4 style="color:black"> Principal </h4>
-<br>
+
 
 <blockquote style="border-left-color :black">
 	<h4 style="color:black">
