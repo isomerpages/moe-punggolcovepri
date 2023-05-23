@@ -266,4 +266,11 @@ b.	Character and Citizenship Education (CCE)
 ![](/images/2023%20p5%20sed.jpg)
 ![](/images/2023%20p5%20sed%202.jpg)
 <br>
-![](/images/2023%20p6%20sed.jpg)
+![](/images/2023%20p6%20sed%201.jpg)
+![](/images/2023%20p6%20sed%202.jpg)
+<br>
+
+### <u>INFORMATION FOR PARENTS</u>
+8.	Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers. 
+9.	Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable <a target="_blank" href="https://go.gov.sg/pcps-sedoptout2023"><b><u>here</u></b></a>. The completed opt-out form is to be submitted by 10 Feb 2023.
+10.	Parents may contact your child’s Form Teacher or Mr. Jeremy Loh at 63857339 or email the school at punggolcove_ps@moe.edu.sg for discussion or to seek clarification about the school’s Sexuality Education programme.
