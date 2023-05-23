@@ -264,5 +264,6 @@ b.	Character and Citizenship Education (CCE)
 ![](/images/2023%20sed.jpg)
 <br>
 ![](/images/2023%20p5%20sed.jpg)
-
-<a data-options="expandAlign:image;" class="MagicThumb" href="2023 p5 sed.jpg"><img src="2023 p5 sed.jpg"></a>
+![](/images/2023%20p5%20sed%202.jpg)
+<br>
+![](/images/2023%20p6%20sed.jpg)
