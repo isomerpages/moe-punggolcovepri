@@ -243,4 +243,14 @@ Punggol Cove Primary School commemorates four core NE days which have been ident
 (a)	Love and respect yourself as you love and respect others;<br>
 (b)	Build positive relationships based on love and respect (which are the foundation for strong families);<br>
 (c)	Make responsible decisions for yourself, your family and society; and<br>
-(d)	Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.<br>
+(d)	Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.<br><br>
+You may click <b>[here](https://go.gov.sg/moe-sexuality-education)</b> for more information on MOE Sexuality Education.
+
+         <!-- /\* Font Definitions \*/ @font-face {font-family:宋体; panose-1:2 1 6 0 3 1 1 1 1 1; mso-font-alt:SimSun; mso-font-charset:134; mso-generic-font-family:auto; mso-font-pitch:variable; mso-font-signature:3 680460288 22 0 262145 0;} @font-face {font-family:"Cambria Math"; panose-1:2 4 5 3 5 4 6 3 2 4; mso-font-charset:0; mso-generic-font-family:roman; mso-font-pitch:variable; mso-font-signature:3 0 0 0 1 0;} @font-face {font-family:"Arial Bold"; panose-1:0 0 0 0 0 0 0 0 0 0; mso-font-charset:0; mso-generic-font-family:swiss; mso-font-format:other; mso-font-pitch:variable; mso-font-signature:3 0 0 0 1 0;} @font-face {font-family:"\\@宋体"; panose-1:2 1 6 0 3 1 1 1 1 1; mso-font-charset:134; mso-generic-font-family:auto; mso-font-pitch:variable; mso-font-signature:3 680460288 22 0 262145 0;} /\* Style Definitions \*/ p.MsoNormal, li.MsoNormal, div.MsoNormal {mso-style-unhide:no; mso-style-qformat:yes; mso-style-parent:""; margin:0in; mso-pagination:widow-orphan; font-size:12.0pt; font-family:"Times New Roman",serif; mso-fareast-font-family:宋体; mso-ansi-language:EN-GB; mso-bidi-language:AR-SA;} .MsoChpDefault {mso-style-type:export-only; mso-default-props:yes; font-size:10.0pt; mso-ansi-font-size:10.0pt; mso-bidi-font-size:10.0pt; mso-fareast-font-family:宋体; mso-ansi-language:EN-SG; mso-fareast-language:EN-SG; mso-bidi-language:AR-SA;} @page WordSection1 {size:8.5in 11.0in; margin:1.0in 1.25in 1.0in 1.25in; mso-header-margin:.5in; mso-footer-margin:.5in; mso-paper-source:0;} div.WordSection1 {page:WordSection1;} -->
+
+##### Overview of Punggol Cove Primary School’s <br>Sexuality Education Programme for 2023
+
+4.	Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click here for more information on the scope of Sexuality Education in the school curriculum.<br>
+5.	The subjects that incorporate topics on sexuality include:<br>
+a.	Science <br>
+b.	Character and Citizenship Education (CCE)
