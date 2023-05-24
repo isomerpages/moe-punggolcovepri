@@ -21,16 +21,25 @@ description: ""
 #### Yours in Education,
 
 #### Mrs Teo Whye Choo
-
-<h4 style="color:black"> Principal </h4>
-
-
+#### Principal 
+<img src="/images/mrs%20teo.jpg" style="width:30%" align="left">
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <blockquote style="border-left-color :black">
 	<h4 style="color:black">
 It’s what students do with what they learn when they can do what they want to do that is the real measure of educational achievement.
-		
-<br>
-		
+<br><br>
+
 Elliot W. Eisner
 		</h4>
 </blockquote>
