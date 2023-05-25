@@ -2,6 +2,6 @@ collections:
   2023-events:
     output: true
     order:
-      - Chinese New Year/Festive Celebration.md
-      - Chinese New Year/.keep
+      - Festive Celebration/Festive Celebration.md
+      - Festive Celebration/.keep
       - National Education.md
