@@ -3,7 +3,7 @@ title: 2022 P1 Registration Exercise & PCPS Virtual Tour
 permalink: /for-parents/2022-p1-registration-exercise-and-pcps-virtual-tour/
 description: ""
 ---
-#### INFORMATION ON 2022 P1 REGISTRATION EXERCISE
+#### INFORMATION ON 2023 P1 REGISTRATION EXERCISE
 
 To register for your child and for more information, click [here](https://www.moe.gov.sg/primary/p1-registration/how-to-register).
 
