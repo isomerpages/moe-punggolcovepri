@@ -2,8 +2,8 @@ collections:
   2023-events:
     output: true
     order:
-      - National Education/National Day 2023.md
-      - National Education/.keep
+      - Festive Celebration/.keep
       - Festive Celebration/Hari Raya Aidilfitri 2023.md
       - Festive Celebration/Chinese New Year 2023.md
-      - Festive Celebration/.keep
+      - National Education/.keep
+      - National Education/National Day 2023.md
