@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Chinese New Year/.keep
-      - Festive Celebration.md
       - National Education.md
