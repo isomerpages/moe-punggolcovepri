@@ -1,4 +1,5 @@
 collections:
   2023-events:
     output: true
-    order: []
+    order:
+      - Festive Celebration.md
