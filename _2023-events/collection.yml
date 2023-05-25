@@ -2,5 +2,5 @@ collections:
   2023-events:
     output: true
     order:
-      - National Education.md
       - Festive Celebration.md
+      - National Education.md
