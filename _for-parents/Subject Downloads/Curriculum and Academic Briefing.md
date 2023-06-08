@@ -5,6 +5,12 @@ description: ""
 third_nav_title: Subject Downloads
 ---
 <ul class="jekyllcodex_accordion">
+	<li>
+    <input type="checkbox" id="accordion1">
+    <label for="accordion1"><h5>2023 CURRICULUM AND ACADEMIC BRIEFING SLIDES</h5></label>
+    <div>
+			<ul>
+<li><a href="/files/P6%20Curriculum%20briefing%202022.pdf" target="_blank" rel="noopener">P6 Curriculum Briefing 2023</a></li>
   <li>
     <input type="checkbox" id="accordion1">
     <label for="accordion1"><h5>2022 CURRICULUM AND ACADEMIC BRIEFING SLIDES</h5></label>
@@ -51,5 +57,4 @@ third_nav_title: Subject Downloads
 </ul>
     </div>
 	</li>
-</ul>
-
+</ul></div></li></ul>
