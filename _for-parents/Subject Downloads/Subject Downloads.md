@@ -21,13 +21,14 @@ third_nav_title: Subject Downloads
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-7jts">    <span style="font-weight:bold;font-style:normal;color:#4067AE">CURRICULUM &amp; ACADEMIC BRIEFING</span></td>
+    <td class="tg-7jts">    <span style="font-weight:bold;font-style:normal;color:#4067AE">ICT</span></td>
     <td class="tg-7jts">    <span style="font-weight:bold;font-style:normal;color:#4067AE">ENGLISH SPELLING LIST</span></td>
     <td class="tg-7jts">    <span style="font-weight:bold;font-style:normal;color:#4067AE">MOTHER TONGUE SPELLING LIST</span></td>
   </tr>
   <tr>
     <td class="tg-fuxe"><ul>
-<li><a href="/for-parents/Subject-Downloads/curriculum-and-academic-briefing/">P1 to P6 Curriculum Academic Briefing Slides</a></li>
+<li><a href="/for-parents/Subject-Downloads/ict-connect-at-cove/" target="_self"> 
+          <img src="/images/iCT%20CONNECT%201_rev2.jpeg" style="width:75%"></a></li>
 </ul></td>
     <td class="tg-fuxe"><ul>
 <li><a href="/for-parents/Subject-Downloads/english-spelling-test/" target="">English</a></li>
@@ -47,10 +48,6 @@ third_nav_title: Subject Downloads
     <td class="tg-fuxe"><ul>
 <li><a href="/for-parents/Subject-Downloads/physical-education/" target="">Home-Based Learning</a></li>
 </ul></td>
-    <td class="tg-fuxe"><a href = "/for-parents/Subject-Downloads/ict-connect-at-cove/" target = "_self"> 
-          <img src="/images/iCT%20CONNECT%201_rev2.jpeg" 
-     style="width:75%"></a></td>
-    <td class="tg-fuxe"></td>
   </tr>
 </tbody>
 </table>
