@@ -3,8 +3,8 @@ collections:
     output: true
     order:
       - Principal's Message.md
-      - School Advisory Committee.md
       - School Leaders.md
+      - School Advisory Committee.md
       - Vision, Mission, Values, Motto.md
       - School Strategic Framework.md
       - School Crest.md
