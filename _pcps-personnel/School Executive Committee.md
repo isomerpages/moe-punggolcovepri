@@ -66,18 +66,13 @@ description: ""
     <td class="tg-7qt1">ang_hiang_soon@schools.gov.sg<br></td>
   </tr>
   <tr>
-    <td class="tg-7qt1">Mr Hashim B Mohd Shariff</td>
-    <td class="tg-7qt1">HOD Science</td>
-    <td class="tg-7qt1">hashim_bin_mohd_shariff@schools.gov.sg</td>
-  </tr>
-  <tr>
     <td class="tg-7qt1">Mr Jeremy Loh</td>
     <td class="tg-7qt1">HOD CCE</td>
     <td class="tg-7qt1">Jeremy_LOH@schools.gov.sg<br></td>
   </tr>
   <tr>
     <td class="tg-7qt1">Ms Stephanie Yong<br></td>
-    <td class="tg-7qt1">HOD SSD</td>
+    <td class="tg-7qt1">Staff Developer</td>
     <td class="tg-7qt1">yong_wei_min_stephanie@schools.gov.sg<br></td>
   </tr>
   <tr>
@@ -89,11 +84,6 @@ description: ""
     <td class="tg-7qt1">Mr Ken Yeoh<br></td>
     <td class="tg-uarv">Year Head (P3 &amp; P4)</td>
     <td class="tg-7qt1">yeoh_ghim_boon@schools.gov.sg<br></td>
-  </tr>
-  <tr>
-    <td class="tg-uarv">Mrs Jasmine Wong</td>
-    <td class="tg-7qt1">Assistant Year Head (P6) (Internal)</td>
-    <td class="tg-7qt1">tang_yuen_har_jasmine@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-7qt1">Mdm Chua Swan Lynn</td>
@@ -112,7 +102,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-7qt1">Mr Adrian Liang</td>
-    <td class="tg-7qt1">LH ICT</td>
+    <td class="tg-7qt1">LH ICT/MRL</td>
     <td class="tg-7qt1">Adrian_LIANG@schools.gov.sg</td>
   </tr>
   <tr>
@@ -126,9 +116,14 @@ description: ""
     <td class="tg-7qt1">mohammed_hafiizh_dzulkifli@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-7qt1">Mr Jason Hong</td>
-    <td class="tg-7qt1">SH Discipline</td>
-    <td class="tg-7qt1">HONG_Siang_Huat@schools.gov.sg</td>
+    <td class="tg-7qt1">Ms Loh Qiwen Angeline </td>
+    <td class="tg-7qt1">LH English (Internal)</td>
+    <td class="tg-7qt1">loh_qiwen_angeline@schools.gov.sg</td>
+  </tr>
+	 <tr>
+    <td class="tg-7qt1">Ms Tang Yu Ying </td>
+    <td class="tg-7qt1">LH Science (Internal)</td>
+    <td class="tg-7qt1">tang_yu_ying@schools.gov.sg</td>
   </tr>
 </tbody>
 </table>
