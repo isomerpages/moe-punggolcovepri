@@ -97,7 +97,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-1ppo">Mr Jason Hong</td>
-    <td class="tg-1ppo">Form Teacher<br>1 Pearl<br>SH Discipline<br></td>
+    <td class="tg-1ppo">Form Teacher<br>1 Pearl</td>
     <td class="tg-1ppo">hong_siang_huat@schools.gov.sg</td>
   </tr>
   <tr>
@@ -107,7 +107,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-1ppo">Ms Tan Sze Huey</td>
-    <td class="tg-1ppo">Form Teacher<br>1 Ruby<br>ST Chinese</td>
+    <td class="tg-1ppo">Form Teacher<br>1 Ruby</td>
     <td class="tg-1ppo">tan_sze_huey@schools.gov.sg</td>
   </tr>
 </tbody>
@@ -176,13 +176,13 @@ description: ""
     <td class="tg-1ppo">varjeet_kaur@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-1ppo">Mr Xu Yongchuan Alan</td>
+    <td class="tg-1ppo">Mdm Wang Yuanqing Nancy</td>
     <td class="tg-1ppo">Form Teacher<br>2 Emerald</td>
-    <td class="tg-1ppo">xu_yongchuan_alan@schools.gov.sg</td>
+    <td class="tg-1ppo">wang_yuanqing@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-1ppo">Mrs Surin Nurulhaziyah Binte Jumiran</td>
-    <td class="tg-1ppo">Form Teacher<br>2 Jade<br>ART Teacher</td>
+    <td class="tg-1ppo">Form Teacher<br>2 Jade<br>ART</td>
     <td class="tg-1ppo">nurulhaziyah_jumiran@schools.gov.sg</td>
   </tr>
   <tr>
@@ -217,7 +217,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-1ppo">Mr Ting Jian Hong Kelvin</td>
-    <td class="tg-1ppo">Form Teacher<br>2 Ruby<br>ART Teacher</td>
+    <td class="tg-1ppo">Form Teacher<br>2 Ruby<br>ART</td>
     <td class="tg-1ppo">ting_jian_hong_kelvin@schools.gov.sg</td>
   </tr>
   <tr>
@@ -287,7 +287,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-1ppo">Ms Cheryl Ang Wei Yu</td>
-    <td class="tg-1ppo">Form Teacher<br>3 Diamond<br>ART Teacher</td>
+    <td class="tg-1ppo">Form Teacher<br>3 Diamond<br>ART</td>
     <td class="tg-1ppo">cheryl_ang_wei_yu@schools.gov.sg</td>
   </tr>
   <tr>
@@ -404,11 +404,6 @@ description: ""
     <td class="tg-1ppo">Mdm Nur Sufriena Binte Suhaini</td>
     <td class="tg-1ppo">Form Teacher<br>4 Opal</td>
     <td class="tg-1ppo">nur_sufriena_suhaini@schools.gov.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-1ppo">Mr Reyhan Amierul</td>
-    <td class="tg-1ppo">Form Teacher<br>4 Opal</td>
-    <td class="tg-1ppo">muhammad_reyhan_amierul_abdul@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-1ppo">Mdm Murni Alidawati Bte Mohd Amin</td>
