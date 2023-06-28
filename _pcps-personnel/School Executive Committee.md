@@ -35,14 +35,14 @@ description: ""
     <td class="tg-uarv">Vice-Principal</td>
     <td class="tg-uarv">punggolcove_ps@moe.edu.sg</td>
   </tr>
-  <tr>
-    <td class="tg-7qt1">Ms Chng Shi Hua</td>
-    <td class="tg-7qt1">Vice-Principal (Admin)</td>
+	  <tr>
+    <td class="tg-7qt1">Ms Cai Xirui <br></td>
+    <td class="tg-7qt1">Vice-Principal </td>
     <td class="tg-7qt1">punggolcove_ps@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-7qt1">Ms Cai Xirui <br></td>
-    <td class="tg-7qt1">Vice-Principal </td>
+    <td class="tg-7qt1">Ms Chng Shi Hua</td>
+    <td class="tg-7qt1">Vice-Principal (Admin)</td>
     <td class="tg-7qt1">punggolcove_ps@moe.edu.sg</td>
   </tr>
   <tr>
@@ -107,7 +107,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-7qt1">Mdm Nor Azilah Abdullah<br></td>
-    <td class="tg-7qt1">SH Malay Language</td>
+    <td class="tg-7qt1">Year Head (P5 &amp; P6)</td>
     <td class="tg-7qt1">nor_azilah_abdullah@schools.gov.sg</td>
   </tr>
   <tr>
