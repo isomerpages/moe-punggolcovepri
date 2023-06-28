@@ -128,7 +128,7 @@ description: ""
 	<tr>
     <td class="tg-7qt1">Mdm Hafizzah Bedin </td>
     <td class="tg-7qt1">SH Malay Language</td>
-    <td class="tg-7qt1">hafizzah_@schools.gov.sg</td>
+    <td class="tg-7qt1">hafizzah_bedin@schools.gov.sg</td>
   </tr>
 </tbody>
 </table>
