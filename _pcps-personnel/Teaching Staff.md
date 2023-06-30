@@ -91,7 +91,7 @@ description: ""
     <td class="tg-1ppo">siti_mariam_mohamed@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-1ppo"><span style="color:#222;background-color:#FFF">Ms Sivapriya Sivaraj</span></td>
+    <td class="tg-1ppo">Ms Sivapriya Sivaraj</td>
     <td class="tg-1ppo">Form Teacher<br>1 Pearl</td>
     <td class="tg-yq3i">sivapriya_sivaraj@schools.gov.sg</td>
   </tr>
