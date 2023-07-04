@@ -182,7 +182,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-1ppo">Mrs Surin Nurulhaziyah Binte Jumiran</td>
-    <td class="tg-1ppo">Form Teacher<br>2 Jade<br>ART</td>
+    <td class="tg-1ppo">Form Teacher<br>2 Jade<br>ART Teacher</td>
     <td class="tg-1ppo">nurulhaziyah_jumiran@schools.gov.sg</td>
   </tr>
   <tr>
@@ -217,7 +217,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-1ppo">Mr Ting Jian Hong Kelvin</td>
-    <td class="tg-1ppo">Form Teacher<br>2 Ruby<br>ART</td>
+    <td class="tg-1ppo">Form Teacher<br>2 Ruby<br>ART Teacher</td>
     <td class="tg-1ppo">ting_jian_hong_kelvin@schools.gov.sg</td>
   </tr>
   <tr>
@@ -287,7 +287,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-1ppo">Ms Cheryl Ang Wei Yu</td>
-    <td class="tg-1ppo">Form Teacher<br>3 Diamond<br>ART</td>
+    <td class="tg-1ppo">Form Teacher<br>3 Diamond<br>ART Teacher</td>
     <td class="tg-1ppo">cheryl_ang_wei_yu@schools.gov.sg</td>
   </tr>
   <tr>
