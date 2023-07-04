@@ -70,7 +70,7 @@ description: ""
     <td class="tg-ktyi">Khadijah.Latif@staff.spydus.com.sg            </td>
   </tr>
   <tr>
-    <td class="tg-ktyi">Mr Ivan Ong</td>
+    <td class="tg-ktyi">Mr Haran</td>
     <td class="tg-ktyi">Desktop Engineer</td>
     <td class="tg-ktyi">g-ncs1269pde@ncs.com.sg</td>
   </tr>
@@ -97,6 +97,16 @@ description: ""
   </tr>
 	 <tr>
     <td class="tg-ktyi">Mr Mohan</td>
+    <td class="tg-ktyi">Operations Support Officer</td>
+    <td class="tg-ktyi">-</td>
+  </tr>
+	 <tr>
+    <td class="tg-ktyi">Mdm Khalsom</td>
+    <td class="tg-ktyi">Operations Support Officer</td>
+    <td class="tg-ktyi">-</td>
+  </tr>
+		 <tr>
+    <td class="tg-ktyi">Mdm Artisah</td>
     <td class="tg-ktyi">Operations Support Officer</td>
     <td class="tg-ktyi">-</td>
   </tr>
