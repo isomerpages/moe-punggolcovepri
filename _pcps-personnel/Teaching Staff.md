@@ -457,7 +457,7 @@ description: ""
   </tr>
 	 <tr>
     <td class="tg-1ppo">Mrs Shahrin</td>
-    <td class="tg-1ppo">Form Teacher<br>5 Coral<br>ST SEN</td>
+    <td class="tg-1ppo">Form Teacher<br>5 Coral</td>
     <td class="tg-1ppo">m_sainava_buang@schools.gov.sg</td>
   </tr>
   <tr>
