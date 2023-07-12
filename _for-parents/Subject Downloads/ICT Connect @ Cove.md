@@ -63,22 +63,15 @@ third_nav_title: Subject Downloads
     <input type="checkbox" id="accordion6">
     <label for="accordion6"><h5>ICT CONNECT @ COVE NEWSLETTER 2017</h5></label>
     <div>
-    <a href="/files/2017%20Nov%20ICT%20Connect.pdf" target="_blank" rel="noopener noreferrer">November Newsletter 2017</a>
+    <p><a href="/files/2017%20Nov%20ICT%20Connect.pdf" target="_blank" rel="noopener noreferrer">November Newsletter 2017</a>
+			<br>
     <a href="/files/2017%20Sep%20ICT%20Connect.pdf" target="_blank" rel="noopener noreferrer">September Newsletter 2017</a>
-  
-  
-    <img src="/images/ict17-3.png" style="width:100%">
-    <a href="/files/ICT%20Newsletter%202017%20May.pdf" target="_blank" rel="noopener noreferrer"><span style="font-weight:400;font-style:normal;text-decoration:none">May Newsletter 2017</span></a>
-  
-  
-    <img src="/images/ict17-4.png" style="width:100%">
-    <a href="/files/ICT%20Newsletter%202017%20Mar.pdf" target="_blank" rel="noopener noreferrer"><span style="font-weight:400;font-style:normal;text-decoration:none">March Newsletter 2017</span></a>
-  
-
-
-    </div>
-	</li>
-	<li>
+			<br>
+    <a href="/files/ICT%20Newsletter%202017%20May.pdf" target="_blank" rel="noopener noreferrer">May Newsletter 2017</a>
+ <br>
+    <a href="/files/ICT%20Newsletter%202017%20Mar.pdf" target="_blank" rel="noopener noreferrer">March Newsletter 2017</a></p>
+			
+</div></li><li>
     <input type="checkbox" id="accordion7">
     <label for="accordion7"><h5>ICT CONNECT @ COVE NEWSLETTER 2016</h5></label>
     <div>
