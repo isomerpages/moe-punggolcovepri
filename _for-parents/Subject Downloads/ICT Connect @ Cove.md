@@ -12,16 +12,15 @@ third_nav_title: Subject Downloads
   <p><a href="/files/June%202022_CW%20Newsletter.pdf" target="_blank" rel="noopener noreferrer">June Newsletter 2022</a>
     <br>
 		<a href="/files/March%202022_CW%20Newsletter.pdf" target="_blank" rel="noopener noreferrer">March Newsletter 2022</a></p>
-			<br>
-
-
     </div>
 	</li>
 	<li>
     <input type="checkbox" id="accordion2">
     <label for="accordion2"><h5>ICT CONNECT @ COVE NEWSLETTER 2021</h5></label>
     <div>
-      <p><a href="/files/2021%20Term%204%20CW%20Newsletter.pdf" target="_blank" rel="noopener">November Newsletter 2021</a><br><a href="/files/2021%20Term%204%20CW%20Newsletter.pdf" target="_blank" rel="noopener">October Newsletter 2021</a></p>
+      <p><a href="/files/2021%20Term%204%20CW%20Newsletter.pdf" target="_blank" rel="noopener">November Newsletter 2021</a>
+				<br>
+				<a href="/files/2021%20Term%204%20CW%20Newsletter.pdf" target="_blank" rel="noopener">October Newsletter 2021</a></p>
     </div>
 	</li>
 	<li>
