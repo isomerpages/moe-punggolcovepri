@@ -33,7 +33,7 @@ description: ""
   <tr>
     <td class="tg-qtsq"><span style="color:#222;background-color:transparent">Mdm Grace Teo</span> </td>
     <td class="tg-qtsq"><span style="color:#222;background-color:transparent">Student Welfare Officer</span></td>
-    <td class="tg-f6m5"><a href="mailto:su_yunting@schools.gov.sg"><span style="text-decoration:none;color:#4067AE">su_yunting@schools.gov.sg</span></a></td>
+    <td class="tg-f6m5"><a href="mailto:teo_swee_yee_grace@schools.gov.sg"><span style="text-decoration:none;color:#4067AE">su_yunting@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-qtsq"><span style="color:#222;background-color:transparent">Mdm Nurhidayati</span> </td>
