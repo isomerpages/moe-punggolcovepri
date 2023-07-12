@@ -45,7 +45,7 @@ description: ""
 
 <p style="font-size:18px">Ms Thia also believes that, like parents, teachers labour to form the minds and characters of students. This process enables both the teacher and student to grow as people. </p>
 
-<p style="font-size:18px"> Ms Thia would like to see that every student in Punggol Cove Primary is guided by strong moral values and grow to be men of sound character. Every student will be confident and equipped with the necessary skills to serve and to lead. </p>
+<p style="font-size:18px"> Ms Thia would like to see that every student in Punggol Cove Primary is guided by strong moral values and grow to be men and women of sound character. Every student will be confident and equipped with the necessary skills to serve and to lead. </p>
 
 <p style="font-size:18px"> Ms Thia strongly advocates the need to establish a strong partnership with parents and to work alongside parents to support their child’s learning and development in primary education. </p>
 
