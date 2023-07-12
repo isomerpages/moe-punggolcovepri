@@ -75,39 +75,16 @@ third_nav_title: Subject Downloads
     <input type="checkbox" id="accordion7">
     <label for="accordion7"><h5>ICT CONNECT @ COVE NEWSLETTER 2016</h5></label>
     <div>
-      <style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-r28n{font-size:18px;text-align:center;vertical-align:middle}
-.tg .tg-ewmv{font-size:18px;text-align:left;vertical-align:middle}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 624px">
-<colgroup>
-<col style="width: 221px">
-<col style="width: 403px">
-</colgroup>
-<tbody>
-  <tr>
-    <td class="tg-r28n"><img src="/images/ict16-1.png" style="width:100%"></td>
-    <td class="tg-ewmv"><a href="/files/ICT%20Newsletter_2016_Term%204.pdf" target="_blank" rel="noopener noreferrer">November Newsletter 2016</a></td>
-  </tr>
-  <tr>
-    <td class="tg-r28n"><img src="/images/ict16-2.png" style="width:100%"></td>
-    <td class="tg-ewmv"><a href="/files/2016%20T3%20PCPS%20-%20ICT%20Connect.pdf" target="_blank" rel="noopener noreferrer"><span style="font-weight:400;font-style:normal;text-decoration:none">August Newsletter 2016</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-r28n"><img src="/images/ict16-3.png" style="width:100%"></td>
-    <td class="tg-ewmv"><a href="/files/2016%20T2%20PCPS%20-%20ICT%20Connect%20(May%202016).pdf" target="_blank" rel="noopener noreferrer"><span style="font-weight:400;font-style:normal;text-decoration:none">May Newsletter 2016</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-r28n"><img src="/images/ict16-4.png" style="width:100%"></td>
-    <td class="tg-ewmv"><a href="https://punggolcovepri-moe-edu-sg-admin.cwp.sg/qql/slot/u1242/ICT/ICT%20Connect.pdf" target="_blank" rel="noopener noreferrer">March Newsletter 2016</a> (file exceeds 5mb)</td>
-  </tr>
-</tbody>
-</table>
+    <a href="/files/ICT%20Newsletter_2016_Term%204.pdf" target="_blank" rel="noopener noreferrer">November Newsletter 2016</a>
+<br>
+    <a href="/files/2016%20T3%20PCPS%20-%20ICT%20Connect.pdf" target="_blank" rel="noopener noreferrer">August Newsletter 2016</a>
+  <br>
+    <a href="/files/2016%20T2%20PCPS%20-%20ICT%20Connect%20(May%202016).pdf" target="_blank" rel="noopener noreferrer">May Newsletter 2016</a>
+  <br>
+    <a href="https://punggolcovepri-moe-edu-sg-admin.cwp.sg/qql/slot/u1242/ICT/ICT%20Connect.pdf" target="_blank" rel="noopener noreferrer">March Newsletter 2016</a>
+  <br>
+
+
     </div>
 	</li>
 </ul>
