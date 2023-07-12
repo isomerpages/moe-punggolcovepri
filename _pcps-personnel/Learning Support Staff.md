@@ -31,7 +31,7 @@ description: ""
     <td class="tg-f6m5"><a href="mailto:chong_kok_yew_nicky@schools.gov.sg"><span style="text-decoration:none;color:#4067AE">chong_kok_yew_nicky@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-qtsq"><span style="color:#222;background-color:transparent">Ms Su Yunting</span> </td>
+    <td class="tg-qtsq"><span style="color:#222;background-color:transparent">Mdm Grace Teo</span> </td>
     <td class="tg-qtsq"><span style="color:#222;background-color:transparent">Student Welfare Officer</span></td>
     <td class="tg-f6m5"><a href="mailto:su_yunting@schools.gov.sg"><span style="text-decoration:none;color:#4067AE">su_yunting@schools.gov.sg</span></a></td>
   </tr>
