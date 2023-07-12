@@ -9,31 +9,12 @@ third_nav_title: Subject Downloads
     <input type="checkbox" id="accordion1">
 		<label for="accordion1"><h5>ICT CONNECT @ COVE NEWSLETTER 2022</h5></label>
     <div>
-      <style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-r28n{font-size:18px;text-align:center;vertical-align:middle}
-.tg .tg-ewmv{font-size:18px;text-align:left;vertical-align:middle}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 580px">
-<colgroup>
-<col style="width: 207px">
-<col style="width: 373px">
-</colgroup>
-<tbody>
-  <tr>
-    <td class="tg-r28n"><img src="/images/ict22-1.png" style="width:100%"></td>
-    <td class="tg-ewmv"><a href="/files/June%202022_CW%20Newsletter.pdf" target="_blank" rel="noopener noreferrer"><span style="font-weight:400;font-style:normal;text-decoration:none">June Newsletter 2022</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-r28n"><img src="/images/ict22-2.png" style="width:100%"></td>
-    <td class="tg-ewmv"><a href="/files/March%202022_CW%20Newsletter.pdf" target="_blank" rel="noopener noreferrer"><span style="font-weight:400;font-style:normal;text-decoration:none">March Newsletter 2022</span></a></td>
-  </tr>
-</tbody>
-</table>
+  <p><a href="/files/June%202022_CW%20Newsletter.pdf" target="_blank" rel="noopener noreferrer">June Newsletter 2022</a>
+    <br>
+		<a href="/files/March%202022_CW%20Newsletter.pdf" target="_blank" rel="noopener noreferrer">March Newsletter 2022</a></p>
+			<br>
+
+
     </div>
 	</li>
 	<li>
