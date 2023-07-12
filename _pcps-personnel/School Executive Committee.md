@@ -65,6 +65,11 @@ description: ""
     <td class="tg-7qt1">HOD Mother Tongue</td>
     <td class="tg-7qt1">ang_hiang_soon@schools.gov.sg<br></td>
   </tr>
+	 <tr>
+    <td class="tg-7qt1">Mdm Nur Husna Binte Mohamad<br></td>
+    <td class="tg-7qt1">HOD Mathematics<br></td>
+    <td class="tg-7qt1">nur_husna_mohamad@schools.gov.sg<br></td>
+  </tr>
   <tr>
     <td class="tg-7qt1">Mr Jeremy Loh</td>
     <td class="tg-7qt1">HOD CCE</td>
@@ -85,15 +90,15 @@ description: ""
     <td class="tg-uarv">Year Head (P3 &amp; P4)</td>
     <td class="tg-7qt1">yeoh_ghim_boon@schools.gov.sg<br></td>
   </tr>
+	<tr>
+    <td class="tg-7qt1">Mdm Nor Azilah Abdullah<br></td>
+    <td class="tg-7qt1">Year Head (P5 &amp; P6)</td>
+    <td class="tg-7qt1">nor_azilah_abdullah@schools.gov.sg</td>
+  </tr>
   <tr>
     <td class="tg-7qt1">Mdm Chua Swan Lynn</td>
     <td class="tg-7qt1">LH English</td>
     <td class="tg-7qt1">chua_swan_lynn@schools.gov.sg </td>
-  </tr>
-  <tr>
-    <td class="tg-7qt1">Mdm Nur Husna Binte Mohamad<br></td>
-    <td class="tg-7qt1">LH Mathematics<br></td>
-    <td class="tg-7qt1">nur_husna_mohamad@schools.gov.sg<br></td>
   </tr>
   <tr>
     <td class="tg-7qt1">Mdm Norihsani Bte Tavant</td>
@@ -104,11 +109,6 @@ description: ""
     <td class="tg-7qt1">Mr Adrian Liang</td>
     <td class="tg-7qt1">LH ICT/MRL</td>
     <td class="tg-7qt1">Adrian_LIANG@schools.gov.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-7qt1">Mdm Nor Azilah Abdullah<br></td>
-    <td class="tg-7qt1">Year Head (P5 &amp; P6)</td>
-    <td class="tg-7qt1">nor_azilah_abdullah@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-7qt1">Mr Mohd Hafiizh Dzulkifli	<br></td>

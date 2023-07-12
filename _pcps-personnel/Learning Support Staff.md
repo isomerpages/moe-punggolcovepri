@@ -21,34 +21,34 @@ description: ""
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-1zrx"><span style="color:#222;background-color:transparent">Name</span></td>
-    <td class="tg-1zrx"><span style="color:#222;background-color:transparent">Designation</span></td>
-    <td class="tg-1zrx"><span style="color:#222;background-color:transparent">Email</span></td>
+    <td class="tg-1zrx">Name</td>
+    <td class="tg-1zrx">Designation</td>
+    <td class="tg-1zrx">Email</td>
   </tr>
   <tr>
-    <td class="tg-qtsq"><span style="color:#222;background-color:transparent">Mr Nicky Chong</span></td>
-    <td class="tg-qtsq"><span style="color:#222;background-color:transparent">School Counsellor</span></td>
-    <td class="tg-f6m5"><a href="mailto:chong_kok_yew_nicky@schools.gov.sg"><span style="text-decoration:none;color:#4067AE">chong_kok_yew_nicky@schools.gov.sg</span></a><br></td>
+    <td class="tg-qtsq">Mr Nicky Chong</td>
+    <td class="tg-qtsq">School Counsellor</td>
+    <td class="tg-f6m5"><a href="mailto:chong_kok_yew_nicky@schools.gov.sg">chong_kok_yew_nicky@schools.gov.sg</a><br></td>
   </tr>
   <tr>
-    <td class="tg-qtsq"><span style="color:#222;background-color:transparent">Ms Su Yunting</span> </td>
-    <td class="tg-qtsq"><span style="color:#222;background-color:transparent">Student Welfare Officer</span></td>
-    <td class="tg-f6m5"><a href="mailto:su_yunting@schools.gov.sg"><span style="text-decoration:none;color:#4067AE">su_yunting@schools.gov.sg</span></a></td>
+    <td class="tg-qtsq">Mdm Grace Teo</td>
+    <td class="tg-qtsq">Student Welfare Officer</td>
+    <td class="tg-f6m5"><a href="mailto:teo_swee_yee_grace@schools.gov.sg"> teo_swee_yee_grace@schools.gov.sgg</a></td>
   </tr>
   <tr>
-    <td class="tg-qtsq"><span style="color:#222;background-color:transparent">Mdm Nurhidayati</span> </td>
-    <td class="tg-qtsq"><span style="color:#222;background-color:transparent">Special Educational Needs Officer</span><br><span style="color:#222;background-color:transparent">(SEN Officer)</span></td>
-    <td class="tg-f6m5"><a href="mailto:nur_hidayati_paimun@schools.gov.sg"><span style="text-decoration:none;color:#4067AE">nur_hidayati_paimun@schools.gov.sg</span></a></td>
+    <td class="tg-qtsq">Mdm Nurhidayati</td>
+    <td class="tg-qtsq">Special Educational Needs Officer<br>(SEN Officer)</td>
+    <td class="tg-f6m5"><a href="mailto:nur_hidayati_paimun@schools.gov.sg">nur_hidayati_paimun@schools.gov.sg</a></td>
   </tr>
   <tr>
-    <td class="tg-qtsq"><span style="color:#222;background-color:transparent">Ms Liyana Binte Abdul Samad</span></td>
-    <td class="tg-qtsq"><span style="color:#222;background-color:transparent">Special Educational Needs Officer</span><br><span style="color:#222;background-color:transparent">(SEN Officer)</span></td>
-    <td class="tg-f6m5"><a href="mailto:liyana_abdul_samad@schools.gov.sg"><span style="text-decoration:none;color:#4067AE">liyana_abdul_samad@schools.gov.sg </span></a></td>
+    <td class="tg-qtsq">Ms Liyana Binte Abdul Samad</td>
+    <td class="tg-qtsq">Special Educational Needs Officer<br>(SEN Officer)</td>
+    <td class="tg-f6m5"><a href="mailto:liyana_abdul_samad@schools.gov.sg">liyana_abdul_samad@schools.gov.sg </a></td>
   </tr>
   <tr>
-    <td class="tg-qtsq"><span style="color:#222;background-color:transparent">Ms Shameema</span></td>
-    <td class="tg-qtsq"><span style="color:#222;background-color:transparent">Special Educational Needs Officer</span><br><span style="color:#222;background-color:transparent">(SEN Officer)</span></td>
-    <td class="tg-f6m5"><a href="mailto:s_shameema@schools.gov.sg"><span style="text-decoration:none;color:#4067AE">s_shameema@schools.gov.sg</span></a></td>
+    <td class="tg-qtsq">Ms Shameema</td>
+    <td class="tg-qtsq">Special Educational Needs Officer<br>(SEN Officer)</td>
+    <td class="tg-f6m5"><a href="mailto:s_shameema@schools.gov.sg">s_shameema@schools.gov.sg</a></td>
   </tr>
 </tbody>
 </table>
