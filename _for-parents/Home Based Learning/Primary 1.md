@@ -44,7 +44,7 @@ third_nav_title: Home Based Learning
   <tr>
     <th class="tg-clhh">1 Emerald</th>
     <th class="tg-clhh">1 Jade</th>
-    <th class="tg-clhh">1 Opal</th>
+    <th class="tg-clhh"></th>
   </tr>
 </thead>
 	<tbody>
