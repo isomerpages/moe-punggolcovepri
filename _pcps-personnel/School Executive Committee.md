@@ -110,12 +110,7 @@ description: ""
     <td class="tg-7qt1">LH ICT/MRL</td>
     <td class="tg-7qt1">Adrian_LIANG@schools.gov.sg</td>
   </tr>
-  <tr>
-    <td class="tg-7qt1">Mr Mohd Hafiizh Dzulkifli	<br></td>
-    <td class="tg-7qt1">SH PE &amp; CCA</td>
-    <td class="tg-7qt1">mohammed_hafiizh_dzulkifli@schools.gov.sg</td>
-  </tr>
-  <tr>
+	  <tr>
     <td class="tg-7qt1">Ms Loh Qiwen Angeline </td>
     <td class="tg-7qt1">LH English (Internal)</td>
     <td class="tg-7qt1">loh_qiwen_angeline@schools.gov.sg</td>
@@ -124,6 +119,11 @@ description: ""
     <td class="tg-7qt1">Ms Tang Yu Ying </td>
     <td class="tg-7qt1">LH Science (Internal)</td>
     <td class="tg-7qt1">tang_yu_ying@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-7qt1">Mr Mohd Hafiizh Dzulkifli	<br></td>
+    <td class="tg-7qt1">SH PE &amp; CCA</td>
+    <td class="tg-7qt1">mohammed_hafiizh_dzulkifli@schools.gov.sg</td>
   </tr>
 	<tr>
     <td class="tg-7qt1">Mdm Hafizzah Bedin </td>
