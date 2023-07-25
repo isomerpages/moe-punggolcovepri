@@ -39,11 +39,19 @@ third_nav_title: Home Based Learning
     <td class="tg-1ppo">P1 LSP <br> (Mdm Siti) <br><br><br>
 			CL 3<br>(Ms Audrey Lee) <br><br><br>  ML 3 <br>(Ms Zahira)</td>
   </tr>	
-	</tbody><thead>
+	</tbody>
+	<thead>
   <tr>
     <th class="tg-clhh">1 Emerald</th>
     <th class="tg-clhh">1 Jade</th>
     <th class="tg-clhh">1 Opal</th>
   </tr>
 </thead>
-	</table>
+	<tbody>
+	  <tr>
+    <td class="tg-1ppo">CL 4<br>(Ms Ding Soo Juan)<br><br>TL 1<br>(Mdm Ayisha) 
+</td>
+    <td class="tg-1ppo">CL 5<br>(Ms Tan Sze Huey) <br><br><br><br>
+</td>
+		</tr>
+	</tbody></table>
