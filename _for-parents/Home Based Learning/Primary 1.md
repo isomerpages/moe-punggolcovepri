@@ -30,4 +30,14 @@ third_nav_title: Home Based Learning
     <th class="tg-clhh">1 Diamond</th>
   </tr>
 </thead>
-<tbody></tbody></table>
+<tbody>
+	  <tr>
+    <td class="tg-1ppo">P1 LSM 1 <br>TRANSIT <br>(Ms Jessica Lum) <br> <br>
+			CL 1 <br> (Mdm Agnes Chia) 
+			</td>
+    <td class="tg-1ppo">P1 LSM 2<br>(Ms Chen Kang Li) <br><br>
+			CL 2<br>(Ms Chew Kin Kee) </td>
+    <td class="tg-1ppo">P1 LSP <br> (Mdm Siti) <br><br>
+			CL 3<br>(Ms Audrey Lee) </td>
+  </tr>	
+	</tbody></table>
