@@ -475,12 +475,7 @@ description: ""
     <td class="tg-1ppo">Form Teacher<br>5 Jade</td>
     <td class="tg-1ppo">nah_ya_rui_felicia@schools.gov.sg</td>
   </tr>
-  <tr>
-    <td class="tg-1ppo">Ms Felicia Nah</td>
-    <td class="tg-1ppo">Form Teacher<br>5 Pearl</td>
-    <td class="tg-1ppo">nah_ya_rui_felicia@schools.gov.sg</td>
-  </tr>
-  <tr>
+    <tr>
     <td class="tg-1ppo">Mdm Woo Sye Lai</td>
     <td class="tg-1ppo">Form Teacher<br>5 Opal</td>
     <td class="tg-1ppo">woo_sye_lai@schools.gov.sg</td>
