@@ -33,11 +33,10 @@ third_nav_title: Home Based Learning
 <tbody>
 	  <tr>
     <td class="tg-1ppo">P1 LSM 1 <br>TRANSIT <br>(Ms Jessica Lum) <br> <br>
-			CL 1 <br> (Mdm Agnes Chia) 
-			</td>
-    <td class="tg-1ppo">P1 LSM 2<br>(Ms Chen Kang Li) <br><br>
-			CL 2<br>(Ms Chew Kin Kee) </td>
-    <td class="tg-1ppo">P1 LSP <br> (Mdm Siti) <br><br>
-			CL 3<br>(Ms Audrey Lee) </td>
+			CL 1 <br> (Mdm Agnes Chia) <br><br><br> ML 1 <br>(Mdm Norlela)</td>
+    <td class="tg-1ppo">P1 LSM 2<br>(Ms Chen Kang Li) <br><br><br>
+			CL 2<br>(Ms Chew Kin Kee) <br><br><br> ML 2 <br> (Mdm Hafizzah)</td>
+    <td class="tg-1ppo">P1 LSP <br> (Mdm Siti) <br><br><br>
+			CL 3<br>(Ms Audrey Lee) <br><br><br>  ML 3 <br>(Ms Zahira)</td>
   </tr>	
 	</tbody></table>
