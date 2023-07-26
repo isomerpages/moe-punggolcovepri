@@ -61,11 +61,18 @@ third_nav_title: Home Based Learning
 <tbody>
     <tr>
     <td class="tg-1ppo">
-      <a target="_blank" href="https://docs.google.com/spreadsheets/d/1_YSGS0EedR0JUDjU5mHR1m1d873v9JE2dSrycGFxBIs/edit?usp=drive_link">2 Emerald HBL 2023</a><br><br></td>
+      <a target="_blank" href="https://docs.google.com/spreadsheets/d/1_YSGS0EedR0JUDjU5mHR1m1d873v9JE2dSrycGFxBIs/edit?usp=drive_link">2 Emerald HBL 2023</a><br><br>
+			<a target="_blank" href="https://docs.google.com/spreadsheets/d/1ynQl3GIyEBb3A5ih7RWEzN7Qw6T-jQdRNWeMvatZtes/edit?usp=drive_link">P2 LSP<br>(Mdm Siti)</a><br><br>
+			<a target="_blank" href="https://docs.google.com/spreadsheets/d/1zeCfozHMr5PZ65IMXOBHcWSaw_ySdyAoh0STafwQYDc/edit?usp=drive_link">CL 4<br>(Mdm Wong Hui Lynn)</a><br><br>
+			<a target="_blank" href="https://docs.google.com/spreadsheets/d/1oZ3B5vUJdTGkczRc2JWFGq7J-jLxyQWLoo6DBmCOyE8/edit?usp=drive_link">TL 1<br>(Mdm Fathima)</a><br><br>			
+			</td>
 	    <td class="tg-1ppo">
-      <a target="_blank" href="https://docs.google.com/spreadsheets/d/1zquggQrGtcV5xLtPL1H0Pu3K1r0zJX478sycmY0qRb8/edit?usp=drive_link">2 Jade HBL 2023</a><br><br></td>
+      <a target="_blank" href="https://docs.google.com/spreadsheets/d/1zquggQrGtcV5xLtPL1H0Pu3K1r0zJX478sycmY0qRb8/edit?usp=drive_link">2 Jade HBL 2023</a><br><br>
+			<a target="_blank" href="https://docs.google.com/spreadsheets/d/149qa_x_grmpNPFACvs_MvOFEbGab5ivYDN6SmdaAyI0/edit?usp=drive_link">CL 5<br>(Mr Benjamin Chew)</a><br><br><br><br><br><br><br><br></td>
 	   <td class="tg-1ppo">
-      <a target="_blank" href="https://docs.google.com/spreadsheets/d/1mfmhemNdiiYnvLx52x1uebvPVMQpmun4SJdvy6hF_s0/edit?usp=drive_link">2 Opal HBL 2023</a><br><br></td></tr></tbody>
+      <a target="_blank" href="https://docs.google.com/spreadsheets/d/1mfmhemNdiiYnvLx52x1uebvPVMQpmun4SJdvy6hF_s0/edit?usp=drive_link">2 Opal HBL 2023</a><br><br>
+			<a target="_blank" href="https://docs.google.com/spreadsheets/d/1HS-P1RfZhwoDU9NxHn1PYX3WKUDHW2wXYVQpul4YS9U/edit?usp=drive_link">CL 6<br>(Ms Chia Yi Zhen)</a><br><br><br><br><br><br><br><br>
+			</td></tr></tbody>
 					<thead>
   <tr>
     <th class="tg-clhh">2 Pearl</th>
