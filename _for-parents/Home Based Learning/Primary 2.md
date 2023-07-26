@@ -63,8 +63,8 @@ third_nav_title: Home Based Learning
 <tbody>
     <tr>
     <td class="tg-1ppo">
-      <a target="_blank" href="https://docs.google.com/spreadsheets/d/1dQXRuEXcD75j_cX_uorBkMOmf59NDk8_9mL8ska577s/edit?usp=drive_link">2 Amber HBL 2023</a><br><br></td>
+      <a target="_blank" href="https://docs.google.com/spreadsheets/d/1KIHwkbspqkzC1zhOaftKUJOsu1k3Rt0v2XhWE3XTEbw/edit?usp=drive_link">2 Pearl HBL 2023</a><br><br></td>
 	    <td class="tg-1ppo">
-      <a target="_blank" href="https://docs.google.com/spreadsheets/d/19UyXOWKGVwuJ7boavlOduxFcujV0WpEoouVymEZqzBE/edit?usp=drive_link">2 Coral HBL 2023</a><br><br></td>
+      <a target="_blank" href="https://docs.google.com/spreadsheets/d/1JFkbeQG0pwW1Q7rSQIVYR_19loZw8SBMDwGcmWA7sag/edit?usp=drive_link">2 Ruby HBL 2023</a><br><br></td>
 	   <td class="tg-1ppo">
-      <a target="_blank" href="https://docs.google.com/spreadsheets/d/1_pj4IJ0vefWL2QyYExyVbrDOur6UdJHDXHXNAUknR2I/edit?usp=drive_link">2 Diamond HBL 2023</a><br><br></td></tr></tbody></table>
+      <a target="_blank" href="https://docs.google.com/spreadsheets/d/1g7GdMmi1CCexyXCyCSZQZZZ5t_wmnspD4wPTdR1LE_I/edit?usp=drive_link">2 Sapphire HBL 2023</a><br><br></td></tr></tbody></table>
