@@ -5,6 +5,7 @@ description: ""
 third_nav_title: Home Based Learning
 ---
 #### **2023 PRIMARY 2 Home-Based Learning (HBL)**
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -24,12 +25,46 @@ third_nav_title: Home Based Learning
 </colgroup>
 <thead>
   <tr>
-    <th class="tg-clhh">1 Amber</th>
-    <th class="tg-clhh">1 Coral</th>
-    <th class="tg-clhh">1 Diamond</th>
+    <th class="tg-clhh">2 Amber</th>
+    <th class="tg-clhh">2 Coral</th>
+    <th class="tg-clhh">2 Diamond</th>
   </tr>
 </thead>
 <tbody>
     <tr>
     <td class="tg-1ppo">
-      <a target="_blank" href="https://docs.google.com/spreadsheets/d/1GtwSIH_yJnr3Tam0cMfiBjYl1-2juX0qLXfclNpMcNo/edit?usp=drive_link">1 Amber HBL 2023</a><br><br></td></tr></tbody></table>
+      <a target="_blank" href="https://docs.google.com/spreadsheets/d/1dQXRuEXcD75j_cX_uorBkMOmf59NDk8_9mL8ska577s/edit?usp=drive_link">2 Amber HBL 2023</a><br><br></td>
+	    <td class="tg-1ppo">
+      <a target="_blank" href="https://docs.google.com/spreadsheets/d/19UyXOWKGVwuJ7boavlOduxFcujV0WpEoouVymEZqzBE/edit?usp=drive_link">2 Coral HBL 2023</a><br><br></td>
+	   <td class="tg-1ppo">
+      <a target="_blank" href="https://docs.google.com/spreadsheets/d/1_pj4IJ0vefWL2QyYExyVbrDOur6UdJHDXHXNAUknR2I/edit?usp=drive_link">2 Diamond HBL 2023</a><br><br></td></tr></tbody>
+			<thead>
+  <tr>
+    <th class="tg-clhh">2 Emerald</th>
+    <th class="tg-clhh">2 Jade</th>
+    <th class="tg-clhh">2 Opal</th>
+  </tr>
+</thead>
+<tbody>
+    <tr>
+    <td class="tg-1ppo">
+      <a target="_blank" href="https://docs.google.com/spreadsheets/d/1_YSGS0EedR0JUDjU5mHR1m1d873v9JE2dSrycGFxBIs/edit?usp=drive_link">2 Emerald HBL 2023</a><br><br></td>
+	    <td class="tg-1ppo">
+      <a target="_blank" href="https://docs.google.com/spreadsheets/d/1zquggQrGtcV5xLtPL1H0Pu3K1r0zJX478sycmY0qRb8/edit?usp=drive_link">2 Jade HBL 2023</a><br><br></td>
+	   <td class="tg-1ppo">
+      <a target="_blank" href="https://docs.google.com/spreadsheets/d/1mfmhemNdiiYnvLx52x1uebvPVMQpmun4SJdvy6hF_s0/edit?usp=drive_link">2 Opal HBL 2023</a><br><br></td></tr></tbody>
+					<thead>
+  <tr>
+    <th class="tg-clhh">2 Pearl</th>
+    <th class="tg-clhh">2 Ruby</th>
+    <th class="tg-clhh">2 Sapphire</th>
+  </tr>
+</thead>
+<tbody>
+    <tr>
+    <td class="tg-1ppo">
+      <a target="_blank" href="https://docs.google.com/spreadsheets/d/1dQXRuEXcD75j_cX_uorBkMOmf59NDk8_9mL8ska577s/edit?usp=drive_link">2 Amber HBL 2023</a><br><br></td>
+	    <td class="tg-1ppo">
+      <a target="_blank" href="https://docs.google.com/spreadsheets/d/19UyXOWKGVwuJ7boavlOduxFcujV0WpEoouVymEZqzBE/edit?usp=drive_link">2 Coral HBL 2023</a><br><br></td>
+	   <td class="tg-1ppo">
+      <a target="_blank" href="https://docs.google.com/spreadsheets/d/1_pj4IJ0vefWL2QyYExyVbrDOur6UdJHDXHXNAUknR2I/edit?usp=drive_link">2 Diamond HBL 2023</a><br><br></td></tr></tbody></table>
