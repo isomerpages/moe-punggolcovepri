@@ -33,7 +33,12 @@ third_nav_title: Home Based Learning
 <tbody>
     <tr>
     <td class="tg-1ppo">
-      <a target="_blank" href="https://docs.google.com/spreadsheets/d/1dQXRuEXcD75j_cX_uorBkMOmf59NDk8_9mL8ska577s/edit?usp=drive_link">2 Amber HBL 2023</a><br><br></td>
+      <a target="_blank" href="https://docs.google.com/spreadsheets/d/1dQXRuEXcD75j_cX_uorBkMOmf59NDk8_9mL8ska577s/edit?usp=drive_link">2 Amber HBL 2023</a><br><br>
+			<a target="_blank" href="https://docs.google.com/spreadsheets/d/1QkqesmXkI1yln5uTjw0RhlBvaodKtuyy81W09IqOZLs/edit?usp=drive_link">P2 LSM 1<br>(Ms Chen Kang Li)</a><br><br>
+			<a target="_blank" href="https://docs.google.com/spreadsheets/d/19lmFrf6lnZinAk22RgzSJzQhKePWp33odlMLJI8TYzE/edit?usp=drive_link">CL 1<br>(Ms Lee Chow Ching)</a><br><br>
+			<a target="_blank" href="https://docs.google.com/spreadsheets/d/1aMoMEP4aoVaWqE4MLQJ37AdMdlbOhOY_/edit?usp=drive_link&amp;ouid=118052901982246903681&amp;rtpof=true&amp;sd=true">ML 1<br>(Mdm Norzaida) </a><br><br>
+
+</td>
 	    <td class="tg-1ppo">
       <a target="_blank" href="https://docs.google.com/spreadsheets/d/19UyXOWKGVwuJ7boavlOduxFcujV0WpEoouVymEZqzBE/edit?usp=drive_link">2 Coral HBL 2023</a><br><br></td>
 	   <td class="tg-1ppo">
