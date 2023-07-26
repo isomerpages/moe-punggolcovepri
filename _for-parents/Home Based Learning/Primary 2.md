@@ -40,9 +40,19 @@ third_nav_title: Home Based Learning
 
 </td>
 	    <td class="tg-1ppo">
-      <a target="_blank" href="https://docs.google.com/spreadsheets/d/19UyXOWKGVwuJ7boavlOduxFcujV0WpEoouVymEZqzBE/edit?usp=drive_link">2 Coral HBL 2023</a><br><br></td>
+      <a target="_blank" href="https://docs.google.com/spreadsheets/d/19UyXOWKGVwuJ7boavlOduxFcujV0WpEoouVymEZqzBE/edit?usp=drive_link">2 Coral HBL 2023</a><br><br>
+			<a target="_blank" href="https://docs.google.com/spreadsheets/d/1QkqesmXkI1yln5uTjw0RhlBvaodKtuyy81W09IqOZLs/edit?usp=drive_link">P2 LSM 2<br>(Ms Stephanie Yong)</a><br><br>
+				<a target="_blank" href="https://docs.google.com/spreadsheets/d/1dtSw3i5ySjrt6Mhs58JghCqpONiccVG_0xdF8ORJ_Zc/edit?usp=drive_link">CL 2<br>(Ms Monica Yeo)</a><br><br>
+				<a target="_blank" href="https://docs.google.com/spreadsheets/d/198p7-spNsW_L5Fo0iga7EYcdzHOpcP_r/edit?usp=drive_link&amp;ouid=118052901982246903681&amp;rtpof=true&amp;sd=true">ML 2<br>(Ms Nurin) </a><br><br>
+			</td>
 	   <td class="tg-1ppo">
-      <a target="_blank" href="https://docs.google.com/spreadsheets/d/1_pj4IJ0vefWL2QyYExyVbrDOur6UdJHDXHXNAUknR2I/edit?usp=drive_link">2 Diamond HBL 2023</a><br><br></td></tr></tbody>
+      <a target="_blank" href="https://docs.google.com/spreadsheets/d/1_pj4IJ0vefWL2QyYExyVbrDOur6UdJHDXHXNAUknR2I/edit?usp=drive_link">2 Diamond HBL 2023</a><br><br>
+			<a target="_blank" href="https://docs.google.com/spreadsheets/d/1QkqesmXkI1yln5uTjw0RhlBvaodKtuyy81W09IqOZLs/edit?usp=drive_link">P2 LSM 3<br>(Ms Nur Alisa)</a><br><br>
+		<a target="_blank" href="https://docs.google.com/spreadsheets/d/1RBZWohENOfxWjg8v_uNDoJiWBdjGpBYbmYrJriirnfo/edit?usp=drive_link">CL 3<br>(Ms Wang Yuan Qing)</a><br><br>
+		<a target="_blank" href="https://docs.google.com/spreadsheets/d/1PdesWsmxFSdYE4WuUcTA_buvXf1mIdUY/edit?usp=drive_link&amp;ouid=118052901982246903681&amp;rtpof=true&amp;sd=true">ML 3<br>(Mdm Norela)</a>
+</td></tr>
+	
+	 </tbody>
 			<thead>
   <tr>
     <th class="tg-clhh">2 Emerald</th>
