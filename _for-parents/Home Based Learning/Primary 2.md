@@ -36,20 +36,20 @@ third_nav_title: Home Based Learning
       <a target="_blank" href="https://docs.google.com/spreadsheets/d/1dQXRuEXcD75j_cX_uorBkMOmf59NDk8_9mL8ska577s/edit?usp=drive_link">2 Amber HBL 2023</a><br><br>
 			<a target="_blank" href="https://docs.google.com/spreadsheets/d/1QkqesmXkI1yln5uTjw0RhlBvaodKtuyy81W09IqOZLs/edit?usp=drive_link">P2 LSM 1<br>(Ms Chen Kang Li)</a><br><br>
 			<a target="_blank" href="https://docs.google.com/spreadsheets/d/19lmFrf6lnZinAk22RgzSJzQhKePWp33odlMLJI8TYzE/edit?usp=drive_link">CL 1<br>(Ms Lee Chow Ching)</a><br><br>
-			<a target="_blank" href="https://docs.google.com/spreadsheets/d/1aMoMEP4aoVaWqE4MLQJ37AdMdlbOhOY_/edit?usp=drive_link&amp;ouid=118052901982246903681&amp;rtpof=true&amp;sd=true">ML 1<br>(Mdm Norzaida) </a><br><br>
+			<a target="_blank" href="https://docs.google.com/spreadsheets/d/1aMoMEP4aoVaWqE4MLQJ37AdMdlbOhOY_/edit?usp=drive_link&amp;ouid=118052901982246903681&amp;rtpof=true&amp;sd=true">ML 1<br>(Mdm Norzaida) </a><br><br><br>
 
 </td>
 	    <td class="tg-1ppo">
       <a target="_blank" href="https://docs.google.com/spreadsheets/d/19UyXOWKGVwuJ7boavlOduxFcujV0WpEoouVymEZqzBE/edit?usp=drive_link">2 Coral HBL 2023</a><br><br>
 			<a target="_blank" href="https://docs.google.com/spreadsheets/d/1QkqesmXkI1yln5uTjw0RhlBvaodKtuyy81W09IqOZLs/edit?usp=drive_link">P2 LSM 2<br>(Ms Stephanie Yong)</a><br><br>
 				<a target="_blank" href="https://docs.google.com/spreadsheets/d/1dtSw3i5ySjrt6Mhs58JghCqpONiccVG_0xdF8ORJ_Zc/edit?usp=drive_link">CL 2<br>(Ms Monica Yeo)</a><br><br>
-				<a target="_blank" href="https://docs.google.com/spreadsheets/d/198p7-spNsW_L5Fo0iga7EYcdzHOpcP_r/edit?usp=drive_link&amp;ouid=118052901982246903681&amp;rtpof=true&amp;sd=true">ML 2<br>(Ms Nurin) </a><br><br>
+				<a target="_blank" href="https://docs.google.com/spreadsheets/d/198p7-spNsW_L5Fo0iga7EYcdzHOpcP_r/edit?usp=drive_link&amp;ouid=118052901982246903681&amp;rtpof=true&amp;sd=true">ML 2<br>(Ms Nurin) </a><br><br><br>
 			</td>
 	   <td class="tg-1ppo">
       <a target="_blank" href="https://docs.google.com/spreadsheets/d/1_pj4IJ0vefWL2QyYExyVbrDOur6UdJHDXHXNAUknR2I/edit?usp=drive_link">2 Diamond HBL 2023</a><br><br>
 			<a target="_blank" href="https://docs.google.com/spreadsheets/d/1QkqesmXkI1yln5uTjw0RhlBvaodKtuyy81W09IqOZLs/edit?usp=drive_link">P2 LSM 3<br>(Ms Nur Alisa)</a><br><br>
 		<a target="_blank" href="https://docs.google.com/spreadsheets/d/1RBZWohENOfxWjg8v_uNDoJiWBdjGpBYbmYrJriirnfo/edit?usp=drive_link">CL 3<br>(Ms Wang Yuan Qing)</a><br><br>
-		<a target="_blank" href="https://docs.google.com/spreadsheets/d/1PdesWsmxFSdYE4WuUcTA_buvXf1mIdUY/edit?usp=drive_link&amp;ouid=118052901982246903681&amp;rtpof=true&amp;sd=true">ML 3<br>(Mdm Norela)</a><br><br>
+		<a target="_blank" href="https://docs.google.com/spreadsheets/d/1PdesWsmxFSdYE4WuUcTA_buvXf1mIdUY/edit?usp=drive_link&amp;ouid=118052901982246903681&amp;rtpof=true&amp;sd=true">ML 3<br>(Mdm Norela)</a><br><br><br>
 </td></tr>
 			</tbody><thead>
   <tr>
@@ -64,14 +64,14 @@ third_nav_title: Home Based Learning
       <a target="_blank" href="https://docs.google.com/spreadsheets/d/1_YSGS0EedR0JUDjU5mHR1m1d873v9JE2dSrycGFxBIs/edit?usp=drive_link">2 Emerald HBL 2023</a><br><br>
 			<a target="_blank" href="https://docs.google.com/spreadsheets/d/1ynQl3GIyEBb3A5ih7RWEzN7Qw6T-jQdRNWeMvatZtes/edit?usp=drive_link">P2 LSP<br>(Mdm Siti)</a><br><br>
 			<a target="_blank" href="https://docs.google.com/spreadsheets/d/1zeCfozHMr5PZ65IMXOBHcWSaw_ySdyAoh0STafwQYDc/edit?usp=drive_link">CL 4<br>(Mdm Wong Hui Lynn)</a><br><br>
-			<a target="_blank" href="https://docs.google.com/spreadsheets/d/1oZ3B5vUJdTGkczRc2JWFGq7J-jLxyQWLoo6DBmCOyE8/edit?usp=drive_link">TL 1<br>(Mdm Fathima)</a><br><br>			
+			<a target="_blank" href="https://docs.google.com/spreadsheets/d/1oZ3B5vUJdTGkczRc2JWFGq7J-jLxyQWLoo6DBmCOyE8/edit?usp=drive_link">TL 1<br>(Mdm Fathima)</a><br><br><br>			
 			</td>
 	    <td class="tg-1ppo">
       <a target="_blank" href="https://docs.google.com/spreadsheets/d/1zquggQrGtcV5xLtPL1H0Pu3K1r0zJX478sycmY0qRb8/edit?usp=drive_link">2 Jade HBL 2023</a><br><br>
-			<a target="_blank" href="https://docs.google.com/spreadsheets/d/149qa_x_grmpNPFACvs_MvOFEbGab5ivYDN6SmdaAyI0/edit?usp=drive_link">CL 5<br>(Mr Benjamin Chew)</a><br><br><br><br><br><br><br><br></td>
+			<a target="_blank" href="https://docs.google.com/spreadsheets/d/149qa_x_grmpNPFACvs_MvOFEbGab5ivYDN6SmdaAyI0/edit?usp=drive_link">CL 5<br>(Mr Benjamin Chew)</a><br><br><br><br><br><br><br><br><br></td>
 	   <td class="tg-1ppo">
       <a target="_blank" href="https://docs.google.com/spreadsheets/d/1mfmhemNdiiYnvLx52x1uebvPVMQpmun4SJdvy6hF_s0/edit?usp=drive_link">2 Opal HBL 2023</a><br><br>
-			<a target="_blank" href="https://docs.google.com/spreadsheets/d/1HS-P1RfZhwoDU9NxHn1PYX3WKUDHW2wXYVQpul4YS9U/edit?usp=drive_link">CL 6<br>(Ms Chia Yi Zhen)</a><br><br><br><br><br><br><br><br>
+			<a target="_blank" href="https://docs.google.com/spreadsheets/d/1HS-P1RfZhwoDU9NxHn1PYX3WKUDHW2wXYVQpul4YS9U/edit?usp=drive_link">CL 6<br>(Ms Chia Yi Zhen)</a><br><br><br><br><br><br><br><br><br>
 			</td></tr></tbody>
 					<thead>
   <tr>
