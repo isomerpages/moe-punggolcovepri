@@ -59,17 +59,17 @@ third_nav_title: Home Based Learning
     <td class="tg-1ppo">
       <a target="_blank" href="https://docs.google.com/spreadsheets/d/1CUHkuyhStzqzYBhlYDDCsEEKhHqGnizFoISdzUJDA2E/edit?usp=drive_link">5 Emerald HBL 2023</a><br><br>
 			<a target="_blank" href="https://docs.google.com/spreadsheets/d/14wdzRTKBOuvoN6I6eDa5Nsc05v1z_OxpvyIKjfpUiF0/edit?usp=drive_link">CL 4<br>(Ms Wang Yuan Qing)</a><br><br>
-			<a target="_blank" href="https://docs.google.com/spreadsheets/d/1yJz23ZF8EorBSbSnlx0lo84e-PDZ-t60/edit?usp=drive_link&amp;ouid=118052901982246903681&amp;rtpof=true&amp;sd=true">FML<br>(Mdm Muliyati)</a><br><br><br>
+			<a target="_blank" href="https://docs.google.com/spreadsheets/d/1yJz23ZF8EorBSbSnlx0lo84e-PDZ-t60/edit?usp=drive_link&amp;ouid=118052901982246903681&amp;rtpof=true&amp;sd=true">FML<br>(Mdm Muliyati)</a><br><br>
 			</td>
 	    <td class="tg-1ppo">
       <a target="_blank" href="https://docs.google.com/spreadsheets/d/1YFm5JNaB7Y3oawktKf9tIRnS_tkT_6aj01N7qbzeDfE/edit?usp=drive_link">5 Jade HBL 2023</a><br><br>
 			<a target="_blank" href="https://docs.google.com/spreadsheets/d/15tclv1SZ4mcpPs9Enq7feWEGzWFYugYDeHyRLn9FF_w/edit?usp=drive_link">CL 5<br>(Mdm Dou Jin Yi)</a><br><br>
-				   <a target="_blank" href="https://docs.google.com/spreadsheets/d/1yUB67YqNfxTfgkiMb4h0BAmCWBWJO9gXaaWcWTGBvsQ/edit?usp=drive_link">TL 1<br>(Mrs Haider)</a><br><br><br>
+				   <a target="_blank" href="https://docs.google.com/spreadsheets/d/1yUB67YqNfxTfgkiMb4h0BAmCWBWJO9gXaaWcWTGBvsQ/edit?usp=drive_link">TL 1<br>(Mrs Haider)</a><br><br>
 			</td>
 	   <td class="tg-1ppo">
-      <a target="_blank" href="https://docs.google.com/spreadsheets/d/1mfmhemNdiiYnvLx52x1uebvPVMQpmun4SJdvy6hF_s0/edit?usp=drive_link">5 Opal HBL 2023</a><br><br>
-			<a target="_blank" href="https://docs.google.com/spreadsheets/d/1HS-P1RfZhwoDU9NxHn1PYX3WKUDHW2wXYVQpul4YS9U/edit?usp=drive_link">CL 6<br>(Mr Benjamin Chew)</a><br><br>
-			 		<a target="_blank" href="https://docs.google.com/spreadsheets/d/1HS-P1RfZhwoDU9NxHn1PYX3WKUDHW2wXYVQpul4YS9U/edit?usp=drive_link">FTL<br>(Mr Chanthira)</a><br><br><br>
+      <a target="_blank" href="https://docs.google.com/spreadsheets/d/1M4iN8S2S-_koi_1gNA1uPEoqbf7PKT3nXPmD4n7B784/edit?usp=drive_link">5 Opal HBL 2023</a><br><br>
+			<a target="_blank" href="https://docs.google.com/spreadsheets/d/1DmrhK4OrRCZ3r93-tY0BA5r4puoaQ6O7lKIB_2Ofn1s/edit?usp=drive_link">CL 6<br>(Mr Benjamin Chew)</a><br><br>
+			 		<a target="_blank" href="https://docs.google.com/spreadsheets/d/1ygI6wRnxYkSEYDVzirr-45I_JIE3isTDi6BkgvDCfy8/edit?usp=drive_link">FTL<br>(Mr Chandra)</a><br><br>
 			</td></tr></tbody>
 					<thead>
   <tr>
@@ -81,9 +81,9 @@ third_nav_title: Home Based Learning
 <tbody>
     <tr>
     <td class="tg-1ppo">
-      <a target="_blank" href="https://docs.google.com/spreadsheets/d/1o2-izkkLBOhifcIcU1Td8ySegc6sovVgcDgwmJpOrj8/edit?usp=drive_link">5 Pearl HBL 2023</a><br><br>
-			     <a target="_blank" href="https://docs.google.com/spreadsheets/d/1o2-izkkLBOhifcIcU1Td8ySegc6sovVgcDgwmJpOrj8/edit?usp=drive_link">CL 7<br>(Mdm Chew Wee San) </a><br><br></td>
+      <a target="_blank" href="https://docs.google.com/spreadsheets/d/1mPMIEqekgDEBztSZJG7BSSHdmISHwxEVlnZgX6_fiQ0/edit?usp=drive_link">5 Pearl HBL 2023</a><br><br>
+			     <a target="_blank" href="https://docs.google.com/spreadsheets/d/1eNeoLwsgvoE4iYrXAGiwo0ITklEnXG32Pd6cXrnfA8k/edit?usp=drive_link">CL 7<br>(Mdm Chew Wee San) </a><br><br></td>
 			   <td class="tg-1ppo">
-      <a target="_blank" href="https://docs.google.com/spreadsheets/d/1o2-izkkLBOhifcIcU1Td8ySegc6sovVgcDgwmJpOrj8/edit?usp=drive_link">5 Ruby HBL 2023</a><br><br>
-			     <a target="_blank" href="https://docs.google.com/spreadsheets/d/1o2-izkkLBOhifcIcU1Td8ySegc6sovVgcDgwmJpOrj8/edit?usp=drive_link">FCL<br>(Mdm Lee Chow Ching)</a><br><br></td>
+      <a target="_blank" href="https://docs.google.com/spreadsheets/d/18xJcbERXVdTAeZotRQfWA6FGuYzXX7cYaSoCdqIwXlo/edit?usp=drive_link">5 Ruby HBL 2023</a><br><br>
+			     <a target="_blank" href="https://docs.google.com/spreadsheets/d/1CYbPe-LL7JITTXQTp3fBtmK3nH4wGLfX8C5lehEYtv0/edit?usp=drive_link">FCL<br>(Mdm Lee Chow Ching)</a><br><br></td>
 	</tr></tbody></table>
