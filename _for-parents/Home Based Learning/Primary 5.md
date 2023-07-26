@@ -81,5 +81,8 @@ third_nav_title: Home Based Learning
 <tbody>
     <tr>
     <td class="tg-1ppo">
-      <a target="_blank" href="https://docs.google.com/spreadsheets/d/1o2-izkkLBOhifcIcU1Td8ySegc6sovVgcDgwmJpOrj8/edit?usp=drive_link">5 Pearl HBL 2023</a><br><br></td>
+      <a target="_blank" href="https://docs.google.com/spreadsheets/d/1o2-izkkLBOhifcIcU1Td8ySegc6sovVgcDgwmJpOrj8/edit?usp=drive_link">5 Pearl HBL 2023</a><br><br>
+			     <a target="_blank" href="https://docs.google.com/spreadsheets/d/1o2-izkkLBOhifcIcU1Td8ySegc6sovVgcDgwmJpOrj8/edit?usp=drive_link">CL 7<br>(Mdm Chew Wee San) 
+
+</a><br><br></td>
 	</tr></tbody></table>
