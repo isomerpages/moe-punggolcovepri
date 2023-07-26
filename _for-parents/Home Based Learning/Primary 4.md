@@ -59,15 +59,15 @@ third_nav_title: Home Based Learning
     <td class="tg-1ppo">
       <a target="_blank" href="https://docs.google.com/spreadsheets/d/1q4dqWzv9NMcM-alEuZ0rIRGBcYLpGMC5Rb3LdrDAY88/edit?usp=drive_link">4 Emerald HBL 2023</a><br><br>
 			<a target="_blank" href="https://docs.google.com/spreadsheets/d/1CjiVyBeqFv36pvh4DnWo6hdkxmzQOOKu/edit?usp=drive_link&amp;ouid=118052901982246903681&amp;rtpof=true&amp;sd=true">CL 4<br>(Mdm Chew Wee San)</a><br><br>
-			<a target="_blank" href="https://docs.google.com/spreadsheets/d/1I3NimrLr1qKaywOkdYM45A_Dm88ip46vB6SW5JADHm8/edit?usp=drive_link">TL 1<br>(Mrs Haider)</a><br><br>
+			<a target="_blank" href="https://docs.google.com/spreadsheets/d/1I3NimrLr1qKaywOkdYM45A_Dm88ip46vB6SW5JADHm8/edit?usp=drive_link">TL 1<br>(Mrs Haider)</a><br><br><br>
 			</td>
 	    <td class="tg-1ppo">
-      <a target="_blank" href="https://docs.google.com/spreadsheets/d/192my_vapCIixboEgeKQ93P45UXVrgIgu9Jw75tahy40/edit?usp=drive_link">4 Jade HBL 2023</a><br>
+      <a target="_blank" href="https://docs.google.com/spreadsheets/d/192my_vapCIixboEgeKQ93P45UXVrgIgu9Jw75tahy40/edit?usp=drive_link">4 Jade HBL 2023</a><br><br>
 			<a target="_blank" href="https://docs.google.com/spreadsheets/d/1iLZeW-MAwbOQXFXPUqe-EJSEllNJnvrt/edit?usp=drive_link&amp;ouid=118052901982246903681&amp;rtpof=true&amp;sd=true">CL 5<br>(Mdm Monica Yeo)</a><br><br><br><br><br><br>
 			</td>
 	   <td class="tg-1ppo">
       <a target="_blank" href="https://docs.google.com/spreadsheets/d/1mfmhemNdiiYnvLx52x1uebvPVMQpmun4SJdvy6hF_s0/edit?usp=drive_link">4 Opal HBL 2023</a><br><br>
-			<a target="_blank" href="https://docs.google.com/spreadsheets/d/1HS-P1RfZhwoDU9NxHn1PYX3WKUDHW2wXYVQpul4YS9U/edit?usp=drive_link">CL 6<br>(Ms Chia Yi Zhen)</a><br><br><br><br><br>
+			<a target="_blank" href="https://docs.google.com/spreadsheets/d/1HS-P1RfZhwoDU9NxHn1PYX3WKUDHW2wXYVQpul4YS9U/edit?usp=drive_link">CL 6<br>(Ms Chia Yi Zhen)</a><br><br><br><br><br><br>
 			</td></tr></tbody>
 					<thead>
   <tr>
