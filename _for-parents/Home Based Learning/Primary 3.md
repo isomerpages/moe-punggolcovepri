@@ -77,15 +77,12 @@ third_nav_title: Home Based Learning
 					<thead>
   <tr>
     <th class="tg-clhh">3 Pearl</th>
-    <th class="tg-clhh">3 Ruby</th>
-    <th class="tg-clhh">3 Sapphire</th>
+    <th class="tg-clhh"></th>
+    <th class="tg-clhh"></th>
   </tr>
 </thead>
 <tbody>
     <tr>
     <td class="tg-1ppo">
-      <a target="_blank" href="https://docs.google.com/spreadsheets/d/1KIHwkbspqkzC1zhOaftKUJOsu1k3Rt0v2XhWE3XTEbw/edit?usp=drive_link">2 Pearl HBL 2023</a><br><br></td>
-	    <td class="tg-1ppo">
-      <a target="_blank" href="https://docs.google.com/spreadsheets/d/1JFkbeQG0pwW1Q7rSQIVYR_19loZw8SBMDwGcmWA7sag/edit?usp=drive_link">2 Ruby HBL 2023</a><br><br></td>
-	   <td class="tg-1ppo">
-      <a target="_blank" href="https://docs.google.com/spreadsheets/d/1g7GdMmi1CCexyXCyCSZQZZZ5t_wmnspD4wPTdR1LE_I/edit?usp=drive_link">2 Sapphire HBL 2023</a><br><br></td></tr></tbody></table>
+      <a target="_blank" href="https://docs.google.com/spreadsheets/d/10n-Rt8xeDlQeUZlVgvWOl5k-EuEI7TBXATNx0x2NBOw/edit?usp=drive_link">3 Pearl HBL 2023</a><br><br></td>
+	</tr></tbody></table>
