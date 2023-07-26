@@ -8,4 +8,4 @@ At Punggol Cove Primary School, we are committed to nurture&nbsp;future-ready an
 
 As teachers will tap on a variety of&nbsp;online learning tools to complement classroom teaching and learning, this website will provide a set of child-friendly guides to help students navigate these tools while learning at their own pace.
 
-Please click on the link ([https://go.gov.sg/pcps-techforlearning](https://go.gov.sg/pcps-techforlearning)) to access the website.&nbsp;
+Please click on the <a target="_blank" href="([https://go.gov.sg/pcps-techforlearning](https://go.gov.sg/pcps-techforlearning">link</a> to access the website.
