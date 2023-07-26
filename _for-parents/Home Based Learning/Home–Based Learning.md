@@ -8,4 +8,4 @@ third_nav_title: Home Based Learning
 
 <h4>As teachers will tap on a variety of&nbsp;online learning tools to complement classroom teaching and learning, this website will provide a set of child-friendly guides to help students navigate these tools while learning at their own pace.</h4>
 
-<h4>Please click on the <a target="_blank" href="https://go.gov.sg/pcps-techforlearning">link</a> to access the website.</h4>
+<h4>Please click on the <a target="_blank" href="https://sites.google.com/moe.edu.sg/pcps-techforlearning/home">link</a> to access the website.</h4>
