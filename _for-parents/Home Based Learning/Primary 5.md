@@ -34,17 +34,17 @@ third_nav_title: Home Based Learning
     <tr>
     <td class="tg-1ppo">
 			<a target="_blank" href="https://docs.google.com/spreadsheets/d/1rM_XHi5Olw8S3GRl-0m0hOph5HCpG6IefkC8ZjBnX9c/edit?usp=drive_link">5 Amber HBL 2023</a><br><br>
-      <a target="_blank" href="https://docs.google.com/spreadsheets/d/1BE1I9UyjKiv49ekaDBHRc85WKePYoDPr/edit?usp=drive_link&amp;ouid=118052901982246903681&amp;rtpof=true&amp;sd=true">CL 1<br>(Ms Tan Sze Huey)</a><br><br>
-			<a target="_blank" href="https://docs.google.com/spreadsheets/d/107Z9cLijGRBnI79GlcLiFmvuS-n6cjvz/edit?usp=drive_link&amp;ouid=118052901982246903681&amp;rtpof=true&amp;sd=true">ML 1<br>(Ms Nurin) </a><br><br>
+      <a target="_blank" href="https://docs.google.com/spreadsheets/d/1BE1I9UyjKiv49ekaDBHRc85WKePYoDPr/edit?usp=drive_link&amp;ouid=118052901982246903681&amp;rtpof=true&amp;sd=true">HCL<br>(Mdm Wong Hui Lynn)</a><br><br>
+			<a target="_blank" href="https://docs.google.com/spreadsheets/d/107Z9cLijGRBnI79GlcLiFmvuS-n6cjvz/edit?usp=drive_link&amp;ouid=118052901982246903681&amp;rtpof=true&amp;sd=true">ML 1<br>(Mdm Azilah)</a><br><br>
 </td>
 	    <td class="tg-1ppo">
       <a target="_blank" href="https://docs.google.com/spreadsheets/d/1Q9sVUHgy4hkSj12hNsGVI1dk7cANzULrbE2tQm0BwCo/edit?usp=drive_link">5 Coral HBL 2023</a><br><br>
-			<a target="_blank" href="https://docs.google.com/spreadsheets/d/1z6uf5DDQPbvN4oLF0RAe3-T6hSflUH-u/edit?usp=drive_link&amp;ouid=118052901982246903681&amp;rtpof=true&amp;sd=true">CL 2<br>(Ms Chia Yi Zhen)</a><br><br>
-		<a target="_blank" href="https://docs.google.com/spreadsheets/d/1YOC6ZwoFEGKBm0pAjD22G-iVPHIEkGzE/edit?usp=drive_link&amp;ouid=118052901982246903681&amp;rtpof=true&amp;sd=true">ML 2<br>(Mdm Zahira)</a><br><br>
+			<a target="_blank" href="https://docs.google.com/spreadsheets/d/1z6uf5DDQPbvN4oLF0RAe3-T6hSflUH-u/edit?usp=drive_link&amp;ouid=118052901982246903681&amp;rtpof=true&amp;sd=true">CL 2<br>(Mr Ang Hiang Soon)</a><br><br>
+		<a target="_blank" href="https://docs.google.com/spreadsheets/d/1YOC6ZwoFEGKBm0pAjD22G-iVPHIEkGzE/edit?usp=drive_link&amp;ouid=118052901982246903681&amp;rtpof=true&amp;sd=true">ML 2<br>(Ms Nurin)</a><br><br>
 			</td>
 	   <td class="tg-1ppo">
       <a target="_blank" href="https://docs.google.com/spreadsheets/d/1SUWsl9I4XrpFbUA0fwaoMm8pEODBFKkCh1IJuuOpKxY/edit?usp=drive_link">5 Diamond HBL 2023</a><br><br>
-			<a target="_blank" href="https://docs.google.com/spreadsheets/d/1B5ONy4rdS7B1krhv0ioliUqYtO54YCdm/edit?usp=drive_link&amp;ouid=118052901982246903681&amp;rtpof=true&amp;sd=true">CL 3<br>(Mdm Lee Xiao Wei)</a><br><br>
+			<a target="_blank" href="https://docs.google.com/spreadsheets/d/1B5ONy4rdS7B1krhv0ioliUqYtO54YCdm/edit?usp=drive_link&amp;ouid=118052901982246903681&amp;rtpof=true&amp;sd=true">CL 3<br>(Mdm Monica Yeo)</a><br><br>
 			 <a target="_blank" href="https://docs.google.com/spreadsheets/d/14t6tMhtn2k-N2mxQBJDWxWzpDlhE76Ne/edit?usp=drive_link&amp;ouid=118052901982246903681&amp;rtpof=true&amp;sd=true">ML 3<br>(Mdm Muliyati)</a><br><br>
 </td></tr>
 			</tbody><thead>
@@ -58,8 +58,8 @@ third_nav_title: Home Based Learning
     <tr>
     <td class="tg-1ppo">
       <a target="_blank" href="https://docs.google.com/spreadsheets/d/1q4dqWzv9NMcM-alEuZ0rIRGBcYLpGMC5Rb3LdrDAY88/edit?usp=drive_link">5 Emerald HBL 2023</a><br><br>
-			<a target="_blank" href="https://docs.google.com/spreadsheets/d/1CjiVyBeqFv36pvh4DnWo6hdkxmzQOOKu/edit?usp=drive_link&amp;ouid=118052901982246903681&amp;rtpof=true&amp;sd=true">CL 4<br>(Mdm Chew Wee San)</a><br><br>
-			<a target="_blank" href="https://docs.google.com/spreadsheets/d/1I3NimrLr1qKaywOkdYM45A_Dm88ip46vB6SW5JADHm8/edit?usp=drive_link">TL 1<br>(Mrs Haider)</a><br><br>
+			<a target="_blank" href="https://docs.google.com/spreadsheets/d/1CjiVyBeqFv36pvh4DnWo6hdkxmzQOOKu/edit?usp=drive_link&amp;ouid=118052901982246903681&amp;rtpof=true&amp;sd=true">CL 4<br>(Ms Wang Yuan Qing)</a><br><br>
+			<a target="_blank" href="https://docs.google.com/spreadsheets/d/1I3NimrLr1qKaywOkdYM45A_Dm88ip46vB6SW5JADHm8/edit?usp=drive_link">FML<br>(Mdm Muliyati)</a><br><br>
 			</td>
 	    <td class="tg-1ppo">
       <a target="_blank" href="https://docs.google.com/spreadsheets/d/192my_vapCIixboEgeKQ93P45UXVrgIgu9Jw75tahy40/edit?usp=drive_link">5 Jade HBL 2023</a><br>
