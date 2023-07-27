@@ -24,5 +24,5 @@ description: ""
 * Contact Person: Ms Adelena Loh (Administration Manager)<br>
 
 <h4>How to get to School's General Office</h4>
-* Nearest LRT Station: (PW5) Nibong
+* Nearest LRT Station: (PW5) Nibong<br>
 * Public buses serving: 382W, 84
