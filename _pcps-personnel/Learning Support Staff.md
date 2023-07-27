@@ -33,7 +33,7 @@ description: ""
   <tr>
     <td class="tg-qtsq">Mdm Grace Teo</td>
     <td class="tg-qtsq">Student Welfare Officer</td>
-    <td class="tg-f6m5"><a href="mailto:teo_swee_yee_grace@schools.gov.sg"> teo_swee_yee_grace@schools.gov.sgg</a></td>
+    <td class="tg-f6m5"><a href="mailto:teo_swee_yee_grace@schools.gov.sg"> teo_swee_yee_grace@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td class="tg-qtsq">Mdm Nurhidayati</td>

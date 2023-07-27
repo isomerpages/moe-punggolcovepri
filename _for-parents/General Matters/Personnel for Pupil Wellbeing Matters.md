@@ -38,8 +38,8 @@ third_nav_title: General Matters
   </tr>
   <tr>
     <td class="tg-g6yu">Student Welfare Officer:</td>
-    <td class="tg-qtsq">Ms Su Yunting</td>
-    <td class="tg-f6m5"><a href="mailto:su_yunting@schools.gov.sg"><span style="text-decoration:none;color:#4067AE">su_yunting@schools.gov.sg</span></a></td>
+    <td class="tg-qtsq">Mdm Grace Teo</td>
+    <td class="tg-f6m5"><a href="mailto:teo_swee_yee_grace@schools.gov.sgg"><span style="text-decoration:none;color:#4067AE">teo_swee_yee_grace@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-g6yu">Special Educational Needs Officer (SEN Officer):<br></td>

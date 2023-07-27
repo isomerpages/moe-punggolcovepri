@@ -1,6 +1,6 @@
 ---
 title: Primary 1
-permalink: /for-parents/home-based-learning/permalink/
+permalink: /for-parents/home-based-learning/p1/
 description: ""
 third_nav_title: Home Based Learning
 ---
