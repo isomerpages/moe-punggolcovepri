@@ -22,3 +22,7 @@ description: ""
 * Contact No: 63857339
 * Email: punggolcove_ps@moe.edu.sg
 * Contact Person: Ms Adelena Loh (Administration Manager)
+
+<h4>How to get to School's General Office</h4>
+* Nearest LRT Station: (PW5) Nibong
+* Public buses serving: 382W, 84
