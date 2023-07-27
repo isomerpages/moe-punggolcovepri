@@ -100,11 +100,6 @@ description: ""
     <td class="tg-7qt1">LH English</td>
     <td class="tg-7qt1">chua_swan_lynn@schools.gov.sg </td>
   </tr>
-	 <tr>
-    <td class="tg-7qt1">Ms Loh Qiwen Angeline </td>
-    <td class="tg-7qt1">LH English (Internal)</td>
-    <td class="tg-7qt1">loh_qiwen_angeline@schools.gov.sg</td>
-  </tr>
   <tr>
     <td class="tg-7qt1">Mdm Norihsani Bte Tavant</td>
     <td class="tg-7qt1">LH Science <br></td>
@@ -119,7 +114,7 @@ description: ""
     <td class="tg-7qt1">Mr Adrian Liang</td>
     <td class="tg-7qt1">LH ICT/MRL</td>
     <td class="tg-7qt1">Adrian_LIANG@schools.gov.sg</td>
-  </tr> 
+  </tr>
   <tr>
     <td class="tg-7qt1">Mr Mohd Hafiizh Dzulkifli	<br></td>
     <td class="tg-7qt1">SH PE &amp; CCA</td>
