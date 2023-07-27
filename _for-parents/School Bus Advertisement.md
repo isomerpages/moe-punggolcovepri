@@ -17,7 +17,9 @@ description: ""
 
 2.  Submit the completed Call for Proposal - Annex A by closing date, to the School's General Office.
 
+```
 * Address: 52 Sumang Walk, Singapore 828674
 * Contact No: 63857339
 * Email: punggolcove_ps@moe.edu.sg
 * Contact Person: Ms Adelena Loh (Administration Manager)
+```
