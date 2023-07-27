@@ -14,4 +14,4 @@ description: ""
 
 1.  Complete the Call for Proposal - Annex A
 
-3.  Submit the completed Call for Proposal - Annex A by closing date, to the School's General Office.
+2.  Submit the completed Call for Proposal - Annex A by closing date, to the School's General Office.
