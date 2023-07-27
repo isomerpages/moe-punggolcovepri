@@ -7,7 +7,7 @@ description: ""
 
 <h4>Service Requirement</h4>
 
-1. Call for proposal
+1. <a target="_blank" href="https://go.gov.sg/proposalsversionjune2023">Call for proposal</a>
 
 2. Agreement for Appointment of School Bus Operator
 
