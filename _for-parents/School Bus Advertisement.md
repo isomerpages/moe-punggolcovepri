@@ -9,11 +9,11 @@ description: ""
 
 1. <a target="_blank" href="https://go.gov.sg/proposalsversionjune2023">Call for proposal</a>
 
-2. Agreement for Appointment of School Bus Operator
+2. <a target="_blank" href="https://go.gov.sg/sampleagreement">Agreement for Appointment of School Bus Operator</a>
 
 <h4>Application Procedure</h4>
 
-1.  Complete the Call for Proposal - Annex A
+1.  <a target="_blank" href="https://go.gov.sg/callforproposalbypcpsannexa">Complete the Call for Proposal - Annex A</a>
 
 2.  Submit the completed Call for Proposal - Annex A by closing date, to the School's General Office.
 
