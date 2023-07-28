@@ -6,7 +6,6 @@ third_nav_title: Home Based Learning
 ---
 <h3><b>2023 PRIMARY 1 Home-Based Learning (HBL)</b></h3>
 <h5>Select your fomr class for your daily lesson schedule and HBL assignments.</h5>
-<br>
 <table>
 	<tbody>
 		<tr>
