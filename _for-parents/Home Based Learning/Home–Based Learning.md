@@ -12,3 +12,13 @@ As teachers will tap on a variety of&nbsp;online learning tools to complement cl
 
 <h4> 2023 LEARN@HOME - P6 PRELIM ORAL EXAMINATION HOME-BASED LEARNING</h4>
 
+During the P6 Prelim Oral Examniation from 27 to 28 July 2023, P1 to P5 students are not required to report to school. They will be engaged in Home-Based Learning (HBL) on both days.
+
+Please click on the link below to access you child's lesson schedule for 27 and 28 July.
+
+Select you child's level.
+
+Primary 1                        Primary 2                                             Primary 3
+
+Primary 4                       Primary 5
+
