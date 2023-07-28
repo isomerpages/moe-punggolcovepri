@@ -31,28 +31,28 @@ third_nav_title: Home Based Learning
 <table>
   <tbody>
     <tr>
-    <td>HCL<br>Mdm Wong Hui Lynn</td>
-    <td>CL 2 <br>Mr Ang Hiang Soon</td>
-    <td>CL 3 <br>Mdm Monica Yeo</td>
+    <td><a target="_blank" href="https://docs.google.com/spreadsheets/d/1CYbPe-LL7JITTXQTp3fBtmK3nH4wGLfX8C5lehEYtv0/edit?usp=drive_link">HCL<br>Mdm Wong Hui Lynn</a></td>
+    <td><a target="_blank" href="https://docs.google.com/spreadsheets/d/1Jx15uGNpp4qUZveVwD2AR9B85aE7z1mDmbunc77yjDs/edit?usp=drive_link">CL 2 <br>Mr Ang Hiang Soon</a></td>
+    <td><a target="_blank" href="https://docs.google.com/spreadsheets/d/1to5TMsQL3Vouhh0Qv7rhgEXdwF2iD66wU_AMaztD6pE/edit?usp=drive_link">CL 3 <br>Mdm Monica Yeo</a></td>
   </tr>
 		<tr>
-    <td>CL 4 <br>Ms Wang Yuan Qing</td>
-    <td>CL 5 <br>Mdm Dou Jin Yi</td>
-    <td>CL 6 <br>Mr Benjamin Chew</td>
+    <td><a target="_blank" href="https://docs.google.com/spreadsheets/d/14wdzRTKBOuvoN6I6eDa5Nsc05v1z_OxpvyIKjfpUiF0/edit?usp=drive_link">CL 4 <br>Ms Wang Yuan Qing</a></td>
+    <td><a target="_blank" href="https://docs.google.com/spreadsheets/d/15tclv1SZ4mcpPs9Enq7feWEGzWFYugYDeHyRLn9FF_w/edit?usp=drive_link">CL 5 <br>Mdm Dou Jin Yi</a></td>
+    <td><a target="_blank" href="https://docs.google.com/spreadsheets/d/1DmrhK4OrRCZ3r93-tY0BA5r4puoaQ6O7lKIB_2Ofn1s/edit?usp=drive_link">CL 6 <br>Mr Benjamin Chew</a></td>
   </tr>
 		<tr>
-    <td>CL 7<br>Mdm Chew Wee San</td>
-    <td>FCL<br>Mdm Lee Chow Ching</td>
-    <td>ML 1<br>Mdm Azilah</td>
+    <td><a target="_blank" href="https://docs.google.com/spreadsheets/d/1eNeoLwsgvoE4iYrXAGiwo0ITklEnXG32Pd6cXrnfA8k/edit?usp=drive_link">CL 7<br>Mdm Chew Wee San</a></td>
+    <td><a target="_blank" href="https://docs.google.com/spreadsheets/d/1CYbPe-LL7JITTXQTp3fBtmK3nH4wGLfX8C5lehEYtv0/edit?usp=drive_link">FCL<br>Mdm Lee Chow Ching</a></td>
+    <td><a target="_blank" href="https://docs.google.com/spreadsheets/d/1CaqqNsEG3seeqxgxsLqwEPlOouuod9oa/edit?usp=drive_link&amp;ouid=118052901982246903681&amp;rtpof=true&amp;sd=true">ML 1<br>Mdm Azilah</a></td>
   </tr>
 		<tr>
-    <td>ML 2<br>Ms Nurin</td>
-			<td>ML 3<br>Mdm Muliyati</td>
-			<td>FML<br>Mdm Muliyati</td>
+    <td><a target="_blank" href="https://docs.google.com/spreadsheets/d/17mbxlYLYutipCXYiRta2y4JE4vZ6-y8R/edit?usp=drive_link&amp;ouid=118052901982246903681&amp;rtpof=true&amp;sd=true">ML 2<br>Ms Nurin</a></td>
+			<td><a target="_blank" href="https://docs.google.com/spreadsheets/d/1z3eD6OeLCrbDa1ezeflp-qHN1lqMfYcp/edit?usp=drive_link&amp;ouid=118052901982246903681&amp;rtpof=true&amp;sd=true">ML 3<br>Mdm Muliyati</a></td>
+			<td><a target="_blank" href="https://docs.google.com/spreadsheets/d/1yJz23ZF8EorBSbSnlx0lo84e-PDZ-t60/edit?usp=drive_link&amp;ouid=118052901982246903681&amp;rtpof=true&amp;sd=true">FML<br>Mdm Muliyati</a></td>
 		</tr>
 		<tr>
-    <td>TL 1<br>Mrs Haider</td>
-			<td>FTL<br>Mr Chandra</td>
+    <td><a target="_blank" href="https://docs.google.com/spreadsheets/d/1yUB67YqNfxTfgkiMb4h0BAmCWBWJO9gXaaWcWTGBvsQ/edit?usp=drive_link">TL 1<br>Mrs Haider</a></td>
+			<td><a target="_blank" href="https://docs.google.com/spreadsheets/d/1ygI6wRnxYkSEYDVzirr-45I_JIE3isTDi6BkgvDCfy8/edit?usp=drive_link">FTL<br>Mr Chandra</a></td>
 			<td></td>
 		</tr>
 		</tbody></table>
