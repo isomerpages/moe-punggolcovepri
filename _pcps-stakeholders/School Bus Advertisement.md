@@ -9,8 +9,6 @@ description: ""
 
 <h4>Service Requirement</h4>
 
-To apply, please refer to the Service Requirements and the Application Procedure below.
-
 1. <a target="_blank" href="https://go.gov.sg/proposalsversionjune2023">Call for proposal</a>
 
 2. <a target="_blank" href="https://go.gov.sg/sampleagreement">Agreement for Appointment of School Bus Operator</a>
