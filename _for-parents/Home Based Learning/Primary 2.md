@@ -24,5 +24,13 @@ third_nav_title: Home Based Learning
 		<td>2 Ruby</td>
 		<td>2 Sapphire</td>
 	</tr>
+		<tr>
+		<td>P2 LSM 1</td>
+		<td>P2 LSM 2</td>
+		<td>P2 LSM 3</td>
+	</tr>
+		<tr>
+		<td>P2 LSP</td>
+		</tr>
 		</tbody>
 </table>
