@@ -35,16 +35,16 @@ third_nav_title: Home Based Learning
     <td><a target="_blank" href="https://docs.google.com/spreadsheets/d/1B5ONy4rdS7B1krhv0ioliUqYtO54YCdm/edit?usp=drive_link&amp;ouid=118052901982246903681&amp;rtpof=true&amp;sd=true">CL 3 <br>Mdm Lee Xiao Wei</a></td>
   </tr>
 		<tr>
-    <td>CL 4 <br>Mdm Chew Wee San</td>
-    <td>CL 5 <br>Mdm Monica Yeo</td>
-    <td>CL 6 <br>Ms Chew Kim Kee</td>
+    <td><a target="_blank" href="https://docs.google.com/spreadsheets/d/1CjiVyBeqFv36pvh4DnWo6hdkxmzQOOKu/edit?usp=drive_link&amp;ouid=118052901982246903681&amp;rtpof=true&amp;sd=true">CL 4 <br>Mdm Chew Wee San</a></td>
+    <td><a target="_blank" href="https://docs.google.com/spreadsheets/d/1iLZeW-MAwbOQXFXPUqe-EJSEllNJnvrt/edit?usp=drive_link&amp;ouid=118052901982246903681&amp;rtpof=true&amp;sd=true">CL 5 <br>Mdm Monica Yeo</a></td>
+    <td><a target="_blank" href="https://docs.google.com/spreadsheets/d/1tB3mBX27imEKe-4vUOtD1CD_pZ1WlFfv/edit?usp=drive_link&amp;ouid=118052901982246903681&amp;rtpof=true&amp;sd=true">CL 6 <br>Ms Chew Kim Kee</a></td>
   </tr>
 		<tr>
-    <td>ML 1<br>Ms Nurin</td>
-    <td>ML 2<br>Mdm Zahira</td>
-    <td>ML 3<br>Mdm Muliyati</td>
+    <td><a target="_blank" href="https://docs.google.com/spreadsheets/d/107Z9cLijGRBnI79GlcLiFmvuS-n6cjvz/edit?usp=drive_link&amp;ouid=118052901982246903681&amp;rtpof=true&amp;sd=true">ML 1<br>Ms Nurin</a></td>
+    <td><a target="_blank" href="https://docs.google.com/spreadsheets/d/1YOC6ZwoFEGKBm0pAjD22G-iVPHIEkGzE/edit?usp=drive_link&amp;ouid=118052901982246903681&amp;rtpof=true&amp;sd=true">ML 2<br>Mdm Zahira</a></td>
+    <td><a target="_blank" href="https://docs.google.com/spreadsheets/d/14t6tMhtn2k-N2mxQBJDWxWzpDlhE76Ne/edit?usp=drive_link&amp;ouid=118052901982246903681&amp;rtpof=true&amp;sd=true">ML 3<br>Mdm Muliyati</a></td>
   </tr>
 		<tr>
-    <td>TL 1<br>Mrs Haider</td>
+    <td><a target="_blank" href="https://docs.google.com/spreadsheets/d/1I3NimrLr1qKaywOkdYM45A_Dm88ip46vB6SW5JADHm8/edit?usp=drive_link">TL 1<br>Mrs Haider</a></td>
 		</tr>
 		</tbody></table>
