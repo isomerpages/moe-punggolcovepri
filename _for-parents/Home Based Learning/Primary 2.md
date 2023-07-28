@@ -25,12 +25,12 @@ third_nav_title: Home Based Learning
 		<td>2 Sapphire</td>
 	</tr>
 		<tr>
-		<td>P2 LSM 1</td>
-		<td>P2 LSM 2</td>
-		<td>P2 LSM 3</td>
+		<td>P2 LSM 1 <br>Transit <br> Ms Jessica Lum</td>
+		<td>P2 LSM 2 <br> Ms Stephanie Yong</td>
+		<td>P2 LSM 3 <br> Ms Nur Alisa</td>
 	</tr>
 		<tr>
-		<td>P2 LSP</td>
+		<td>P2 LSP <br> Mdm Siti</td>
 		</tr>
 		</tbody>
 </table>
