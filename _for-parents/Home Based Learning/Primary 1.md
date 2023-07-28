@@ -23,7 +23,7 @@ third_nav_title: Home Based Learning
 		<td><a target="_blank" href="https://docs.google.com/spreadsheets/d/1RlG_iNbbBtNu3-c1GetKLtYVY6DcpI_bT0mmistLvDo/edit?usp=drive_link">1 Ruby</a></td>
 	</tr>
 			<tr>
-		<td>P1 LSM 1 <br> Transit <br> (Ms Jessica Lum)</td>
+		<td><a target="_blank" href="https://docs.google.com/spreadsheets/d/1KR6uziuRt0FIPqf6b6tfcsnT7Gvz9vm1RIM8RAIg5EM/edit?usp=drive_link">P1 LSM 1 <br> Transit <br> (Ms Jessica Lum)</a></td>
 		<td>P1 LSM 2 </td>
 		<td>P1 LSP </td>
 	</tr>
