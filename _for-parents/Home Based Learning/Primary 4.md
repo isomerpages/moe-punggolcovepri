@@ -10,17 +10,17 @@ third_nav_title: Home Based Learning
 <table>
 	<tbody>
 		<tr>
-		<td>3 Amber</td>
-		<td>3 Coral</td>
-		<td>3 Diamond</td>
+		<td>4 Amber</td>
+		<td>4 Coral</td>
+		<td>4 Diamond</td>
 	</tr>
 			<tr>
-		<td>3 Emerald</td>
-		<td>3 Jade</td>
-		<td>3 Opal</td>
+		<td>4 Emerald</td>
+		<td>4 Jade</td>
+		<td>4 Opal</td>
 	</tr>
 			<tr>
-		<td>3 Pearl</td>
+		<td>4 Pearl</td>
 				<td></td>
 				<td></td>
 		</tr>
@@ -31,18 +31,21 @@ third_nav_title: Home Based Learning
 <table>
   <tbody>
     <tr>
-    <td>CL 1 <br>Mdm Dou Jin Yi</td>
-    <td>CL 2 <br>Ms Chan Soo Keng</td>
-    <td>CL 3 <br>Mdm Lee Chow Ching</td>
+    <td>CL 1 <br>Ms Tan Sze Huey</td>
+    <td>CL 2 <br>Ms Chia Yi Zhen</td>
+    <td>CL 3 <br>Mdm Lee Xiao Wei</td>
   </tr>
 		<tr>
-    <td>CL 4 <br>Ms Ding Soo Juan</td>
-    <td>CL 5 <br>Ms Audrey Lee</td>
-    <td>ML 1 <br>Mdm Norzaida</td>
+    <td>CL 4 <br>Mdm Chew Wee San</td>
+    <td>CL 5 <br>Mdm Monica Yeo</td>
+    <td>CL 6 <br>Ms Chew Kim Kee</td>
   </tr>
 		<tr>
-    <td>ML 2<br>Mdm Hafizzah</td>
-    <td>ML 3<br>Mdm Norlela</td>
-    <td>TL 1<br>Mr Chandra</td>
+    <td>ML 1<br>Ms Nurin</td>
+    <td>ML 2<br>Mdm Zahira</td>
+    <td>ML 3<br>Mdm Muliyati</td>
   </tr>
+		<tr>
+    <td>TL 1<br>Mrs Haider</td>
+		</tr>
 		</tbody></table>
