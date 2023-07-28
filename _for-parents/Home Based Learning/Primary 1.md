@@ -25,8 +25,9 @@ third_nav_title: Home Based Learning
 		<td>1 Sapphire</td>
 	</tr>
 			<tr>
-		<td>P1 LSM</td>
-		<td>P1 LSP</td>
+		<td>P1 LSM 1 <br> Transit <br> (Ms Jessica Lum)</td>
+		<td>P1 LSM 2 <br> (Ms Chen Kang Li)</td>
+		<td>P1 LSP <br> (Mdm Siti)</td>
 	</tr>
 	</tbody>
 </table>
