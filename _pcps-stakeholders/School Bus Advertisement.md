@@ -5,6 +5,8 @@ description: ""
 ---
 <h2>School Bus Advertisement</h2>
 
+<h5>To apply, please refer to the Service Requirements and the Application Procedure below.</h5>
+
 <h4>Service Requirement</h4>
 
 To apply, please refer to the Service Requirements and the Application Procedure below.
