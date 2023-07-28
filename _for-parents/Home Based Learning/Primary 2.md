@@ -9,24 +9,24 @@ third_nav_title: Home Based Learning
 <table>
 	<tbody>
 		<tr>
-		<td>2 Amber</td>
-		<td>2 Coral</td>
-		<td>2 Diamond</td>
+		<td><a target="_blank" href="https://docs.google.com/spreadsheets/d/1dQXRuEXcD75j_cX_uorBkMOmf59NDk8_9mL8ska577s/edit?usp=drive_link">2 Amber</a></td>
+		<td><a target="_blank" href="https://docs.google.com/spreadsheets/d/19UyXOWKGVwuJ7boavlOduxFcujV0WpEoouVymEZqzBE/edit?usp=drive_link">2 Coral</a></td>
+		<td><a target="_blank" href="https://docs.google.com/spreadsheets/d/1_pj4IJ0vefWL2QyYExyVbrDOur6UdJHDXHXNAUknR2I/edit?usp=drive_link">2 Diamond</a></td>
 	</tr>
 			<tr>
-		<td>2 Emerald</td>
-		<td>2 Jade</td>
-		<td>2 Opal</td>
+		<td><a target="_blank" href="https://docs.google.com/spreadsheets/d/1_YSGS0EedR0JUDjU5mHR1m1d873v9JE2dSrycGFxBIs/edit?usp=drive_link">2 Emerald</a></td>
+		<td><a target="_blank" href="https://docs.google.com/spreadsheets/d/1zquggQrGtcV5xLtPL1H0Pu3K1r0zJX478sycmY0qRb8/edit?usp=drive_link">2 Jade</a></td>
+		<td><a target="_blank" href="https://docs.google.com/spreadsheets/d/1mfmhemNdiiYnvLx52x1uebvPVMQpmun4SJdvy6hF_s0/edit?usp=drive_link">2 Opal</a></td>
 	</tr>
 			<tr>
-		<td>2 Pearl</td>
-		<td>2 Ruby</td>
-		<td>2 Sapphire</td>
+		<td><a target="_blank" href="https://docs.google.com/spreadsheets/d/1KIHwkbspqkzC1zhOaftKUJOsu1k3Rt0v2XhWE3XTEbw/edit?usp=drive_link">2 Pearl</a></td>
+		<td><a target="_blank" href="https://docs.google.com/spreadsheets/d/1JFkbeQG0pwW1Q7rSQIVYR_19loZw8SBMDwGcmWA7sag/edit?usp=drive_link">2 Ruby</a></td>
+		<td><a target="_blank" href="https://docs.google.com/spreadsheets/d/1g7GdMmi1CCexyXCyCSZQZZZ5t_wmnspD4wPTdR1LE_I/edit?usp=drive_link">2 Sapphire</a></td>
 	</tr>
 		<tr>
-		<td>P2 LSM 1 <br>Transit <br> Ms Jessica Lum</td>
-		<td>P2 LSM 2 <br> Ms Stephanie Yong</td>
-		<td>P2 LSM 3 <br> Ms Nur Alisa</td>
+		<td><a target="_blank" href="https://docs.google.com/spreadsheets/d/1QkqesmXkI1yln5uTjw0RhlBvaodKtuyy81W09IqOZLs/edit?usp=drive_link">P2 LSM 1 <br>Transit <br> Ms Jessica Lum</a></td>
+		<td><a target="_blank" href="https://docs.google.com/spreadsheets/d/1QkqesmXkI1yln5uTjw0RhlBvaodKtuyy81W09IqOZLs/edit?usp=drive_link">P2 LSM 2 <br> Ms Stephanie Yong</a></td>
+		<td><a target="_blank" href="https://docs.google.com/spreadsheets/d/1QkqesmXkI1yln5uTjw0RhlBvaodKtuyy81W09IqOZLs/edit?usp=drive_link">P2 LSM 3 <br> Ms Nur Alisa</a></td>
 	</tr>
 		<tr>
 		<td>P2 LSP <br> Mdm Siti</td>
