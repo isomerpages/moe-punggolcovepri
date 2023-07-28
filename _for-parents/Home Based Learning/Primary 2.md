@@ -34,3 +34,12 @@ third_nav_title: Home Based Learning
 		</tr>
 		</tbody>
 </table>
+
+<h5>For MTL and CCE HBL assignments, select your MTL class below</h5>
+<table>
+  <tbody>
+    <tr>
+    <td>1 CL 1 <br>Mdm Agnes Chia</td>
+    <td>1 CL 2 <br>Ms Chew Kim Kee</td>
+    <td>1 CL 3 <br>Ms Audrey Lee</td>
+  </tr></tbody></table>
