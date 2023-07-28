@@ -38,21 +38,21 @@ third_nav_title: Home Based Learning
 <table>
   <tbody>
     <tr>
-    <td>CL 1 <br>Ms Lee Chow Ching</td>
-    <td>CL 2 <br>Ms Monica Yeo</td>
-    <td>CL 3 <br>Ms Wang Yuan Qing</td>
+    <td><a target="_blank" href="https://docs.google.com/spreadsheets/d/19lmFrf6lnZinAk22RgzSJzQhKePWp33odlMLJI8TYzE/edit?usp=drive_link">CL 1 <br>Ms Lee Chow Ching</a></td>
+    <td><a target="_blank" href="https://docs.google.com/spreadsheets/d/1dtSw3i5ySjrt6Mhs58JghCqpONiccVG_0xdF8ORJ_Zc/edit?usp=drive_link">CL 2 <br>Ms Monica Yeo</a></td>
+    <td><a href="https://docs.google.com/spreadsheets/d/1RBZWohENOfxWjg8v_uNDoJiWBdjGpBYbmYrJriirnfo/edit?usp=drive_link">CL 3 <br>Ms Wang Yuan Qing</a></td>
   </tr>
 		<tr>
-    <td>CL 4 <br>Mdm Wong Hui Lynn</td>
-    <td>CL 5 <br>Mr Benjamin Chew</td>
-    <td>CL 6 <br>Ms Chia Yi Zhen</td>
+    <td><a target="_blank" href="https://docs.google.com/spreadsheets/d/1zeCfozHMr5PZ65IMXOBHcWSaw_ySdyAoh0STafwQYDc/edit?usp=drive_link">CL 4 <br>Mdm Wong Hui Lynn</a></td>
+    <td><a target="_blank" href="https://docs.google.com/spreadsheets/d/149qa_x_grmpNPFACvs_MvOFEbGab5ivYDN6SmdaAyI0/edit?usp=drive_link">CL 5 <br>Mr Benjamin Chew</a></td>
+    <td><a target="_blank" href="https://docs.google.com/spreadsheets/d/1HS-P1RfZhwoDU9NxHn1PYX3WKUDHW2wXYVQpul4YS9U/edit?usp=drive_link">CL 6 <br>Ms Chia Yi Zhen</a></td>
   </tr>
 		<tr>
-    <td>ML 1<br>Mdm Norzaida</td>
-    <td>ML 2 <br>Ms Nurin</td>
-    <td>ML 3<br>Mdm Norlela</td>
+    <td><a target="_blank" href="https://docs.google.com/spreadsheets/d/1aMoMEP4aoVaWqE4MLQJ37AdMdlbOhOY_/edit?usp=drive_link&amp;ouid=118052901982246903681&amp;rtpof=true&amp;sd=true">ML 1<br>Mdm Norzaida</a></td>
+    <td><a target="_blank" href="https://docs.google.com/spreadsheets/d/198p7-spNsW_L5Fo0iga7EYcdzHOpcP_r/edit?usp=drive_link&amp;ouid=118052901982246903681&amp;rtpof=true&amp;sd=true">ML 2 <br>Ms Nurin</a></td>
+    <td><a target="_blank" href="https://docs.google.com/spreadsheets/d/1PdesWsmxFSdYE4WuUcTA_buvXf1mIdUY/edit?usp=drive_link&amp;ouid=118052901982246903681&amp;rtpof=true&amp;sd=true">ML 3<br>Mdm Norlela</a></td>
   </tr>
 			<tr>
-    <td>TL 1<br>Mr Chandra</td>
+    <td><a target="_blank" href="https://docs.google.com/spreadsheets/d/1oZ3B5vUJdTGkczRc2JWFGq7J-jLxyQWLoo6DBmCOyE8/edit?usp=drive_link">TL 1<br>Mr Chandra</a></td>
   </tr>
 	</tbody></table>
