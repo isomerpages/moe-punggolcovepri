@@ -32,21 +32,28 @@ third_nav_title: Home Based Learning
 <table>
   <tbody>
     <tr>
-    <td>CL 1 <br>Ms Tan Sze Huey</td>
-    <td>CL 2 <br>Ms Chia Yi Zhen</td>
-    <td>CL 3 <br>Mdm Lee Xiao Wei</td>
+    <td>HCL<br>Mdm Wong Hui Lynn</td>
+    <td>CL 2 <br>Mr Ang Hiang Soon</td>
+    <td>CL 3 <br>Mdm Monica Yeo</td>
   </tr>
 		<tr>
-    <td>CL 4 <br>Mdm Chew Wee San</td>
-    <td>CL 5 <br>Mdm Monica Yeo</td>
-    <td>CL 6 <br>Ms Chew Kim Kee</td>
+    <td>CL 4 <br>Ms Wang Yuan Qing</td>
+    <td>CL 5 <br>Mdm Dou Jin Yi</td>
+    <td>CL 6 <br>Mr Benjamin Chew</td>
   </tr>
 		<tr>
-    <td>ML 1<br>Ms Nurin</td>
-    <td>ML 2<br>Mdm Zahira</td>
-    <td>ML 3<br>Mdm Muliyati</td>
+    <td>CL 7<br>Mdm Chew Wee San</td>
+    <td>FCL<br>Mdm Lee Chow Ching</td>
+    <td>ML 1<br>Mdm Azilah</td>
   </tr>
+		<tr>
+    <td>ML 2<br>Ms Nurin</td>
+			<td>ML 3<br>Mdm Muliyati</td>
+			<td>FML<br>Mdm Muliyati</td>
+		</tr>
 		<tr>
     <td>TL 1<br>Mrs Haider</td>
+			<td>FTL<br>Mr Chandra</td>
+			<td></td>
 		</tr>
 		</tbody></table>
