@@ -4,7 +4,7 @@ permalink: /for-parents/home-based-learning/p4/
 description: ""
 third_nav_title: Home Based Learning
 ---
-<h3><b>2023 PRIMARY 3 Home-Based Learning (HBL)</b></h3>
+<h3><b>2023 PRIMARY 4 Home-Based Learning (HBL)</b></h3>
 <h5>Select your fomr class for your daily lesson schedule and HBL assignments.</h5>
 <br>
 <table>
