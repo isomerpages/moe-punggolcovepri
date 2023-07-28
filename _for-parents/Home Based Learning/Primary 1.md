@@ -21,11 +21,12 @@ third_nav_title: Home Based Learning
 			<tr>
 		<td><a target="_blank" href="https://docs.google.com/spreadsheets/d/1kqi6_CRtF-S-HjtQgK1y4r9-f0svdzCd0t5yZIKk8dg/edit?usp=drive_link">1 Pearl</a></td>
 		<td><a target="_blank" href="https://docs.google.com/spreadsheets/d/1RlG_iNbbBtNu3-c1GetKLtYVY6DcpI_bT0mmistLvDo/edit?usp=drive_link">1 Ruby</a></td>
+				<td></td>
 	</tr>
 			<tr>
-		<td><a target="_blank" href="https://docs.google.com/spreadsheets/d/1KR6uziuRt0FIPqf6b6tfcsnT7Gvz9vm1RIM8RAIg5EM/edit?usp=drive_link">P1 LSM 1 <br> Transit <br> (Ms Jessica Lum)</a></td>
-		<td>P1 LSM 2 </td>
-		<td>P1 LSP </td>
+		<td><a target="_blank" href="https://docs.google.com/spreadsheets/d/1P0UZzSjdqFZyGwYQ6wGiotohdl0Ex8jCgWSzJ8zX4i0/edit?usp=drive_link">P1 LSM 1 <br> Transit <br> (Ms Jessica Lum)</a></td>
+		<td><a target="_blank" href="https://docs.google.com/spreadsheets/d/1KR6uziuRt0FIPqf6b6tfcsnT7Gvz9vm1RIM8RAIg5EM/edit?usp=drive_link">1 LSM 2</a></td>
+		<td><a target="_blank" href="https://docs.google.com/spreadsheets/d/1UMMPHqejHMoUGcdIM8MA70fbY5n9GxZ2wcac9Fbau50/edit?usp=drive_link">P1 LSP </a></td>
 	</tr>
 	</tbody>
 </table>
