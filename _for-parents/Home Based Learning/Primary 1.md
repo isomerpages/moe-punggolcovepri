@@ -9,19 +9,18 @@ third_nav_title: Home Based Learning
 <table>
 	<tbody>
 		<tr>
-		<td>1 Amber</td>
-		<td>1 Coral</td>
-		<td>1 Diamond</td>
+		<td><a target="_blank" href="https://docs.google.com/spreadsheets/d/1GtwSIH_yJnr3Tam0cMfiBjYl1-2juX0qLXfclNpMcNo/edit?usp=drive_link">1 Amber</a></td>
+		<td><a target="_blank" href="https://docs.google.com/spreadsheets/d/1Jm4B5pT8b8gp2NKBw9fZ37Hc98w98_fDsRPiKSHI8GQ/edit?usp=drive_link">1 Coral</a></td>
+		<td><a target="_blank" href="https://docs.google.com/spreadsheets/d/1wuySnXLH8Co-2GzxyV3QTZLulaqeoL41Sz15fOyo92U/edit?usp=drive_link">1 Diamond</a></td>
 	</tr>
 			<tr>
-		<td>1 Emerald</td>
-		<td>1 Jade</td>
-		<td>1 Opal</td>
+		<td><a target="_blank" href="https://docs.google.com/spreadsheets/d/1cDVm9Vcvubx_N4GXrehyrBflVWzPpt8CJpZeoYpEvus/edit?usp=drive_link">1 Emerald</a></td>
+		<td><a target="_blank" href="https://docs.google.com/spreadsheets/d/1uEyGGbVjopWKwhN8GBa-LRIwrx7lgFK6_A5_CuTbync/edit?usp=drive_link">1 Jade</a></td>
+		<td><a target="_blank" href="https://docs.google.com/spreadsheets/d/1O2lM5h7cZYdI92yIWCFz7D9ICFVg9NgScUS4ve5nDh8/edit?usp=drive_link">1 Opal</a></td>
 	</tr>
 			<tr>
-		<td>1 Pearl</td>
-		<td>1 Ruby</td>
-		<td>1 Sapphire</td>
+		<td><a target="_blank" href="https://docs.google.com/spreadsheets/d/1kqi6_CRtF-S-HjtQgK1y4r9-f0svdzCd0t5yZIKk8dg/edit?usp=drive_link">1 Pearl</a></td>
+		<td><a target="_blank" href="https://docs.google.com/spreadsheets/d/1RlG_iNbbBtNu3-c1GetKLtYVY6DcpI_bT0mmistLvDo/edit?usp=drive_link">1 Ruby</a></td>
 	</tr>
 			<tr>
 		<td>P1 LSM 1 <br> Transit <br> (Ms Jessica Lum)</td>
