@@ -39,7 +39,21 @@ third_nav_title: Home Based Learning
 <table>
   <tbody>
     <tr>
-    <td>1 CL 1 <br>Mdm Agnes Chia</td>
-    <td>1 CL 2 <br>Ms Chew Kim Kee</td>
-    <td>1 CL 3 <br>Ms Audrey Lee</td>
-  </tr></tbody></table>
+    <td>CL 1 <br>Ms Lee Chow Ching</td>
+    <td>CL 2 <br>Ms Monica Yeo</td>
+    <td>CL 3 <br>Ms Wang Yuan Qing</td>
+  </tr>
+		<tr>
+    <td>CL 4 <br>Mdm Wong Hui Lynn</td>
+    <td>CL 5 <br>Mr Benjamin Chew</td>
+    <td>CL 6 <br>Ms Chia Yi Zhen</td>
+  </tr>
+		<tr>
+    <td>ML 1<br>Mdm Norzaida</td>
+    <td>ML 2 <br>Ms Nurin</td>
+    <td>ML 3<br>Mdm Norlela</td>
+  </tr>
+			<tr>
+    <td>TL 1<br>Mr Chandra</td>
+  </tr>
+	</tbody></table>
