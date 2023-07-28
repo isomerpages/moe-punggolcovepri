@@ -9,7 +9,7 @@ third_nav_title: Home Based Learning
 <table>
 	<tbody>
 		<tr>
-		<td>3 Amber</td>
+		<td><a target="blank" href="https://docs.google.com/spreadsheets/d/1jyVx3qcWv4S3DgMGu4FJeLXYt-c59FTjehb7thEQDHs/edit?usp=drive_link">3 Amber</a></td>
 		<td>3 Coral</td>
 		<td>3 Diamond</td>
 	</tr>
