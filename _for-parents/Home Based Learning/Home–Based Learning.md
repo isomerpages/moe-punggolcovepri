@@ -16,18 +16,16 @@ During the P6 Prelim Oral Examination from 27 to 28 July 2023, P1 to P5 students
 
 Please click on the link below to access you child's lesson schedule for 27 and 28 July.
 
-Select you child's level.
+<h5>Select your child's level:</h5>
 
-	  
-&nbsp;&nbsp;  
-&nbsp;&nbsp;&nbsp;&nbsp;  
-&nbsp;&nbsp;&nbsp;&nbsp;  
-&nbsp;&nbsp;  
-&nbsp;&nbsp;  
-&nbsp;&nbsp;&nbsp;&nbsp;  
-&nbsp;&nbsp;&nbsp;&nbsp;  
-&nbsp;&nbsp;<table><tbody><tr><th>Month</th><th>Savings</th></tr><tr><td>January</td><td>$100</td></tr>  
+<table>
+	<tbody><tr>
+		<td><a target="_blank" href="/for-parents/home-based-learning/p1/Primary 1">Primary 1</a></td>
+		<td><a target="_blank" href="/for-parents/home-based-learning/p2/Primary 2">Primary 2</a></td>
+		<td><a target="_blank" href="/for-parents/home-based-learning/p3/Primary 3">Primary 3</a></td>
+	</tr> 
+		<tr>
+		<td><a target="_blank" href="/for-parents/home-based-learning/p4/Primary 4">Primary 4</a></td>
+		<td><a target="_blank" href="/for-parents/home-based-learning/p5/Primary 5">Primary 5</a></td>
+	</tr> 
 </tbody></table>
-Primary 1                        Primary 2                                             Primary 3
-
-Primary 4                       Primary 5
