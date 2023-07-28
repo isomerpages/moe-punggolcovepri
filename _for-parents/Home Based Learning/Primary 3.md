@@ -4,85 +4,56 @@ permalink: /for-parents/home-based-learning/p3/
 description: ""
 third_nav_title: Home Based Learning
 ---
-#### **2023 PRIMARY 3 Home-Based Learning (HBL)**
+<h3><b>2023 PRIMARY 3 Home-Based Learning (HBL)</b></h3>
+<h5>Select your fomr class for your daily lesson schedule and HBL assignments.</h5>
 <br>
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-clhh{background-color:#FFF;color:#222;font-weight:bold;text-align:left;vertical-align:middle}
-.tg .tg-6ua2{background-color:#FFF;border-color:inherit;color:#222;font-weight:bold;text-align:left;vertical-align:middle}
-.tg .tg-1ppo{background-color:#FFF;color:#222;text-align:left;vertical-align:middle}
-.tg .tg-yq3i{background-color:#FFF;color:#231F20;text-align:left;vertical-align:middle}
-</style>
-<table style="undefined;table-layout: fixed; width: 800px" class="tg">
-<colgroup>
-<col style="width: 200px">
-<col style="width: 200px">
-<col style="width: 200px">
-</colgroup>
-<thead>
-  <tr>
-    <th class="tg-clhh">3 Amber</th>
-    <th class="tg-clhh">3 Coral</th>
-    <th class="tg-clhh">3 Diamond</th>
-  </tr>
-</thead>
-<tbody>
-    <tr>
-    <td class="tg-1ppo">
-      <a target="_blank" href="https://docs.google.com/spreadsheets/d/1jyVx3qcWv4S3DgMGu4FJeLXYt-c59FTjehb7thEQDHs/edit?usp=drive_link">3 Amber HBL 2023</a><br><br>
-			<a target="_blank" href="https://docs.google.com/spreadsheets/d/1o7eZEVVZ17VQb1y9_1eRRjm12FY8N9QTGpcOAptuJLc/edit?usp=drive_link">CL 1<br>(Mdm Dou Jin Yi) </a><br><br>
-		<a target="_blank" href="https://docs.google.com/spreadsheets/d/18RVotiQCfX3Qtb8LWbvzGwADzGp4cWYH/edit?usp=drive_link&amp;ouid=118052901982246903681&amp;rtpof=true&amp;sd=true">ML 1<br>(Mdm Norzaida)
-</a><br><br>
+<table>
+	<tbody>
+		<tr>
+		<td>2 Amber</td>
+		<td>2 Coral</td>
+		<td>2 Diamond</td>
+	</tr>
+			<tr>
+		<td>2 Emerald</td>
+		<td>2 Jade</td>
+		<td>2 Opal</td>
+	</tr>
+			<tr>
+		<td>2 Pearl</td>
+		<td>2 Ruby</td>
+		<td>2 Sapphire</td>
+	</tr>
+		<tr>
+		<td>P2 LSM 1 <br>Transit <br> Ms Jessica Lum</td>
+		<td>P2 LSM 2 <br> Ms Stephanie Yong</td>
+		<td>P2 LSM 3 <br> Ms Nur Alisa</td>
+	</tr>
+		<tr>
+		<td>P2 LSP <br> Mdm Siti</td>
+		</tr>
+		</tbody>
+</table>
 
-</td>
-	    <td class="tg-1ppo">
-      <a target="_blank" href="https://docs.google.com/spreadsheets/d/1vNckXQOMzWVs0re-YMjyTVCKBbHyWrqmmfenfzxIDb8/edit?usp=drive_link">3 Coral HBL 2023</a><br><br>
-			<a target="_blank" href="https://docs.google.com/spreadsheets/d/1KuvLcuxTSmlUgzRi2rNuvQS5FCD76krCmjxHEiY0qCI/edit?usp=drive_link">CL 2<br>(Ms Chan Soo Keng)
-</a><br><br>
-		<a target="_blank" href="https://docs.google.com/spreadsheets/d/1gmm5GGc-5I-OAIPXA4fUkIr95hzL8svK/edit?usp=drive_link&amp;ouid=118052901982246903681&amp;rtpof=true&amp;sd=true">ML 2<br>(Mdm Hafizzah)
-</a><br><br>
-			</td>
-	   <td class="tg-1ppo">
-      <a target="_blank" href="https://docs.google.com/spreadsheets/d/11vxGRkW0D6AFw9HB42YZuJcV3mRo5Hx37NTfy2LNaDc/edit?usp=drive_link">3 Diamond HBL 2023</a><br><br>
-			<a target="_blank" href="https://docs.google.com/spreadsheets/d/1sUs4UXXO8t4f_-Af6ZyCCPMyeop4fpiw6gR_VNqLzi4/edit?usp=drive_link">CL 3<br>(Mdm Lee Chow Ching)</a><br><br>
-			 <a target="_blank" href="https://docs.google.com/spreadsheets/d/1aHz4Lbcflq9ywRe8xsVMtM7MSpYIWZpX/edit?usp=drive_link&amp;ouid=118052901982246903681&amp;rtpof=true&amp;sd=true">ML 3<br>(Mdm Norela)</a><br><br><br>	
-</td></tr>
-			</tbody><thead>
-  <tr>
-    <th class="tg-clhh">3 Emerald</th>
-    <th class="tg-clhh">3 Jade</th>
-    <th class="tg-clhh">3 Opal</th>
-  </tr>
-</thead>
-<tbody>
+<h5>For MTL and CCE HBL assignments, select your MTL class below</h5>
+<table>
+  <tbody>
     <tr>
-    <td class="tg-1ppo">
-      <a target="_blank" href="https://docs.google.com/spreadsheets/d/1T7nj32esJly99wZboC_eh4hgXR7AnIrQmPYMTfaGbKo/edit?usp=drive_link">3 Emerald HBL 2023</a><br><br>
-			<a target="_blank" href="https://docs.google.com/spreadsheets/d/1ksuL4nwg1y1h3Bzk2rAeaExNlwK_kke5w_GliebyQeE/edit?usp=drive_link">CL 4<br>(Ms Ding Soo Juan)
-</a><br><br>
-			<a target="_blank" href="https://docs.google.com/spreadsheets/d/1-v76ZqK3R-Au7UyE7_OxiHooaIah2hsGikbb8Ce79sY/edit?usp=drive_link">TL 1<br>(Mdm Fathima)</a><br><br><br>
-			</td>
-	    <td class="tg-1ppo">
-      <a target="_blank" href="https://docs.google.com/spreadsheets/d/1zquggQrGtcV5xLtPL1H0Pu3K1r0zJX478sycmY0qRb8/edit?usp=drive_link">3 Jade HBL 2023</a><br><br>
-			<a target="_blank" href="https://docs.google.com/spreadsheets/d/149qa_x_grmpNPFACvs_MvOFEbGab5ivYDN6SmdaAyI0/edit?usp=drive_link">CL 5<br>(Ms Audrey Lee)</a><br><br><br><br><br><br>
-			</td>
-	   <td class="tg-1ppo">
-      <a target="_blank" href="https://docs.google.com/spreadsheets/d/1mfmhemNdiiYnvLx52x1uebvPVMQpmun4SJdvy6hF_s0/edit?usp=drive_link">3 Opal HBL 2023</a><br><br>
-			<a target="_blank" href="https://docs.google.com/spreadsheets/d/1HS-P1RfZhwoDU9NxHn1PYX3WKUDHW2wXYVQpul4YS9U/edit?usp=drive_link">CL 6<br>(Ms Chia Yi Zhen)</a><br><br><br><br><br><br>
-			</td></tr></tbody>
-					<thead>
-  <tr>
-    <th class="tg-clhh">3 Pearl</th>
-    <th class="tg-clhh"></th>
-    <th class="tg-clhh"></th>
+    <td>CL 1 <br>Ms Lee Chow Ching</td>
+    <td>CL 2 <br>Ms Monica Yeo</td>
+    <td>CL 3 <br>Ms Wang Yuan Qing</td>
   </tr>
-</thead>
-<tbody>
-    <tr>
-    <td class="tg-1ppo">
-      <a target="_blank" href="https://docs.google.com/spreadsheets/d/10n-Rt8xeDlQeUZlVgvWOl5k-EuEI7TBXATNx0x2NBOw/edit?usp=drive_link">3 Pearl HBL 2023</a><br><br></td>
-	</tr></tbody></table>
+		<tr>
+    <td>CL 4 <br>Mdm Wong Hui Lynn</td>
+    <td>CL 5 <br>Mr Benjamin Chew</td>
+    <td>CL 6 <br>Ms Chia Yi Zhen</td>
+  </tr>
+		<tr>
+    <td>ML 1<br>Mdm Norzaida</td>
+    <td>ML 2 <br>Ms Nurin</td>
+    <td>ML 3<br>Mdm Norlela</td>
+  </tr>
+			<tr>
+    <td>TL 1<br>Mr Chandra</td>
+  </tr>
+	</tbody></table>
