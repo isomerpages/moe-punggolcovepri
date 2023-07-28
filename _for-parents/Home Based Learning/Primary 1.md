@@ -34,19 +34,19 @@ third_nav_title: Home Based Learning
 <table>
 	<tbody>
 		<tr>
-		<td>1 CL 1 <br>Mdm Agnes Chia</td>
-		<td>1 CL 2 <br>Ms Chew Kim Kee</td>
-		<td>1 CL 3 <br>Ms Audrey Lee</td>
+		<td><a target="_blank" href="https://docs.google.com/spreadsheets/d/1ESgOph1-n0lac1xAELVUmhVhX8dDz992nFfXGB9xWFo/edit?usp=drive_link">1 CL 1 <br>Mdm Agnes Chia</a></td>
+		<td><a target="_blank" href="https://docs.google.com/spreadsheets/d/1yT2v0B9_D-CyfpCMXL4gqIMfmcFxuShTXYt37Drc78o/edit?usp=drive_link">1 CL 2 <br>Ms Chew Kim Kee</a></td>
+		<td><a target="_blank" href="https://docs.google.com/spreadsheets/d/1Nojy8r7cYxPflJtMbDDbVFLrgUppfVAFbh0s-wiL2ho/edit?usp=drive_link">1 CL 3 <br>Ms Audrey Lee</a></td>
 	</tr>
 		<tr>
-		<td>1 CL 4 <br>Ms Ding Soo Juan</td>
-		<td>1 CL 5 <br>Ms Tan Sze Huey</td>
-		<td>1 ML 1<br>Mdm Norlela</td>
+		<td><a target="_blank" href="https://docs.google.com/spreadsheets/d/1dF5i0y26jTyG49BuJAVJ1ZK9tK1DpJhn0-mjh0A6Tto/edit?usp=drive_link">1 CL 4 <br>Ms Ding Soo Juan</a></td>
+		<td><a target="_blank" href="https://docs.google.com/spreadsheets/d/1Rx8GyW5qTP3hGHC8PJZ7FJA6gAOo_fNVH7ZBeJu0uOU/edit?usp=drive_link">1 CL 5 <br>Ms Tan Sze Huey</a></td>
+		<td><a target="_blank" href="https://docs.google.com/spreadsheets/d/1aYst3PgtZB93o94-WNTlxIwtDHwBqK7T/edit?usp=drive_link&amp;ouid=118052901982246903681&amp;rtpof=true&amp;sd=true">1 ML 1<br>Mdm Norlela</a></td>
 	</tr>
 		<tr>
-		<td>1 ML 2 <br>Mdm Hafizzah</td>
-		<td>1 ML 3 <br>Ms Zahira</td>
-		<td>1 TL 1<br>Mdm Ayisha</td>
+		<td><a target="_blank" href="https://docs.google.com/spreadsheets/d/1_UoiwB8oTPPLJxz0mhh68i2j0w0G84cZ/edit?usp=drive_link&amp;ouid=118052901982246903681&amp;rtpof=true&amp;sd=true">1 ML 2 <br>Mdm Hafizzah</a></td>
+		<td><a target="_blank" href="https://docs.google.com/spreadsheets/d/1M3Unkjd3Yqgc3HSqZETvU-SNC2v0f2CQ/edit?usp=drive_link&amp;ouid=118052901982246903681&amp;rtpof=true&amp;sd=true">1 ML 3 <br>Ms Zahira</a></td>
+		<td><a target="_blank&quot;" href="https://docs.google.com/spreadsheets/d/1WwnopkEalkURra4uk70jGzV769ZK1cYOZzgL56ug8J0/edit?usp=drive_link">1 TL 1<br>Mdm Ayisha</a></td>
 	</tr>
 		</tbody>
 </table>
