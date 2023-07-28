@@ -4,12 +4,31 @@ permalink: /for-parents/home-based-learning/p1/
 description: ""
 third_nav_title: Home Based Learning
 ---
-#### **2023 PRIMARY 1 Home-Based Learning (HBL)**
-
+<h3><b>2023 PRIMARY 1 Home-Based Learning (HBL)</b></h3>
+<br>
+<h5>Select your fomr class for your daily lesson schedule and HBL assignments.</h5>
 <table>
-	<tbody><tr>
+	<tbody>
+		<tr>
 		<td>1 Amber</td>
-	</tr></tbody>
+		<td>1 Coral</td>
+		<td>1 Diamond</td>
+	</tr>
+			<tr>
+		<td>1 Emerald</td>
+		<td>1 Jade</td>
+		<td>1 Opal</td>
+	</tr>
+			<tr>
+		<td>1 Pearl</td>
+		<td>1 Ruby</td>
+		<td>1 Sapphire</td>
+	</tr>
+			<tr>
+		<td>P1 LSM</td>
+		<td>P1 LSP</td>
+	</tr>
+	</tbody>
 </table>
 
 
