@@ -30,18 +30,18 @@ third_nav_title: Home Based Learning
 <table>
   <tbody>
     <tr>
-    <td><a href="https://docs.google.com/spreadsheets/d/1o7eZEVVZ17VQb1y9_1eRRjm12FY8N9QTGpcOAptuJLc/edit?usp=drive_link" target="_blank">CL 1 <br>Mdm Dou Jin Yi</a></td>
-    <td><a href="https://docs.google.com/spreadsheets/d/1KuvLcuxTSmlUgzRi2rNuvQS5FCD76krCmjxHEiY0qCI/edit?usp=drive_link" target="_blank">CL 2 <br>Ms Chan Soo Keng</a></td>
-    <td><a href="https://docs.google.com/spreadsheets/d/1sUs4UXXO8t4f_-Af6ZyCCPMyeop4fpiw6gR_VNqLzi4/edit?usp=drive_link" target="_blank">CL 3 <br>Mdm Lee Chow Ching</a></td>
+    <td><a target="_blank" href="https://docs.google.com/spreadsheets/d/1o7eZEVVZ17VQb1y9_1eRRjm12FY8N9QTGpcOAptuJLc/edit?usp=drive_link">CL 1 <br>Mdm Dou Jin Yi</a></td>
+    <td><a target="_blank" href="https://docs.google.com/spreadsheets/d/1KuvLcuxTSmlUgzRi2rNuvQS5FCD76krCmjxHEiY0qCI/edit?usp=drive_link">CL 2 <br>Ms Chan Soo Keng</a></td>
+    <td><a target="_blank" href="https://docs.google.com/spreadsheets/d/1sUs4UXXO8t4f_-Af6ZyCCPMyeop4fpiw6gR_VNqLzi4/edit?usp=drive_link">CL 3 <br>Mdm Lee Chow Ching</a></td>
   </tr>
 		<tr>
-    <td><a href="https://docs.google.com/spreadsheets/d/1ksuL4nwg1y1h3Bzk2rAeaExNlwK_kke5w_GliebyQeE/edit?usp=drive_link" target="_blank">CL 4 <br>Ms Ding Soo Juan</a></td>
-    <td><a href="https://docs.google.com/spreadsheets/d/1adKROyxGMpKtvuTtoc7FdUKuYyHMo82OdjMJeNUAQZ8/edit?usp=drive_link" target="_blank">CL 5 <br>Ms Audrey Lee</a></td>
-    <td><a href="https://docs.google.com/spreadsheets/d/18RVotiQCfX3Qtb8LWbvzGwADzGp4cWYH/edit?usp=drive_link&amp;ouid=118052901982246903681&amp;rtpof=true&amp;sd=true" target="_blank">ML 1 <br>Mdm Norzaida</a></td>
+    <td><a target="_blank" href="https://docs.google.com/spreadsheets/d/1ksuL4nwg1y1h3Bzk2rAeaExNlwK_kke5w_GliebyQeE/edit?usp=drive_link">CL 4 <br>Ms Ding Soo Juan</a></td>
+    <td><a target="_blank" href="https://docs.google.com/spreadsheets/d/1adKROyxGMpKtvuTtoc7FdUKuYyHMo82OdjMJeNUAQZ8/edit?usp=drive_link">CL 5 <br>Ms Audrey Lee</a></td>
+    <td><a target="_blank" href="https://docs.google.com/spreadsheets/d/18RVotiQCfX3Qtb8LWbvzGwADzGp4cWYH/edit?usp=drive_link&amp;ouid=118052901982246903681&amp;rtpof=true&amp;sd=true">ML 1 <br>Mdm Norzaida</a></td>
   </tr>
 		<tr>
-    <td><a href="https://docs.google.com/spreadsheets/d/1gmm5GGc-5I-OAIPXA4fUkIr95hzL8svK/edit?usp=drive_link&amp;ouid=118052901982246903681&amp;rtpof=true&amp;sd=true" target="_blank">ML 2<br>Mdm Hafizzah</a></td>
-    <td><a href="https://docs.google.com/spreadsheets/d/1aHz4Lbcflq9ywRe8xsVMtM7MSpYIWZpX/edit?usp=drive_link&amp;ouid=118052901982246903681&amp;rtpof=true&amp;sd=true" target="_blank">ML 3<br>Mdm Norlela</a></td>
-    <td><a href="https://docs.google.com/spreadsheets/d/1-v76ZqK3R-Au7UyE7_OxiHooaIah2hsGikbb8Ce79sY/edit?usp=drive_link" target="_blank">TL 1<br>Mr Chandra</a></td>
+    <td><a target="_blank" href="https://docs.google.com/spreadsheets/d/1gmm5GGc-5I-OAIPXA4fUkIr95hzL8svK/edit?usp=drive_link&amp;ouid=118052901982246903681&amp;rtpof=true&amp;sd=true">ML 2<br>Mdm Hafizzah</a></td>
+    <td><a target="_blank" href="https://docs.google.com/spreadsheets/d/1aHz4Lbcflq9ywRe8xsVMtM7MSpYIWZpX/edit?usp=drive_link&amp;ouid=118052901982246903681&amp;rtpof=true&amp;sd=true">ML 3<br>Mdm Norlela</a></td>
+    <td><a target="_blank" href="https://docs.google.com/spreadsheets/d/1-v76ZqK3R-Au7UyE7_OxiHooaIah2hsGikbb8Ce79sY/edit?usp=drive_link">TL 1<br>Mr Chandra</a></td>
   </tr>
 		</tbody></table>
