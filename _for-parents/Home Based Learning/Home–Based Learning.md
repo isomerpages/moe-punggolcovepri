@@ -20,12 +20,12 @@ Please click on the link below to access you child's lesson schedule for 27 and 
 
 <table>
 	<tbody><tr>
-		<td><a target="_blank" href="/for-parents/home-based-learning/p1/Primary 1/">Primary 1</a></td>
-		<td><a target="_blank" href="/for-parents/home-based-learning/p2/Primary 2/">Primary 2</a></td>
-		<td><a target="_blank" href="/for-parents/home-based-learning/p3/Primary 3/">Primary 3</a></td>
+		<td><a target="_blank" href="/for-parents/home-based-learning/p1/">Primary 1</a></td>
+		<td><a target="_blank" href="/for-parents/home-based-learning/p2/">Primary 2</a></td>
+		<td><a target="_blank" href="/for-parents/home-based-learning/p3/">Primary 3</a></td>
 	</tr> 
 		<tr>
-		<td><a target="_blank" href="/for-parents/home-based-learning/p4/Primary 4/">Primary 4</a></td>
-		<td><a target="_blank" href="/for-parents/home-based-learning/p5/Primary 5/">Primary 5</a></td>
+		<td><a target="_blank" href="/for-parents/home-based-learning/p4/">Primary 4</a></td>
+		<td><a target="_blank" href="/for-parents/home-based-learning/p5/">Primary 5</a></td>
 	</tr> 
 </tbody></table>
