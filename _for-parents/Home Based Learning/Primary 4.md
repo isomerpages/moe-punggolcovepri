@@ -9,17 +9,17 @@ third_nav_title: Home Based Learning
 <table>
 	<tbody>
 		<tr>
-		<td>4 Amber</td>
-		<td>4 Coral</td>
-		<td>4 Diamond</td>
+		<td><a target="_blank" href="https://docs.google.com/spreadsheets/d/1rM_XHi5Olw8S3GRl-0m0hOph5HCpG6IefkC8ZjBnX9c/edit?usp=drive_link">4 Amber</a></td>
+		<td><a target="_blank" href="https://docs.google.com/spreadsheets/d/1Q9sVUHgy4hkSj12hNsGVI1dk7cANzULrbE2tQm0BwCo/edit?usp=drive_link">4 Coral</a></td>
+		<td><a target="_blank" href="https://docs.google.com/spreadsheets/d/1SUWsl9I4XrpFbUA0fwaoMm8pEODBFKkCh1IJuuOpKxY/edit?usp=drive_link">4 Diamond</a></td>
 	</tr>
 			<tr>
-		<td>4 Emerald</td>
-		<td>4 Jade</td>
-		<td>4 Opal</td>
+		<td><a target="_blank" href="https://docs.google.com/spreadsheets/d/1q4dqWzv9NMcM-alEuZ0rIRGBcYLpGMC5Rb3LdrDAY88/edit?usp=drive_link">4 Emerald</a></td>
+		<td><a target="_blank" href="https://docs.google.com/spreadsheets/d/192my_vapCIixboEgeKQ93P45UXVrgIgu9Jw75tahy40/edit?usp=drive_link">4 Jade</a></td>
+		<td><a target="_blank" href="https://docs.google.com/spreadsheets/d/1xaHfrPhtJlK65xglhQk5oVCZui9aai5H35DIYpiAKHI/edit?usp=drive_link">4 Opal</a></td>
 	</tr>
 			<tr>
-		<td>4 Pearl</td>
+		<td><a target="_blank" href="https://docs.google.com/spreadsheets/d/1o2-izkkLBOhifcIcU1Td8ySegc6sovVgcDgwmJpOrj8/edit?usp=drive_link">4 Pearl</a></td>
 				<td></td>
 				<td></td>
 		</tr>
@@ -30,9 +30,9 @@ third_nav_title: Home Based Learning
 <table>
   <tbody>
     <tr>
-    <td>CL 1 <br>Ms Tan Sze Huey</td>
-    <td>CL 2 <br>Ms Chia Yi Zhen</td>
-    <td>CL 3 <br>Mdm Lee Xiao Wei</td>
+    <td><a target="_blank" href="https://docs.google.com/spreadsheets/d/1BE1I9UyjKiv49ekaDBHRc85WKePYoDPr/edit?usp=drive_link&amp;ouid=118052901982246903681&amp;rtpof=true&amp;sd=true">CL 1 <br>Ms Tan Sze Huey</a></td>
+    <td><a target="_blank" href="https://docs.google.com/spreadsheets/d/1z6uf5DDQPbvN4oLF0RAe3-T6hSflUH-u/edit?usp=drive_link&amp;ouid=118052901982246903681&amp;rtpof=true&amp;sd=true">CL 2 <br>Ms Chia Yi Zhen</a></td>
+    <td><a target="_blank" href="https://docs.google.com/spreadsheets/d/1B5ONy4rdS7B1krhv0ioliUqYtO54YCdm/edit?usp=drive_link&amp;ouid=118052901982246903681&amp;rtpof=true&amp;sd=true">CL 3 <br>Mdm Lee Xiao Wei</a></td>
   </tr>
 		<tr>
     <td>CL 4 <br>Mdm Chew Wee San</td>
