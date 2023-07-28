@@ -38,11 +38,15 @@ third_nav_title: Home Based Learning
 		<td>1 CL 2 <br>Ms Chew Kim Kee</td>
 		<td>1 CL 3 <br>Ms Audrey Lee</td>
 	</tr>
-			<tr>
+		<tr>
 		<td>1 CL 4 <br>Ms Ding Soo Juan</td>
 		<td>1 CL 5 <br>Ms Tan Sze Huey</td>
 		<td>1 ML 1<br>Mdm Norlela</td>
 	</tr>
+		<tr>
+		<td>1 ML 2 <br>Mdm Hafizzah</td>
+		<td>1 ML 3 <br>Ms Zahira</td>
+		<td>1 TL 1<br>Mdm Ayisha</td>
+	</tr>
 		</tbody>
 </table>
-			
