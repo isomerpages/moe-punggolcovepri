@@ -18,7 +18,16 @@ Please click on the link below to access you child's lesson schedule for 27 and 
 
 Select you child's level.
 
+	  
+&nbsp;&nbsp;  
+&nbsp;&nbsp;&nbsp;&nbsp;  
+&nbsp;&nbsp;&nbsp;&nbsp;  
+&nbsp;&nbsp;  
+&nbsp;&nbsp;  
+&nbsp;&nbsp;&nbsp;&nbsp;  
+&nbsp;&nbsp;&nbsp;&nbsp;  
+&nbsp;&nbsp;<table><tbody><tr><th>Month</th><th>Savings</th></tr><tr><td>January</td><td>$100</td></tr>  
+</tbody></table>
 Primary 1                        Primary 2                                             Primary 3
 
 Primary 4                       Primary 5
-
