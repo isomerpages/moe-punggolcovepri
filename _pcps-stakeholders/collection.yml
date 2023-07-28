@@ -2,4 +2,5 @@ collections:
   pcps-stakeholders:
     output: true
     order:
+      - School Bus Advertisement.md
       - Parent Support Group.md
