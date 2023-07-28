@@ -4,23 +4,24 @@ permalink: /for-parents/home-based-learning/p5/
 description: ""
 third_nav_title: Home Based Learning
 ---
-<h3><b>2023 PRIMARY 4 Home-Based Learning (HBL)</b></h3>
+<h3><b>2023 PRIMARY 5 Home-Based Learning (HBL)</b></h3>
 <h5>Select your fomr class for your daily lesson schedule and HBL assignments.</h5>
 <br>
 <table>
 	<tbody>
 		<tr>
-		<td>4 Amber</td>
-		<td>4 Coral</td>
-		<td>4 Diamond</td>
+		<td>5 Amber</td>
+		<td>5 Coral</td>
+		<td>5 Diamond</td>
 	</tr>
 			<tr>
-		<td>4 Emerald</td>
-		<td>4 Jade</td>
-		<td>4 Opal</td>
+		<td>5 Emerald</td>
+		<td>5 Jade</td>
+		<td>5 Opal</td>
 	</tr>
 			<tr>
-		<td>4 Pearl</td>
+		<td>5 Pearl</td>
+		<td>5 Ruby</td>
 				<td></td>
 				<td></td>
 		</tr>
