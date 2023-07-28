@@ -9,13 +9,13 @@ third_nav_title: Home Based Learning
 <table>
 	<tbody>
 		<tr>
-		<td><a href="https://docs.google.com/spreadsheets/d/1jyVx3qcWv4S3DgMGu4FJeLXYt-c59FTjehb7thEQDHs/edit?usp=drive_link" target="blank">3 Amber</a></td>
-		<td><a href="https://docs.google.com/spreadsheets/d/1vNckXQOMzWVs0re-YMjyTVCKBbHyWrqmmfenfzxIDb8/edit?usp=drive_link" target="_blank">3 Coral</a></td>
-		<td><a href="https://docs.google.com/spreadsheets/d/11vxGRkW0D6AFw9HB42YZuJcV3mRo5Hx37NTfy2LNaDc/edit?usp=drive_link" target="_blank">3 Diamond</a></td>
+		<td><a target="_blank" href="https://docs.google.com/spreadsheets/d/1jyVx3qcWv4S3DgMGu4FJeLXYt-c59FTjehb7thEQDHs/edit?usp=drive_link">3 Amber</a></td>
+		<td><a target="_blank" href="https://docs.google.com/spreadsheets/d/1vNckXQOMzWVs0re-YMjyTVCKBbHyWrqmmfenfzxIDb8/edit?usp=drive_link">3 Coral</a></td>
+		<td><a target="_blank" href="https://docs.google.com/spreadsheets/d/11vxGRkW0D6AFw9HB42YZuJcV3mRo5Hx37NTfy2LNaDc/edit?usp=drive_link">3 Diamond</a></td>
 	</tr>
 			<tr>
 		<td><a target="_blank">3 Emerald</a></td>
-		<td><a href="https://docs.google.com/spreadsheets/d/1dmvp68ne95wCYIdwfG_BYti56tvgFbXVJWQfnC22ZbA/edit?usp=drive_link" target="_blank">3 Jade</a></td>
+		<td><a target="_blank" href="https://docs.google.com/spreadsheets/d/1dmvp68ne95wCYIdwfG_BYti56tvgFbXVJWQfnC22ZbA/edit?usp=drive_link">3 Jade</a></td>
 		<td><a href="https://docs.google.com/spreadsheets/d/1o2HzDYXs8vZmDOPmytla10J5ErcLF57RjP2V1Dko1EE/edit?usp=drive_link" target="_blank">3 Opal</a></td>
 	</tr>
 			<tr>
