@@ -22,6 +22,12 @@ sections:
           description: View all
           url: /resources/whats-happening-at-pcps/
   - infopic:
+      title: 2023 P5 Camp
+      subtitle: Currently happening in PCPS
+      description: Description
+      button: Button Text
+      alt: Image alt text
+  - infopic:
       title: School Calendar
       subtitle: School Events
       description: PCPS Schedule
