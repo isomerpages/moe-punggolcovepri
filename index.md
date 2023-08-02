@@ -24,9 +24,10 @@ sections:
   - infopic:
       title: 2023 P5 Camp
       subtitle: Currently happening in PCPS
-      description: Description
-      button: Button Text
-      alt: Image alt text
+      button: Click on this link to view more photos
+      alt: 2023 P5 Camp
+      image: /images/website under construction.png
+      url: https://www.punggolcovepri.moe.edu.sg/resources/whats-happening-at-pcps/
   - infopic:
       title: School Calendar
       subtitle: School Events
