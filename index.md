@@ -4,7 +4,7 @@ title: Punggol Cove Primary School
 description: An Isomer site of the Singapore Government
 image: /images/Logo.jpeg
 permalink: /
-notification: Our Primary 5 are currently serving their Camp for Three Days.
+notification: 2023 p5 camp
 sections:
   - hero:
       background: /images/PCPS Animation GIF.gif
