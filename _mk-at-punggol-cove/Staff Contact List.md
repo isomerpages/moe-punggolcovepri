@@ -26,7 +26,7 @@ description: ""
   <tr>
     <td>3</td>
     <td>Ms Khoo Lin Xiu</td>
-    <td>EL Teacher</td>
+    <td>Level Head</td>
     <td><a href="mailto:khoo_lin_xiu@schools.gov.sg">khoo_lin_xiu@schools.gov.sg</a></td>
   </tr>
   <tr>
@@ -44,8 +44,8 @@ description: ""
   <tr>
     <td>6</td>
     <td>Ms Geraldine Kang Him Hong</td>
-    <td class="tg-fqrb">EL Teacher</td>
-    <td class="tg-ifa4"><a href="mailto:geraldine_kang_him_hong@schools.gov.sg"><span style="text-decoration:none;color:#4067AE">geraldine_kang_him_hong@schools.gov.sg</span></a></td>
+    <td>EL Teacher</td>
+    <td class="tg-ifa4"><a href="mailto:geraldine_kang_him_hong@schools.gov.sg">geraldine_kang_him_hong@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td>7</td>
@@ -77,13 +77,7 @@ description: ""
     <td>CL Teacher</td>
     <td><a href="mailto:yan_dana@schools.gov.sg">yan_dana@schools.gov.sg</a></td>
   </tr>
-  <tr>
-    <td>12</td>
-    <td>Mdm Zhang Yu Fen</td>
-    <td>CL Teacher</td>
-    <td><a href="mailto:Zhang_YUFEN@schools.gov.sg">Zhang_YUFEN@schools.gov.sg</a></td>
-  </tr>
-  <tr>
+    <tr>
     <td>13</td>
     <td>Mdm Ong Bee Eng (Jenna)</td>
     <td>CL Teacher</td>
@@ -95,19 +89,7 @@ description: ""
     <td>CL Teacher</td>
     <td><a href="mailto:Tian_Hui_Xian@schools.gov.sg">Tian_Hui_Xian@schools.gov.sg</a></td>
   </tr>
-  <tr>
-    <td>15</td>
-    <td>Ms Nur Syafiqah Binte Mazlan</td>
-    <td>ML Teacher</td>
-    <td><a href="mailto:nur_syafiqah_mazlan@schools.gov.sg">nur_syafiqah_mazlan@schools.gov.sg</a></td>
-  </tr>
-  <tr>
-    <td>16</td>
-    <td>Ms Izzah 'Atirah Binte Azman</td>
-    <td>ML Teacher</td>
-    <td><a href="mailto:izzah_atirah_azman@schools.gov.sg">izzah_atirah_azman@schools.gov.sg</a></td>
-  </tr>
-  <tr>
+   <tr>
     <td>17</td>
     <td>Mdm Sitiyah Bte Tomari</td>
     <td>ML Teacher</td>
@@ -119,11 +101,5 @@ description: ""
     <td>ML Teacher</td>
     <td><a href="mailto:Sofiah_Rahman@schools.gov.sg">Sofiah_Rahman@schools.gov.sg</a></td>
   </tr>
-  <tr>
-    <td>19</td>
-    <td>Mdm Shamani Devi D/O Sangaran</td>
-    <td>TL Teacher</td>
-    <td><a href="mailto:shamani_devi_sangaran@schools.gov.sg">shamani_devi_sangaran@schools.gov.sg</a></td>
-  </tr>
-</tbody>
+ </tbody>
 </table>
