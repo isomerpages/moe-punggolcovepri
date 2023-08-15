@@ -101,5 +101,12 @@ description: ""
     <td>ML Teacher</td>
     <td><a href="mailto:Sofiah_Rahman@schools.gov.sg">Sofiah_Rahman@schools.gov.sg</a></td>
   </tr>
+	<tr>
+		<td>19</td>
+		<td>Mdm Rosnahwaty Binte Rais</td>
+		<td>ML Teacher</td>
+		<td><a href="mailto:rosnahwaty_rais@schools.gov.sg">rosnahwaty_rais@schools.gov.sg</a>
+		</td>
+	</tr>
  </tbody>
 </table>
