@@ -71,8 +71,14 @@ description: ""
     <td>EL Teacher</td>
     <td><a href="mailto:Joy_Wong_Le_Xin@schools.gov.sg">Joy_Wong_Le_Xin@schools.gov.sg</a></td>
   </tr>
-  <tr>
+	<tr>
     <td>11</td>
+    <td>Ms Alicia Wee Yu Xuan</td>
+    <td>EL Teacher</td>
+    <td><a href="mailto:alicia_wee_yu_xuan@schools.gov.sg">alicia_wee_yu_xuan@schools.gov.sg</a></td>
+  </tr>
+  <tr>
+    <td>12</td>
     <td>Mdm Yan Dana</td>
     <td>CL Teacher</td>
     <td><a href="mailto:yan_dana@schools.gov.sg">yan_dana@schools.gov.sg</a></td>
@@ -90,19 +96,19 @@ description: ""
     <td><a href="mailto:Tian_Hui_Xian@schools.gov.sg">Tian_Hui_Xian@schools.gov.sg</a></td>
   </tr>
    <tr>
-    <td>17</td>
+    <td>15</td>
     <td>Mdm Sitiyah Bte Tomari</td>
     <td>ML Teacher</td>
     <td><a href="mailto:sitiyah_tomari@schools.gov.sg">sitiyah_tomari@schools.gov.sg</a></td>
   </tr>
   <tr>
-    <td>18</td>
+    <td>16</td>
     <td>Mdm Sofiah Binte Rahman</td>
     <td>ML Teacher</td>
     <td><a href="mailto:Sofiah_Rahman@schools.gov.sg">Sofiah_Rahman@schools.gov.sg</a></td>
   </tr>
 	<tr>
-		<td>19</td>
+		<td>17</td>
 		<td>Mdm Rosnahwaty Binte Rais</td>
 		<td>ML Teacher</td>
 		<td><a href="mailto:rosnahwaty_rais@schools.gov.sg">rosnahwaty_rais@schools.gov.sg</a>
