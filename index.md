@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/PCPS Animation GIF.gif
+      background: /images/MASTERHEAD1.png
       key_highlights:
         - title: For Parents
           description: Useful Links
