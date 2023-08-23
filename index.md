@@ -24,7 +24,7 @@ sections:
   - infopic:
       url: https://docs.google.com/forms/d/e/1FAIpQLSdu2VwaqcIsn_R43e8Wbp7iQ8SIKXOOypz8uM8Aj2Xj2iZh1w/viewform
       image: /images/tdbroadcast.jpg
-      alt: Image alt text
+      alt: Teachers' Day 2023
   - infopic:
       title: School Calendar
       subtitle: School Events
