@@ -24,7 +24,7 @@ sections:
   - infobar:
       description: <a target="_blank"
         href="https://for.edu.sg/viewformteachersday"><img
-        src="/images/tdbroadcast.jpg" style="width:550px; height:500px;"></a>
+        src="/images/tdbroadcast.jpg" style="width:550px; height:1080px;"></a>
   - infopic:
       title: School Calendar
       subtitle: School Events
