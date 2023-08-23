@@ -22,6 +22,13 @@ sections:
           description: View all
           url: /resources/whats-happening-at-pcps/
   - infopic:
+      title: Dear ex-PCPS students
+      button: "we would like to encourage you to write notes of appreciation through
+        this link "
+      url: https://docs.google.com/forms/d/e/1FAIpQLSdu2VwaqcIsn_R43e8Wbp7iQ8SIKXOOypz8uM8Aj2Xj2iZh1w/viewform
+      image: /images/tdbroadcast.jpg
+      alt: 2023 Teachers' Day
+  - infopic:
       title: School Calendar
       subtitle: School Events
       description: PCPS Schedule
