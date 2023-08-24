@@ -237,39 +237,39 @@ description: ""
      <td>cheryl_ang_wei_yu@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-1ppo">Ms Cheryl Mah Jia Wei</td>
-    <td class="tg-1ppo">Form Teacher<br>3 Emerald</td>
-    <td class="tg-1ppo">cheryl_mah_jia_wei@schools.gov.sg</td>
+     <td>Ms Cheryl Mah Jia Wei</td>
+     <td>Form Teacher<br>3 Emerald</td>
+     <td>cheryl_mah_jia_wei@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-1ppo">Mdm Dou Jin Yi</td>
-    <td class="tg-1ppo">Form Teacher<br>3 Emerald <br> CL Teacher</td>
-    <td class="tg-1ppo">dou_jin_yi@schools.gov.sg</td>
+     <td>Mdm Dou Jin Yi</td>
+     <td>Form Teacher<br>3 Emerald <br> CL Teacher</td>
+     <td>dou_jin_yi@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-1ppo">Ms Priya d/o Govi</td>
-    <td class="tg-1ppo">Form Teacher<br>3 Jade</td>
-		<td class="tg-1ppo">priya_govi@schools.gov.sg<br></td>
+    <td>Ms Priya d/o Govi</td>
+     <td>Form Teacher<br>3 Jade</td>
+		 <td>priya_govi@schools.gov.sg<br></td>
   </tr>
   <tr>
-    <td class="tg-1ppo">Ms Chen Soo Juan</td>
-    <td class="tg-1ppo">Form Teacher<br>3 Jade <br> CL Teacher</td>
-    <td class="tg-1ppo">ding_soo_juan@schools.gov.sg</td>
+     <td>Ms Chen Soo Juan</td>
+     <td>Form Teacher<br>3 Jade <br> CL Teacher</td>
+    <td>ding_soo_juan@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-1ppo">Mr Gan Zhan Yi</td>
-    <td class="tg-1ppo">Form Teacher<br>3 Opal</td>
-    <td class="tg-1ppo">gan_zhan_yi@schools.gov.sg</td>
+     <td>Mr Gan Zhan Yi</td>
+     <td>Form Teacher<br>3 Opal</td>
+     <td>gan_zhan_yi@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-1ppo">Mr Mohammed Hafiizh Bin Dzulkifli</td>
-    <td class="tg-1ppo">Form Teacher<br>3 Opal<br>SH PE &amp; CCA</td>
-    <td class="tg-1ppo">mohammed_hafiizh_dzulkifli@schools.gov.sg</td>
+     <td>Mr Mohammed Hafiizh Bin Dzulkifli</td>
+     <td>Form Teacher<br>3 Opal<br>SH PE &amp; CCA</td>
+     <td>mohammed_hafiizh_dzulkifli@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-1ppo">Mr Teo Jia Hao</td>
-    <td class="tg-1ppo">Form Teacher<br>3 Pearl</td>
-    <td class="tg-1ppo">teo_jia_hao@schools.gov.sg</td>
+     <td>Mr Teo Jia Hao</td>
+     <td>Form Teacher<br>3 Pearl</td>
+     <td>teo_jia_hao@schools.gov.sg</td>
   </tr>
 </tbody>
 </table>
