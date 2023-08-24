@@ -352,42 +352,40 @@ description: ""
     <td>Designation</td>
     <td>Email</td>
   </tr>
-
-</tbody><tbody>
   <tr>
-    <td class="tg-1ppo">Mdm Nur Shafiqah Binte Rosland</td>
-    <td class="tg-1ppo">Form Teacher<br>5 Amber</td>
-    <td class="tg-1ppo">nur_shafiqah_rosland@schools.gov.sg</td>
+    <td>Mdm Nur Shafiqah Binte Rosland</td>
+    <td>Form Teacher<br>5 Amber</td>
+    <td>nur_shafiqah_rosland@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-1ppo">Mrs Ada Chung</td>
-    <td class="tg-1ppo">Form Teacher<br>5 Coral</td>
-    <td class="tg-1ppo">ng_xinying_ada@schools.gov.sg</td>
+    <td>Mrs Ada Chung</td>
+   <td>Form Teacher<br>5 Coral</td>
+    <td>ng_xinying_ada@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-1ppo">Ms Charmaine Lim</td>
-    <td class="tg-1ppo">Form Teacher<br>5 Coral<br>ST SEN</td>
-    <td class="tg-1ppo">charmaine_lim@schools.gov.sg</td>
+    <td>Ms Charmaine Lim</td>
+    <td>Form Teacher<br>5 Coral<br>ST SEN</td>
+    <td>charmaine_lim@schools.gov.sg</td>
   </tr>
 	 <tr>
-    <td class="tg-1ppo">Mrs Shahrin</td>
-    <td class="tg-1ppo">Form Teacher<br>5 Coral</td>
-    <td class="tg-1ppo">m_sainava_buang@schools.gov.sg</td>
+    <td>Mrs Shahrin</td>
+    <td>Form Teacher<br>5 Coral</td>
+    <td>m_sainava_buang@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-1ppo">Mr Yeo Yee Peng</td>
-    <td class="tg-1ppo">Form Teacher<br>5 Diamond</td>
-    <td class="tg-1ppo">yeo_yee_peng@schools.gov.sg</td>
+    <td>Mr Yeo Yee Peng</td>
+    <td>Form Teacher<br>5 Diamond</td>
+    <td>yeo_yee_peng@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-1ppo">Mrs Jasmine Wong</td>
-    <td class="tg-1ppo">Form Teacher<br>5 Emerald</td>
-    <td class="tg-1ppo">tang_yuen_har_jasmine@schools.gov.sg</td>
+    <td>Mrs Jasmine Wong</td>
+    <td>Form Teacher<br>5 Emerald</td>
+    <td>tang_yuen_har_jasmine@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-1ppo">Ms Felicia Nah Ya Rui</td>
-    <td class="tg-1ppo">Form Teacher<br>5 Jade</td>
-    <td class="tg-1ppo">nah_ya_rui_felicia@schools.gov.sg</td>
+    <td>Ms Felicia Nah Ya Rui</td>
+    <td>Form Teacher<br>5 Jade</td>
+    <td>nah_ya_rui_felicia@schools.gov.sg</td>
   </tr>
     <tr>
     <td class="tg-1ppo">Mdm Woo Sye Lai</td>
@@ -395,14 +393,14 @@ description: ""
     <td class="tg-1ppo">woo_sye_lai@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-1ppo">Ms Ng Hui Jie Rimes</td>
-    <td class="tg-1ppo">Form Teacher<br>5 Pearl</td>
-    <td class="tg-1ppo">ng_hui_jie_rimes@schools.gov.sg</td>
+    <td>Ms Ng Hui Jie Rimes</td>
+    <td>Form Teacher<br>5 Pearl</td>
+    <td>ng_hui_jie_rimes@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-1ppo">Ms Loh Qiwen Angeline</td>
-    <td class="tg-1ppo">Form Teacher<br>5 Ruby</td>
-    <td class="tg-1ppo">loh_qiwen_angeline@schools.gov.sg</td>
+    <td>Ms Loh Qiwen Angeline</td>
+    <td>Form Teacher<br>5 Ruby</td>
+    <td>loh_qiwen_angeline@schools.gov.sg</td>
   </tr>
 </tbody>
 </table>
