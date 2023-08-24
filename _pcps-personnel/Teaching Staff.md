@@ -277,78 +277,60 @@ description: ""
 
 #### **2023 PRIMARY 4**
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-clhh{background-color:#FFF;color:#222;font-weight:bold;text-align:left;vertical-align:middle}
-.tg .tg-6ua2{background-color:#FFF;border-color:inherit;color:#222;font-weight:bold;text-align:left;vertical-align:middle}
-.tg .tg-1ppo{background-color:#FFF;color:#222;text-align:left;vertical-align:middle}
-</style>
-<table style="undefined;table-layout: fixed; width: 800px" class="tg">
-<colgroup>
-<col style="width: 200px">
-<col style="width: 200px">
-<col style="width: 400px">
-</colgroup>
-<thead>
+<table>
+	<tbody>
   <tr>
-    <th class="tg-6ua2">Name</th>
-    <th class="tg-clhh">Designation</th>
-    <th class="tg-clhh">Email</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-1ppo">Ms Chin Ruey, Amanda</td>
-    <td class="tg-1ppo">Form Teacher<br>4 Amber</td>
-    <td class="tg-1ppo">chin_ruey_amanda@schools.gov.sg</td>
+     <td>Name</td>
+     <td>Designation</td>
+     <td>Email</td>
   </tr>
   <tr>
-    <td class="tg-1ppo">Mr Adrian Liang</td>
-    <td class="tg-1ppo">Form Teacher<br>4 Amber<br>LH ICT</td>
-    <td class="tg-1ppo">adrian_liang@schools.gov.sg</td>
+     <td>Ms Chin Ruey, Amanda</td>
+     <td>Form Teacher<br>4 Amber</td>
+     <td>chin_ruey_amanda@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-1ppo">Ms Chen Kang Li</td>
-    <td class="tg-1ppo">Form Teacher<br>4 Cora</td>
-    <td class="tg-1ppo">chen_kang_li@schools.gov.sg</td>
+     <td>Mr Adrian Liang</td>
+     <td>Form Teacher<br>4 Amber<br>LH ICT</td>
+     <td>adrian_liang@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-1ppo">Ms Nellia Yezmin Shameer</td>
-    <td class="tg-1ppo">Form Teacher<br>4 Coral</td>
-    <td class="tg-1ppo">nellia_yezmin_shameer@schools.gov.sg</td>
+     <td>Ms Chen Kang Li</td>
+     <td>Form Teacher<br>4 Cora</td>
+     <td>chen_kang_li@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-1ppo">Mr M Prakash</td>
-    <td class="tg-1ppo">Form Teacher<br>4 Diamond</td>
-    <td class="tg-1ppo">m_prakash@schools.gov.sg</td>
+     <td>Ms Nellia Yezmin Shameer</td>
+     <td>Form Teacher<br>4 Coral</td>
+     <td>nellia_yezmin_shameer@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-1ppo">Mr Joshua Tan Kiat Fong</td>
-    <td class="tg-1ppo">Form Teacher<br>4 Emerald<br>PE Teacher</td>
-    <td class="tg-1ppo">tan_kiat_fong_joshua@schools.gov.sg</td>
+     <td>Mr M Prakash</td>
+     <td>Form Teacher<br>4 Diamond</td>
+     <td>m_prakash@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-1ppo">Mdm Nur Syazwani Jantan</td>
-    <td class="tg-1ppo">Form Teacher<br>4 Emerald</td>
-    <td class="tg-1ppo">nur_syazwani_jantan@schools.gov.sg</td>
+     <td>Mr Joshua Tan Kiat Fong</td>
+     <td>Form Teacher<br>4 Emerald<br>PE Teacher</td>
+     <td>tan_kiat_fong_joshua@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-1ppo">Mr Lu Jie</td>
-    <td class="tg-1ppo">Form Teacher<br>4 Jade</td>
-    <td class="tg-1ppo">lu_jie@schools.gov.sg</td>
+     <td>Mdm Nur Syazwani Jantan</td>
+     <td>Form Teacher<br>4 Emerald</td>
+    <td>nur_syazwani_jantan@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-1ppo">Mdm Muliyati Binte Zailani</td>
-    <td class="tg-1ppo">Form Teacher<br>4 Jade<br>ML Teacher</td>
-    <td class="tg-1ppo">muliyati_zailani@schools.gov.sg</td>
+    <td>Mr Lu Jie</td>
+     <td>Form Teacher<br>4 Jade</td>
+     <td>lu_jie@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-1ppo">Mdm Nur Sufriena Binte Suhaini</td>
-    <td class="tg-1ppo">Form Teacher<br>4 Opal</td>
+     <td>Mdm Muliyati Binte Zailani</td>
+     <td>Form Teacher<br>4 Jade<br>ML Teacher</td>
+     <td>muliyati_zailani@schools.gov.sg</td>
+  </tr>
+  <tr>
+     <td>Mdm Nur Sufriena Binte Suhaini</td>
     <td class="tg-1ppo">nur_sufriena_suhaini@schools.gov.sg</td>
   </tr>
   <tr>
