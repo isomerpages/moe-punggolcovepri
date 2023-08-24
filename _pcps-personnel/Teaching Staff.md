@@ -514,32 +514,32 @@ description: ""
     <td>serene_tay_khiok_sing@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-zr06">Ms Tan Qiu Ling</td>
-    <td class="tg-zr06">tan_qiu_ling@schools.gov.sg</td>
+    <td>Ms Tan Qiu Ling</td>
+    <td>tan_qiu_ling@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-zr06">Ms Wendy Yeo</td>
-    <td class="tg-zr06">Yeo_Wan_Tin@schools.gov.sg</td>
+   <td>Ms Wendy Yeo</td>
+    <td>Yeo_Wan_Tin@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-zr06">Ms Yeo Hui Cheng Serena</td>
-    <td class="tg-zr06">yeo_hui_cheng_serena@schools.gov.sg</td>
+    <td>Ms Yeo Hui Cheng Serena</td>
+    <td>yeo_hui_cheng_serena@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-zr06">Mdm Zahira</td>
-    <td class="tg-zr06">zahira_abdul_majeed@schools.gov.sg</td>
+    <td>Mdm Zahira</td>
+    <td>zahira_abdul_majeed@schools.gov.sg</td>
   </tr>
 	  <tr>
-    <td class="tg-zr06">Ms Chua Tien Wee</td>
-    <td class="tg-zr06">chua_tien_wee@schools.gov.sg</td>
+    <td>Ms Chua Tien Wee</td>
+    <td>chua_tien_wee@schools.gov.sg</td>
   </tr>
 	<tr>
-    <td class="tg-zr06">Ms Yong Chuy Chun</td>
-    <td class="tg-zr06">yong_chuy_chun@schools.gov.sg</td>
+    <td>Ms Yong Chuy Chun</td>
+    <td>yong_chuy_chun@schools.gov.sg</td>
   </tr>
 		<tr>
-    <td class="tg-zr06">Cikgu Mdm Fauziah Bte Mohd Mydin</td>
-    <td class="tg-zr06">fauziah_mohd_mydin@schools.gov.sg</td>
+    <td>Cikgu Mdm Fauziah Bte Mohd Mydin</td>
+    <td>fauziah_mohd_mydin@schools.gov.sg</td>
   </tr>
 </tbody>
 </table>
