@@ -187,7 +187,7 @@ description: ""
   <tr>
      <td>Ms Nurul Fadzillah Binte Mohammed Fadzil</td>
      <td>Form Teacher<br>2 Sapphire</td>
-     <td>nurul_fadzillah_mohd_fadzil@schools.gov.sg</td>
+     <td>Nurul_Fadzillah_Mohammed_Fadzil@schools.gov.sg</td>
   </tr>
   <tr>
      <td>Mdm Chew Wee San Cheryl</td>
@@ -296,7 +296,7 @@ description: ""
   </tr>
   <tr>
      <td>Ms Chen Kang Li</td>
-     <td>Form Teacher<br>4 Cora</td>
+     <td>Form Teacher<br>4 Coral</td>
      <td>chen_kang_li@schools.gov.sg</td>
   </tr>
   <tr>
