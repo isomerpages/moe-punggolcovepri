@@ -331,12 +331,13 @@ description: ""
   </tr>
   <tr>
      <td>Mdm Nur Sufriena Binte Suhaini</td>
-    <td class="tg-1ppo">nur_sufriena_suhaini@schools.gov.sg</td>
+		<td>Form Teacher<br>4 Opal</td>
+    <td>nur_sufriena_suhaini@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-1ppo">Mdm Murni Alidawati Bte Mohd Amin</td>
-    <td class="tg-1ppo">Form Teacher<br>4 Pearl</td>
-    <td class="tg-1ppo">murni_alidawati_mohamed@schools.gov.sg</td>
+    <td>Mdm Murni Alidawati Bte Mohd Amin</td>
+    <td>Form Teacher<br>4 Pearl</td>
+    <td>murni_alidawati_mohamed@schools.gov.sg</td>
   </tr>
 </tbody>
 </table>
@@ -344,30 +345,15 @@ description: ""
 
 #### **2023 PRIMARY 5**
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-clhh{background-color:#FFF;color:#222;font-weight:bold;text-align:left;vertical-align:middle}
-.tg .tg-6ua2{background-color:#FFF;border-color:inherit;color:#222;font-weight:bold;text-align:left;vertical-align:middle}
-.tg .tg-1ppo{background-color:#FFF;color:#222;text-align:left;vertical-align:middle}
-</style>
-<table style="undefined;table-layout: fixed; width: 800px" class="tg">
-<colgroup>
-<col style="width: 200px">
-<col style="width: 200px">
-<col style="width: 400px">
-</colgroup>
-<thead>
-  <tr>
-    <th class="tg-6ua2">Name</th>
-    <th class="tg-clhh">Designation</th>
-    <th class="tg-clhh">Email</th>
-  </tr>
-</thead>
+<table>
 <tbody>
+  <tr>
+   <td>Name</td>
+    <td>Designation</td>
+    <td>Email</td>
+  </tr>
+
+</tbody><tbody>
   <tr>
     <td class="tg-1ppo">Mdm Nur Shafiqah Binte Rosland</td>
     <td class="tg-1ppo">Form Teacher<br>5 Amber</td>
