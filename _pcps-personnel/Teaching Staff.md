@@ -388,9 +388,9 @@ description: ""
     <td>nah_ya_rui_felicia@schools.gov.sg</td>
   </tr>
     <tr>
-    <td class="tg-1ppo">Mdm Woo Sye Lai</td>
-    <td class="tg-1ppo">Form Teacher<br>5 Opal</td>
-    <td class="tg-1ppo">woo_sye_lai@schools.gov.sg</td>
+    <td>Mdm Woo Sye Lai</td>
+   <td>Form Teacher<br>5 Opal</td>
+    <td>woo_sye_lai@schools.gov.sg</td>
   </tr>
   <tr>
     <td>Ms Ng Hui Jie Rimes</td>
