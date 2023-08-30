@@ -33,4 +33,8 @@ sections:
       url: /calendar/
       image: /images/calendarinfopicdemo.png
       alt: calendar
+  - infopic:
+      title: Wishing all our teachers a Happy Teachers' Day
+      image: /images/htd2023.jpg
+      alt: Happy Teachers' Day 2023
 ---
