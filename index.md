@@ -26,6 +26,10 @@ sections:
         href="https://for.edu.sg/viewformteachersday"><img
         src="/images/tdbroadcast.jpg" style="width:800px; height:800px;"></a>
   - infopic:
+      title: Wishing all our teachers a Happy Teachers' Day
+      image: /images/htd2023.jpg
+      alt: Happy Teachers' Day 2023
+  - infopic:
       title: School Calendar
       subtitle: School Events
       description: PCPS Schedule
