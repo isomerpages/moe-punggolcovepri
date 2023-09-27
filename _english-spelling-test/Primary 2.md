@@ -60,7 +60,6 @@ description: ""
     <td class="tg-4jzo"><span style="color:#222;background-color:transparent"> </span>Spelling and Dictation 8</td>
     <td class="tg-zurh"><a href="https://quizlet.com/_a6cuqx?x=1jqt&amp;i=1c2gxb" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#4067AE">Term 4 Week 8</span></a></td>
   </tr>
-
 </tbody>
 </table>
     </div>
