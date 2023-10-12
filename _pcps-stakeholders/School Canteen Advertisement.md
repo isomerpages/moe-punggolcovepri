@@ -4,9 +4,10 @@ permalink: /pcps-stakeholders/school-canteen-advertisement/
 description: ""
 ---
 Stall Vacancy
+
 | Type of Stall | Closing Date | Requirements |
-| -------- | -------- | -------- |
-| Western Food Stall (Halal)     | 10 Nov 2023   | Halal    |
+|---|---|---|
+| Western Food Stall (Halal) | 10 Nov 2023 | Halal |
 
 **Background**<br>
 We are a single session school with an estimated school enrolment of 1650 students.
