@@ -1,6 +1,6 @@
 ---
 title: School Bus Advertisement
-permalink: /pcps-stakeholders/permalink/
+permalink: /pcps-stakeholders/school-bus-advertisement/
 description: ""
 ---
 <h2>School Bus Advertisement</h2>
