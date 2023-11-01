@@ -7,4 +7,4 @@ third_nav_title: Subject Downloads
 **P3 and P4 Higher Mother Tongue**
 ==================================
 
-Please click here for more information.
+<h4>Please click [here](https://go.gov.sg/p3andp4hmtl) for more information.</h4>
