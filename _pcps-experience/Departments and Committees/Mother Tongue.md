@@ -144,4 +144,3 @@ Pupils creating handicrafts for Mother's Day.
 
 Peer coaching during Tamil lesson.
 <img src="/images/mt7.jpeg" style="width:65%">
-
