@@ -14,12 +14,12 @@ To acquire the 4 main skills in language – Listening, Speaking, Reading and Wr
 
 **iCharacter Reading Programme**
 
-It aims to inculcate passion for reading among pupils, instills good values and moral principles and levels up their MTL skills – Listening, Speaking, Reading and Writing.  It’s a thematic approach to reading with post-reading activities to impart the desired skills and values set for the books.  
+It aims to inculcate passion for reading among pupils, instills good values and moral principles and levels up their MTL skills – Listening, Speaking, Reading and Writing. &nbsp;It’s a thematic approach to reading with post-reading activities to impart the desired skills and values set for the books.  
   
 
 **MTL Cultural Camp**
 
-It aims to provide our pupils an immersive environment to learn and appreciate their own cultures, as well as, cultures of other races through hands-on activities.  Incidentally, this will help to promote racial harmony through better understanding of each other’s cultral differences.  
+It aims to provide our pupils an immersive environment to learn and appreciate their own cultures, as well as, cultures of other races through hands-on activities. &nbsp;Incidentally, this will help to promote racial harmony through better understanding of each other’s cultral differences.  
   
 
 **MTL Fortnight**
@@ -122,38 +122,26 @@ MTL Fortnight provides platforms for pupils to actively learn MTL and the associ
 
 
 Pupils working together to prepare for a skit.
-<img src="/images/mt1.jpeg" 
-     style="width:65%">
+<img src="/images/mt1.jpeg" style="width:65%">
 
 
 Pupils applying newly acquired knowledge in an online quiz.
-<img src="/images/mt2.jpeg" 
-     style="width:65%">
+<img src="/images/mt2.jpeg" style="width:65%">
 
 
 Pupils engaging themselves in self-directed e-learning.
-<img src="/images/mt3.jpeg" 
-     style="width:65%">
+<img src="/images/mt3.jpeg" style="width:65%">
 		 
-Pupils learning sequencing through the making of dough for curry puff.
-<img src="/images/mt4.jpeg" 
-     style="width:65%">
+Pupils learning&nbsp;sequencing&nbsp;through the making of dough for curry puff.
+<img src="/images/mt4.jpeg" style="width:65%">
 
 Pupils role-playing characters based on Cekap 2A Big Book.
-<img src="/images/mt5.jpeg" 
-     style="width:65%">
+<img src="/images/mt5.jpeg" style="width:65%">
 
 Pupils creating handicrafts for Mother's Day.
-<img src="/images/mt6.jpeg" 
-     style="width:65%">
+<img src="/images/mt6.jpeg" style="width:65%">
 
 
 Peer coaching during Tamil lesson.
-<img src="/images/mt7.jpeg" 
-     style="width:65%">
+<img src="/images/mt7.jpeg" style="width:65%">
 
-
-#### Mother Tongue Support Programme
-
-  
-* [MTSP Briefing for parents 2021] (LINK VIDEO HERE)
