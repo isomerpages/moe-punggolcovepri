@@ -4,6 +4,8 @@ permalink: /for-parents/school-booklist/
 description: ""
 variant: markdown
 ---
+### School Booklist for Year 2024
+
 <ul class="jekyllcodex_accordion">
 	  <li>
     <input type="checkbox" id="accordion1">
