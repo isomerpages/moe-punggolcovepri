@@ -30,14 +30,17 @@ variant: markdown
     <input type="checkbox" id="accordion1">
     <label for="accordion1">P4 (Y2024) BOOKLIST</label>
     <div>
-      <p>Please click <a href="https://go.gov.sg/2023pcpsp1booklist" target="_blank" rel="noopener">here</a> for P4 (Y2024) Booklist</p>
+			 <p>Please click <a href="https://go.gov.sg/2024p4booklist" target="_blank" rel="noopener">here</a> for P4 (Y2024) Booklist</p>
+      <p>Please click <a href="https://go.gov.sg/2024p4hmt" target="_blank" rel="noopener">here</a> for P4 Higher MT (Y2024) Booklist</p>
     </div>
 	</li>  
 	  <li>
     <input type="checkbox" id="accordion1">
     <label for="accordion1">P5 (Y2024) BOOKLIST</label>
     <div>
-      <p>Please click <a href="https://go.gov.sg/2023pcpsp1booklist" target="_blank" rel="noopener">here</a> for P5 (Y2024) Booklist</p>
+        <div>
+      <p>Please click <a href="https://go.gov.sg/2024p5fdn" target="_blank" rel="noopener">here</a> for P5 Foundation (Y2024) Booklist<br>Please click <a href="https://go.gov.sg/2024p5hmt" target="_blank" rel="noopener">here</a> for P5 Higher MT (Y2024) Booklist<br>Please click <a href="https://go.gov.sg/2024p5stdmt" target="_blank" rel="noopener">here</a> for P5 Standard MT (Y2024) Booklist</p>
+    </div>
     </div>
 	</li>  
 	 	<li>
