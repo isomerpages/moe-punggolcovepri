@@ -23,16 +23,16 @@ variant: markdown
     <input type="checkbox" id="accordion1">
     <label for="accordion1">P3 (Y2024) BOOKLIST</label>
     <div>
-      <p>Please click <a href="https://go.gov.sg/2024p3booklist" target="_blank" rel="noopener">here</a> for P3 (Y2024) Booklist</p>
-			  <p>Please click <a href="https://go.gov.sg/2024p3hmt" target="_blank" rel="noopener">here</a> for P3 (Y2024) Higher MT Booklist</p>
+      <p>Please click <a href="https://go.gov.sg/2024p3booklist" target="_blank" rel="noopener">here</a> for P3 (Y2024) Booklist<br>
+			  Please click <a href="https://go.gov.sg/2024p3hmt" target="_blank" rel="noopener">here</a> for P3 (Y2024) Higher MT Booklist</p>
     </div>
 	</li>  
 	  <li>
     <input type="checkbox" id="accordion1">
     <label for="accordion1">P4 (Y2024) BOOKLIST</label>
     <div>
-			 <p>Please click <a href="https://go.gov.sg/2024p4booklist" target="_blank" rel="noopener">here</a> for P4 (Y2024) Booklist</p>
-      <p>Please click <a href="https://go.gov.sg/2024p4hmt" target="_blank" rel="noopener">here</a> for P4 Higher MT (Y2024) Booklist</p>
+			 <p>Please click <a href="https://go.gov.sg/2024p4booklist" target="_blank" rel="noopener">here</a> for P4 (Y2024) Booklist<br>
+      Please click <a href="https://go.gov.sg/2024p4hmt" target="_blank" rel="noopener">here</a> for P4 Higher MT (Y2024) Booklist</p>
     </div>
 	</li>  
 	  <li>
