@@ -2,8 +2,51 @@
 title: School Booklist
 permalink: /for-parents/school-booklist/
 description: ""
+variant: markdown
 ---
 <ul class="jekyllcodex_accordion">
+	  <li>
+    <input type="checkbox" id="accordion1">
+    <label for="accordion1">P1 (Y2024) BOOKLIST</label>
+    <div>
+      <p>Please click <a href="https://go.gov.sg/2023pcpsp1booklist" target="_blank" rel="noopener">here</a> for P1 (Y2023) Booklist</p>
+    </div>
+	</li>  
+	  <li>
+    <input type="checkbox" id="accordion1">
+    <label for="accordion1">P2 (Y2024) BOOKLIST</label>
+    <div>
+      <p>Please click <a href="https://go.gov.sg/2023pcpsp1booklist" target="_blank" rel="noopener">here</a> for P1 (Y2023) Booklist</p>
+    </div>
+	</li>  
+	  <li>
+    <input type="checkbox" id="accordion1">
+    <label for="accordion1">P3 (Y2024) BOOKLIST</label>
+    <div>
+      <p>Please click <a href="https://go.gov.sg/2023pcpsp1booklist" target="_blank" rel="noopener">here</a> for P1 (Y2023) Booklist</p>
+    </div>
+	</li>  
+	  <li>
+    <input type="checkbox" id="accordion1">
+    <label for="accordion1">P4 (Y2024) BOOKLIST</label>
+    <div>
+      <p>Please click <a href="https://go.gov.sg/2023pcpsp1booklist" target="_blank" rel="noopener">here</a> for P1 (Y2023) Booklist</p>
+    </div>
+	</li>  
+	  <li>
+    <input type="checkbox" id="accordion1">
+    <label for="accordion1">P5 (Y2024) BOOKLIST</label>
+    <div>
+      <p>Please click <a href="https://go.gov.sg/2023pcpsp1booklist" target="_blank" rel="noopener">here</a> for P1 (Y2023) Booklist</p>
+    </div>
+	</li>  
+	  <li>
+    <input type="checkbox" id="accordion1">
+    <label for="accordion1">P6 (Y2024) BOOKLIST</label>
+    <div>
+      <p>Please click <a href="https://go.gov.sg/2023pcpsp1booklist" target="_blank" rel="noopener">here</a> for P1 (Y2023) Booklist</p>
+    </div>
+	</li>  
   <li>
     <input type="checkbox" id="accordion1">
     <label for="accordion1">P1 (Y2023) BOOKLIST</label>
