@@ -40,7 +40,7 @@ variant: markdown
       <p>Please click <a href="https://go.gov.sg/2023pcpsp1booklist" target="_blank" rel="noopener">here</a> for P5 (Y2024) Booklist</p>
     </div>
 	</li>  
-	 		<li>
+	 	<li>
     <input type="checkbox" id="accordion6">
     <label for="accordion6">P6 (Y2024) BOOKLIST</label>
     <div>
