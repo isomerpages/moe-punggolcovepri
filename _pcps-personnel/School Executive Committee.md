@@ -31,17 +31,17 @@ variant: markdown
     <td class="tg-uarv">Principal</td>
     <td class="tg-uarv">punggolcove_ps@moe.edu.sg</td>
   </tr>
-  <tr>
-    <td class="tg-uarv">Mr Andrew Chong </td>
-    <td class="tg-uarv">Vice-Principal</td>
-    <td class="tg-uarv">punggolcove_ps@moe.edu.sg</td>
-  </tr>
-	  <tr>
+	 <tr>
     <td class="tg-7qt1">Ms Cai Xirui <br></td>
     <td class="tg-7qt1">Vice-Principal </td>
     <td class="tg-7qt1">punggolcove_ps@moe.edu.sg</td>
   </tr>
   <tr>
+    <td class="tg-uarv">Mr Andrew Chong Wenyi </td>
+    <td class="tg-uarv">Vice-Principal</td>
+    <td class="tg-uarv">punggolcove_ps@moe.edu.sg</td>
+  </tr>
+	  <tr>
     <td class="tg-7qt1">Ms Chng Shi Hua</td>
     <td class="tg-7qt1">Vice-Principal (Admin)</td>
     <td class="tg-7qt1">punggolcove_ps@moe.edu.sg</td>
