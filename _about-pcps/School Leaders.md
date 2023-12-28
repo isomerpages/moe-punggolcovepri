@@ -30,6 +30,25 @@ variant: markdown
 
 #### ABOUT THE VICE-PRINCIPAL
 
+<img src="/images/ms%20cai.jpg" style="width:30%" align="left">
+
+<br>
+<br>
+<br>
+
+<p style="font-size:30px"><b>Ms Cai Xirui</b></p>  
+<p style="font-size:20px">BECE (Hons), PGDE (Sec)</p>  
+
+<br>
+
+<p style="font-size:18px">Ms Cai Xirui was appointed Vice-Principal at Punggol Cove Primary School on 15 December 2022. She started out as a teacher in Victoria Junior College (VJC) in 2005. Ms Cai served as Subject Head for Project Work from 2008 to 2011, before holding the post of Head of Department for Project Work from 2012 to 2022. During her years at VJC, she taught ‘A’ Level Physics and ‘A’ Level Project Work to the students in the junior college section, and Physics to students in the Victoria Integrated Programme. She was also involved in leading a team of teachers to develop a set of rubrics for the evaluation of 21st Century Competencies (21CCs) in the total curriculum. </p>
+
+<p style="font-size:18px">During her stint as HOD (PW), Ms Cai and her department guided students through their coursework-based ‘A’ Level Project Work Examination using the Design Thinking approach. Design Thinking is a human-centred approach which places the user at the core of the problem definition, as well as the creative thinking process. In a world where problems are increasingly complex, being sensitive to human needs, and working collaboratively with others, through empathy, mindfulness and care, are essential. </p>
+
+<p style="font-size:18px">Ms Cai strongly believes in the need for students to have opportunities and guidance to hone their 21CCs. She hopes that through both the academic and non-academic programme at PCPS, as well as partnership with parents and important stakeholders, students will have experiences which enable them to grow holistically. As they develop to become concerned citizens, the students can then serve and lead, both themselves as well as their communities, with purpose. </p>
+
+#### ABOUT THE VICE-PRINCIPAL
+
 <img src="/images/mr_andrew_chong_wenyi.jpg" style="width:30%" align="left"> 
 <br>
 <br>
@@ -75,21 +94,3 @@ variant: markdown
 <p style="font-size:18px">Ms Chng endeavours to continue to do her best and lead her team of Executive and Administrative Staff in ensuring strategic management of resources to support the delivery of holistic education, thereby enhancing the learning experiences of the students in Punggol Cove Primary School. </p>
 
 
-#### ABOUT THE VICE-PRINCIPAL
-
-<img src="/images/ms%20cai.jpg" style="width:30%" align="left">
-
-<br>
-<br>
-<br>
-
-<p style="font-size:30px"><b>Ms Cai Xirui</b></p>  
-<p style="font-size:20px">BECE (Hons), PGDE (Sec)</p>  
-
-<br>
-
-<p style="font-size:18px">Ms Cai Xirui was appointed Vice-Principal at Punggol Cove Primary School on 15 December 2022. She started out as a teacher in Victoria Junior College (VJC) in 2005. Ms Cai served as Subject Head for Project Work from 2008 to 2011, before holding the post of Head of Department for Project Work from 2012 to 2022. During her years at VJC, she taught ‘A’ Level Physics and ‘A’ Level Project Work to the students in the junior college section, and Physics to students in the Victoria Integrated Programme. She was also involved in leading a team of teachers to develop a set of rubrics for the evaluation of 21st Century Competencies (21CCs) in the total curriculum. </p>
-
-<p style="font-size:18px">During her stint as HOD (PW), Ms Cai and her department guided students through their coursework-based ‘A’ Level Project Work Examination using the Design Thinking approach. Design Thinking is a human-centred approach which places the user at the core of the problem definition, as well as the creative thinking process. In a world where problems are increasingly complex, being sensitive to human needs, and working collaboratively with others, through empathy, mindfulness and care, are essential. </p>
-
-<p style="font-size:18px">Ms Cai strongly believes in the need for students to have opportunities and guidance to hone their 21CCs. She hopes that through both the academic and non-academic programme at PCPS, as well as partnership with parents and important stakeholders, students will have experiences which enable them to grow holistically. As they develop to become concerned citizens, the students can then serve and lead, both themselves as well as their communities, with purpose. </p>
