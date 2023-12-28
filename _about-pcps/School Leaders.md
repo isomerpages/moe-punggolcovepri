@@ -2,6 +2,7 @@
 title: School Leaders
 permalink: /about-pcps/school-leaders/
 description: ""
+variant: markdown
 ---
 #### ABOUT THE PRINCIPAL
 
@@ -29,14 +30,13 @@ description: ""
 
 #### ABOUT THE VICE-PRINCIPAL
 
-<img src="/images/Sharon.jpeg" style="width:30%" align="left">
-
+<img src="/images/mr_andrew_chong_wenyi.jpg" style="width:30%" align="left"> 
 <br>
 <br>
 <br>
 
-<p style="font-size:30px"><b>Ms Sharon Thia</b></p>  
-<p style="font-size:20px"> DipEd (Pri), BSc </p>
+<p style="font-size:30px"><b>Mr Andrew Chong Wenyi</b></p>  
+<p style="font-size:20px">BA (Hons), MA, MEd, PGDE(Sec)</p>
 <br>
 
 <p style="font-size:18px">Ms Sharon Thia was appointed Vice-Principal Designate on 23 March 2015. She started out as a teacher in St. Stephen’s School in 1995 and held the post of Head of Department for Mathematics from 2004 to 2011.  She was then appointed Vice-Principal in the same school in Dec 2011 till Mar 2015. </p>
