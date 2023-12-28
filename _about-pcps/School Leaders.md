@@ -39,16 +39,19 @@ variant: markdown
 <p style="font-size:20px">BA (Hons), MA, MEd, PGDE(Sec)</p>
 <br>
 
-<p style="font-size:18px">Ms Sharon Thia was appointed Vice-Principal Designate on 23 March 2015. She started out as a teacher in St. Stephen’s School in 1995 and held the post of Head of Department for Mathematics from 2004 to 2011.  She was then appointed Vice-Principal in the same school in Dec 2011 till Mar 2015. </p>
+<p style="font-size:18px">Mr Andrew Chong was awarded the Education Merit Scholarship by the Ministry of Education in 2002 and pursued his Bachelor of Arts and Masters of Arts at the University of Leeds under the scholarship.</p>
 
-<p style="font-size:18px">During her stint in St. Stephen’s School, she had taught students of varying abilities at all levels. She believes that students must learn how to learn as this is an essential life-long skill necessary for the future. </p>
+<p style="font-size:18px">Over the course of his career, he has worked with students from 7 to 18 years old. </p>
 
-<p style="font-size:18px">Ms Thia also believes that, like parents, teachers labour to form the minds and characters of students. This process enables both the teacher and student to grow as people. </p>
+<p style="font-size:18px">He started out his teaching career in 2009 in National Junior College, after graduating from the NIE PGDE (Secondary) programme as the Valedictorian. In NJC, he taught General Paper and Project work.  </p>
 
-<p style="font-size:18px"> Ms Thia would like to see that every student in Punggol Cove Primary is guided by strong moral values and grow to be men and women of sound character. Every student will be confident and equipped with the necessary skills to serve and to lead. </p>
+<p style="font-size:18px"> In 2012, he joined the Curriculum Policy Office in MOE HQ. He worked on areas like 21st Century Competencies and Junior College Curriculum Review, where he developed policies and worked with schools. For the good quality of work, he was awarded the MOE Service Excellence Award (Silver) in 2013.</p>
 
-<p style="font-size:18px"> Ms Thia strongly advocates the need to establish a strong partnership with parents and to work alongside parents to support their child’s learning and development in primary education. </p>
+<p style="font-size:18px">Upon completing his 2-year stint in CPO, Mr Chong went to the Ministry of Social and Family Development in 2014 as a Manager in the Family Development Group. He worked with other ministries and Volunteer Welfare Organisations to develop marriage preparation and support programmes for transnational families.</p>
 
+<p style="font-size:18px">In 2016, Mr Chong pursued his Masters in Education (Curriculum, Teaching and Learning) at the Institute of Education, University College London (UCL) under the MOE Postgraduate Scholarship. Upon completion of his Masters, he decided to go for Cross Level deployment and was posted to Opera Estate Primary School in 2017 as Level Head, English. He was subsequently appointed as Head of Department, English in 2019. As a testament to his strong leadership, he won the Inspiring Teacher of English - Leadership Award in 2020. He led the department in enhancing their teaching practices and the department won the Innergy Award (Bronze) in 2022 for their project on the use of “Dazzling Details” to enhance students’ writing.</p>
+
+<p style="font-size:18px">Mr Chong believes in empowering students with the skills to learn, as that ability to learn for life is critical in our ever-changing world. He also strongly believes in the importance of character and values education and that children should be given opportunities to serve others and give back to society. Guided by his firm beliefs that all students want to and can learn, he endeavours to ensure all students at Punggol Cove Primary are given opportunities to develop the skills and dispositions to thrive in the 21st Century.  </p>
 
 #### ABOUT THE VICE-PRINCIPAL (ADMINISTRATION)
 
