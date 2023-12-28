@@ -2,6 +2,7 @@
 title: School Executive Committee
 permalink: /pcps-personnel/school-executive-committee/
 description: ""
+variant: markdown
 ---
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
@@ -31,7 +32,7 @@ description: ""
     <td class="tg-uarv">punggolcove_ps@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-uarv">Ms Thia Hwei Ling Sharon </td>
+    <td class="tg-uarv">Mr Andrew Chong </td>
     <td class="tg-uarv">Vice-Principal</td>
     <td class="tg-uarv">punggolcove_ps@moe.edu.sg</td>
   </tr>
