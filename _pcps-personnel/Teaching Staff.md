@@ -259,7 +259,7 @@ variant: markdown
   </tr>
   <tr>
     <td>Ms Tan Sze Huey</td>
-     <td>Form Teacher<br>3 Jade<br> CL Teacher</td>
+     <td>Form Teacher<br>3 Pearl<br> CL Teacher</td>
 		 <td>tan_sze_huey@schools.gov.sg<br></td>
   </tr>
   <tr>
@@ -370,7 +370,7 @@ variant: markdown
   </tr>
     <tr>
     <td>Mrs Haider</td>
-   <td>Form Teacher<br>5 Pearl</td>
+   <td>Form Teacher<br>5 Pearl<br> TL Teacher</td>
     <td>shanthi_marimuthu@schools.gov.sg</td>
   </tr>
   <tr>
