@@ -2,44 +2,6 @@
 title: Principal's Message
 permalink: /about-pcps/permalink/
 description: ""
+variant: tiptap
 ---
-#### Dear Parents/Guardians and Partners,
-
-
-#### Greetings and Happy New Year to all!
-
-#### The year 2023 marks the new phase of growth for Punggol Cove Primary School with the change of school leadership. As I assume leadership of the school as its second Principal, I am appreciative of the pioneering work by my predecessor who had fostered a caring and empowering school culture and readied the school for the next stage of its development. It is my privilege to be given the opportunity to serve and contribute to our big family at Punggol Cove Primary and MK@Punggol Cove and build upon the good work done. Together with my staff and in collaboration with parents and stakeholders, we will bring out the best in every PCPS student.
-
-#### In Punggol Cove, we believe that \`Every Child is a Gift, is Gifted and is a Gift to the Community’.&nbsp; We are committed to value each \`Gift’ who has been entrusted upon us by our parents and to discover the gem in each of them. It is our mission to provide an inclusive learning environment where each child develops the confidence and dispositions to strive and thrive in his/her own rights. Through our mindful school programmes and experiences, we seek to ignite the joy of learning in the students, nurture the unique strengths and talents in every child and develop his/her potential to be a curious learner, critical thinker, an upright and empathetic contributor to the community.
-
-#### Braving the pandemic over the last 3 years, we are grateful to our staff who have been adaptable, open-minded and resilient in the face of uncertainties and stood together to ensure that learning continued and kept the school safe for all. Moving forward to live with Covid-19, we look forward to resume normalcy in our school programmes and learning experiences which are critical to the social development and mental wellness of our students. &nbsp;To meet the diverse needs of our students, our teachers continually upskill to enhance their subject mastery and pedagogical skills to design purposeful learning experiences that are authentic and relevant for our learners. We embrace partnerships with community and industry to extend the learning of our students and staff to broaden their horizons and perspectives
-
-#### We thank our School Advisory Committee, parents and partners for their understanding and support as they journeyed alongside the school since its inception. We look forward to their continued support and feedback as we work together as One PCPS to realise our desired outcomes to nurture the whole child and grow the future leader in every PCPS student.
-
-#### We wish one and all a Healthy, Engaging and Purposeful 2023!
-
-#### Yours in Education,
-
-#### Mrs Teo Whye Choo
-#### Principal 
-<img src="/images/mrs%20teo.jpg" style="width:30%" align="left">
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<blockquote style="border-left-color :black">
-	<h4 style="color:black">
-It’s what students do with what they learn when they can do what they want to do that is the real measure of educational achievement.
-<br><br>
-
-Elliot W. Eisner
-		</h4>
-</blockquote>
+<h4>Dear Parents/Guardians and Partners,</h4><h4>Happy New Year to all!</h4><h4>A warm welcome to our 2024 Primary One students, Kindergarten One students and all new students as well as their parents and guardians to our big PCPS family. We look forward to building strong home-school partnership with you as your child begins his/her learning adventure in PCPS.</h4><h4>In Punggol Cove Primary, we believe that `Every Child is a Gift, is Gifted and is a Gift to the Community’.&nbsp; We are committed to value this `Gift’ that you have entrusted upon us and to discover and polish the gem in your child. We seek to provide an inclusive learning environment where each child develops the intrinsic motivation and confidence to strive and thrive in his/her own unique way.</h4><h4>We stay true to our mission to nurturing the whole child and growing future-ready PCPS leaders through quality student-centric programmes, competent staff and purposeful partnerships with our parents and partners. Through our mindful school programmes and experiences, we ignite the joy of reading and learning in the students, nurture the unique strengths and talents in every child and develop his dispositions to be a curious learner, adaptive and inventive thinker, confident communicator, an upright and empathetic contributor to the school, community and the world.</h4><h4>Moving into its next phase of development, the school is set to embark on a journey to envision the future of teaching and learning in PCPS to prepare our students for a world full of uncertainties and complexities. While we continue to strengthen the foundation of literacy and numeracy, we are mindful to re-imagine what and how the students learn to equip them with the dispositions, socio-emotional and emerging 21st century competencies to be future-ready.</h4><h4>As facilitators and designers of learning experiences, our teachers continue to deepen their curriculum knowledge, pedagogical and assessment practices. They work in collaboration to plan and enact engaging and authentic lessons, differentiated to meet the needs of our diverse learners. We seek to extend and enrich our student and staff learning beyond the classroom through building sustained partnerships with the community and industries.</h4><h4>We are grateful to our School Advisory Committee, Parent Support Group, parents and partners for working in close partnership with the school to bring out the best in our students. We appreciate their trust in the school leadership and their unyielding support for the school directions and programmes. We look forward to yet another purposeful year in 2024 as we work together to bring about more exciting possibilities for our students in PCPS.</h4><h4></h4><h4>Yours in Education,</h4><h4>Mrs Teo Whye Choo</h4><h4>Principal</h4><div class="isomer-image-wrapper"><img style="width:30%" height="auto" width="100%" src="/images/mrs%20teo.jpg"></div><p><br><br><br></p><p><br><br></p><blockquote><h4>The only skill that will be important in the 21st century is the skill of learning new skills. Everything else will become obsolete over time.<br><br>Peter Drucker</h4><p></p></blockquote><p></p>
