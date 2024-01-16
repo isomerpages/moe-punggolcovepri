@@ -1,5 +1,5 @@
 collections:
-  malay-spelling-test:
+  malay-spelling-list:
     output: true
     order:
       - Primary 1/P1A MALAY LANGUAGE SPELLING LIST (TERM 1).md

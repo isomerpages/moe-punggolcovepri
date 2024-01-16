@@ -1,5 +1,5 @@
 collections:
-  english-spelling-test:
+  english-spelling-list:
     output: true
     order:
       - Primary 1.md
