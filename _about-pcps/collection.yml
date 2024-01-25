@@ -1,0 +1,16 @@
+collections:
+  about-pcps:
+    output: true
+    order:
+      - Principal's Message.md
+      - School Leaders.md
+      - School Advisory Committee.md
+      - Vision, Mission, Values, Motto.md
+      - School Strategic Framework.md
+      - School Crest.md
+      - School Song.md
+      - School Videos.md
+      - Our Facilities.md
+      - Our Location.md
+      - Privacy Statement.md
+      - Contact Us.md

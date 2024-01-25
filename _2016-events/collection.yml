@@ -1,0 +1,31 @@
+collections:
+  2016-events:
+    output: true
+    order:
+      - School–Based/.keep
+      - School–Based/P1 Transition Programme 2016.md
+      - School–Based/A Day at the Cove.md
+      - School–Based/NLB Storytelling.md
+      - School–Based/Kindness Week.md
+      - School–Based/Sports Day.md
+      - School–Based/Teacher's Day.md
+      - School–Based/Children's Day.md
+      - School–Based/EAS and NTS Appreciation Day.md
+      - School–Based/Promotion Day.md
+      - School–Based/P1 Orientation 2017.md
+      - Festive Celebration/.keep
+      - Festive Celebration/Chinese New Year Celebration.md
+      - Festive Celebration/Hari Raya Puasa Celebration.md
+      - Festive Celebration/Deepavali Celebration.md
+      - National Education/.keep
+      - National Education/Total Defence Day.md
+      - National Education/Racial Harmony Day.md
+      - National Education/International Friendship Day.md
+      - National Education/National Day.md
+      - Subject–Based/.keep
+      - Subject–Based/Aesthetics Week.md
+      - Subject–Based/Mother Tongue Cultural Day.md
+      - Subject–Based/English Fiesta.md
+      - Subject–Based/Mother Tongue Fortnight.md
+      - Learning Journeys/Singapore Zoo.md
+      - Learning Journeys/.keep

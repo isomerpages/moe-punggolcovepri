@@ -1,0 +1,12 @@
+collections:
+  english-spelling-list:
+    output: true
+    order:
+      - Primary 1.md
+      - Primary 2.md
+      - Primary 3.md
+      - Primary 4.md
+      - Primary 5 Standard English.md
+      - Primary 5 Foundation English.md
+      - Primary 6 Standard English.md
+      - Primary 6 Foundation English.md
