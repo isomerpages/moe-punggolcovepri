@@ -22,6 +22,13 @@ sections:
           description: View all
           url: /resources/whats-happening-at-pcps/
   - infopic:
+      title: MOE Kindergarten @ Punggol Cove Open House 2024
+      id: infopic
+      button: Please click here for more information
+      url: https://staging-lite.d1koxr7t5evsnb.amplifyapp.com/mk-at-punggol-cove/staff-contact-list/
+      image: /images/MK_Open_House_01.jpg
+      alt: MK Open House 2024
+  - infopic:
       title: School Calendar
       subtitle: School Events
       description: PCPS Schedule
