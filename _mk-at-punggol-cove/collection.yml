@@ -2,6 +2,7 @@ collections:
   mk-at-punggol-cove:
     output: true
     order:
+      - MOE Kindergarten @ Punggol Cove Open House.md
       - Staff Contact List.md
       - Contact Us.md
       - MK Videos.md
