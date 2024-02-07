@@ -2,6 +2,7 @@
 title: MK Videos
 permalink: /mk-at-punggol-cove/mk-videos/
 description: ""
+variant: markdown
 ---
 ### MK TOTAL CURRICULUM
 
@@ -10,4 +11,3 @@ description: ""
 ### MK LEARNING ENVIRONMENT
 
 (embed video here)
-
