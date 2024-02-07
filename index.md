@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: For Teachers
           description: Useful Links
-          url: /useful-links/teachers/
+          url: /useful-links/permalink/teachers/
         - title: For Students
           description: Useful Links
           url: /useful-links/students/
