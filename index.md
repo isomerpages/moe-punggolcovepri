@@ -9,9 +9,6 @@ sections:
   - hero:
       background: /images/PCPS Animation GIF.gif
       key_highlights:
-        - title: For Parents
-          description: Useful Links
-          url: /useful-links/parents/
         - title: For Students
           description: Useful Links
           url: /useful-links/students/
@@ -21,6 +18,9 @@ sections:
         - title: What's Happening @ PCPS
           description: View all
           url: /resources/whats-happening-at-pcps/
+        - title: For Teachers
+          description: Useful Links
+          url: ""
   - infopic:
       title: MOE Kindergarten @ Punggol Cove Open House 2024
       id: infopic
