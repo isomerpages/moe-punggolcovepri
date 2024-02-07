@@ -1,5 +1,0 @@
-collections:
-  for-teachers:
-    output: true
-    order:
-      - For Teachers.md
