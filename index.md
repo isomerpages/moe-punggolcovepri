@@ -9,9 +9,6 @@ sections:
   - hero:
       background: /images/PCPS Animation GIF.gif
       key_highlights:
-        - title: For Teachers
-          description: Useful Links
-          url: /useful-links/permalink/teachers/
         - title: For Students
           description: Useful Links
           url: /useful-links/students/
