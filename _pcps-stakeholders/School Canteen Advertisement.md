@@ -41,7 +41,6 @@ school with an estimated school enrolment of 1690 students.</p>
 <p></p>
 <p><strong>Application Procedure</strong>
 </p>
-<p></p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Download and complete the application form. You may also request for a
