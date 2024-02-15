@@ -33,7 +33,7 @@ description: ""
 </tbody>
 </table>
 <p></p>
-<p><strong>Introduction</strong>
+<p><strong>Introduction</strong> 
 <br>We are looking for a stallholder to operate a Chinese Noodle Stall in
 our school canteen with effect from late March 2024. We are a single session
 school with an estimated school enrolment of 1690 students.</p>
@@ -44,7 +44,7 @@ school with an estimated school enrolment of 1690 students.</p>
 <li>
 <p>Download and complete the application form. You may also request for a
 hardcopy from the School’s General Office.</p>
-<p><a href="https://go.gov.sg/pcps-canteen-application-form" rel="noopener noreferrer nofollow" target="_blank">Application Form</a>
+<p><a href="https://go.gov.sg/pcps-canteen-application-form" rel="noopener noreferrer nofollow" target="_blank">Application Form</a> 
 <br>
 <br>
 </p>
