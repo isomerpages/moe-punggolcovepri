@@ -47,7 +47,7 @@ description: ""
 <p>Primary 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/pcps2024044" rel="noopener noreferrer nofollow" target="_blank">P2 Curriculum Briefing 2024</a>
+<p><a href="https://go.gov.sg/pcps2024p2curriculumbriefing" rel="noopener noreferrer nofollow" target="_blank">P2 Curriculum Briefing 2024</a>
 </p>
 </td>
 </tr>
