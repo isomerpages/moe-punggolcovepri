@@ -47,7 +47,8 @@ school with an estimated school enrolment of 1690 students.</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Download and complete the application form. You may also request for a
-hardcopy from the School’s General Office. [hyperlink to download form].</p>
+hardcopy from the School’s General Office. <a href="https://go.gov.sg/pcps-canteen-application-form" rel="noopener noreferrer nofollow" target="_blank">Application Form</a>
+</p>
 <p></p>
 </li>
 <li>
