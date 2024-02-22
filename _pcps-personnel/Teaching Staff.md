@@ -321,7 +321,7 @@ variant: tiptap
 <br>2 Coral</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>sharmini_kesavamoorthy@schools.gov.sg</p>
+<p>sharmini_kesevamoorthy@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
