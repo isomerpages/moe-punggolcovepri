@@ -89,10 +89,11 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Primary 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://go.gov.sg/pcps2024adayatthecove" rel="noopener noreferrer nofollow" target="_blank">A Day At The Cove Primary 1 &amp; Parents Briefing on Cyber Wellness</a>
+</p>
 </td>
 </tr>
 </tbody>
