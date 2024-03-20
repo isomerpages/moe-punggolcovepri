@@ -568,6 +568,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Chong Jun Wei</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher
+<br>3 Emerald</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>chong_jun_wei@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Lu Jie</p>
 </td>
 <td rowspan="1" colspan="1">
