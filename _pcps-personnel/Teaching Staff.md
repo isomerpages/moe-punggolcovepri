@@ -415,6 +415,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Chew Min Xuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher
+<br>2 Jade</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>chew_min_xuan@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Victoria Lee</p>
 </td>
 <td rowspan="1" colspan="1">
