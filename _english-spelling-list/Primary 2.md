@@ -98,4 +98,80 @@ variant: tiptap
 </tbody>
 </table>
 <h3>PRIMARY 2 ENGLISH SPELLING AND DICTATION TERM 2</h3>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Week</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Quizlet Link</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Spelling and Dictation 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Spelling and Dictation 3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Spelling and Dictation 4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Spelling and Dictation 5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Spelling and Dictation 6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Spelling and Dictation 7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Spelling and Dictation 8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Spelling and Dictation 9</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
