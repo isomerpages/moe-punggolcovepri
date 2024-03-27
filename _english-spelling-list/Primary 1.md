@@ -12,12 +12,12 @@ variant: tiptap
 <table>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
+<td rowspan="1" colspan="1">
+<p>Week</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Quizlet Link</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
