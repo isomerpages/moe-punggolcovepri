@@ -24,7 +24,7 @@ variant: tiptap
 <p>Spelling and Dictation 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://quizlet.com/315076148/pcps-p1-term-2-english-spelling-week-3-flash-cards/?i=1c2gxb&amp;x=1jqt" rel="noopener noreferrer" target="_blank">Term 2 Week 2</a>
+<p><a href="https://quizlet.com/315075507/pcps-p1-term-2-english-spelling-week-2-flash-cards/?i=1c2gxb&amp;x=1jqt" rel="noopener noreferrer" target="_blank">Term 2 Week 2</a>
 </p>
 </td>
 </tr>
