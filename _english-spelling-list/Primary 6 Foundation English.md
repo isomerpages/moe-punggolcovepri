@@ -4,4 +4,126 @@ permalink: /english-spelling-test/p6-foundation-english/
 description: ""
 variant: tiptap
 ---
-<h3>PRIMARY 6 FOUNDATION ENGLISH SPELLING AND DICTATION TERM 1</h3><table><tbody><tr><td rowspan="1" colspan="1"><p>Week</p></td><td rowspan="1" colspan="1"><p>Quizlet Link</p></td></tr><tr><td rowspan="1" colspan="1"><p>Spelling and Dictation 1</p></td><td rowspan="1" colspan="1"><p><a href="https://quizlet.com/_98v349?x=1jqt&amp;i=1c2gxb" rel="noopener noreferrer" target="_blank">Term 1 Week 1</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>Spelling and Dictation 2</p></td><td rowspan="1" colspan="1"><p><a href="https://quizlet.com/_98v646?x=1jqt&amp;i=1c2gxb" rel="noopener noreferrer" target="_blank">Term 1 Week 2</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>Spelling and Dictation 3</p></td><td rowspan="1" colspan="1"><p><a href="https://quizlet.com/_98v6a3?x=1jqt&amp;i=1c2gxb" rel="noopener noreferrer" target="_blank">Term 1 Week 3</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>No Spelling</p></td><td rowspan="1" colspan="1"><p>Term 1 Week 5</p></td></tr><tr><td rowspan="1" colspan="1"><p>Spelling and Dictation 5</p></td><td rowspan="1" colspan="1"><p><a href="https://quizlet.com/_98v7p2?x=1jqt&amp;i=1c2gxb" rel="noopener noreferrer" target="_blank">Term 1 Week 5</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>Spelling and Dictation 6</p></td><td rowspan="1" colspan="1"><p><a href="https://quizlet.com/_98v8hd?x=1jqt&amp;i=1c2gxb" rel="noopener noreferrer" target="_blank">Term 1 Week 6</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>Spelling and Dictation 7</p></td><td rowspan="1" colspan="1"><p><a href="https://quizlet.com/_98v8va?x=1jqt&amp;i=1c2gxb" rel="noopener noreferrer" target="_blank">Term 1 Week 7</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>Spelling and Dictation 8</p></td><td rowspan="1" colspan="1"><p><a href="https://quizlet.com/_98v98t?x=1jqt&amp;i=1c2gxb" rel="noopener noreferrer" target="_blank">Term 1 Week 8</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>Spelling and Dictation 9</p></td><td rowspan="1" colspan="1"><p><a href="https://quizlet.com/_98v9qd?x=1jqt&amp;i=1c2gxb" rel="noopener noreferrer nofollow" target="_blank">Term 1 Week 9</a></p></td></tr></tbody></table><p></p>
+<h3>PRIMARY 6 FOUNDATION ENGLISH SPELLING AND DICTATION TERM 1</h3>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Week</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Quizlet Link</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Spelling and Dictation 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://quizlet.com/_98v349?x=1jqt&amp;i=1c2gxb" rel="noopener noreferrer" target="_blank">Term 1 Week 1</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Spelling and Dictation 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://quizlet.com/_98v646?x=1jqt&amp;i=1c2gxb" rel="noopener noreferrer" target="_blank">Term 1 Week 2</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Spelling and Dictation 3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://quizlet.com/_98v6a3?x=1jqt&amp;i=1c2gxb" rel="noopener noreferrer" target="_blank">Term 1 Week 3</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>No Spelling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Term 1 Week 5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Spelling and Dictation 5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://quizlet.com/_98v7p2?x=1jqt&amp;i=1c2gxb" rel="noopener noreferrer" target="_blank">Term 1 Week 5</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Spelling and Dictation 6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://quizlet.com/_98v8hd?x=1jqt&amp;i=1c2gxb" rel="noopener noreferrer" target="_blank">Term 1 Week 6</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Spelling and Dictation 7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://quizlet.com/_98v8va?x=1jqt&amp;i=1c2gxb" rel="noopener noreferrer" target="_blank">Term 1 Week 7</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Spelling and Dictation 8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://quizlet.com/_98v98t?x=1jqt&amp;i=1c2gxb" rel="noopener noreferrer" target="_blank">Term 1 Week 8</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Spelling and Dictation 9</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://quizlet.com/_98v9qd?x=1jqt&amp;i=1c2gxb" rel="noopener noreferrer nofollow" target="_blank">Term 1 Week 9</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h3>PRIMARY 6 FOUNDATION ENGLISH SPELLING AND DICTATION TERM 2</h3>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Week</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Quizlet Link</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
