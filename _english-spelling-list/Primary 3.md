@@ -131,7 +131,7 @@ variant: tiptap
 <p>Spelling and Dictation 5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://quizlet.com/_5niu9g?x=1jqt&amp;i=1c2gxb" rel="noopener noreferrer" target="_blank">Term 2 Week 2</a>
+<p><a href="https://quizlet.com/341869274/pcps-p3-term-2-english-spelling-week-5-flash-cards/?i=1c2gxb&amp;x=1jqt" rel="noopener noreferrer" target="_blank">Term 2 Week 5</a>
 </p>
 </td>
 </tr>
@@ -140,7 +140,7 @@ variant: tiptap
 <p>Spelling and Dictation 6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://quizlet.com/_5niu9g?x=1jqt&amp;i=1c2gxb" rel="noopener noreferrer" target="_blank">Term 2 Week 2</a>
+<p><a href="https://quizlet.com/572170081/pcps-p3-term-2-english-spelling-week-6-flash-cards/?i=1c2gxb&amp;x=1jqt" rel="noopener noreferrer" target="_blank">Term 2 Week 6</a>
 </p>
 </td>
 </tr>
@@ -149,7 +149,7 @@ variant: tiptap
 <p>Spelling and Dictation 7</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://quizlet.com/_5niu9g?x=1jqt&amp;i=1c2gxb" rel="noopener noreferrer" target="_blank">Term 2 Week 2</a>
+<p><a href="https://quizlet.com/784751141/pcps-p3-term-2-week-7-flash-cards/?i=1c2gxb&amp;x=1jqt" rel="noopener noreferrer" target="_blank">Term 2 Week 7</a>
 </p>
 </td>
 </tr>
@@ -166,10 +166,10 @@ variant: tiptap
 <p>Spelling and Dictation 9</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://quizlet.com/_5niu9g?x=1jqt&amp;i=1c2gxb" rel="noopener noreferrer" target="_blank">Term 2 Week 2</a>
+<p><a href="https://quizlet.com/572173250/pcps-p3-term-2-week-9-flash-cards/?i=1c2gxb&amp;x=1jqt" rel="noopener noreferrer" target="_blank">Term 2 Week 9</a>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>5</p>
