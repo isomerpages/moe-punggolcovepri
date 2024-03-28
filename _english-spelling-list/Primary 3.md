@@ -92,27 +92,83 @@ variant: tiptap
 <table>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Week</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Quizlet Link</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Spelling and Dictation 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://quizlet.com/_5niu9g?x=1jqt&amp;i=1c2gxb" rel="noopener noreferrer" target="_blank">Term 2 Week 2</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Spelling and Dictation 3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://quizlet.com/_5niu9g?x=1jqt&amp;i=1c2gxb" rel="noopener noreferrer" target="_blank">Term 2 Week 2</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Spelling and Dictation 4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://quizlet.com/_5niu9g?x=1jqt&amp;i=1c2gxb" rel="noopener noreferrer" target="_blank">Term 2 Week 2</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Spelling and Dictation 5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://quizlet.com/_5niu9g?x=1jqt&amp;i=1c2gxb" rel="noopener noreferrer" target="_blank">Term 2 Week 2</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Spelling and Dictation 6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://quizlet.com/_5niu9g?x=1jqt&amp;i=1c2gxb" rel="noopener noreferrer" target="_blank">Term 2 Week 2</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Spelling and Dictation 7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://quizlet.com/_5niu9g?x=1jqt&amp;i=1c2gxb" rel="noopener noreferrer" target="_blank">Term 2 Week 2</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Spelling and Dictation 8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://quizlet.com/_5niu9g?x=1jqt&amp;i=1c2gxb" rel="noopener noreferrer" target="_blank">Term 2 Week 2</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Spelling and Dictation 9</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://quizlet.com/_5niu9g?x=1jqt&amp;i=1c2gxb" rel="noopener noreferrer" target="_blank">Term 2 Week 2</a>
+</p>
 </td>
 </tr>
 </tbody>
