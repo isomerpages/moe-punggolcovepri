@@ -113,88 +113,68 @@ variant: tiptap
 <p>Spelling and Dictation 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://quizlet.com/_5njn16?x=1jqt&amp;i=1c2gxb" rel="noopener noreferrer nofollow" target="_blank">Term 2 Week 2</a>
+<p><a href="https://quizlet.com/784725948/pcps-p4-term-2-week-2-spelling-flash-cards/?i=1c2gxb&amp;x=1jqt" rel="noopener noreferrer nofollow" target="_blank">Term 2 Week 2</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Spelling and Dictation 2</p>
+<p>Spelling and Dictation 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://quizlet.com/_5njn16?x=1jqt&amp;i=1c2gxb" rel="noopener noreferrer nofollow" target="_blank">Term 1 Week 2</a>
+<p><a href="https://quizlet.com/343240819/pcps-p4-term-2-english-spelling-week-3-flash-cards/?i=1c2gxb&amp;x=1jqt" rel="noopener noreferrer nofollow" target="_blank">Term 2 Week 3</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Spelling and Dictation 2</p>
+<p>Spelling and Dictation 4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://quizlet.com/_5njn16?x=1jqt&amp;i=1c2gxb" rel="noopener noreferrer nofollow" target="_blank">Term 1 Week 2</a>
+<p><a href="https://quizlet.com/576232963/pcps-p4-el-spelling-term-2-week-4-flash-cards/?i=1c2gxb&amp;x=1jqt" rel="noopener noreferrer nofollow" target="_blank">Term 2 Week 4</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Spelling and Dictation 2</p>
+<p>Spelling and Dictation 5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://quizlet.com/_5njn16?x=1jqt&amp;i=1c2gxb" rel="noopener noreferrer nofollow" target="_blank">Term 1 Week 2</a>
+<p><a href="https://quizlet.com/896964742/pcps-p4-term-2-english-spelling-week-5-flash-cards/?i=1c2gxb&amp;x=1qqt" rel="noopener noreferrer nofollow" target="_blank">Term 2 Week 5</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Spelling and Dictation 2</p>
+<p>Spelling and Dictation 6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://quizlet.com/_5njn16?x=1jqt&amp;i=1c2gxb" rel="noopener noreferrer nofollow" target="_blank">Term 1 Week 2</a>
+<p><a href="https://quizlet.com/343249350/pcps-p4-term-2-english-spelling-week-6-flash-cards/?i=1c2gxb&amp;x=1jqt" rel="noopener noreferrer nofollow" target="_blank">Term 2 Week 6</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Spelling and Dictation 2</p>
+<p>Spelling and Dictation 7</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://quizlet.com/_5njn16?x=1jqt&amp;i=1c2gxb" rel="noopener noreferrer nofollow" target="_blank">Term 1 Week 2</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Spelling and Dictation 2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://quizlet.com/_5njn16?x=1jqt&amp;i=1c2gxb" rel="noopener noreferrer nofollow" target="_blank">Term 1 Week 2</a>
-</p>
+<p>No Spelling</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Spelling and Dictation 2</p>
+<p>Spelling and Dictation 8</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://quizlet.com/_5njn16?x=1jqt&amp;i=1c2gxb" rel="noopener noreferrer nofollow" target="_blank">Term 1 Week 2</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Spelling and Dictation 2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://quizlet.com/_5njn16?x=1jqt&amp;i=1c2gxb" rel="noopener noreferrer nofollow" target="_blank">Term 1 Week 2</a>
-</p>
+<p>No Spelling</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Spelling and Dictation 2</p>
+<p>Spelling and Dictation 9</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://quizlet.com/_5njn16?x=1jqt&amp;i=1c2gxb" rel="noopener noreferrer nofollow" target="_blank">Term 1 Week 2</a>
+<p><a href="https://quizlet.com/784736225/pcps-p4-term-2-week-9-flash-cards/?i=1c2gxb&amp;x=1jqt" rel="noopener noreferrer nofollow" target="_blank">Term 2 Week 9</a>
 </p>
 </td>
 </tr>
