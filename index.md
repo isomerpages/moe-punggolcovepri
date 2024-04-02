@@ -17,5 +17,5 @@ sections:
           url: /resources/whats-happening-at-pcps/
         - title: Calendar of Events
           description: ""
-          url: ""
+          url: /calendar-of-events/
 ---
