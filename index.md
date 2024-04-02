@@ -10,12 +10,12 @@ sections:
       background: /images/PCPS Animation GIF.gif
       key_highlights:
         - title: News & Announcement
-          description: View All
+          description: ""
           url: /resources/news-and-announcements/
         - title: What's Happening @ PCPS
-          description: View all
+          description: ""
           url: /resources/whats-happening-at-pcps/
         - title: Calendar of Events
-          description: Key Highlight description
+          description: ""
           url: ""
 ---
