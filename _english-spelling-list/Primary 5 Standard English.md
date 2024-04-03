@@ -105,7 +105,7 @@ variant: tiptap
 <p>P5 Standard T2 Spelling List 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://quizlet.com/896973530/primary-5-term-2-spelling-list-1-flash-cards/?i=1c2gxb&amp;x=1jqt" rel="noopener noreferrer nofollow" target="_blank">Term 2 Week 2</a>
+<p><a href="https://quizlet.com/896973530/primary-5-term-2-spelling-list-1-flash-cards/?i=1c2gxb&amp;x=1jqt" rel="noopener noreferrer nofollow" target="_blank">Spelling and Dictation 1</a>
 </p>
 </td>
 </tr>
@@ -114,7 +114,7 @@ variant: tiptap
 <p>P5 Standard T2 Spelling List 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://quizlet.com/895753957/primary-5-term-2-spelling-list-2-flash-cards/?i=1c2gxb&amp;x=1jqt" rel="noopener noreferrer nofollow" target="_blank">Term 2 Week 3</a>
+<p><a href="https://quizlet.com/895753957/primary-5-term-2-spelling-list-2-flash-cards/?i=1c2gxb&amp;x=1jqt" rel="noopener noreferrer nofollow" target="_blank">Spelling and Dictation 2</a>
 </p>
 </td>
 </tr>
@@ -123,7 +123,7 @@ variant: tiptap
 <p>P5 Standard T2 Spelling List 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://quizlet.com/896980904/primary-5-term-2-spelling-list-3-flash-cards/?i=1c2gxb&amp;x=1jqt" rel="noopener noreferrer nofollow" target="_blank">Term 2 Week 4</a>
+<p><a href="https://quizlet.com/896980904/primary-5-term-2-spelling-list-3-flash-cards/?i=1c2gxb&amp;x=1jqt" rel="noopener noreferrer nofollow" target="_blank">Spelling and Dictation 3</a>
 </p>
 </td>
 </tr>
@@ -132,7 +132,7 @@ variant: tiptap
 <p>P5 Standard T2 Spelling List 4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://quizlet.com/896983879/primary-5-term-2-spelling-list-4-flash-cards/?i=1c2gxb&amp;x=1jqt" rel="noopener noreferrer nofollow" target="_blank">Term 2 Week 5</a>
+<p><a href="https://quizlet.com/896983879/primary-5-term-2-spelling-list-4-flash-cards/?i=1c2gxb&amp;x=1jqt" rel="noopener noreferrer nofollow" target="_blank">Spelling and Dictation 4</a>
 </p>
 </td>
 </tr>
@@ -141,7 +141,7 @@ variant: tiptap
 <p>P5 Standard T2 Spelling List 5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://quizlet.com/896988231/primary-5-term-2-spelling-list-5-flash-cards/?i=1c2gxb&amp;x=1jqt" rel="noopener noreferrer nofollow" target="_blank">Term 2 Week 6</a>
+<p><a href="https://quizlet.com/896988231/primary-5-term-2-spelling-list-5-flash-cards/?i=1c2gxb&amp;x=1jqt" rel="noopener noreferrer nofollow" target="_blank">Spelling and Dictation 5</a>
 </p>
 </td>
 </tr>
@@ -150,7 +150,7 @@ variant: tiptap
 <p>P5 Standard T2 Spelling List 6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://quizlet.com/896986819/primary-5-term-2-spelling-list-6-flash-cards/?i=1c2gxb&amp;x=1jqt" rel="noopener noreferrer nofollow" target="_blank">Term 2 Week 7</a>
+<p><a href="https://quizlet.com/896986819/primary-5-term-2-spelling-list-6-flash-cards/?i=1c2gxb&amp;x=1jqt" rel="noopener noreferrer nofollow" target="_blank">Spelling and Dictation 6</a>
 </p>
 </td>
 </tr>
@@ -159,7 +159,7 @@ variant: tiptap
 <p>P5 Standard T2 Spelling List 7</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://quizlet.com/868436022/primary-5-term-2-spelling-list-7-flash-cards/?i=1c2gxb&amp;x=1jqt" rel="noopener noreferrer nofollow" target="_blank">Term 2 Week 8</a>
+<p><a href="https://quizlet.com/868436022/primary-5-term-2-spelling-list-7-flash-cards/?i=1c2gxb&amp;x=1jqt" rel="noopener noreferrer nofollow" target="_blank">Spelling and Dictation 7</a>
 </p>
 </td>
 </tr>
