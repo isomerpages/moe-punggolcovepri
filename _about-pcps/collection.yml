@@ -2,7 +2,7 @@ collections:
   about-pcps:
     output: true
     order:
-      - Our People/Our People.md
+      - Our People/School Executive Committee.md
       - Our People/.keep
       - School Executive Committee.md
       - Principal's Message.md
