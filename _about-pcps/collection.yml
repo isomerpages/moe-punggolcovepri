@@ -3,9 +3,9 @@ collections:
     output: true
     order:
       - School Videos.md
-      - Our People/School Leaders Writeup.md
-      - Our People/School Executive Committee.md
       - Our People/.keep
+      - Our People/School Executive Committee.md
+      - Our People/School Leaders Writeup.md
       - Principal's Message.md
       - School Vision, Mission, Values, Motto.md
       - School Crest.md
