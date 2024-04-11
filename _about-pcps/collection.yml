@@ -2,8 +2,8 @@ collections:
   about-pcps:
     output: true
     order:
-      - School Executive/Our People.md
-      - School Executive/.keep
+      - Our People/Our People.md
+      - Our People/.keep
       - School Executive Committee.md
       - Principal's Message.md
       - School Vision, Mission, Values, Motto.md
