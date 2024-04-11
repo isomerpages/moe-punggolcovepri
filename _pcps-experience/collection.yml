@@ -2,7 +2,6 @@ collections:
   pcps-experience:
     output: true
     order:
-      - Departments and Committees/Character and Citizenship Education (CCE).md
       - Departments and Committees/Edtech and Media.md
       - Departments and Committees/English.md
       - Departments and Committees/Mathematics.md
