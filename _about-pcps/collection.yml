@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - School Videos.md
+      - Our People/School Leaders.md
       - Our People/School Executive Committee.md
       - Our People/.keep
       - Principal's Message.md
