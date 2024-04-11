@@ -2,16 +2,16 @@ collections:
   about-pcps:
     output: true
     order:
-      - School Videos.md
+      - Principal's Message.md
+      - Our People/.keep
       - Our People/School Executive Committee.md
       - Our People/Non–Teaching Staff.md
       - Our People/Learning Support Staff.md
       - Our People/Teaching Staff.md
-      - Our People/.keep
       - Our People/School Leaders Writeup.md
-      - Principal's Message.md
       - School Vision, Mission, Values, Motto.md
       - School Crest.md
+      - School Videos.md
       - School Song.md
       - School Strategic Framework.md
       - Our Facilities.md
