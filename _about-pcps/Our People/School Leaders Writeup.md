@@ -9,11 +9,6 @@ third_nav_title: Our People
 <div class="isomer-image-wrapper">
 <img style="width:30%" height="auto" width="100%" src="/images/mrs%20teo.jpg">
 </div>
-<p>
-<br>
-<br>
-<br>
-</p>
 <p><strong>Mrs Teo-Seah Whye Choo</strong>
 </p>
 <p>PPA (Silver), PBS BSc (Hons), MSc, PGDE (Sec)</p>
@@ -58,11 +53,6 @@ anchored on school values of Care, Empathy and Mindfulness.</p>
 <div class="isomer-image-wrapper">
 <img style="width:30%" height="auto" width="100%" src="/images/ms%20cai.jpg">
 </div>
-<p>
-<br>
-<br>
-<br>
-</p>
 <p><strong>Ms Cai Xirui</strong>
 </p>
 <p>BECE (Hons), PGDE (Sec)</p>
@@ -96,11 +86,6 @@ communities, with purpose.</p>
 <div class="isomer-image-wrapper">
 <img style="width:30%" height="auto" width="100%" src="/images/mr_andrew_chong_wenyi.jpg">
 </div>
-<p>
-<br>
-<br>
-<br>
-</p>
 <p><strong>Mr Andrew Chong Wenyi</strong>
 </p>
 <p>BA (Hons), MA, MEd, PGDE(Sec)</p>
@@ -146,11 +131,6 @@ in the 21st Century.</p>
 <div class="isomer-image-wrapper">
 <img style="width:30%" height="auto" width="100%" src="/images/PCPS_Ms%20Chng%20Shi%20Hua.jpeg">
 </div>
-<p>
-<br>
-<br>
-<br>
-</p>
 <p><strong>Ms Chng Shi Hua</strong>
 </p>
 <p>Vice-Principal (Administration)</p>
