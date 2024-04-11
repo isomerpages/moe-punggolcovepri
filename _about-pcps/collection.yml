@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Our People.md
-      - School Executive Committee/.keep
       - Principal's Message.md
       - School Vision, Mission, Values, Motto.md
       - School Crest.md
