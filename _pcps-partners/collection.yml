@@ -2,6 +2,7 @@ collections:
   pcps-partners:
     output: true
     order:
+      - For Students/Student Learning Space (SLS).md
       - For Students/.keep
       - School Advisory Committee.md
       - Parent Support Group/.keep
