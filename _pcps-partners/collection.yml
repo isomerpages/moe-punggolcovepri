@@ -2,9 +2,9 @@ collections:
   pcps-partners:
     output: true
     order:
-      - For Parents/Term Letter to Parents.md
-      - For Parents/Communication with Parents.md
       - For Parents/.keep
+      - For Parents/Communication with Parents.md
+      - For Parents/Term Letter to Parents.md
       - School Advisory Committee.md
       - Parent Support Group/.keep
       - Parent Support Group/Para on PSG.md
