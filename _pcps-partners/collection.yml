@@ -2,6 +2,7 @@ collections:
   pcps-partners:
     output: true
     order:
+      - Personnel for Student Wellbeing Matters.md
       - School Admission and Transfer/.keep
       - School Admission and Transfer/P1 Registration Exercise and PCPS Virtual
         Tour.md
