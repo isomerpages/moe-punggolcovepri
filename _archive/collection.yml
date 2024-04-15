@@ -2,5 +2,6 @@ collections:
   archive:
     output: true
     order:
+      - Contact Us.md
       - Our Location.md
       - Our Facilities.md
