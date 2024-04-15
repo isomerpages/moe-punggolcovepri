@@ -2,6 +2,8 @@ collections:
   pcps-partners:
     output: true
     order:
+      - School Admission and Transfer/P1 Registration Exercise and PCPS Virtual
+        Tour.md
       - School Admission and Transfer/.keep
       - General Information/.keep
       - General Information/School Booklists.md
