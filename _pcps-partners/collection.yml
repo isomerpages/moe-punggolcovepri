@@ -2,10 +2,10 @@ collections:
   pcps-partners:
     output: true
     order:
-      - For Students/Subject Downloads.md
-      - For Students/Home Based Learning (HBL).md
-      - For Students/Student Learning Space (SLS).md
       - For Students/.keep
+      - For Students/Student Learning Space (SLS).md
+      - For Students/Home Based Learning (HBL).md
+      - For Students/Subject Downloads.md
       - School Advisory Committee.md
       - Parent Support Group/.keep
       - Parent Support Group/Para on PSG.md
