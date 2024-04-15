@@ -2,6 +2,6 @@ collections:
   pcps-partners:
     output: true
     order:
-      - Parent Support Group/Link to sign up for PSG.md
-      - Parent Support Group/Para on PSG.md
       - Parent Support Group/.keep
+      - Parent Support Group/Para on PSG.md
+      - Parent Support Group/Link to sign up for PSG.md
