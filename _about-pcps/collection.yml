@@ -2,7 +2,7 @@ collections:
   about-pcps:
     output: true
     order:
-      - Our Facilities.md
+      - School Learning Environment.md
       - Principal's Message.md
       - Our People/.keep
       - Our People/School Executive Committee.md
