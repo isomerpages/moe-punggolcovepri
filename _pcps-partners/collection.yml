@@ -2,6 +2,7 @@ collections:
   pcps-partners:
     output: true
     order:
+      - General Information/DigitalAccess@Home.md
       - General Information/Financial Assistance Scheme.md
       - General Information/Informing School of Child's Sick Leave.md
       - General Information/Leaving School During School Hours.md
