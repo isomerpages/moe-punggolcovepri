@@ -2,6 +2,7 @@ collections:
   pcps-partners:
     output: true
     order:
+      - General Information/School Booklists.md
       - General Information/.keep
       - For Parents/.keep
       - For Parents/Communication with Parents.md
