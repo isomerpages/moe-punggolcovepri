@@ -2,6 +2,7 @@ collections:
   information:
     output: true
     order:
+      - Student Services Information/School Uniform.md
       - Student Services Information/.keep
       - Student Services Information/School Bookshop.md
       - Student Services Information/School Bus.md
