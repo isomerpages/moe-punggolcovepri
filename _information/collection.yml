@@ -2,6 +2,7 @@ collections:
   information:
     output: true
     order:
+      - Student Services Information/Student Care Centre @ PCPS.md
       - Student Services Information/.keep
       - Student Services Information/School Bookshop.md
       - Student Services Information/School Bus.md
