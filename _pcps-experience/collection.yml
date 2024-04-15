@@ -2,7 +2,6 @@ collections:
   pcps-experience:
     output: true
     order:
-      - English Language.md
       - Character and Citizenship Education (CCE).md
       - Departments and Committees/.keep
       - Departments and Committees/Mathematics.md
