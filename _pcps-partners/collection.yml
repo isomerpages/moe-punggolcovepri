@@ -2,7 +2,7 @@ collections:
   pcps-partners:
     output: true
     order:
-      - General Information/Information School of Child's Sick Leave.md
+      - General Information/Informing School of Child's Sick Leave.md
       - General Information/Leaving School During School Hours.md
       - General Information/School Booklists.md
       - General Information/.keep
