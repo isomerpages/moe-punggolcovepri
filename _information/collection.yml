@@ -2,6 +2,7 @@ collections:
   information:
     output: true
     order:
+      - School Hours/Snack Break Time.md
       - School Hours/Gate Opening Hours.md
       - School Hours/Recess Time.md
       - School Hours/.keep
