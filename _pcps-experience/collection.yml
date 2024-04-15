@@ -2,7 +2,7 @@ collections:
   pcps-experience:
     output: true
     order:
-      - Students.md
+      - For Students.md
       - Departments and Committees/.keep
       - Departments and Committees/English Language.md
       - Departments and Committees/Mathematics.md
