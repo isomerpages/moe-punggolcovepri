@@ -2,7 +2,6 @@ collections:
   pcps-experience:
     output: true
     order:
-      - Student Development/.keep
       - Departments and Committees/.keep
       - Departments and Committees/English Language.md
       - Departments and Committees/Mathematics.md
@@ -11,6 +10,7 @@ collections:
       - Departments and Committees/Physical Education, Art and Music (PAM).md
       - Departments and Committees/Edtech and Media.md
       - Departments and Committees/Media Resource Library.md
+      - Student Development/.keep
       - Character and Citizenship Education (CCE).md
       - Co Curricular Activities/.keep
       - Co Curricular Activities/Co Curricular Activities (CCA).md
