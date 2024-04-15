@@ -2,7 +2,6 @@ collections:
   about-pcps:
     output: true
     order:
-      - School Learning Environment.md
       - Principal's Message.md
       - Our People/.keep
       - Our People/School Executive Committee.md
@@ -15,4 +14,5 @@ collections:
       - School Song.md
       - School Strategic Framework.md
       - School History.md
+      - School Learning Environment.md
       - Privacy Statement.md
