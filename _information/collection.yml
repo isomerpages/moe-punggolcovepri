@@ -2,6 +2,7 @@ collections:
   information:
     output: true
     order:
+      - School Safety Mission.md
       - School Safety Vision.md
       - School Hours/.keep
       - School Hours/School Hours.md
