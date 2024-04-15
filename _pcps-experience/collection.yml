@@ -2,9 +2,6 @@ collections:
   pcps-experience:
     output: true
     order:
-      - Cyber Wellness.md
-      - PAL.md
-      - ALP.md
       - Departments and Committees/.keep
       - Departments and Committees/English Language.md
       - Departments and Committees/Mathematics.md
@@ -22,6 +19,9 @@ collections:
       - Co Curricular Activities/CCA Framework and Policies.md
       - Co Curricular Activities/CCA Information.md
       - Co Curricular Activities/CCA Schedule.md
+      - ALP.md
+      - Cyber Wellness.md
+      - PAL.md
       - School Events/.keep
       - School Events/2022.md
       - School Events/2021.md
