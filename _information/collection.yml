@@ -2,7 +2,6 @@ collections:
   information:
     output: true
     order:
-      - School Hours.md
       - Recess Time.md
       - Gate Opening Hours.md
       - Snack Break Time.md
