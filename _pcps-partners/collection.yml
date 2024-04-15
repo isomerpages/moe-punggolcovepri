@@ -2,6 +2,7 @@ collections:
   pcps-partners:
     output: true
     order:
+      - For Parents/ICT Connect Newsletters.md
       - For Parents/.keep
       - For Parents/Communication with Parents.md
       - For Parents/Term Letter to Parents.md
