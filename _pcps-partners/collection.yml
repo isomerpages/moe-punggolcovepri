@@ -2,6 +2,7 @@ collections:
   pcps-partners:
     output: true
     order:
+      - School Advisory Committee.md
       - Parent Support Group/.keep
       - Parent Support Group/Para on PSG.md
       - Parent Support Group/Link to sign up for PSG.md
