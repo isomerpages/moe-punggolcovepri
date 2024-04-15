@@ -2,13 +2,6 @@ collections:
   information:
     output: true
     order:
-      - School Security.md
-      - School Carpark.md
-      - Bicycle Safety.md
-      - Bus Safety.md
-      - Road Safety.md
-      - School Safety Mission.md
-      - School Safety Vision.md
       - School Hours/.keep
       - School Hours/School Hours.md
       - School Hours/Recess Time.md
@@ -16,3 +9,10 @@ collections:
       - School Hours/Snack Break Time.md
       - School Rules and Regulations.md
       - School Safety & Security Management.md
+      - School Safety Vision.md
+      - School Safety Mission.md
+      - Road Safety.md
+      - Bus Safety.md
+      - Bicycle Safety.md
+      - School Carpark.md
+      - School Security.md
