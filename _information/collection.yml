@@ -2,7 +2,6 @@ collections:
   information:
     output: true
     order:
-      - School Bus Advertisement.md
       - School Hours/.keep
       - School Hours/School Hours.md
       - School Hours/Recess Time.md
@@ -26,3 +25,4 @@ collections:
       - Contact Us/.keep
       - Contact Us/Our Location.md
       - Contact Us/School Contact Details.md
+      - School Bus Advertisement.md
