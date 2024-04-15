@@ -2,12 +2,6 @@ collections:
   information:
     output: true
     order:
-      - Student Services Information/.keep
-      - Student Services Information/School Bookshop.md
-      - Student Services Information/School Bus.md
-      - Student Services Information/School Uniform.md
-      - Student Services Information/Student Care Centre @ PCPS.md
-      - Student Services Information/School Dental Clinic.md
       - School Hours/.keep
       - School Hours/School Hours.md
       - School Hours/Recess Time.md
@@ -22,3 +16,9 @@ collections:
       - Bicycle Safety.md
       - School Carpark.md
       - School Security.md
+      - Student Services Information/.keep
+      - Student Services Information/School Bookshop.md
+      - Student Services Information/School Bus.md
+      - Student Services Information/School Uniform.md
+      - Student Services Information/Student Care Centre @ PCPS.md
+      - Student Services Information/School Dental Clinic.md
