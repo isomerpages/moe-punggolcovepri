@@ -2,20 +2,21 @@ collections:
   pcps-experience:
     output: true
     order:
-      - Character and Citizenship Education (CCE).md
-      - Departments and Committees/English Language.md
       - Departments and Committees/.keep
+      - Departments and Committees/English Language.md
       - Departments and Committees/Mathematics.md
       - Departments and Committees/Mother Tongue Languages.md
       - Departments and Committees/Science.md
       - Departments and Committees/Physical Education, Art and Music (PAM).md
       - Departments and Committees/Edtech and Media.md
       - Departments and Committees/Media Resource Library.md
+      - Character and Citizenship Education (CCE).md
       - Co Curricular Activities/.keep
       - Co Curricular Activities/Co Curricular Activities (CCA).md
       - Co Curricular Activities/CCA Framework.md
       - Co Curricular Activities/CCA Teachers.md
       - Co Curricular Activities/CCA Schedule.md
+      - Events/.keep
       - Events/2022.md
       - Events/2021.md
       - Events/2020.md
@@ -24,8 +25,7 @@ collections:
       - Events/2017.md
       - Events/2016.md
       - Events/2015.md
-      - Events/.keep
+      - Programme/.keep
       - Programme/ALP.md
       - Programme/PAL.md
       - Programme/Cyber Wellness.md
-      - Programme/.keep
