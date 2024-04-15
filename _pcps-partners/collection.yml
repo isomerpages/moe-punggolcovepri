@@ -2,6 +2,7 @@ collections:
   pcps-partners:
     output: true
     order:
+      - For Parents/Communication with Parents.md
       - For Parents/.keep
       - School Advisory Committee.md
       - Parent Support Group/.keep
