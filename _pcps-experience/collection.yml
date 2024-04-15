@@ -2,7 +2,6 @@ collections:
   pcps-experience:
     output: true
     order:
-      - For Students.md
       - Departments and Committees/.keep
       - Departments and Committees/English Language.md
       - Departments and Committees/Mathematics.md
@@ -23,6 +22,7 @@ collections:
       - ALP.md
       - Cyber Wellness.md
       - PAL.md
+      - For Students.md
       - School Events/.keep
       - School Events/2022.md
       - School Events/2021.md
