@@ -2,6 +2,15 @@ collections:
   pcps-partners:
     output: true
     order:
+      - School Advisory Committee.md
+      - Parent Support Group/.keep
+      - Parent Support Group/Para on PSG.md
+      - Parent Support Group/Link to sign up for PSG.md
+      - For Parents/.keep
+      - For Parents/Communication with Parents.md
+      - For Parents/Term Letter to Parents.md
+      - For Parents/Curriculum Briefings.md
+      - For Parents/ICT Connect Newsletters.md
       - School Admission and Transfer/.keep
       - School Admission and Transfer/P1 Registration Exercise and PCPS Virtual
         Tour.md
@@ -16,13 +25,4 @@ collections:
       - General Information/DigitalAccess@Home.md
       - General Information/Replacement of Student Smart Card (Lost or
         Damaged).md
-      - For Parents/.keep
-      - For Parents/Communication with Parents.md
-      - For Parents/Term Letter to Parents.md
-      - For Parents/Curriculum Briefings.md
-      - For Parents/ICT Connect Newsletters.md
-      - School Advisory Committee.md
-      - Parent Support Group/.keep
-      - Parent Support Group/Para on PSG.md
-      - Parent Support Group/Link to sign up for PSG.md
       - Personnel for Student Wellbeing Matters.md
