@@ -2,6 +2,8 @@ collections:
   pcps-partners:
     output: true
     order:
+      - General Information/Replacement of Student Smart Card (Lost or
+        Damaged).md
       - General Information/DigitalAccess@Home.md
       - General Information/Financial Assistance Scheme.md
       - General Information/Informing School of Child's Sick Leave.md
