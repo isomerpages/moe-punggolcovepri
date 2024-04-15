@@ -2,7 +2,6 @@ collections:
   information:
     output: true
     order:
-      - Calendar of Events.md
       - School Hours/.keep
       - School Hours/School Hours.md
       - School Hours/Recess Time.md
@@ -28,3 +27,4 @@ collections:
       - Contact Us/School Contact Details.md
       - School Bus Advertisement.md
       - School Canteen Advertisement.md
+      - Calendar of Events.md
