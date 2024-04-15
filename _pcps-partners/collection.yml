@@ -2,6 +2,7 @@ collections:
   pcps-partners:
     output: true
     order:
+      - For Students/Home Based Learning (HBL).md
       - For Students/Student Learning Space (SLS).md
       - For Students/.keep
       - School Advisory Committee.md
