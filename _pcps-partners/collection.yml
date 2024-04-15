@@ -2,6 +2,7 @@ collections:
   pcps-partners:
     output: true
     order:
+      - School Admission and Transfer/Waitlist List Form.md
       - School Admission and Transfer/Application for Leave of Absence.md
       - School Admission and Transfer/Primary School Transfer System.md
       - School Admission and Transfer/P1 Registration Exercise and PCPS Virtual
