@@ -2,6 +2,7 @@ collections:
   information:
     output: true
     order:
+      - School Rules and Regulations.md
       - Schools Hours.md
       - Recess Time.md
       - Gate Opening Hours.md
