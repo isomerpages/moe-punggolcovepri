@@ -2,6 +2,7 @@ collections:
   information:
     output: true
     order:
+      - Contact Us/School Contact Details.md
       - Contact Us/Our Location.md
       - Contact Us/.keep
       - School Hours/.keep
