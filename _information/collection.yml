@@ -2,9 +2,6 @@ collections:
   information:
     output: true
     order:
-      - Contact Us/.keep
-      - Contact Us/Our Location.md
-      - Contact Us/School Contact Details.md
       - School Hours/.keep
       - School Hours/School Hours.md
       - School Hours/Recess Time.md
@@ -25,3 +22,6 @@ collections:
       - Student Services Information/School Uniform.md
       - Student Services Information/Student Care Centre @ PCPS.md
       - Student Services Information/School Dental Clinic.md
+      - Contact Us/.keep
+      - Contact Us/Our Location.md
+      - Contact Us/School Contact Details.md
