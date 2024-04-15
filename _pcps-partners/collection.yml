@@ -2,14 +2,14 @@ collections:
   pcps-partners:
     output: true
     order:
+      - General Information/.keep
+      - General Information/School Booklists.md
+      - General Information/Leaving School During School Hours.md
+      - General Information/Informing School of Child's Sick Leave.md
+      - General Information/Financial Assistance Scheme.md
+      - General Information/DigitalAccess@Home.md
       - General Information/Replacement of Student Smart Card (Lost or
         Damaged).md
-      - General Information/DigitalAccess@Home.md
-      - General Information/Financial Assistance Scheme.md
-      - General Information/Informing School of Child's Sick Leave.md
-      - General Information/Leaving School During School Hours.md
-      - General Information/School Booklists.md
-      - General Information/.keep
       - For Parents/.keep
       - For Parents/Communication with Parents.md
       - For Parents/Term Letter to Parents.md
