@@ -2,5 +2,4 @@ collections:
   pcps-partners:
     output: true
     order:
-      - School Bus Advertisement.md
       - Parent Support Group.md
