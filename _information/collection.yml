@@ -1,5 +1,4 @@
 collections:
   information:
     output: true
-    order:
-      - School Rules.md
+    order: []
