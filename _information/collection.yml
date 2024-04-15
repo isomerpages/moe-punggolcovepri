@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - School Hours/.keep
-      - Recess Time.md
       - Gate Opening Hours.md
       - Snack Break Time.md
       - School Rules and Regulations.md
