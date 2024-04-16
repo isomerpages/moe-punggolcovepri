@@ -2,6 +2,7 @@ collections:
   mk-at-punggol-cove:
     output: true
     order:
+      - Our Learning Environment/Photos of MK@PC Learning Environment.md
       - Our Learning Environment/Video of Learning Environment at MK@PC.md
       - Our Learning Environment/.keep
       - Kindergarten Information/.keep
