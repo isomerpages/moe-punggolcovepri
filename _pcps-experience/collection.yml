@@ -2,7 +2,6 @@ collections:
   pcps-experience:
     output: true
     order:
-      - MOE Sexuality Education Programme.md
       - Departments and Committees/.keep
       - Departments and Committees/English Language.md
       - Departments and Committees/Mathematics.md
@@ -24,6 +23,7 @@ collections:
       - Learning for Life Programme (LLP).md
       - Cyber Wellness.md
       - PAL.md
+      - MOE Sexuality Education Programme.md
       - For Students.md
       - School Events/.keep
       - School Events/2022.md
