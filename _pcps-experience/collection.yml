@@ -2,7 +2,6 @@ collections:
   pcps-experience:
     output: true
     order:
-      - Learning for Life Programme (LLP).md
       - Departments and Committees/.keep
       - Departments and Committees/English Language.md
       - Departments and Committees/Mathematics.md
@@ -21,6 +20,7 @@ collections:
       - Co Curricular Activities/CCA Information.md
       - Co Curricular Activities/CCA Schedule.md
       - ALP.md
+      - Learning for Life Programme (LLP).md
       - Cyber Wellness.md
       - PAL.md
       - For Students.md
