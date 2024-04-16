@@ -2,6 +2,7 @@ collections:
   mk-at-punggol-cove:
     output: true
     order:
+      - Kindergarten Information/.keep
       - Staff Contact List.md
       - Contact Us.md
       - MK Videos.md
