@@ -2,6 +2,7 @@ collections:
   mk-at-punggol-cove:
     output: true
     order:
+      - Our Learning Environment/MK Videos.md
       - Our Learning Environment/.keep
       - Kindergarten Information/.keep
       - Kindergarten Information/Address & Contact Info.md
