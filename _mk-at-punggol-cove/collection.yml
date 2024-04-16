@@ -2,6 +2,7 @@ collections:
   mk-at-punggol-cove:
     output: true
     order:
+      - Our Learning Experiences/Photos.md
       - Our Learning Experiences/Writeup.md
       - Our Learning Experiences/.keep
       - Kindergarten Information/.keep
