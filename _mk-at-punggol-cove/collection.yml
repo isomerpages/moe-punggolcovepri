@@ -2,10 +2,10 @@ collections:
   mk-at-punggol-cove:
     output: true
     order:
-      - Our Learning Experiences/Video of learning at MK@PC.md
-      - Our Learning Experiences/Photos.md
-      - Our Learning Experiences/Writeup.md
       - Our Learning Experiences/.keep
+      - Our Learning Experiences/Writeup.md
+      - Our Learning Experiences/Photos.md
+      - Our Learning Experiences/Video of learning at MK@PC.md
       - Kindergarten Information/.keep
       - Kindergarten Information/Address and Contact Info.md
       - Kindergarten Information/Operating Hours of MK & KCare.md
