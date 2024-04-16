@@ -2,8 +2,8 @@ collections:
   mk-at-punggol-cove:
     output: true
     order:
-      - Kindergarten Information/MK Videos.md
-      - Kindergarten Information/Contact Us.md
-      - Kindergarten Information/Staff Contact List.md
       - Kindergarten Information/.keep
+      - Kindergarten Information/Staff Contact List.md
+      - Kindergarten Information/Contact Us.md
+      - Kindergarten Information/MK Videos.md
       - MK@PC Open House.md
