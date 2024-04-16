@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Kindergarten Information/.keep
-      - Kindergarten Information/Staff Contact List.md
+      - Kindergarten Information/Address & Contact Info.md
       - Kindergarten Information/Contact Us.md
       - Kindergarten Information/MK Videos.md
       - MK@PC Open House.md
