@@ -2,6 +2,7 @@ collections:
   mk-at-punggol-cove:
     output: true
     order:
+      - MK Videos.md
       - Kindergarten Information/.keep
       - Kindergarten Information/Address & Contact Info.md
       - Kindergarten Information/Operating Hours of MK & KCare.md
