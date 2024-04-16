@@ -2,12 +2,12 @@ collections:
   mk-at-punggol-cove:
     output: true
     order:
-      - Our EYC Partners/Information on our EYC Partners.md
-      - Our EYC Partners/.keep
       - Kindergarten Information/.keep
       - Kindergarten Information/Address & Contact Info.md
       - Kindergarten Information/Operating Hours of MK & KCare.md
       - Kindergarten Information/Link to MOE MK Website for more information.md
+      - Our EYC Partners/.keep
+      - Our EYC Partners/Information on our EYC Partners.md
       - Our Learning Environment/.keep
       - Our Learning Environment/Photos of MK@PC Learning Environment.md
       - Our Learning Environment/Video of Learning Environment at MK@PC.md
