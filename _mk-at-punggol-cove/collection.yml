@@ -2,9 +2,8 @@ collections:
   mk-at-punggol-cove:
     output: true
     order:
-      - Staff List and Email Address.md
-      - Kindergarten Information/Address and Contact Info.md
       - Kindergarten Information/.keep
+      - Kindergarten Information/Address and Contact Info.md
       - Kindergarten Information/Operating Hours of MK & KCare.md
       - Kindergarten Information/Link to MOE MK Website for more information.md
       - Our EYC Partners/.keep
@@ -12,4 +11,5 @@ collections:
       - Our Learning Environment/.keep
       - Our Learning Environment/Photos of MK@PC Learning Environment.md
       - Our Learning Environment/Video of Learning Environment at MK@PC.md
+      - Staff List and Email Address.md
       - MK@PC Open House.md
