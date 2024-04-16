@@ -2,6 +2,7 @@ collections:
   mk-at-punggol-cove:
     output: true
     order:
+      - Our EYC Partners/Information on our EYC Partners.md
       - Our EYC Partners/.keep
       - Kindergarten Information/.keep
       - Kindergarten Information/Address & Contact Info.md
