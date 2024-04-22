@@ -2,7 +2,6 @@ collections:
   for-parents:
     output: true
     order:
-      - Useful Links.md
       - Parents Notes/.keep
       - Parents Notes/2024.md
       - Parents Notes/2023.md
