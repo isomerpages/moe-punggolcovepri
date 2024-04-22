@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Subject Downloads/.keep
-      - Subject Downloads/Subject Downloads.md
       - Subject Downloads/ICT Connect @ Cove.md
       - Subject Downloads/P3 and P4 Higher Mother Tongue.md
       - Subject Downloads/Mother Tongue Spelling List.md
