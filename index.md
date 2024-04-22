@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Isomer_Banner.png
+      background: /images/Isomer_Banner_Update.png
       key_highlights:
         - title: News & Announcement
           description: ""
