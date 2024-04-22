@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Parents Notes/.keep
-      - Parents Notes/2016.md
       - Forms.md
       - Subject Downloads/.keep
       - Subject Downloads/Subject Downloads.md
