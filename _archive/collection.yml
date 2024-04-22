@@ -1,8 +1,0 @@
-collections:
-  archive:
-    output: true
-    order:
-      - School Rules.md
-      - School Matters.md
-      - Contact Us.md
-      - Our Location.md
