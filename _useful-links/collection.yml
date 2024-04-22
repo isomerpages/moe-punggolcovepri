@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Calendar of Events.md
-      - Teachers.md
       - Parents.md
