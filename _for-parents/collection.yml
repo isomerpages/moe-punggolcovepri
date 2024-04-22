@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Parents Notes/.keep
-      - Parents Notes/2021.md
       - Parents Notes/2020.md
       - Parents Notes/2019.md
       - Parents Notes/2018.md
