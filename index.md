@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/PCPS Animation GIF.gif
+      background: /images/Isomer_Banner.png
       key_highlights:
         - title: News & Announcement
           description: ""
