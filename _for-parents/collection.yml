@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - General Matters/.keep
-      - General Matters/Drop Off and Pick Up.md
       - Useful Links.md
       - Parents Notes/.keep
       - Parents Notes/2024.md
