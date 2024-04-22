@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - General Matters/.keep
-      - General Matters/School Discipline Policy.md
       - General Matters/School Fees.md
       - General Matters/Drop Off and Pick Up.md
       - Useful Links.md
