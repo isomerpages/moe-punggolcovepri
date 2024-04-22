@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Subject Downloads/.keep
-      - Subject Downloads/English Spelling List.md
       - Subject Downloads/Physical Education.md
