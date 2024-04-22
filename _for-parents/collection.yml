@@ -2,7 +2,6 @@ collections:
   for-parents:
     output: true
     order:
-      - Parents Notes/.keep
       - Forms.md
       - Subject Downloads/.keep
       - Subject Downloads/Subject Downloads.md
