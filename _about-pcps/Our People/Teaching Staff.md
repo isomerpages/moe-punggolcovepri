@@ -433,146 +433,119 @@ third_nav_title: Our People
 <td rowspan="1" colspan="1">
 <p>Designation</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Email</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Amanda Chin</p>
+<p><a href="chin_ruey_amanda@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Amanda Chin</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher
 <br>3 Amber</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>chin_ruey_amanda@schools.gov.sg</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Nellia Yezmin Shameer</p>
+<p><a href="nellia_yezmin_shameer@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Nellia Yezmin Shameer</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher
 <br>3 Coral</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>nellia_yezmin_shameer@schools.gov.sg</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr M Prakash</p>
+<p><a href="m_prakash@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr M Prakash</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher
 <br>3 Diamond</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>m_prakash@schools.gov.sg</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Joshua Tan</p>
+<p><a href="tan_kiat_fong_joshua@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Joshua Tan</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher
 <br>3 Emerald</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>tan_kiat_fong_joshua@schools.gov.sg</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Chong Jun Wei</p>
+<p><a href="chong_jun_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Chong Jun Wei</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher
 <br>3 Emerald</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>chong_jun_wei@schools.gov.sg</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Lu Jie</p>
+<p><a href="lu_jie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Lu Jie</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher
 <br>3 Jade</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>lu_jie@schools.gov.sg</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Adrian Liang</p>
+<p><a href="adrian_liang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Adrian Liang</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher
 <br>3 Opal
 <br>LH ICT/MRL</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>adrian_liang@schools.gov.sg</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Audrey Lee</p>
+<p><a href="lee_wen_zhen_audrey@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Audrey Lee</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher
 <br>3 Opal
 <br>CL Teacher</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>lee_wen_zhen_audrey@schools.gov.sg</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Chua Swan Lynn</p>
+<p><a href="chua_swan_lynn@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Chua Swan Lynn</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher
 <br>3 Pearl
 <br>LH English</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>chua_swan_lynn@schools.gov.sg</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Sze Huey</p>
+<p><a href="tan_sze_huey@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Tan Sze Huey</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher
 <br>3 Pearl
 <br>CL Teacher</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>tan_sze_huey@schools.gov.sg
-<br>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Marvin Seah</p>
+<p><a href="seah_kim_san_marvin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Marvin Seah</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher
 <br>3 Pearl</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>seah_kim_san_marvin@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>
