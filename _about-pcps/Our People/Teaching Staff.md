@@ -23,9 +23,7 @@ third_nav_title: Our People
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher
-<br>1 Amber
-<br>
-</p>
+<br>1 Amber</p>
 </td>
 </tr>
 <tr>
@@ -890,9 +888,6 @@ third_nav_title: Our People
 <td rowspan="1" colspan="1">
 <p>Designation</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Email</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -901,9 +896,6 @@ third_nav_title: Our People
 </td>
 <td rowspan="1" colspan="1">
 <p>Transit Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -914,9 +906,6 @@ third_nav_title: Our People
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -925,9 +914,6 @@ third_nav_title: Our People
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -938,9 +924,6 @@ third_nav_title: Our People
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -949,9 +932,6 @@ third_nav_title: Our People
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -962,9 +942,6 @@ third_nav_title: Our People
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -973,9 +950,6 @@ third_nav_title: Our People
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -986,9 +960,6 @@ third_nav_title: Our People
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -997,9 +968,6 @@ third_nav_title: Our People
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -1010,9 +978,6 @@ third_nav_title: Our People
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -1021,9 +986,6 @@ third_nav_title: Our People
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -1034,9 +996,6 @@ third_nav_title: Our People
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -1045,9 +1004,6 @@ third_nav_title: Our People
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -1058,9 +1014,6 @@ third_nav_title: Our People
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -1069,9 +1022,6 @@ third_nav_title: Our People
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -1082,14 +1032,8 @@ third_nav_title: Our People
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
