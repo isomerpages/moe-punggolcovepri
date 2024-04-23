@@ -5,4 +5,145 @@ description: ""
 variant: tiptap
 third_nav_title: Our People
 ---
-<table><tbody><tr><td rowspan="1" colspan="1"><p>Name</p></td><td rowspan="1" colspan="1"><p>Designation</p></td><td rowspan="1" colspan="1"><p>Email</p></td></tr><tr><td rowspan="1" colspan="1"><p>Ms Adelena Loh</p></td><td rowspan="1" colspan="1"><p>Administration Manager</p></td><td rowspan="1" colspan="1"><p>loh_khar_yin_a@schools.gov.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr Kesa Gill</p></td><td rowspan="1" colspan="1"><p>Operations Manager</p></td><td rowspan="1" colspan="1"><p>kesa_singh@schools.gov.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr Vincent Chew</p></td><td rowspan="1" colspan="1"><p>Operations Manager</p></td><td rowspan="1" colspan="1"><p>chew_ban_seng@schools.gov.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>Ms Syidah Ismail</p></td><td rowspan="1" colspan="1"><p>ICT Associate</p></td><td rowspan="1" colspan="1"><p>siti_rusyidah_mohd_ismail@schools.gov.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>Ms Lee Wen Bin</p></td><td rowspan="1" colspan="1"><p>Administrative Executive (MK)</p></td><td rowspan="1" colspan="1"><p>LEE_Wen_Bin@schools.gov.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr Qairil Fahri Sapari</p></td><td rowspan="1" colspan="1"><p>Administrative Executive</p></td><td rowspan="1" colspan="1"><p>qairil_fahri_sapari@schools.gov.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>Ms Nooris</p></td><td rowspan="1" colspan="1"><p>Corporate Support Officer</p></td><td rowspan="1" colspan="1"><p>Noorisyqi_Mohamed@schools.gov.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>Ms Patricia Lim</p></td><td rowspan="1" colspan="1"><p>Corporate Support Officer</p></td><td rowspan="1" colspan="1"><p>Lim_Wei_Chin_Patricia@schools.gov.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>Ms Siti Khadijah</p></td><td rowspan="1" colspan="1"><p>Library Assistant</p></td><td rowspan="1" colspan="1"><p>Khadijah.Latif@staff.spydus.com.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr Haran</p></td><td rowspan="1" colspan="1"><p>Desktop Engineer</p></td><td rowspan="1" colspan="1"><p>haran.ganeshan@ncs.com.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr Lim Leong</p></td><td rowspan="1" colspan="1"><p>Desktop Engineer</p></td><td rowspan="1" colspan="1"><p>leong.lim@ncs.co</p><p></p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm Amutha</p></td><td rowspan="1" colspan="1"><p>Operations Support Office</p></td><td rowspan="1" colspan="1"><p>-</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr Mohan</p></td><td rowspan="1" colspan="1"><p>Operations Support Office</p></td><td rowspan="1" colspan="1"><p>-</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr Lim Cher Quee</p></td><td rowspan="1" colspan="1"><p>Operations Support Officer</p></td><td rowspan="1" colspan="1"><p>-</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm Khalsom</p></td><td rowspan="1" colspan="1"><p>Operations Support Officer</p></td><td rowspan="1" colspan="1"><p>-</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm Neo</p></td><td rowspan="1" colspan="1"><p>Operations Support Officer</p></td><td rowspan="1" colspan="1"><p>-</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm Artisah</p></td><td rowspan="1" colspan="1"><p>Operations Support Officer</p></td><td rowspan="1" colspan="1"><p></p></td></tr></tbody></table><p></p>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Name</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Designation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="loh_khar_yin_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Adelena Loh</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Administration Manager</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="kesa_singh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Kesa Gill</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Manager</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="chew_ban_seng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Vincent Chew</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Manager</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="siti_rusyidah_mohd_ismail@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Syidah Ismail</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ICT Associate</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="LEE_Wen_Bin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Lee Wen Bin</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Administrative Executive (MK)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="qairil_fahri_sapari@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Qairil Fahri Sapari</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Administrative Executive</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="Lim_Wei_Chin_Patricia@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Patricia Lim</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Corporate Support Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="Khadijah.Latif@staff.spydus.com.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Siti Khadijah</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Library Assistant</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="haran.ganeshan@ncs.com.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Haran</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Desktop Engineer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Amutha</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Support Office</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Mohan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Support Office</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Lim Cher Quee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Khalsom</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Neo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Artisah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
