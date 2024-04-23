@@ -560,105 +560,86 @@ third_nav_title: Our People
 <td rowspan="1" colspan="1">
 <p>Designation</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Email</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Koh Hui Ling</p>
+<p><a href="koh_hui_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Koh Hui Ling</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher
 <br>4 Amber</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>koh_hui_ling@schools.gov.sg</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Ayisha Ruksana</p>
+<p><a href="noor_mohamed_ayisha_ruksana@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Ayisha Ruksana</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher
 <br>4 Amber
 <br>TL Teacher</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>noor_mohamed_ayisha_ruksana@schools.gov.sg</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Lim-Yeo Mui Eng</p>
+<p><a href="yeo_mui_eng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Lim-Yeo Mui Eng</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher
 <br>4 Coral</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>yeo_mui_eng@schools.gov.sg</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Onn Ying Hui Mark</p>
+<p><a href="onn_ying_hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Onn Ying Hui Mark</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher
 <br>4 Diamond</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>onn_ying_hui@schools.gov.sg</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Cheryl Mah Jia Wei</p>
+<p><a href="cheryl_mah_jia_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Cheryl Mah Jia Wei</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher
 <br>4 Emerald</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>cheryl_mah_jia_wei@schools.gov.sg</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Murni Alidawati</p>
+<p><a href="murni_alidawati_mohamed@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Murni Alidawati</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher
 <br>4 Jade</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>murni_alidawati_mohamed@schools.gov.sg</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Gan Zhan Yi</p>
+<p><a href="gan_zhan_yi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Gan Zhan Yi</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher
 <br>4 Opal</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>gan_zhan_yi@schools.gov.sg</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Teo Jia Hao</p>
+<p><a href="teo_jia_hao@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Teo Jia Hao</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher
 <br>4 Pearl</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>teo_jia_hao@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>
