@@ -15,13 +15,11 @@ third_nav_title: Our People
 <td rowspan="1" colspan="1">
 <p>Designation</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Email</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm P. Manimekalai</p>
+<p><a href="manimekalai_panneer_selvam@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm P. Manimekalai</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher
@@ -29,246 +27,205 @@ third_nav_title: Our People
 <br>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p>manimekalai_panneer_selvam@schools.gov.sg</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Lee Xiao Wei</p>
+<p><a href="lee_xiao_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Lee Xiao Wei</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher
 <br>1 Amber
 <br>CL Teacher</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>lee_xiao_wei@schools.gov.sg</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Annie Hwan</p>
+<p><a href="hwan_geok_peng_annie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Annie Hwan</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher
 <br>1 Coral</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>hwan_geok_peng_annie@schools.gov.sg</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Lee Chow Ching</p>
+<p><a href="lee_chow_ching@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Lee Chow Ching</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher
 <br>1 Coral
 <br>CL Teacher</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>lee_chow_ching@schools.gov.sg</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Lynn Lee</p>
+<p><a href="lynn_lee_wen_lin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Lynn Lee</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher
 <br>1 Diamond</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>lynn_lee_wen_lin@schools.gov.sg</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Muliyati Zailani</p>
+<p><a href="muliyati_zailani@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Muliyati Zailani</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher
 <br>1 Diamond
 <br>ML Teacher</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>muliyati_zailani@schools.gov.sg</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Varjeet Kaur Gill</p>
+<p><a href="varjeet_kaur@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Varjeet Kaur Gill</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher
 <br>1 Emerald</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>varjeet_kaur@schools.gov.sg</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Wong Hui Lynn</p>
+<p><a href="wong_hui_lynn@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Wong Hui Lynn</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher
 <br>1 Emerald
 <br>CL Teacher</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>wong_hui_lynn@schools.gov.sg</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Surin Haziyah</p>
+<p><a href="nurulhaziyah_jumiran@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Surin Haziyah</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher
 <br>1 Jade
 <br>ART Teacher</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>nurulhaziyah_jumiran@schools.gov.sg</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Mohd Hafiizh Dzulkifli</p>
+<p><a href="mohammed_hafiizh_dzulkifli@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Mohd Hafiizh Dzulkifli</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher
 <br>1 Jade
 <br>SH PE &amp; CCA</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>mohammed_hafiizh_dzulkifli@schools.gov.sg</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Nur Syazwani Binte Jantan</p>
+<p><a href="nur_syazwani_jantan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nur Syazwani Binte Jantan</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher
 <br>1 Jade</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>nur_syazwani_jantan@schools.gov.sg</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Mardiana</p>
+<p><a href="mardiana_mohamed_yusof@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Mardiana</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher
 <br>1 Opal</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>mardiana_mohamed_yusof@schools.gov.sg</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Dou Jin Yi</p>
+<p><a href="dou_jin_yi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Dou Jin Yi</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher
 <br>1 Opal
 <br>CL Teacher</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>dou_jin_yi@schools.gov.sg</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Sofia Khoo</p>
+<p><a href="low_si_hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Sofia Khoo</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher
 <br>1 Pearl</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>low_si_hui@schools.gov.sg</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Chanthirasekar S/O Kalimuthu</p>
+<p><a href="chanthirasekar_kalimuthu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Chanthirasekar S/O Kalimuthu</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher
 <br>1 Pearl
 <br>TL Teacher</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>chanthirasekar_kalimuthu@schools.gov.sg</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Jolene Choy Jo Yin</p>
+<p><a href="jolene_choy_jo_yin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Jolene Choy Jo Yin</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher
 <br>1 Ruby</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>jolene_choy_jo_yin@schools.gov.sg</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Chew Wee San Cheryl</p>
+<p><a href="chew_wee_san@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Chew Wee San Cheryl</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher
 <br>1 Ruby
 <br>CL Teacher</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>chew_wee_san@schools.gov.sg</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Yang Fengxing Linda</p>
+<p><a href="yang_fengxing_linda@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Yang Fengxing Linda</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher
 <br>1 Ruby</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>yang_fengxing_linda@schools.gov.sg</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Wendy Yong</p>
+<p><a href="goy_yeong_ee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Wendy Yong</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher
 <br>1 Sapphire</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>goy_yeong_ee@schools.gov.sg</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Monica Yeo</p>
+<p><a href="monica_yeo_may_peng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Monica Yeo</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher
 <br>1 Ruby
 <br>CL Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>monica_yeo_may_peng@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>
