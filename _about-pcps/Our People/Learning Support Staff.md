@@ -14,72 +14,53 @@ third_nav_title: Our People
 <td rowspan="1" colspan="1">
 <p>Designation</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Email</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Lin Qingfei</p>
+<p><a href="lin_qingfei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Lin Qingfei</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School Counsellor</p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lin_qingfei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lin_qingfei@schools.gov.sg</a>
-<br>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Grace Teo</p>
+<p><a href="teo_swee_yee_grace@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Grace Teo</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Student Welfare Officer</p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:teo_swee_yee_grace@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teo_swee_yee_grace@schools.gov.sg</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Nurhidayati</p>
+<p><a href="nur_hidayati_paimun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nurhidayati</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Special Educational Needs Officer
 <br>(SEN Officer)</p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:nur_hidayati_paimun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_hidayati_paimun@schools.gov.sg</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Liyana Binte Abdul Samad</p>
+<p><a href="liyana_abdul_samad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Liyana Binte Abdul Samad</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Special Educational Needs Officer
 <br>(SEN Officer)</p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:liyana_abdul_samad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">liyana_abdul_samad@schools.gov.sg</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Shameema</p>
+<p><a href="s_shameema@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Shameema</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Special Educational Needs Officer
 <br>(SEN Officer)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:s_shameema@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">s_shameema@schools.gov.sg</a>
-</p>
 </td>
 </tr>
 </tbody>
