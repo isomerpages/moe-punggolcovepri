@@ -896,172 +896,188 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Jessica Lum</p>
+<p><a href="jessica_patricia_tan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Jessica Lum</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Transit Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>jessica_patricia_tan@schools.gov.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Shankari</p>
+<p><a href="shankari_balakrishnan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Shankari</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>shankari_balakrishnan@schools.gov.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Chia Yizhen</p>
+<p><a href="chia_yizhen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Chia Yizhen</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>chia_yizhen@schools.gov.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Hernie Maslinda</p>
+<p><a href="hernie_maslinda_mohamed@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Hernie Maslinda</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>hernie_maslinda_mohamed@schools.gov.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Koh Hoon Leong, Edwin</p>
+<p><a href="koh_hoon_leong_edwin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Koh Hoon Leong, Edwin</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>koh_hoon_leong_edwin@schools.gov.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Margaret Tan</p>
+<p><a href="Margaret_Cheng_Poh_Wan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Margaret Tan</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Margaret_Cheng_Poh_Wan@schools.gov.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Norzaida Daot</p>
+<p><a href="Norzaida_Daot@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Norzaida Daot</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Norzaida_Daot@schools.gov.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Rehanna</p>
+<p><a href="rehanna_dawood@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Rehanna</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>rehanna_dawood@schools.gov.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Alice Tan</p>
+<p><a href="See_Shin_Yee_alice@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Alice Tan</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>See_Shin_Yee_alice@schools.gov.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Serene Tay</p>
+<p><a href="serene_tay_khiok_sing@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Serene Tay</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>serene_tay_khiok_sing@schools.gov.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Magdalene Teo</p>
+<p><a href="Magdalene_Teo_Rou_En@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Magdalene Teo</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Magdalene_Teo_Rou_En@schools.gov.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Serena Chan</p>
+<p><a href="yeo_hui_cheng_serena@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Serena Chan</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>yeo_hui_cheng_serena@schools.gov.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Chua Tien Wee</p>
+<p><a href="chua_tien_wee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Chua Tien Wee</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>chua_tien_wee@schools.gov.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Clarissa Yap</p>
+<p><a href="yap_yen_ching_clarissa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Clarissa Yap</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>yap_yen_ching_clarissa@schools.gov.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Zahira</p>
+<p><a href="zahira_abdul_majeed@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Zahira</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>zahira_abdul_majeed@schools.gov.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Wei Hong Mei</p>
+<p><a href="" rel="noopener noreferrer nofollow" target="_blank">Mdm Wei Hong Mei</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
