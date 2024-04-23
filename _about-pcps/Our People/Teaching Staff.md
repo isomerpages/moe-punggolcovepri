@@ -762,145 +762,120 @@ third_nav_title: Our People
 <td rowspan="1" colspan="1">
 <p>Designation</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Email</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Nur Shafiqah Rosland</p>
+<p><a href="nur_shafiqah_rosland@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nur Shafiqah Rosland</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher
 <br>6 Amber</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>nur_shafiqah_rosland@schools.gov.sg</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Debbie Huang</p>
+<p><a href="debbie_huang_kaixin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Debbie Huang</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher
 <br>6 Amber</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>debbie_huang_kaixin@schools.gov.sg</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Ada Chung</p>
+<p><a href="ng_xinying_ada@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Ada Chung</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher
 <br>6 Coral</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>ng_xinying_ada@schools.gov.sg</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Charmaine Lim</p>
+<p><a href="charmaine_lim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Charmaine Lim</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher
 <br>6 Coral
 <br>SH Student Management</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>charmaine_lim@schools.gov.sg</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Norihsani Bte Tavant</p>
+<p><a href="norihsani_tavant@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Norihsani Bte Tavant</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher
 <br>6 Diamond
 <br>LH Science</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>norihsani_tavant@schools.gov.sg</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Kelvin Ting</p>
+<p><a href="ting_jian_hong_kelvin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Kelvin Ting</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher
 <br>6 Diamond
 <br>ART Teacher</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>ting_jian_hong_kelvin@schools.gov.sg</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Jasmine Wong</p>
+<p><a href="tang_yuen_har_jasmine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Jasmine Wong</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher
 <br>6 Emerald
 <br>Int SH CCE</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>tang_yuen_har_jasmine@schools.gov.sg</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Felicia Nah</p>
+<p><a href="nah_ya_rui_felicia@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Felicia Nah</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher
 <br>6 Jade</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>nah_ya_rui_felicia@schools.gov.sg</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Woo Sye Lai</p>
+<p><a href="woo_sye_lai@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Woo Sye Lai</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher
 <br>6 Opal</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>woo_sye_lai@schools.gov.sg</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Ng Hui Jie</p>
+<p><a href="ng_hui_jie_rimes@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Ng Hui Jie</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher
 <br>6 Pearl</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>ng_hui_jie_rimes@schools.gov.sg</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Loh Qiwen Angeline</p>
+<p><a href="loh_qiwen_angeline@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Loh Qiwen Angeline</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher
 <br>6 Ruby
 <br>Int LH English</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>loh_qiwen_angeline@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>
