@@ -240,176 +240,147 @@ third_nav_title: Our People
 <td rowspan="1" colspan="1">
 <p>Designation</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Email</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Sheryl Wong</p>
+<p><a href="sim_jia_yun_sheryl@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Sheryl Wong</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher
 <br>2 Amber
 <br>ST Music</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>sim_jia_yun_sheryl@schools.gov.sg</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Agnes Chia</p>
+<p><a href="chia_boon_yung_agnes@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Agnes Chia</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher
 <br>2 Amber
 <br>CL Teacher</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>chia_boon_yung_agnes@schools.gov.sg</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Sharmini</p>
+<p><a href="sharmini_kesevamoorthy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Sharmini</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher
 <br>2 Coral</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>sharmini_kesevamoorthy@schools.gov.sg</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Chew Kim Kee</p>
+<p><a href="chew_kim_kee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Chew Kim Kee</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher
 <br>2 Coral
 <br>CL Teacher</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>chew_kim_kee@schools.gov.sg</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Leow Hui Zheng</p>
+<p><a href="leow_hui_zheng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Leow Hui Zheng</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher
 <br>2 Diamond</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>leow_hui_zheng@schools.gov.sg</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Norlela Bt Ab Rahaman</p>
+<p><a href="norlela_ab_rahaman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Norlela Bt Ab Rahaman</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher
 <br>2 Diamond
 <br>ML Teacher</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>norlela_ab_rahaman@schools.gov.sg</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Hafizzah Bedin</p>
+<p><a href="hafizzah_bedin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Hafizzah Bedin</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher
 <br>2 Emerald
 <br>SH Malay</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>hafizzah_bedin@schools.gov.sg</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Chan Soo Keng</p>
+<p><a href="chan_soo_keng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Chan Soo Keng</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher
 <br>2 Emerald
 <br>CL Teacher</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>chan_soo_keng@schools.gov.sg</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Lim Xin Wan</p>
+<p><a href="lim_xin_wan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Lim Xin Wan</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher
 <br>2 Emerald</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>lim_xin_wan@schools.gov.sg</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Cheryl Ang</p>
+<p><a href="cheryl_ang_wei_yu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Cheryl Ang</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher
 <br>2 Jade
 <br>ART Teacher</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>cheryl_ang_wei_yu@schools.gov.sg</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Chew Min Xuan</p>
+<p><a href="chew_min_xuan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Chew Min Xuan</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher
 <br>2 Jade</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>chew_min_xuan@schools.gov.sg</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Victoria Lee</p>
+<p><a href="victoria_lee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Victoria Lee</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher
 <br>2 Opal</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>victoria_lee@schools.gov.sg</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Chen Soo Juan</p>
+<p><a href="ding_soo_juan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Chen Soo Juan</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher
 <br>2 Opal</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>ding_soo_juan@schools.gov.sg</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Sivapriya
+<p><a href="sivapriya_sivaraj@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Sivapriya </a>
 <br>
 </p>
 </td>
@@ -417,13 +388,10 @@ third_nav_title: Our People
 <p>Form Teacher
 <br>2 Pearl</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>sivapriya_sivaraj@schools.gov.sg</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Jason Hong
+<p><a href="hong_siang_huat@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Jason Hong </a>
 <br>
 </p>
 </td>
@@ -431,33 +399,26 @@ third_nav_title: Our People
 <p>Form Teacher
 <br>2 Pearl</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>hong_siang_huat@schools.gov.sg</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Pow Chen Yang</p>
+<p><a href="pow_chen_yang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Pow Chen Yang</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher
 <br>2 Ruby</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>pow_chen_yang@schools.gov.sg</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Siti Mariam Binte Mohamed</p>
+<p><a href="siti_mariam_mohamed@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Siti Mariam Binte Mohamed</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher
 <br>2 Ruby
 <br>Learning Support Coordinator</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>siti_mariam_mohamed@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>
