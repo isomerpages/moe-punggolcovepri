@@ -17,73 +17,73 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P5 Standard T1 Spelling List 1</p>
+<p>Term 1 Week 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://quizlet.com/868049711/primary-5-term-1-spelling-list-1-flash-cards/?i=1c2gxb&amp;x=1qqt" rel="noopener noreferrer nofollow" target="_blank">Term 1 Week 2</a>
+<p><a href="https://quizlet.com/868049711/primary-5-term-1-spelling-list-1-flash-cards/?i=1c2gxb&amp;x=1qqt" rel="noopener noreferrer nofollow" target="_blank">P5 Standard Spelling and Dictation 1</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P5 Standard T1 Spelling List 2</p>
+<p>Term 1 Week 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://quizlet.com/868404130/primary-5-term-1-spelling-list-2-flash-cards/?i=1c2gxb&amp;x=1jqt" rel="noopener noreferrer nofollow" target="_blank">Term 1 Week 3</a>
+<p><a href="https://quizlet.com/868404130/primary-5-term-1-spelling-list-2-flash-cards/?i=1c2gxb&amp;x=1jqt" rel="noopener noreferrer nofollow" target="_blank">P5 Standard Spelling and Dictation 2</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P5 Standard T1 Spelling List 3</p>
+<p>Term 1 Week 4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://quizlet.com/868420978/primary-5-term-1-spelling-list-4-flash-cards/?i=1c2gxb&amp;x=1jqt" rel="noopener noreferrer nofollow" target="_blank">Term 1 Week 4</a>
+<p><a href="https://quizlet.com/868420978/primary-5-term-1-spelling-list-4-flash-cards/?i=1c2gxb&amp;x=1jqt" rel="noopener noreferrer nofollow" target="_blank">P5 Standard Spelling and Dictation 3</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P5 Standard T1 Spelling List 4</p>
+<p>Term 1 Week 5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://quizlet.com/868428260/primary-5-term-1-spelling-list-5-flash-cards/?i=1c2gxb&amp;x=1jqt" rel="noopener noreferrer nofollow" target="_blank">Term 1 Week 5</a>
+<p><a href="https://quizlet.com/868428260/primary-5-term-1-spelling-list-5-flash-cards/?i=1c2gxb&amp;x=1jqt" rel="noopener noreferrer nofollow" target="_blank">P5 Standard Spelling and Dictation 4</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P5 Standard T1 Spelling List 5</p>
+<p>Term 1 Week 6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://quizlet.com/868428260/primary-5-term-1-spelling-list-5-flash-cards/?i=1c2gxb&amp;x=1jqt" rel="noopener noreferrer nofollow" target="_blank">Term 1 Week 6</a>
+<p><a href="https://quizlet.com/868428260/primary-5-term-1-spelling-list-5-flash-cards/?i=1c2gxb&amp;x=1jqt" rel="noopener noreferrer nofollow" target="_blank">P5 Standard Spelling and Dictation 5</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P5 Standard T1 Spelling List 6</p>
+<p>Term 1 Week 7</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://quizlet.com/868430070/primary-5-term-1-spelling-list-6-flash-cards/?i=1c2gxb&amp;x=1jqt" rel="noopener noreferrer nofollow" target="_blank">Term 1 Week 7</a>
+<p><a href="https://quizlet.com/8a68430070/primary-5-term-1-spelling-list-6-flash-cards/?i=1c2gxb&amp;x=1jqt" rel="noopener noreferrer nofollow" target="_blank">P5 Standard Spelling and Dictation 6</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P5 Standard T1 Spelling List 7</p>
+<p>Term 1 Week 8</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://quizlet.com/868436105/primary-5-term-1-spelling-list-7-flash-cards/?i=1c2gxb&amp;x=1jqt" rel="noopener noreferrer nofollow" target="_blank">Term 1 Week 8</a>
+<p><a href="https://quizlet.com/868436105/primary-5-term-1-spelling-list-7-flash-cards/?i=1c2gxb&amp;x=1jqt" rel="noopener noreferrer nofollow" target="_blank">P5 Standard Spelling and Dictation 7</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P5 Standard T1 Spelling List 8</p>
+<p>Term 1 Week 9</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://quizlet.com/868436835/primary-5-term-1-spelling-list-7-flash-cards/?i=1c2gxb&amp;x=1jqt" rel="noopener noreferrer nofollow" target="_blank">Term 1 Week 9</a>
+<p><a href="https://quizlet.com/868436835/primary-5-term-1-spelling-list-7-flash-cards/?i=1c2gxb&amp;x=1jqt" rel="noopener noreferrer nofollow" target="_blank">P5 Standard Spelling and Dictation 8</a>
 </p>
 </td>
 </tr>
