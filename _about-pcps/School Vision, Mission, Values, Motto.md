@@ -4,15 +4,12 @@ permalink: /about-pcps/vision-mission-values-motto/
 description: ""
 variant: tiptap
 ---
-<h4>VISION</h4>
-<p><strong>EVERY STUDENT AN EDUCATED CHILD AND CONTRIBUTING CITIZEN,<br>READY TO SERVE AND LEAD.</strong>
-</p>
-<h4>MISSION</h4>
-<p><strong>NURTURING THE WHOLE CHILD,<br>GROWING FUTURE LEADERS</strong>
-</p>
-<h4>VALUES</h4>
-<p><strong>EMPATHY, MINDFULNESS, CARE</strong>
-</p>
-<h4>MOTTO</h4>
-<p><strong>TO SERVE TO LEAD</strong>
-</p>
+<h4>Our Mission</h4>
+<p>Nurturing the whole child, growing future leaders</p>
+<h4>Our Vision</h4>
+<p>Every student an educated child and contributing citizen, ready to serve
+and lead</p>
+<h4>Our Values</h4>
+<p>Empathy, Mindfulness, Care</p>
+<h4>Our Motto</h4>
+<p>To Serve To Lead</p>
