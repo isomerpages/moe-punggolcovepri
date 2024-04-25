@@ -14,8 +14,14 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Quizlet Link</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>Term 1 Week 2</p>
+</td>
 <td rowspan="1" colspan="1">
 <p>Spelling and Dictation 1</p>
 </td>
@@ -26,6 +32,9 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Term 1 Week 3</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Spelling and Dictation 2</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -34,6 +43,9 @@ variant: tiptap
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>Term 1 Week 4</p>
+</td>
 <td rowspan="1" colspan="1">
 <p>Spelling and Dictation 3</p>
 </td>
@@ -44,6 +56,9 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Term 1 Week 5</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>No Spelling</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -51,6 +66,9 @@ variant: tiptap
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>Term 1 Week 6</p>
+</td>
 <td rowspan="1" colspan="1">
 <p>Spelling and Dictation 5</p>
 </td>
@@ -61,6 +79,9 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Term 1 Week 7</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Spelling and Dictation 6</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -69,6 +90,9 @@ variant: tiptap
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>Term 1 Week 8</p>
+</td>
 <td rowspan="1" colspan="1">
 <p>Spelling and Dictation 7</p>
 </td>
