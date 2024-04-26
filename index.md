@@ -23,16 +23,16 @@ sections:
       id: textcards
       description: Please click on the links below to find out more in PCPS
       cards:
-        - title: News and Announcemnt
-          description: Card description
-          linktext: Learn more
-          url: ""
+        - title: News and Announcement
+          description: ""
+          linktext: Click here to find out more
+          url: /resources/news-and-announcements/
         - title: What's Happening
-          description: Card description
-          linktext: Learn more
-          url: ""
+          description: ""
+          linktext: Click here to find out more
+          url: /resources/whats-happening-at-pcps/
         - title: Calendar of Events
-          description: Card description
-          linktext: Learn more
-          url: ""
+          description: ""
+          linktext: Click here to find out more
+          url: /calendar-of-events/
 ---
