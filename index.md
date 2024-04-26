@@ -21,7 +21,6 @@ sections:
   - textcards:
       title: Highlights in Punggol Cove Primary School
       id: textcards
-      description: Please click on the links below to find out more in PCPS
       cards:
         - title: News and Announcement
           description: ""
