@@ -18,4 +18,19 @@ sections:
         - title: Calendar of Events
           description: ""
           url: /calendar-of-events/
+  - announcements:
+      title: Announcements
+      id: announcements
+      subtitle: Add a list of announcements with dates
+      announcement_items:
+        - title: New Announcement
+          date: 26 April 2024
+          announcement: Announcement content
+          link_text: News & Announcment
+          link_url: /resources/news-and-announcements/
+        - title: New Announcement
+          date: 26 April 2024
+          announcement: Announcement content
+          link_text: ""
+          link_url: ""
 ---
