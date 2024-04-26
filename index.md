@@ -18,30 +18,20 @@ sections:
         - title: Calendar of Events
           description: ""
           url: /calendar-of-events/
-  - announcements:
-      title: News & Announcement
-      id: announcements
-      announcement_items:
-        - title: New Announcement
-          date: 26 April 2024
-          announcement: Announcement content
-          link_text: Please Click here for News & Announcement
-          link_url: /resources/news-and-announcements/
   - textcards:
-      title: Text Cards
-      subtitle: Add informational text
+      title: Highlights in Punggol Cove Primary School
       id: textcards
-      description: Text card description
+      description: Please click on the links below to find out more in PCPS
       cards:
-        - title: News and Announcement
-          description: ""
-          linktext: News and Announcement Updates
-          url: /resources/news-and-announcements/
-        - title: Card
+        - title: News and Announcemnt
           description: Card description
           linktext: Learn more
           url: ""
-        - title: Card
+        - title: What's Happening
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Calendar of Events
           description: Card description
           linktext: Learn more
           url: ""
