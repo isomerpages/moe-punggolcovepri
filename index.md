@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Isomer_Banner_08.png
+      background: /images/Isomer_Banner_09.png
   - textcards:
       title: Highlights in Punggol Cove Primary School
       id: textcards
