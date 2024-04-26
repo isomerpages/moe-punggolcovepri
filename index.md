@@ -19,18 +19,30 @@ sections:
           description: ""
           url: /calendar-of-events/
   - announcements:
-      title: Announcements
+      title: News & Announcement
       id: announcements
-      subtitle: Add a list of announcements with dates
       announcement_items:
         - title: New Announcement
           date: 26 April 2024
           announcement: Announcement content
-          link_text: News & Announcment
+          link_text: Please Click here for News & Announcement
           link_url: /resources/news-and-announcements/
-        - title: New Announcement
-          date: 26 April 2024
-          announcement: Announcement content
-          link_text: ""
-          link_url: ""
+  - textcards:
+      title: Text Cards
+      subtitle: Add informational text
+      id: textcards
+      description: Text card description
+      cards:
+        - title: News and Announcement
+          description: ""
+          linktext: News and Announcement Updates
+          url: /resources/news-and-announcements/
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
 ---
