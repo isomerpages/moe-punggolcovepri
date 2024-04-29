@@ -4,7 +4,7 @@ permalink: /calendar-of-events/
 variant: tiptap
 description: ""
 ---
-<h4>2024 Calendar of Events</h4>
+<h3>2024 Calendar of Events</h3>
 <table>
 <tbody>
 <tr>
@@ -96,6 +96,20 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 2 School Vacation (17 Jun - Public Holiday: Hari Raya Haji)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Term 3: 24 June - 30 August</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
