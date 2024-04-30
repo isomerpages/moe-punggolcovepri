@@ -146,7 +146,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>13-14 Aug *</p>
+<p>13-14 Aug*</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>PSLE Oral Examination (No school for P1 to P5 Students)</p>
@@ -184,7 +184,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>13 Sep *</p>
+<p>13 Sep*</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>PSLE Listening Comprehension (No school for P1 to P5 students)</p>
@@ -192,7 +192,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>26 Sep - 2 Oct *</p>
+<p>26 Sep - 2 Oct*</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>PSLE Written Examinations (More information will be given later)</p>
@@ -216,7 +216,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>14 - 16 Oct *</p>
+<p>14 - 16 Oct*</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>PSLE Marking Exercise (More information will be given later)</p>
@@ -232,7 +232,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6 Nov *</p>
+<p>6 Nov*</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Admin Day (No school for all students)</p>
@@ -240,7 +240,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>13 Nov *</p>
+<p>13 Nov*</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Meet-the-Parents Session (P1 to P5 students)</p>
