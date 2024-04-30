@@ -262,6 +262,14 @@ description: ""
 <p>End of Year School Vacation (25 Dec - Public Holiday Christmas Day)</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <p>*tentative dates
