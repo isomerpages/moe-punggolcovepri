@@ -1,5 +1,4 @@
 collections:
   useful-links:
     output: true
-    order:
-      - Calendar of Events.md
+    order: []
