@@ -264,7 +264,6 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p></p>
 <p>*tentative dates
 <br>
 <br>
