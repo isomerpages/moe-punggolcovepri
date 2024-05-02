@@ -173,3 +173,7 @@ third_nav_title: For Parents
 </tbody>
 </table>
 <p></p>
+<h3>Digital Access @ Home</h3>
+<p><a href="https://www.imda.gov.sg/how-we-can-help/digital-access" rel="noopener noreferrer nofollow" target="_blank">Digital Access Programme</a>
+</p>
+<p></p>
