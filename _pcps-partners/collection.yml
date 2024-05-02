@@ -2,14 +2,11 @@ collections:
   pcps-partners:
     output: true
     order:
-      - For Students/.keep
-      - For Students/Student Learning Space (SLS).md
-      - For Students/Home Based Learning (HBL).md
-      - For Students/Subject Downloads.md
       - School Advisory Committee.md
       - Parent Support Group/.keep
       - Parent Support Group/Para on PSG.md
       - Parent Support Group/Link to sign up for PSG.md
+      - For Parents/.keep
       - For Parents/Parents.md
       - For Parents/Physical Education.md
       - For Parents/English Spelling List.md
@@ -35,11 +32,14 @@ collections:
       - For Parents/Personnel for Pupil Wellbeing Matters.md
       - For Parents/Communication Channel.md
       - For Parents/Admission Matters.md
-      - For Parents/.keep
       - For Parents/Communication with Parents.md
       - For Parents/Term Letter to Parents.md
       - For Parents/Curriculum Briefings.md
       - For Parents/ICT Connect Newsletters.md
+      - For Students/.keep
+      - For Students/Student Learning Space (SLS).md
+      - For Students/Home Based Learning (HBL).md
+      - For Students/Subject Downloads.md
       - General Information/.keep
       - General Information/School Booklists.md
       - General Information/Leaving School During School Hours.md
