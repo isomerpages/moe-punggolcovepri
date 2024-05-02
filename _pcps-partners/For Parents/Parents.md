@@ -5,9 +5,40 @@ description: ""
 third_nav_title: For Parents
 variant: tiptap
 ---
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<h3>Quick Links</h3>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.moe.gov.sg/primary/p1-registration" rel="noopener noreferrer nofollow" target="_blank">Primary 1 Registration</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/for-parents/admission-matters/#p1-reg" rel="noopener noreferrer nofollow" target="_blank">P1 Registration</a>
+<p><a href="/for-parents/admission-matters/#p1-reg" rel="noopener noreferrer nofollow" target="_blank">1 Registration</a>
 </p>
 </li>
 <li>
