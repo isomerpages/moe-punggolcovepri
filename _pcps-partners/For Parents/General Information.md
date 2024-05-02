@@ -6,48 +6,133 @@ description: ""
 third_nav_title: For Parents
 ---
 <h3>School Booklist for Year 2024</h3>
-<ul>
-<li>
-<p>P1 (Y2024) BOOKLIST</p>
-<p>Please click <a href="https://go.gov.sg/2024p1booklist" rel="noopener" target="_blank">here</a> for
-P1 (Y2024) Booklist</p>
-</li>
-<li>
-<p>P2 (Y2024) BOOKLIST</p>
-<p>Please click <a href="https://go.gov.sg/2024p2booklist" rel="noopener" target="_blank">here</a> for
-P2 (Y2024) Booklist</p>
-</li>
-<li>
-<p>P3 (Y2024) BOOKLIST</p>
-<p>Please click <a href="https://go.gov.sg/2024p3booklist" rel="noopener" target="_blank">here</a> for
-P3 (Y2024) Booklist
-<br>Please click <a href="https://go.gov.sg/2024p3hmt" rel="noopener" target="_blank">here</a> for
-P3 (Y2024) Higher MT Booklist</p>
-</li>
-<li>
-<p>P4 (Y2024) BOOKLIST</p>
-<p>Please click <a href="https://go.gov.sg/2024p4booklist" rel="noopener" target="_blank">here</a> for
-P4 (Y2024) Booklist
-<br>Please click <a href="https://go.gov.sg/2024p4hmt" rel="noopener" target="_blank">here</a> for
-P4 Higher MT (Y2024) Booklist</p>
-</li>
-<li>
-<p>P5 (Y2024) BOOKLIST</p>
-<p>Please click <a href="https://go.gov.sg/2024p5fdn" rel="noopener" target="_blank">here</a> for
-P5 Foundation (Y2024) Booklist
-<br>Please click <a href="https://go.gov.sg/2024p5hmt" rel="noopener" target="_blank">here</a> for
-P5 Higher MT (Y2024) Booklist
-<br>Please click <a href="https://go.gov.sg/2024p5stdmt" rel="noopener" target="_blank">here</a> for
-P5 Standard MT (Y2024) Booklist</p>
-</li>
-<li>
-<p>P6 (Y2024) BOOKLIST</p>
-<p>Please click <a href="https://go.gov.sg/2024p6fdn" rel="noopener" target="_blank">here</a> for
-P6 Foundation (Y2024) Booklist
-<br>Please click <a href="https://go.gov.sg/2024p6hmt" rel="noopener" target="_blank">here</a> for
-P6 Higher MT (Y2024) Booklist
-<br>Please click <a href="https://go.gov.sg/2024p6stdmt" rel="noopener" target="_blank">here</a> for
-P6 Standard MT (Y2024) Booklist</p>
-</li>
-</ul>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Primary Levels</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>School Booklist</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Primary 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/2024p1booklist" rel="noopener noreferrer nofollow" target="_blank">P1 (Y2024) Booklist</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Primary 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/2024p2booklist" rel="noopener noreferrer nofollow" target="_blank">P2 (Y2024) Booklist</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Primary 3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/2024p3booklist" rel="noopener noreferrer nofollow" target="_blank">P3 (Y2024) Booklist</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Primary 3 (Higher Mother Tongue)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/2024p3hmt" rel="noopener noreferrer nofollow" target="_blank">P3 (Y2024) Higher Mother Tongue Booklist</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Primary 4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/2024p4booklist" rel="noopener noreferrer nofollow" target="_blank">P4 (Y2024) Booklist</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Primary 4 (Higher Mother Tongue)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/2024p4hmt" rel="noopener noreferrer nofollow" target="_blank">P4 (Y2024) Higher Mother Tongue Booklist</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Primary 5 (Standard)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/2024p5stdmt" rel="noopener noreferrer nofollow" target="_blank">P5 (Y2024) Standard Booklist</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Primary 5 (Foundation)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/2024p5fdn" rel="noopener noreferrer nofollow" target="_blank">P5 (Y2024) Foundation Booklist</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Primary 5 (Higher Mother Tongue)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/2024p5hmt" rel="noopener noreferrer nofollow" target="_blank">P5 (Y2024) Higher Mother Tongue Booklist</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Primary 6 (Standard)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/2024p6stdmt" rel="noopener noreferrer nofollow" target="_blank">P6 (Y2024) Standard Booklist</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Primary 6 (Foundation)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/2024p6fdn" rel="noopener noreferrer nofollow" target="_blank">P6 (Y2024) Foundation Booklist</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Primary 6 (Higher Mother Tongue)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/2024p6hmt" rel="noopener noreferrer nofollow" target="_blank">P6 (Y2024) Higher Mother Tongue Booklist</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p></p>
