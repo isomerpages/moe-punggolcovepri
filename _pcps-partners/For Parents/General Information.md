@@ -134,5 +134,11 @@ third_nav_title: For Parents
 </tr>
 </tbody>
 </table>
+<h3>Leaving School During School Hours</h3>
+<p>Stay tuned for any upcoming information in this space. Thank you.</p>
+<p></p>
+<h3>Informing School of Child's Sick Leave</h3>
+<p>Stay tuned for any upcoming information in this space. Thank you.</p>
+<p></p>
 <p></p>
 <p></p>
