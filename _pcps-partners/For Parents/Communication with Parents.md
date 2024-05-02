@@ -133,3 +133,34 @@ third_nav_title: For Parents
 </tbody>
 </table>
 <p></p>
+<h3>ICT Connect Newsletters</h3>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Month / Year</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Newsletters</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>June 2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://file.go.gov.sg/junenewsletter2023.pdf" rel="noopener noreferrer nofollow" target="_blank">ICT Connect @ Cove Newsletter 2023</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
