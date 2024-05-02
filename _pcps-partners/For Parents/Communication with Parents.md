@@ -73,7 +73,7 @@ third_nav_title: For Parents
 <p>Primary 6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="" rel="noopener noreferrer nofollow" target="_blank">P6 Curriculum Briefing 2024</a>
+<p><a href="https://go.gov.sg/2024p6curriculumbriefing" rel="noopener noreferrer nofollow" target="_blank">P6 Curriculum Briefing 2024</a>
 </p>
 </td>
 </tr>
@@ -82,7 +82,7 @@ third_nav_title: For Parents
 <p>Primary 5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="" rel="noopener noreferrer nofollow" target="_blank">P5 Curriculum Briefing 2024</a>
+<p><a href="https://go.gov.sg/2024p5curriculumbriefing" rel="noopener noreferrer nofollow" target="_blank">P5 Curriculum Briefing 2024</a>
 </p>
 </td>
 </tr>
@@ -91,7 +91,7 @@ third_nav_title: For Parents
 <p>Primary 4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="" rel="noopener noreferrer nofollow" target="_blank">P4 Curriculum Briefing 2024</a>
+<p><a href="https://go.gov.sg/2024p4curriculumbriefing" rel="noopener noreferrer nofollow" target="_blank">P4 Curriculum Briefing 2024</a>
 </p>
 </td>
 </tr>
