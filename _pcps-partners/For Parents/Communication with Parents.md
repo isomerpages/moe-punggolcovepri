@@ -79,7 +79,7 @@ third_nav_title: For Parents
 <p>Primary 6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>P6 Curriculum Briefing 2024</p>
 </td>
 </tr>
 <tr>
@@ -90,7 +90,7 @@ third_nav_title: For Parents
 <p>Primary 5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>P5 Curriculum Briefing 2024</p>
 </td>
 </tr>
 <tr>
@@ -101,7 +101,7 @@ third_nav_title: For Parents
 <p>Primary 4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>P4 Curriculum Briefing 2024</p>
 </td>
 </tr>
 <tr>
@@ -112,7 +112,7 @@ third_nav_title: For Parents
 <p>Primary 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>P3 Curriculum Briefing 2024</p>
 </td>
 </tr>
 <tr>
@@ -123,7 +123,7 @@ third_nav_title: For Parents
 <p>Primary 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>P2 Curriculum Briefing 2024</p>
 </td>
 </tr>
 <tr>
