@@ -140,5 +140,36 @@ third_nav_title: For Parents
 <h3>Informing School of Child's Sick Leave</h3>
 <p>Stay tuned for any upcoming information in this space. Thank you.</p>
 <p></p>
+<h3>Financial Assistance Scheme</h3>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Contact Person</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong><a href="qairil_fahri_sapari@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Qairil Fahri Sapari</a></strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>FAS Form</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://file.go.gov.sg/parentsgatewayannouncement05july2023.pdf" rel="noopener noreferrer nofollow" target="_blank">ENHANCED EDUSAVE AND MOE FINANCIAL ASSISTANCE SCHEMES (FAS) AND REVISED MISCELLANEOUS FEES STRUCTURE FROM 2024</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
