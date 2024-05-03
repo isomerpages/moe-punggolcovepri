@@ -13,10 +13,12 @@ third_nav_title: Our Staff
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Name</p>
+<p><strong>Name</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Designation</p>
+<p><strong>Designation</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -43,8 +45,7 @@ third_nav_title: Our Staff
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lead Teacher
-<br>(CL)</p>
+<p>Lead Teacher (CL)</p>
 </td>
 </tr>
 <tr>
