@@ -2,13 +2,10 @@
 title: Video of Learning Environment at MK@PC
 permalink: /mk-at-punggol-cove/mk-videos/
 description: ""
-variant: markdown
+variant: tiptap
 third_nav_title: Our Learning Environment
 ---
-### MK TOTAL CURRICULUM
-
-(embed video here)
-
-### MK LEARNING ENVIRONMENT
-
-(embed video here)
+<h3>MK Total Curriculum</h3>
+<p>(embed video here)</p>
+<h3>MK LEARNING ENVIRONMENT</h3>
+<p>(embed video here)</p>
