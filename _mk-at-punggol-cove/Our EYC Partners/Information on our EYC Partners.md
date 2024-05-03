@@ -5,4 +5,4 @@ variant: tiptap
 description: ""
 third_nav_title: Our EYC Partners
 ---
-<p></p>
+<p>Stay tuned for information on our EYC Partners in this space. Thank you.</p>
