@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Kindergarten Information
 ---
-<h3>Kindergarten Information</h3>
+<h3>MOE Kindergarten @ Punggol Cove&nbsp;<br>Information</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
