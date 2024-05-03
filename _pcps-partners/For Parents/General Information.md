@@ -203,7 +203,8 @@ third_nav_title: For Parents
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>P1 Registration Exercise</p>
+<p><a href="https://www.moe.gov.sg/primary/p1-registration" rel="noopener noreferrer nofollow" target="_blank">P1 Registration Exercise</a>
+</p>
 </li>
 </ul>
 </td>
@@ -212,7 +213,8 @@ third_nav_title: For Parents
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>PCPS Virtual Tour</p>
+<p><a href="https://www.youtube.com/watch?v=vUkvC2leo50&amp;ab_channel=PunggolCovePrimarySchool" rel="noopener noreferrer nofollow" target="_blank">PCPS Virtual Tour</a>
+</p>
 </li>
 </ul>
 </td>
@@ -221,7 +223,8 @@ third_nav_title: For Parents
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Primary School Transfer System</p>
+<p><a href="https://www.moe.gov.sg/primary/transfers" rel="noopener noreferrer nofollow" target="_blank">Primary School Transfer System</a>
+</p>
 </li>
 </ul>
 </td>
@@ -230,7 +233,8 @@ third_nav_title: For Parents
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Application for Leave of Absence</p>
+<p><a href="https://www.moe.gov.sg/-/media/files/returning-singaporeans/leave-of-absence-application-form.pdf" rel="noopener noreferrer nofollow" target="_blank">Application for Leave of Absence</a>
+</p>
 </li>
 </ul>
 </td>
