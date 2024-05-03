@@ -75,7 +75,6 @@ more information</p>
 </tr>
 </tbody>
 </table>
+<h3></h3>
 <p></p>
-<h3>Our EYC Partners</h3>
-<p>Stay tuned for information on our EYC Partners in this space. Thank you.</p>
 <p></p>
