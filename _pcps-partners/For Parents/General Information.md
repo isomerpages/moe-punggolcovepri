@@ -6,7 +6,11 @@ description: ""
 third_nav_title: For Parents
 ---
 <h3>School Booklist for Year 2024</h3>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -141,7 +145,11 @@ third_nav_title: For Parents
 <p>Stay tuned for any upcoming information in this space. Thank you.</p>
 <p></p>
 <h3>Financial Assistance Scheme</h3>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -179,4 +187,70 @@ third_nav_title: For Parents
 <p></p>
 <h3>Replacement of Student Smart Card <br>(Lost or Damaged)</h3>
 <p>Stay tuned for any upcoming information in this space. Thank you.</p>
+<p></p>
+<h3>School Admission and Transfer</h3>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>P1 Registration Exercise</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>PCPS Virtual Tour</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Primary School Transfer System</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Application for Leave of Absence</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Waitlist List Form</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<h3>Personnel for Student Wellbeing Matters</h3>
 <p></p>
