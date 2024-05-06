@@ -13,10 +13,12 @@ third_nav_title: Our People
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Name</p>
+<p><strong>Name</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Designation</p>
+<p><strong>Designation</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -243,6 +245,14 @@ third_nav_title: Our People
 </td>
 <td rowspan="1" colspan="1">
 <p>SH Malay Language</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
