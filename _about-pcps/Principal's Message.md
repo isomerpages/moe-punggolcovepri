@@ -44,9 +44,9 @@ leadership and their unyielding support for the school directions and programmes
 We look forward to yet another purposeful year in 2024 as we work together
 to bring about more exciting possibilities for our students in PCPS.</p>
 <p></p>
-<p>Yours in Education,</p>
-<p>Mrs Teo Whye Choo</p>
-<p>Principal</p>
+<p>Yours in Education,
+<br>Mrs Teo Whye Choo
+<br>Principal</p>
 <p>
 <br>
 </p>
