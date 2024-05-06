@@ -13,3 +13,4 @@ a fast-changing environment for all students to play, learn and grow. &nbsp;The
 green sails&nbsp;represent&nbsp;<strong>Uprightness in Character</strong>&nbsp;and
 the blue base of the yacht represents&nbsp;<strong>Stable and Strong Values</strong>&nbsp;that
 the school will be anchored upon.</p>
+<p></p>
