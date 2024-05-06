@@ -201,7 +201,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="yang_fengxing_linda@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Yang Fengxing Linda</a>
+<p><a href="jolene_choy_jo_yin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Jolene Choy Jo Yin</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -226,7 +226,7 @@ third_nav_title: Our People
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher
-<br>1 Ruby
+<br>1 Sapphire
 <br>CL Teacher</p>
 </td>
 </tr>
