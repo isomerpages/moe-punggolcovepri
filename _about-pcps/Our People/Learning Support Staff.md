@@ -5,7 +5,11 @@ description: ""
 variant: tiptap
 third_nav_title: Our People
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -26,11 +30,11 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="teo_swee_yee_grace@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Grace Teo</a>
+<p><a href="mastura_mohamed_hashim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Mastura Binte Mohamed Hashim</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Student Welfare Officer</p>
+<p>Lead Special Educational Needs Officer</p>
 </td>
 </tr>
 <tr>
@@ -61,6 +65,23 @@ third_nav_title: Our People
 <td rowspan="1" colspan="1">
 <p>Special Educational Needs Officer
 <br>(SEN Officer)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="teo_swee_yee_grace@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Grace Teo</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Student Welfare Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
