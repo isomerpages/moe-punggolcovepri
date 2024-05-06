@@ -555,7 +555,7 @@ third_nav_title: Our People
 <p>5 Coral</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="nur_alisa_zanal@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Nur Alisa Binte Zanal</a>
+<p><a href="nur_alisa_zanal@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Nur Alisa Binte Zainal</a>
 </p>
 </td>
 </tr>
