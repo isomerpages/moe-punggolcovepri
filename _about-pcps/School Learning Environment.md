@@ -7,7 +7,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Facilities.jpeg">
 </div>
-<h4>INFORMATION ON PCPS FACILITIES &amp; VENUES</h4>
+<h4>Information On PCPS Facilities &amp; Venues</h4>
 <p><strong>1. Canteen</strong>
 </p>
 <div class="isomer-image-wrapper">
