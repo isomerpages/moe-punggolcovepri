@@ -8,8 +8,7 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Facilities.jpeg">
 </div>
 <h4>Information On PCPS Facilities &amp; Venues</h4>
-<p><strong>1. Canteen</strong>
-</p>
+<h4>1. Canteen</h4>
 <div class="isomer-image-wrapper">
 <img style="width:75%" height="auto" width="100%" src="/images/canteen1.jpg">
 </div>
@@ -48,16 +47,14 @@ the canteen.</p>
 <p>Students are encouraged to wipe down their seating areas after eating.
 Besides cultivating the social responsibility in them, such action is also
 aligned with our school values: Empathy, Mindfulness and Care.</p>
-<p><strong>2. Bookshop</strong>
-</p>
+<h4>2. Bookshop</h4>
 <div class="isomer-image-wrapper">
 <img style="width:75%" height="auto" width="100%" src="/images/bookshop.jpg">
 </div>
 <p>The bookshop sells school books and essential stationery. The uniforms
 are available for sale at the bookshop too. Students may purchase what
 they need during recess.&nbsp;</p>
-<p><strong>3. The Cove</strong>
-</p>
+<h4>3. The Cove</h4>
 <div class="isomer-image-wrapper">
 <img style="width:75%" height="auto" width="100%" src="/images/thecove1.jpg">
 </div>
@@ -70,8 +67,7 @@ games.</p>
 </div>
 <p>The Cove is also a dismissal venue. Parents and caregivers will wait at
 The Cove to pick up the students who are going home via Gate E.</p>
-<p><strong>4. Football Field</strong>
-</p>
+<h4>4. Football Field</h4>
 <div class="isomer-image-wrapper">
 <img style="width:75%" height="auto" width="100%" src="/images/fbfield1.jpg">
 </div>
@@ -85,8 +81,7 @@ at the field, as part of the school’s Learn through Play programme.</p>
 <div class="isomer-image-wrapper">
 <img style="width:75%" height="auto" width="100%" src="/images/fbfield3.jpg">
 </div>
-<p><strong>5. Eco-Garden</strong>
-</p>
+<h4>5. Eco-Garden</h4>
 <div class="isomer-image-wrapper">
 <img style="width:75%" height="auto" width="100%" src="/images/ecog1.jpg">
 </div>
@@ -108,23 +103,20 @@ around them.</p>
 <div class="isomer-image-wrapper">
 <img style="width:75%" height="auto" width="100%" src="/images/ecog4.jpg">
 </div>
-<p><strong>6. Multi-purpose Hall (MPH)</strong>
-</p>
+<h4>6. Multi-purpose Hall (MPH)</h4>
 <div class="isomer-image-wrapper">
 <img style="width:75%" height="auto" width="100%" src="/images/mph1.jpg">
 </div>
 <p>The Multi-purpose Hall (MPH) serves as a venue for many purposes such
 as morning assembly programme, flag-raising, school events, PE and CCA
 lessons.&nbsp;</p>
-<p><strong>7. Indoor Sports Hall (ISH)</strong>
-</p>
+<h4>7. Indoor Sports Hall (ISH)</h4>
 <div class="isomer-image-wrapper">
 <img style="width:75%" height="auto" width="100%" src="/images/ish1.jpg">
 </div>
 <p>The Indoor Sports Hall (ISH) is adjoining to the Multi-purpose Hall. PE
 lessons and Floorball CCA are carried out in the Indoor Sports Hall.&nbsp;</p>
-<p><strong>8. Readers' Cove</strong>
-</p>
+<h4>8. Readers' Cove</h4>
 <div class="isomer-image-wrapper">
 <img style="width:75%" height="auto" width="100%" src="/images/rc1.jpg">
 </div>
@@ -136,8 +128,7 @@ lessons and Floorball CCA are carried out in the Indoor Sports Hall.&nbsp;</p>
 Students are also allowed to borrow the books during their library periods.&nbsp;</p>
 <p>The Readers' Cove is a quiet place for reading and resting. Students are
 encouraged to observe silence in the Readers' Cove.&nbsp;</p>
-<p><strong>9. Classroom</strong>
-</p>
+<h4>9. Classroom</h4>
 <div class="isomer-image-wrapper">
 <img style="width:75%" height="auto" width="100%" src="/images/class1.jpg">
 </div>
@@ -150,8 +141,7 @@ blocks.</p>
 in the classroom. Students may wash their hands in the sink before and
 after they have eaten a snack during snack break. They may use the soap
 provided in the classroom.</p>
-<p><strong>10. Computer Rooms</strong>
-</p>
+<h4>10. Computer Rooms</h4>
 <div class="isomer-image-wrapper">
 <img style="width:75%" height="auto" width="100%" src="/images/comr1.jpg">
 </div>
@@ -160,8 +150,7 @@ ICT lessons such as New MICT and ALP here. Students in New Media CCA also
 uses this room every CCA session. Students learn basic touch typing and
 soft skills such as Microsoft Word and PowerPoint. Some of the lessons
 were designed to complement the English language lessons.</p>
-<p><strong>11. Art Rooms</strong>
-</p>
+<h4>11. Art Rooms</h4>
 <div class="isomer-image-wrapper">
 <img style="width:75%" height="auto" width="100%" src="/images/artr1.jpg">
 </div>
@@ -171,7 +160,7 @@ were designed to complement the English language lessons.</p>
 </div>
 <p>There are various art supplies available in the Art room. Students in
 the Art CCA also use this room during their CCA sessions.</p>
-<p>12. Science Rooms</p>
+<h4>12. Science Rooms</h4>
 <div class="isomer-image-wrapper">
 <img style="width:75%" height="auto" width="100%" src="/images/scir1.jpg">
 </div>
@@ -190,8 +179,7 @@ learning of Science concepts.</p>
 <div class="isomer-image-wrapper">
 <img style="width:75%" height="auto" width="100%" src="/images/scir4.jpg">
 </div>
-<p><strong>13. Music Rooms</strong>
-</p>
+<h4>13. Music Rooms</h4>
 <div class="isomer-image-wrapper">
 <img style="width:75%" height="auto" width="100%" src="/images/musr1.jpg">
 </div>
@@ -201,8 +189,7 @@ the air-conditioned room while learning more about music and musical instruments
 <div class="isomer-image-wrapper">
 <img style="width:75%" height="auto" width="100%" src="/images/musr2.jpg">
 </div>
-<p><strong>14. PAL Rooms</strong>
-</p>
+<h4>14. PAL Rooms</h4>
 <div class="isomer-image-wrapper">
 <img style="width:75%" height="auto" width="100%" src="/images/palr1.jpg">
 </div>
