@@ -5,7 +5,11 @@ description: ""
 variant: tiptap
 third_nav_title: Our People
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
