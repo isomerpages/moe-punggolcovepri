@@ -93,24 +93,6 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="Khadijah.Latif@staff.spydus.com.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Siti Khadijah</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Library Assistant</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="haran.ganeshan@ncs.com.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Haran</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Desktop Engineer</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Amutha D/O Kandasamy</p>
 </td>
 <td rowspan="1" colspan="1">
