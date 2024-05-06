@@ -5,7 +5,11 @@ description: ""
 variant: tiptap
 third_nav_title: Our People
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -26,7 +30,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="kesa_singh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Kesa Gill</a>
+<p><a href="kesa_singh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Kesa Singh</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -80,6 +84,15 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="Suriati_Sharin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Suriati Sharin</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Corporate Support Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="Khadijah.Latif@staff.spydus.com.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Siti Khadijah</a>
 </p>
 </td>
@@ -98,7 +111,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Amutha</p>
+<p>Mdm Amutha D/O Kandasamy</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Operations Support Office</p>
@@ -106,10 +119,18 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Mohan</p>
+<p>Mdm Artisah Bte Abd Rahman</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Operations Support Office</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Khalsom Binte Abd Rahman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer</p>
 </td>
 </tr>
 <tr>
@@ -122,7 +143,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Khalsom</p>
+<p>Mdm Neo Kim Tee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Operations Support Officer</p>
@@ -130,7 +151,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Neo</p>
+<p>Mr Sunthiramohan S/O Veloo</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Operations Support Officer</p>
@@ -138,10 +159,10 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Artisah</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Operations Support Officer</p>
+<p></p>
 </td>
 </tr>
 </tbody>
