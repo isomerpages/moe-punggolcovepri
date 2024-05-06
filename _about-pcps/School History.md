@@ -4,12 +4,47 @@ permalink: /about-pcps/school-video/
 description: ""
 variant: tiptap
 ---
-<h4>Cherished Moments At Punggol Cove Primary School</h4>
+<h3>Our History</h3>
+<p>Punggol Cove Primary School 湾景小学was established in January 2016 at its
+current site located in 52, Sumang Walk.</p>
+<p>Mr Dennis Yap Swee Beng was appointed Principal-Designate in April 2015
+and thereafter Principal of the school on 15 December 2015 to 14 December
+2022.</p>
+<p>Punggol Cove Primary School endeavours to provide a safe and nurturing
+environment for learning and growing. This is anchored in the belief that
+every child can learn and must feel inspired to believe in himself or herself
+as well as those around him or her. It strives to be student-centric with
+an emphasis on total education. Through the meaningful curriculum developed
+by our teachers, the school aims to develop in every child, 21st century
+competencies that would prepare him or her for the world.</p>
+<p>At Punggol Cove Primary School, we envision every student to be an educated
+child and a contributing citizen, ready to serve and lead. In ln 2017,
+the school developed its Applied Learning Programme (ALP), Holistic English
+Literacy Programme (HELP), with the intent of organising an educational
+experience that both meets needs of the community and fulfils student learning
+objectives.</p>
+<p>In 2017, the school developed its Applied Learning Programme, Holistic
+English Literacy Programme, with the intent of organising an educational
+experience that both meets needs of the community and fulfils student learning
+objectives.</p>
+<p>In January 2018, MOE Kindergarten @ Punggol Cove joined the Punggol Cove
+Primary School family and started operations in the school.</p>
+<p>The school was officially opened on 3rd August 2018 by Dr Janil Puthucheary,
+Senior Minister of State for Transport, Senior Minister of State for Communications
+and Information and Grassroots Advisor to Pasir Ris – Punggol GRC.</p>
+<p><u>Current Principal</u>
+</p>
+<p>Mrs Teo Whye Choo (15 December 2022 to&nbsp; present)</p>
+<h3>Cherished Moments At Punggol Cove Primary School</h3>
 <p>(embed youtube video here)</p>
-<h4>Each Of Us, A Gift To Another</h4>
+<h3>Each Of Us, A Gift To Another</h3>
 <p>(embed youtube video here)</p>
 <p></p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
