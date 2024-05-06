@@ -280,11 +280,11 @@ third_nav_title: Our People
 <p>2 Pearl</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="sivapriya_sivaraj@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Sivapriya </a>
+<p><a href="sivapriya_sivaraj@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Sivapriya</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="hong_siang_huat@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Jason Hong </a>
+<p><a href="hong_siang_huat@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Jason Hong</a>
 </p>
 </td>
 </tr>
@@ -418,6 +418,14 @@ third_nav_title: Our People
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <h4><strong>2024 PRIMARY 4</strong></h4>
@@ -429,20 +437,21 @@ third_nav_title: Our People
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Name</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Designation</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="koh_hui_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Koh Hui Ling</a>
+<p><strong>Class</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Form Teacher
-<br>4 Amber</p>
+<p><strong>Form Teacher</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>4 Amber</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="koh_hui_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Koh Hui Ling</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -450,70 +459,67 @@ third_nav_title: Our People
 <p><a href="noor_mohamed_ayisha_ruksana@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Ayisha Ruksana</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Form Teacher
-<br>4 Amber
-<br>TL Teacher</p>
-</td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>4 Coral</p>
+</td>
 <td rowspan="1" colspan="1">
 <p><a href="yeo_mui_eng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Lim-Yeo Mui Eng</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Form Teacher
-<br>4 Coral</p>
-</td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>4 Diamond</p>
+</td>
 <td rowspan="1" colspan="1">
 <p><a href="onn_ying_hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Onn Ying Hui Mark</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Form Teacher
-<br>4 Diamond</p>
-</td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>4 Emerald</p>
+</td>
 <td rowspan="1" colspan="1">
 <p><a href="cheryl_mah_jia_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Cheryl Mah Jia Wei</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Form Teacher
-<br>4 Emerald</p>
-</td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>4 Jade</p>
+</td>
 <td rowspan="1" colspan="1">
 <p><a href="murni_alidawati_mohamed@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Murni Alidawati</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Form Teacher
-<br>4 Jade</p>
-</td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>4 Opal</p>
+</td>
 <td rowspan="1" colspan="1">
 <p><a href="gan_zhan_yi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Gan Zhan Yi</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Form Teacher
-<br>4 Opal</p>
-</td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>4 Pearl</p>
+</td>
 <td rowspan="1" colspan="1">
 <p><a href="teo_jia_hao@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Teo Jia Hao</a>
 </p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p>Form Teacher
-<br>4 Pearl</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -527,10 +533,12 @@ third_nav_title: Our People
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Name</p>
+<p><strong>Class</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Designation</p>
+<p><strong>Form Teacher</strong>
+</p>
 </td>
 </tr>
 <tr>
