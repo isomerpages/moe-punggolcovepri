@@ -6,7 +6,11 @@ variant: tiptap
 third_nav_title: Our People
 ---
 <h4><strong>2024 PRIMARY 1</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -229,7 +233,11 @@ third_nav_title: Our People
 </tbody>
 </table>
 <h4><strong>2024 PRIMARY 2</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -422,7 +430,11 @@ third_nav_title: Our People
 </tbody>
 </table>
 <h4><strong>2024 PRIMARY 3</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -549,7 +561,11 @@ third_nav_title: Our People
 </tbody>
 </table>
 <h4><strong>2024 PRIMARY 4</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -643,7 +659,11 @@ third_nav_title: Our People
 </tbody>
 </table>
 <h4><strong>2024 PRIMARY 5</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -751,7 +771,11 @@ third_nav_title: Our People
 </tbody>
 </table>
 <h4><strong>2024 PRIMARY 6</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -879,7 +903,11 @@ third_nav_title: Our People
 </tbody>
 </table>
 <h4><strong>OTHER TEACHING STAFF</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -900,6 +928,51 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="zahira_abdul_majeed@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Zahira</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="chen_kang_li@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Chen Kang Li</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="Cherylaida_Baharuddin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Cherylaida Bte Baharuddin</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="Lua_Weiting_Jolie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Lua Weiting Jolie</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="Safifulhira_Salim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Safifulhira Bte Salim</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="shankari_balakrishnan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Shankari</a>
 </p>
 </td>
@@ -909,7 +982,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="chia_yizhen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Chia Yizhen</a>
+<p><a href="yang_fengxing_linda@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Yang Fengxing Linda</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -918,11 +991,18 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="hernie_maslinda_mohamed@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Hernie Maslinda</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -1017,11 +1097,10 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="zahira_abdul_majeed@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Zahira</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher</p>
+<p></p>
 </td>
 </tr>
 <tr>
