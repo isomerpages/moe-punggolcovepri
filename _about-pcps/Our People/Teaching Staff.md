@@ -543,76 +543,65 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>5 Amber</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><a href="tang_yu_ying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Tang Yu Ying</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Form Teacher
-<br>5 Amber
-<br>Int LH Science</p>
-</td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>5 Coral</p>
+</td>
 <td rowspan="1" colspan="1">
 <p><a href="nur_alisa_zanal@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Nur Alisa Binte Zanal</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Form Teacher
-<br>5 Coral</p>
-</td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>5 Diamond</p>
+</td>
 <td rowspan="1" colspan="1">
 <p><a href="goh_yan_ping_yvonne@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Goh Yan Ping Yvonne</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Form Teacher
-<br>5 Diamond
-<br>ST Math</p>
-</td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>5 Emerald</p>
+</td>
 <td rowspan="1" colspan="1">
 <p><a href="yeo_yee_peng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Yeo Yee Peng</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Form Teacher
-<br>5 Emerald</p>
-</td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>5 Jade</p>
+</td>
 <td rowspan="1" colspan="1">
 <p><a href="fatimah_hashim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Fatimah Bte Hashim</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Form Teacher
-<br>5 Jade
-<br>ST CCE</p>
-</td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>5 Opal</p>
+</td>
 <td rowspan="1" colspan="1">
 <p><a href="munawarrah_sultana_unwar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Munawarrah Sultana Unwar</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Form Teacher
-<br>5 Opal
-<br>ST English</p>
-</td>
 </tr>
 <tr>
+<td rowspan="3" colspan="1">
+<p>5 Pearl</p>
+</td>
 <td rowspan="1" colspan="1">
 <p><a href="m_sainava_buang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Shahrin</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Form Teacher
-<br>5 Pearl</p>
 </td>
 </tr>
 <tr>
@@ -620,20 +609,19 @@ third_nav_title: Our People
 <p><a href="shanthi_marimuthu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Haider</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Form Teacher
-<br>5 Pearl
-<br>TL Teacher</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="nurin_nasyirah_jahaya@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Nurin Nasyirah</a>
 </p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p>Form Teacher
-<br>5 Pearl</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
