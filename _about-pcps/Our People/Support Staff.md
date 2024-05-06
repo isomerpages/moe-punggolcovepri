@@ -21,10 +21,18 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Siti Khadijah Binte Abdul Latif</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Library Assistant</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Sriharan S/O Ganeshan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Desktop Engineer</p>
 </td>
 </tr>
 <tr>
