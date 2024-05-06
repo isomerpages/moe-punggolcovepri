@@ -769,7 +769,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="zahira_abdul_majeed@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Zahira</a>
+<p><a href="zahira_abdul_majeed@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Zahira Bte Abdul Majeed</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -778,8 +778,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="chen_kang_li@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Chen Kang Li</a>
-</p>
+<p>Ms Chen Kang Li</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -787,8 +786,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="Cherylaida_Baharuddin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Cherylaida Bte Baharuddin</a>
-</p>
+<p>Ms Cherylaida Bte Baharuddin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -796,8 +794,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="Lua_Weiting_Jolie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Lua Weiting Jolie</a>
-</p>
+<p>Ms Lua Weiting Jolie</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -805,8 +802,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="Safifulhira_Salim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Safifulhira Bte Salim</a>
-</p>
+<p>Ms Safifulhira Bte Salim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -814,8 +810,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="shankari_balakrishnan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Shankari</a>
-</p>
+<p>Mdm Shankari d/o Balakrishnan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -823,131 +818,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="yang_fengxing_linda@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Yang Fengxing Linda</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="koh_hoon_leong_edwin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Koh Hoon Leong, Edwin</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="Margaret_Cheng_Poh_Wan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Margaret Tan</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="Norzaida_Daot@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Norzaida Daot</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="rehanna_dawood@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Rehanna</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="See_Shin_Yee_alice@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Alice Tan</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="serene_tay_khiok_sing@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Serene Tay</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="Magdalene_Teo_Rou_En@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Magdalene Teo</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="yeo_hui_cheng_serena@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Serena Chan</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="chua_tien_wee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Chua Tien Wee</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="yap_yen_ching_clarissa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Clarissa Yap</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="" rel="noopener noreferrer nofollow" target="_blank">Mdm Wei Hong Mei</a>
-</p>
+<p>Mdm Yang Fengxing Linda</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
