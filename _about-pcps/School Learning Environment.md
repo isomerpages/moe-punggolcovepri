@@ -225,3 +225,9 @@ the CCA Dance also use the PAL rooms during the CCA sessions.</p>
 are interactive and allow students to explore more about the various musical
 instruments, try them out, as well as stimulate their creativity in creating
 Art pieces and music.</p>
+<p></p>
+<h3>Our Learning Environment</h3>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/vUkvC2leo50?si=OOWn9IiucmpyikL9"></iframe>
+</div>
+<p></p>
