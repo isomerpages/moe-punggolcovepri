@@ -14,8 +14,8 @@ Walk Singapore 828674
 <br>Fax No.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :
 6385 7261
 <br>E-Mail&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-: <a rel="noopener noreferrer nofollow" target="_blank">punggolcove_ps@moe.edu.sg</a>
-<br>Website&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : <a rel="noopener noreferrer nofollow" target="_blank">www.punggolcovepri.moe.edu.sg</a>
+: <a rel="noopener noreferrer nofollow" target="_blank">punggolcove_ps@moe.edu.sg</a> 
+<br>Website&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : <a rel="noopener noreferrer nofollow" target="_blank">www.punggolcovepri.moe.edu.sg</a> 
 <br>Facebook&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : <a rel="noopener noreferrer nofollow" target="_blank">https://www.facebook.com/pages/Punggol-Cove-Primary-School</a>
 </p>
 <p><strong><u>Directions via Public Transport</u></strong>
