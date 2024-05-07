@@ -41,7 +41,7 @@ during school hours.</p>
 <br>E-Mail &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 : <a rel="noopener noreferrer nofollow" target="_blank">contact@shanghai-uniforms.com</a>
 </p>
-<p><em><u>Opening Hours (At Retail Shop)</u></em>
+<p><em><u>Opening Hours (At Retail Shop)</u></em> 
 <br>Mondays – Saturdays: 10.00 a.m. to 6.00 p.m.
 <br>Lunch Time: 1.00 p.m. – 2.00 p.m.</p>
 <h4>4) School-based Student Care Centre</h4>
@@ -53,8 +53,7 @@ directly.</p>
 </p>
 <h4>5)&nbsp;School Dental Clinic</h4>
 <p>Dental Therapist : Ms Poh Li Jin
-<br>Tel. No.&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-: 8940 9357</p>
+<br>Tel. No.&nbsp;&nbsp; : 8940 9357</p>
 <p>Students are advised to call for appointment as clinics are not open every
 day.</p>
 <p>Opening hours&nbsp;&nbsp;&nbsp; : 8.00 a.m. to 5.00 p.m.
