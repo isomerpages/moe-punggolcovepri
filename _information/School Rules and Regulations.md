@@ -39,7 +39,6 @@ be worn at least 2 inches above the ankles.</p>
 <p><strong>Shoes</strong>: Only plain black canvas/sports shoes with black
 rubber soles are allowed. There should be no fanciful/reflective/coloured
 stripes on any part of the shoes.</p>
-<p></p>
 </li>
 </ul>
 <h4>3) School Attire Decorum</h4>
@@ -165,7 +164,6 @@ belongings.</p>
 <p>Students should regard the school as their second home and treat the school
 property with care in order to maintain the school premises in good condition.
 Vandalism is a serious offence.</p>
-<p></p>
 </li>
 </ul>
 <h4>6) Use of Mobile Devices</h4>
