@@ -5,19 +5,19 @@ variant: tiptap
 description: ""
 ---
 <h3>School Rules and Regulations</h3>
-<h4>1. Conduct during Flag Raising Ceremony</h4>
+<h4>1)&nbsp;Conduct during Flag Raising Ceremony</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Students who are Singapore citizens must sing the National Anthem and take the Pledge. Students will take the Pledge with the right fist over the heart. </strong>Students
-who are not Singapore Citizens are to stand at attention.
-<br>
-</p>
+who are not Singapore Citizens are to stand at attention.</p>
+<p></p>
 </li>
 <li>
 <p>All students are to sing the school song with pride.</p>
 </li>
 </ul>
-<h4>2. School Uniform</h4>
+<p>&nbsp;</p>
+<h4>2)&nbsp;School Uniform</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Students are to wear the prescribed school uniform and modification to the uniform is not allowed</strong>.</p>
@@ -40,9 +40,10 @@ be worn at least 2 inches above the ankles.</p>
 <p><strong>Shoes</strong>: Only plain black canvas/sports shoes with black
 rubber soles are allowed. There should be no fanciful/reflective/coloured
 stripes on any part of the shoes.</p>
+<p></p>
 </li>
 </ul>
-<h4>3. School Attire Decorum</h4>
+<h4>3) School Attire Decorum</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Students should wear uniform when there is no PE or PAL lessons.</p>
@@ -67,7 +68,7 @@ in uniform from home and change to PE attire during recess.</p>
 programmes or activities with consent from teachers concerned.</p>
 </li>
 </ul>
-<h4>4. Hair and Appearance</h4>
+<h4>4) Hair and Appearance</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Hair is to be kept simple, neat and of natural colour.</p>
@@ -85,20 +86,17 @@ pins or hair bands.</p>
 </li>
 <li>
 <p>Girls with long hair or hair reaching below the collar must be tied up
-neatly with plain blue/ black rubber bands or clips.
-<br>
-</p>
+neatly with plain blue/ black rubber bands or clips.</p>
+<p></p>
 </li>
 <li>
 <p><strong>Male students must be clean-shaven and neat in appearance. </strong>No
-facial hair including moustache, beard, or sideburn is allowed.
-<br>
-</p>
+facial hair including moustache, beard, or sideburn is allowed.</p>
+<p></p>
 </li>
 <li>
-<p>Nails must be kept short and clean. No varnish or hardener is allowed.
-<br>
-</p>
+<p>Nails must be kept short and clean. No varnish or hardener is allowed.</p>
+<p></p>
 </li>
 <li>
 <p>No jewellery/ornament/accessory is to be worn.</p>
@@ -106,19 +104,16 @@ facial hair including moustache, beard, or sideburn is allowed.
 <li>
 <p>Girls are allowed to wear one pair of matching plain ear studs (less than
 5mm in diameter) on the ear lobes. For safety reasons, <u>NO</u> dangling
-or multiple earrings are allowed.
-<br>
-</p>
+or multiple earrings are allowed.</p>
+<p></p>
 </li>
 <li>
-<p>No make-up or body art is allowed.
-<br>
-</p>
+<p>No make-up or body art is allowed.</p>
+<p></p>
 </li>
 <li>
 <p>Cardigan, sweater or sandals worn on prolonged basis must be supported
-by letter/s from doctor.<strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;</strong>
-</p>
+by letter/s from doctor.</p>
 </li>
 </ul>
 <table style="minWidth: 50px">
@@ -153,7 +148,7 @@ blue or black hair band. Fringe does not cover the eyebrows.</p>
 </tr>
 </tbody>
 </table>
-<h4>&nbsp;5. Safety and Security</h4>
+<h4>&nbsp;5) Safety and Security</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>All students are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item, which can be used or intended to be used&nbsp;to cause harm to others.</strong>
@@ -171,9 +166,10 @@ belongings.</p>
 <p>Students should regard the school as their second home and treat the school
 property with care in order to maintain the school premises in good condition.
 Vandalism is a serious offence.</p>
+<p></p>
 </li>
 </ul>
-<h4>&nbsp;6. Use of Mobile Devices</h4>
+<h4>6) Use of Mobile Devices</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Use of mobile devices<sup>1 </sup>is prohibited within the school premises.
@@ -205,6 +201,4 @@ for the contents to be removed.</p>
 </ul>
 <p><sup>1</sup> Including, but not limited to, mobile phones, tablets, laptops
 and smart watches.</p>
-<p>&nbsp;</p>
-<h4></h4>
 <p></p>
