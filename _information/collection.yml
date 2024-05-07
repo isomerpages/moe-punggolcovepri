@@ -2,7 +2,6 @@ collections:
   information:
     output: true
     order:
-      - School Safety & Security Management.md
       - Teachers.md
       - School Hours/.keep
       - School Hours/School Hours.md
@@ -12,6 +11,7 @@ collections:
       - School Hours/Snack Break Time.md
       - School Matters.md
       - School Rules and Regulations.md
+      - School Safety & Security Management.md
       - Student Services Information/.keep
       - Student Services Information/School Bookshop.md
       - Student Services Information/School Bus.md
