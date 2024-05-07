@@ -1,7 +1,7 @@
 ---
 title: School Safety & Security Management
 permalink: /school-safety-security-management/
-variant: markdown
+variant: tiptap
 description: ""
 ---
 <h3>School Safety &amp; Security Management</h3>
