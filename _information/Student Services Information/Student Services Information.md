@@ -9,10 +9,10 @@ third_nav_title: Student Services Information
 <h4>1) School Bookshop</h4>
 <p>&nbsp;<strong><u>BL Marketing Pte Ltd<br></u></strong>Your child may purchase
 school textbooks and materials from the school bookshop during school hours.</p>
-<p>&nbsp;Tel. No.&nbsp;&nbsp;&nbsp;&nbsp; : 62819274&nbsp;
+<p>Tel. No.&nbsp;&nbsp;&nbsp;&nbsp; : 62819274&nbsp;
 <br>E-Mail&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : <a rel="noopener noreferrer nofollow" target="_blank">sales@blmarketing.sg</a>
 </p>
-<p>&nbsp;Opening hours: 9.00 a.m. – 3.00 p.m.
+<p>Opening hours: 9.00 a.m. – 3.00 p.m.
 <br>Lunch Hour: 12.00 p.m. – 1.00 p.m.</p>
 <h4>2) School Bus Service</h4>
 <p><strong><u>SFX Transport Pte Ltd<br></u></strong>For enquiries on the
@@ -45,7 +45,7 @@ during school hours.</p>
 <br>Mondays – Saturdays: 10.00 a.m. to 6.00 p.m.
 <br>Lunch Time: 1.00 p.m. – 2.00 p.m.</p>
 <h4>4) School-based Student Care Centre</h4>
-<p>&nbsp;<strong><u>Little Professors Learning Centre Pte Ltd<br></u></strong>For
+<p><strong><u>Little Professors Learning Centre Pte Ltd<br></u></strong>For
 enquiries on the Student Care Centre, please contact the centre supervisor
 directly.</p>
 <p>Tel. No.&nbsp;&nbsp;&nbsp;&nbsp; : 8201 2592
