@@ -16,7 +16,6 @@ who are not Singapore Citizens are to stand at attention.</p>
 <p>All students are to sing the school song with pride.</p>
 </li>
 </ul>
-<p>&nbsp;</p>
 <h4>2)&nbsp;School Uniform</h4>
 <ul data-tight="true" class="tight">
 <li>
