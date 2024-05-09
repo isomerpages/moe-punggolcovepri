@@ -36,7 +36,10 @@ and Information and Grassroots Advisor to Pasir Ris – Punggol GRC.</p>
 </p>
 <p>Mrs Teo Whye Choo (15 December 2022 to&nbsp; present)</p>
 <h3>Cherished Moments At Punggol Cove Primary School</h3>
-<p>(embed youtube video here)</p>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/vUkvC2leo50?si=jVe61o_5ilo5YIyX"></iframe>
+</div>
 <h3>Each Of Us, A Gift To Another</h3>
 <p>(embed youtube video here)</p>
 <p></p>
