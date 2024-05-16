@@ -23,7 +23,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="loh_khar_yin_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Adelena Loh</a>
+<p><a href="mailto: loh_khar_yin_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Adelena Loh</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -32,7 +32,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="kesa_singh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Kesa Singh</a>
+<p><a href="mailto: kesa_singh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Kesa Singh</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -41,7 +41,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="chew_ban_seng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Vincent Chew</a>
+<p><a href="mailto: chew_ban_seng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Vincent Chew</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -50,7 +50,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="siti_rusyidah_mohd_ismail@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Syidah Ismail</a>
+<p><a href="mailto: siti_rusyidah_mohd_ismail@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Syidah Ismail</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -59,7 +59,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="LEE_Wen_Bin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Lee Wen Bin</a>
+<p><a href="mailto: LEE_Wen_Bin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Lee Wen Bin</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -68,7 +68,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="qairil_fahri_sapari@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Qairil Fahri Sapari</a>
+<p><a href="mailto: qairil_fahri_sapari@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Qairil Fahri Sapari</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -77,7 +77,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="Lim_Wei_Chin_Patricia@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Patricia Lim</a>
+<p><a href="mailto: Lim_Wei_Chin_Patricia@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Patricia Lim</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -86,7 +86,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="Suriati_Sharin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Suriati Sharin</a>
+<p><a href="mailto: Suriati_Sharin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Suriati Sharin</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
