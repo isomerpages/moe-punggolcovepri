@@ -1,0 +1,19 @@
+collections:
+  information:
+    output: true
+    order:
+      - School Hours/.keep
+      - School Hours/School Hours.md
+      - School Hours/Dismissal Timing.md
+      - School Hours/Recess and Snack Break Timings.md
+      - School Hours/Gate Opening Hours.md
+      - School Hours/Snack Break Time.md
+      - School Matters.md
+      - School Rules and Regulations.md
+      - School Safety & Security Management.md
+      - Student Services Information/.keep
+      - Student Services Information/Student Services Information.md
+      - Contact Us/.keep
+      - Contact Us/Contact Us.md
+      - School Bus Advertisement.md
+      - School Canteen Advertisement.md

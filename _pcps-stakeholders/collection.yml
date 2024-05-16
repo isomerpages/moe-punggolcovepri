@@ -1,7 +1,0 @@
-collections:
-  pcps-stakeholders:
-    output: true
-    order:
-      - School Canteen Advertisement.md
-      - School Bus Advertisement.md
-      - Parent Support Group.md

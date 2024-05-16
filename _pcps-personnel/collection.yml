@@ -1,8 +1,0 @@
-collections:
-  pcps-personnel:
-    output: true
-    order:
-      - School Executive Committee.md
-      - Teaching Staff.md
-      - Learning Support Staff.md
-      - Non–Teaching Staff.md

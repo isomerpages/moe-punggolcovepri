@@ -1,0 +1,33 @@
+collections:
+  pcps-partners:
+    output: true
+    order:
+      - School Advisory Committee.md
+      - Parent Support Group/.keep
+      - Parent Support Group/Para on PSG.md
+      - Parent Support Group/Link to sign up for PSG.md
+      - For Parents/.keep
+      - For Parents/Communication with Parents.md
+      - For Parents/General Information.md
+      - For Parents/Quick Links for Parents.md
+      - For Parents/Physical Education.md
+      - For Parents/English Spelling List.md
+      - For Parents/Mother Tongue Spelling List.md
+      - For Parents/P3 and P4 Higher Mother Tongue.md
+      - For Parents/ICT Connect @ Cove.md
+      - For Parents/Subject Downloads.md
+      - For Parents/Frequently Asked Questions.md
+      - For Parents/Student Learning Space.md
+      - For Parents/Forms.md
+      - For Parents/2024.md
+      - For Parents/Useful Links.md
+      - For Parents/Drop Off and Pick Up.md
+      - For Parents/School Fees.md
+      - For Parents/School Discipline Policy.md
+      - For Parents/Personnel for Pupil Wellbeing Matters.md
+      - For Parents/Communication Channel.md
+      - For Parents/Admission Matters.md
+      - For Students/.keep
+      - For Students/Student Learning Space (SLS).md
+      - For Students/Home–Based Learning.md
+      - For Students/Subject Downloads.md
