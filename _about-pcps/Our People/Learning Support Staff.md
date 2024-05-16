@@ -23,7 +23,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="lin_qingfei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Lin Qingfei</a>
+<p><a href="mailto: lin_qingfei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Lin Qingfei</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -32,7 +32,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mastura_mohamed_hashim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Mastura Binte Mohamed Hashim</a>
+<p><a href="mailto: mastura_mohamed_hashim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Mastura Binte Mohamed Hashim</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -41,7 +41,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="nur_hidayati_paimun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nurhidayati</a>
+<p><a href="mailto: nur_hidayati_paimun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nurhidayati</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -51,7 +51,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="liyana_abdul_samad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Liyana Binte Abdul Samad</a>
+<p><a href="mailto: liyana_abdul_samad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Liyana Binte Abdul Samad</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -61,7 +61,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="s_shameema@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Shameema</a>
+<p><a href="mailto: s_shameema@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Shameema</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -71,7 +71,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="teo_swee_yee_grace@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Grace Teo</a>
+<p><a href="mailto: teo_swee_yee_grace@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Grace Teo</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
