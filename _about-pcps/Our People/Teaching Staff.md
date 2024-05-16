@@ -336,7 +336,7 @@ third_nav_title: Our People
 <p>3 Amber</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="chin_ruey_amanda@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Amanda Chin</a>
+<p><a href="mailto: chin_ruey_amanda@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Amanda Chin</a>
 </p>
 </td>
 </tr>
@@ -345,7 +345,7 @@ third_nav_title: Our People
 <p>3 Coral</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="nellia_yezmin_shameer@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Nellia Yezmin Shameer</a>
+<p><a href="mailto: nellia_yezmin_shameer@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Nellia Yezmin Shameer</a>
 </p>
 </td>
 </tr>
@@ -354,7 +354,7 @@ third_nav_title: Our People
 <p>3 Diamond</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="m_prakash@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr M Prakash</a>
+<p><a href="mailto: m_prakash@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr M Prakash</a>
 </p>
 </td>
 </tr>
@@ -363,13 +363,13 @@ third_nav_title: Our People
 <p>3 Emerald</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="tan_kiat_fong_joshua@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Joshua Tan</a>
+<p><a href="mailto: tan_kiat_fong_joshua@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Joshua Tan</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="chong_jun_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Chong Jun Wei</a>
+<p><a href="mailto: chong_jun_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Chong Jun Wei</a>
 </p>
 </td>
 </tr>
@@ -378,7 +378,7 @@ third_nav_title: Our People
 <p>3 Jade</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="lu_jie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Lu Jie</a>
+<p><a href="mailto: lu_jie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Lu Jie</a>
 </p>
 </td>
 </tr>
@@ -387,13 +387,13 @@ third_nav_title: Our People
 <p>3 Opal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="adrian_liang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Adrian Liang</a>
+<p><a href="mailto: adrian_liang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Adrian Liang</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="lee_wen_zhen_audrey@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Audrey Lee</a>
+<p><a href="mailto: lee_wen_zhen_audrey@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Audrey Lee</a>
 </p>
 </td>
 </tr>
@@ -402,19 +402,19 @@ third_nav_title: Our People
 <p>3 Pearl</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="chua_swan_lynn@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Chua Swan Lynn</a>
+<p><a href="mailto: chua_swan_lynn@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Chua Swan Lynn</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="tan_sze_huey@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Tan Sze Huey</a>
+<p><a href="mailto: tan_sze_huey@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Tan Sze Huey</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="seah_kim_san_marvin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Marvin Seah</a>
+<p><a href="mailto: seah_kim_san_marvin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Marvin Seah</a>
 </p>
 </td>
 </tr>
@@ -450,13 +450,13 @@ third_nav_title: Our People
 <p>4 Amber</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="koh_hui_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Koh Hui Ling</a>
+<p><a href="mailto: koh_hui_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Koh Hui Ling</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="noor_mohamed_ayisha_ruksana@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Ayisha Ruksana</a>
+<p><a href="mailto: noor_mohamed_ayisha_ruksana@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Ayisha Ruksana</a>
 </p>
 </td>
 </tr>
@@ -465,7 +465,7 @@ third_nav_title: Our People
 <p>4 Coral</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="yeo_mui_eng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Lim-Yeo Mui Eng</a>
+<p><a href="mailto: yeo_mui_eng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Lim-Yeo Mui Eng</a>
 </p>
 </td>
 </tr>
@@ -474,7 +474,7 @@ third_nav_title: Our People
 <p>4 Diamond</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="onn_ying_hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Onn Ying Hui Mark</a>
+<p><a href="mailto: onn_ying_hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Onn Ying Hui Mark</a>
 </p>
 </td>
 </tr>
@@ -483,7 +483,7 @@ third_nav_title: Our People
 <p>4 Emerald</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="cheryl_mah_jia_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Cheryl Mah Jia Wei</a>
+<p><a href="mailto: cheryl_mah_jia_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Cheryl Mah Jia Wei</a>
 </p>
 </td>
 </tr>
@@ -492,7 +492,7 @@ third_nav_title: Our People
 <p>4 Jade</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="murni_alidawati_mohamed@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Murni Alidawati</a>
+<p><a href="mailto: murni_alidawati_mohamed@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Murni Alidawati</a>
 </p>
 </td>
 </tr>
@@ -501,7 +501,7 @@ third_nav_title: Our People
 <p>4 Opal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="gan_zhan_yi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Gan Zhan Yi</a>
+<p><a href="mailto: gan_zhan_yi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Gan Zhan Yi</a>
 </p>
 </td>
 </tr>
@@ -510,7 +510,7 @@ third_nav_title: Our People
 <p>4 Pearl</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="teo_jia_hao@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Teo Jia Hao</a>
+<p><a href="mailto: teo_jia_hao@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Teo Jia Hao</a>
 </p>
 </td>
 </tr>
@@ -546,7 +546,7 @@ third_nav_title: Our People
 <p>5 Amber</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="tang_yu_ying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Tang Yu Ying</a>
+<p><a href="mailto: tang_yu_ying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Tang Yu Ying</a>
 </p>
 </td>
 </tr>
@@ -555,7 +555,7 @@ third_nav_title: Our People
 <p>5 Coral</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="nur_alisa_zanal@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Nur Alisa Binte Zainal</a>
+<p><a href="mailto: nur_alisa_zanal@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Nur Alisa Binte Zainal</a>
 </p>
 </td>
 </tr>
@@ -564,7 +564,7 @@ third_nav_title: Our People
 <p>5 Diamond</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="goh_yan_ping_yvonne@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Goh Yan Ping Yvonne</a>
+<p><a href="mailto: goh_yan_ping_yvonne@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Goh Yan Ping Yvonne</a>
 </p>
 </td>
 </tr>
@@ -573,7 +573,7 @@ third_nav_title: Our People
 <p>5 Emerald</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="yeo_yee_peng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Yeo Yee Peng</a>
+<p><a href="mailto: yeo_yee_peng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Yeo Yee Peng</a>
 </p>
 </td>
 </tr>
@@ -582,7 +582,7 @@ third_nav_title: Our People
 <p>5 Jade</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="fatimah_hashim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Fatimah Bte Hashim</a>
+<p><a href="mailto: fatimah_hashim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Fatimah Bte Hashim</a>
 </p>
 </td>
 </tr>
@@ -591,7 +591,7 @@ third_nav_title: Our People
 <p>5 Opal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="munawarrah_sultana_unwar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Munawarrah Sultana Unwar</a>
+<p><a href="mailto: munawarrah_sultana_unwar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Munawarrah Sultana Unwar</a>
 </p>
 </td>
 </tr>
@@ -600,19 +600,19 @@ third_nav_title: Our People
 <p>5 Pearl</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="m_sainava_buang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Shahrin</a>
+<p><a href="mailto: m_sainava_buang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Shahrin</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="shanthi_marimuthu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Haider</a>
+<p><a href="mailto: shanthi_marimuthu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Haider</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="nurin_nasyirah_jahaya@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Nurin Nasyirah</a>
+<p><a href="mailto: nurin_nasyirah_jahaya@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Nurin Nasyirah</a>
 </p>
 </td>
 </tr>
@@ -648,13 +648,13 @@ third_nav_title: Our People
 <p>6 Amber</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="nur_shafiqah_rosland@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nur Shafiqah Rosland</a>
+<p><a href="mailto: nur_shafiqah_rosland@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nur Shafiqah Rosland</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="debbie_huang_kaixin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Debbie Huang</a>
+<p><a href="mailto: debbie_huang_kaixin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Debbie Huang</a>
 </p>
 </td>
 </tr>
@@ -663,13 +663,13 @@ third_nav_title: Our People
 <p>6 Coral</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="ng_xinying_ada@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Ada Chung</a>
+<p><a href="mailto: ng_xinying_ada@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Ada Chung</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="charmaine_lim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Charmaine Lim</a>
+<p><a href="mailto: charmaine_lim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Charmaine Lim</a>
 </p>
 </td>
 </tr>
@@ -678,13 +678,13 @@ third_nav_title: Our People
 <p>6 Diamond</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="norihsani_tavant@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Norihsani Bte Tavant</a>
+<p><a href="mailto: norihsani_tavant@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Norihsani Bte Tavant</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="ting_jian_hong_kelvin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Kelvin Ting</a>
+<p><a href="mailto: ting_jian_hong_kelvin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Kelvin Ting</a>
 </p>
 </td>
 </tr>
@@ -693,7 +693,7 @@ third_nav_title: Our People
 <p>6 Emerald</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="tang_yuen_har_jasmine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Jasmine Wong</a>
+<p><a href="mailto: tang_yuen_har_jasmine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Jasmine Wong</a>
 </p>
 </td>
 </tr>
@@ -702,7 +702,7 @@ third_nav_title: Our People
 <p>6 Jade</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="nah_ya_rui_felicia@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Felicia Nah</a>
+<p><a href="mailto: nah_ya_rui_felicia@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Felicia Nah</a>
 </p>
 </td>
 </tr>
@@ -711,7 +711,7 @@ third_nav_title: Our People
 <p>6 Opal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="woo_sye_lai@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Woo Sye Lai</a>
+<p><a href="mailto: woo_sye_lai@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Woo Sye Lai</a>
 </p>
 </td>
 </tr>
@@ -720,7 +720,7 @@ third_nav_title: Our People
 <p>6 Pearl</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="ng_hui_jie_rimes@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Ng Hui Jie</a>
+<p><a href="mailto: ng_hui_jie_rimes@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Ng Hui Jie</a>
 </p>
 </td>
 </tr>
@@ -729,7 +729,7 @@ third_nav_title: Our People
 <p>6 Ruby</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="loh_qiwen_angeline@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Loh Qiwen Angeline</a>
+<p><a href="mailto: loh_qiwen_angeline@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Loh Qiwen Angeline</a>
 </p>
 </td>
 </tr>
@@ -762,7 +762,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="jessica_patricia_tan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Jessica Lum</a>
+<p><a href="mailto: jessica_patricia_tan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Jessica Lum</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -771,7 +771,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="zahira_abdul_majeed@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Zahira Bte Abdul Majeed</a>
+<p><a href="mailto: zahira_abdul_majeed@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Zahira Bte Abdul Majeed</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
