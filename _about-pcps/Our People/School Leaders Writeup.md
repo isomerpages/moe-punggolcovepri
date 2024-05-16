@@ -12,18 +12,14 @@ third_nav_title: Our People
 <p><strong>Mrs Teo-Seah Whye Choo</strong>
 </p>
 <p>PPA (Silver), PBS BSc (Hons), MSc, PGDE (Sec)</p>
-<p>
-<br>
-</p>
 <p>Mrs Teo was appointed Principal of Punggol Cove Primary School on 15 Dec
-2022.</p>
-<p>Prior to Punggol Cove Primary School, Mrs Teo was Principal of Yio Chu
-Kang Primary from January 2010 to December 2016 and Principal of Seng Kang
-Primary from January 2017 to December 2022. For her contributions and service
-to MOE, Mrs Teo was deeply honoured to receive a National Day Award, The
-Public Administration Medal (Silver) (Pingat Pentadbiran Awam) (Gangsa)
-in 2019. For having served more than 25 years in the Public Service, she
-received the Long Service Medal (Pingat Bakti Setia) in 2015.</p>
+2022.Prior to Punggol Cove Primary School, Mrs Teo was Principal of Yio
+Chu Kang Primary from January 2010 to December 2016 and Principal of Seng
+Kang Primary from January 2017 to December 2022. For her contributions
+and service to MOE, Mrs Teo was deeply honoured to receive a National Day
+Award, The Public Administration Medal (Silver) (Pingat Pentadbiran Awam)
+(Gangsa) in 2019. For having served more than 25 years in the Public Service,
+she received the Long Service Medal (Pingat Bakti Setia) in 2015.</p>
 <p>Mrs Teo began her career in Education in 1989 when she joined CHIJ Secondary
 School(Toa Payoh) for 12 years as a Chemistry and Mathematics teacher.
 She later became the Head of Department for ICT/MRL in the same school
@@ -56,9 +52,6 @@ anchored on school values of Care, Empathy and Mindfulness.</p>
 <p><strong>Ms Cai Xirui</strong>
 </p>
 <p>BECE (Hons), PGDE (Sec)</p>
-<p>
-<br>
-</p>
 <p>Ms Cai Xirui was appointed Vice-Principal at Punggol Cove Primary School
 on 15 December 2022. She started out as a teacher in Victoria Junior College
 (VJC) in 2005. Ms Cai served as Subject Head for Project Work from 2008
@@ -89,9 +82,6 @@ communities, with purpose.</p>
 <p><strong>Mr Andrew Chong Wenyi</strong>
 </p>
 <p>BA (Hons), MA, MEd, PGDE(Sec)</p>
-<p>
-<br>
-</p>
 <p>Mr Andrew Chong was awarded the Education Merit Scholarship by the Ministry
 of Education in 2002 and pursued his Bachelor of Arts and Masters of Arts
 at the University of Leeds under the scholarship.</p>
@@ -134,9 +124,6 @@ in the 21st Century.</p>
 <p><strong>Ms Chng Shi Hua</strong>
 </p>
 <p>Vice-Principal (Administration)</p>
-<p>
-<br>
-</p>
 <p>Ms Chng Shi Hua was posted to Punggol Cove Primary School as Vice-Principal
 (Administration) on 15 December 2017. She started off her career with the
 Ministry of Education (MOE) as an Administration Manager (then termed School
