@@ -221,14 +221,6 @@ third_nav_title: For Parents
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>S/N</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Links</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>1)</p>
 </td>
 <td rowspan="1" colspan="1">
