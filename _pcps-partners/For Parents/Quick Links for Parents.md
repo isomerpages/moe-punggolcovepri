@@ -5,6 +5,7 @@ description: ""
 third_nav_title: For Parents
 variant: tiptap
 ---
+<h3>Quick Links</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -12,8 +13,10 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="2">
-<h3>Quick Links</h3>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
 <p></p>
 </th>
 </tr>
