@@ -383,20 +383,19 @@ you are calling and may not be able to return your call immediately.</p>
 </tr>
 </tbody>
 </table>
-<p>c)</p>
 <p>10) Can my child bring a mobile phone or other electronic gadgets to school?</p>
 <p>The school does not encourage students to bring such items to school so
 that they do not distract themselves and others during school hours. Students
 can request to use the phone at the general office if they need to contact
 their parents/guardians on urgent matters.</p>
-<p>SAFETY OF STUDENTS</p>
+<h4>Safety of students</h4>
 <p>11) What must I do if I need to bring my child home early?</p>
 <p>Students will only be allowed to leave the school premises early if accompanied
-by an authorised adult. The Form Teacher should be notified and the adult
+by an authorized adult. The Form Teacher should be notified and the adult
 must report to the General Office to fetch the student. Students are <u>NOT</u> allowed
 to leave the school on their own even if they have valid reasons to do
 so.</p>
-<p>CO-CURRICULAR ACTIVITIES</p>
+<h4>Co-Curricular Activities</h4>
 <p>12) What are the Co-Curricular Activities (CCAs) offered?</p>
 <ul>
 <li>
