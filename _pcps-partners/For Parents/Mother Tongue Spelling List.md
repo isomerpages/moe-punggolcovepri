@@ -100,7 +100,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="7" colspan="1">
 <p>Primary 6</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -110,17 +110,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p><a href="/files/6B%20%20with%20HYPY_7-10.pdf" rel="noopener" target="_blank">P6B Chinese Language Spelling List</a>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/6A%20__1-7.pdf" rel="noopener" target="_blank">P6A Higher Chinese Language Spelling List</a>
 </p>
@@ -128,26 +122,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p><a href="/files/6B%20__8-12.pdf" rel="noopener" target="_blank">P6B Higher Chinese Language Spelling List</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p><a href="/files/6A%20FCL%20%20with%20HYPY.pdf" rel="noopener" target="_blank">P6A Foundation Chinese Language Spelling List</a>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/6B%20FCL%20%20with%20HYPY.pdf" rel="noopener" target="_blank">P6B Foundation Chinese Language Spelling List</a>
 </p>
@@ -157,13 +142,11 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 </tbody>
 </table>
 <h3>Malay Spelling List</h3>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
