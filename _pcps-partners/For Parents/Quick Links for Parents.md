@@ -14,6 +14,7 @@ variant: tiptap
 <tr>
 <th rowspan="1" colspan="2">
 <h3>Quick Links</h3>
+<p></p>
 </th>
 </tr>
 <tr>
