@@ -383,79 +383,155 @@ you are calling and may not be able to return your call immediately.</p>
 </tr>
 </tbody>
 </table>
-<p>10) Can my child bring a mobile phone or other electronic gadgets to school?</p>
-<p>The school does not encourage students to bring such items to school so
+<p>10) Can my child bring a mobile phone or other electronic gadgets to school?
+<br>The school does not encourage students to bring such items to school so
 that they do not distract themselves and others during school hours. Students
 can request to use the phone at the general office if they need to contact
 their parents/guardians on urgent matters.</p>
 <h4>Safety of students</h4>
-<p>11) What must I do if I need to bring my child home early?</p>
-<p>Students will only be allowed to leave the school premises early if accompanied
+<p>11) What must I do if I need to bring my child home early?
+<br>Students will only be allowed to leave the school premises early if accompanied
 by an authorized adult. The Form Teacher should be notified and the adult
 must report to the General Office to fetch the student. Students are <u>NOT</u> allowed
 to leave the school on their own even if they have valid reasons to do
 so.</p>
 <h4>Co-Curricular Activities</h4>
 <p>12) What are the Co-Curricular Activities (CCAs) offered?</p>
-<ul>
-<li>
 <p>The school offers the following CCAs:</p>
-</li>
-</ul>
-<p>&nbsp;Art &amp; Craft Club</p>
-<p>&nbsp;Dance Club</p>
-<p>&nbsp;New Media &amp; Technology Club</p>
-<p>&nbsp;Sports Club (Badminton, Basketball, Floorball, Football)</p>
-<p>&nbsp;Scouts</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Art &amp; Craft Club</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dance Club</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>New Media &amp; Technology Club</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sports Club (Badminton, Basketball, Floorball, Football)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Scouts</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6)</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Health &amp; Fitness Club</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7)</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Choir</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8)</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Oratorical &amp; Drama Club</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>For more information, please refer to our website at&nbsp;<a href="/pcps-experience/Co-Curricular-Activities/cca/" rel="noopener noreferrer nofollow" target="_blank">/pcps-experience/co-curricular-activities/cca</a>
 </p>
 <p>13) The P3 students are having CCAs on Thursday. Would there be enough
-time and food for them to eat?</p>
-<p>CCAs start at 2pm. Students can have lunch after their dismissal at 1.30pm.
+time and food for them to eat?
+<br>CCAs start at 2pm. Students can have lunch after their dismissal at 1.30pm.
 The school has worked with the canteen operators to put in place processes
 to cater to the demand.</p>
 <p>14) Can my child go home for lunch on Thursday if he stays nearby, and
-comes back to school for his CCA?</p>
-<p>Yes, students who stay nearby can go home for lunch. Please ensure that
+comes back to school for his CCA?
+<br>Yes, students who stay nearby can go home for lunch. Please ensure that
 your child reports punctually for his/her CCA.</p>
-<p>SCHOOL FACILITIES</p>
-<p>15) What facilities does the school have?</p>
-<p>You may refer to <a href="/about-pcps/our-facilities" rel="noopener noreferrer nofollow" target="_blank">/about-pcps/our-facilities</a> for a list
+<h4>School Facilities</h4>
+<p>15) What facilities does the school have?
+<br>You may refer to <a href="/about-pcps/our-facilities" rel="noopener noreferrer nofollow" target="_blank">/about-pcps/our-facilities</a> for a list
 of facilities available. These facilities support the delivery of holistic
 education, and facilitate engaged learning in both the academic and co-curriculum
 areas.</p>
-<p>16) Does your school have a School-based Student Care Centre?</p>
-<p>Yes. Please refer to ‘PCPS Student Care Centre’ at <a href="/for-parents/useful-links/" rel="noopener noreferrer nofollow" target="_blank">/for-parents/useful-links</a> for more
+<p>16) Does your school have a School-based Student Care Centre?
+<br>Yes. Please refer to ‘PCPS Student Care Centre’ at <a href="/for-parents/useful-links/" rel="noopener noreferrer nofollow" target="_blank">/for-parents/useful-links</a> for more
 information.</p>
 <p>17) Is there an ‘Open House’ for parents to visit Punggol Cove Primary
-School?</p>
-<p>There is scheduled ‘Interaction Time With Principal’ organised for you
+School?
+<br>There is scheduled ‘Interaction Time With Principal’ organised for you
 to meet and have a conversation with our Principal as well as to tour the
 school.</p>
 <p>Please refer to our website at <a href="http://www.punggolcovepri.moe.edu.sg/" rel="noopener noreferrer nofollow" target="">www.punggolcovepri.moe.edu.sg</a>&nbsp;for
 updated information about the ‘Interaction Time With Principal’. Most of
 the information about the school can also be obtained from our school’s
 website.</p>
-<p>18) Is our home address within 1 km from Punggol Cove Primary School?</p>
-<p>Please check the home-school distance category (at no cost) from the Singapore
+<p>18) Is our home address within 1 km from Punggol Cove Primary School?
+<br>Please check the home-school distance category (at no cost) from the Singapore
 Land Authority OneMap SchoolQuery at <a href="https://www.onemap.sg/main/v2/schoolquery" rel="noopener noreferrer nofollow" target="_blank">https://www.onemap.sg/main/v2/schoolquery</a>.</p>
-<p>19) What are the Primary 1 registration procedures?</p>
-<p>&nbsp;For matters related to P1 Registration procedures, please refer
-to MOE website at <a href="https://www.moe.gov.sg/admissions/primary-one-registration" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/admissions/primary-one-registration</a>.</p>
+<p>19) What are the Primary 1 registration procedures?
+<br>For matters related to P1 Registration procedures, please refer to MOE
+website at <a href="https://www.moe.gov.sg/admissions/primary-one-registration" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/admissions/primary-one-registration</a>.</p>
 <p>20) I am a non-Singaporean. Can I register my child to your school under
-the Primary One Registration Exercise?</p>
-<p>For matters related to P1 Registration for International Students, please
+the Primary One Registration Exercise?
+<br>For matters related to P1 Registration for International Students, please
 refer to MOE website at <a href="https://www.moe.gov.sg/admissions/primary-one-registration/phase-3-registration-for-non-singapore-citizen-non-permanent-resident-children" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/admissions/primary-one-registration/phase-3-registration-for-non-singapore-citizen-non-permanent-resident-children</a>
 </p>
-<p>21) How do I enrol or transfer my child to Punggol Cove Primary School?</p>
-<p>Please refer to MOE website at <a href="https://www.moe.gov.sg/admissions/steps" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/admissions/steps</a> for
+<p>21) How do I enrol or transfer my child to Punggol Cove Primary School?
+<br>Please refer to MOE website at <a href="https://www.moe.gov.sg/admissions/steps" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/admissions/steps</a> for
 information.</p>
-<p>PARENT SUPPORT GROUP</p>
-<p>22) How can I apply as a Parent Volunteer?</p>
-<p>If you are interested in joining the Parent Support Group (PSG), please
+<h4>Parent Support Group</h4>
+<p>22) How can I apply as a Parent Volunteer?
+<br>If you are interested in joining the Parent Support Group (PSG), please
 contact our Head of Department / Discipline, Mr Benjamin Chew via e-mail
 at <a href="mailto:chew_chung_siong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chew_chung_siong@schools.gov.sg</a><strong>.</strong>
 </p>
