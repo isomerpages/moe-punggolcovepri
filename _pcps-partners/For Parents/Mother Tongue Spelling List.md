@@ -169,155 +169,102 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="5" colspan="1">
+<td rowspan="4" colspan="1">
 <p>Primary 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
 <p><a href="/malay-spelling-test/Primary-1/term-1/" rel="noopener noreferrer nofollow" target="">P1 Malay Language Spelling List (Term 1)</a>
 </p>
-</li>
-</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
 <p><a href="/malay-spelling-test/Primary-1/term-2/" rel="noopener noreferrer nofollow" target="">P1 Malay Language Spelling List (Term 2)</a>
 </p>
-</li>
-</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
 <p><a href="/malay-spelling-test/Primary-1/term-3/" rel="noopener noreferrer nofollow" target="">P1 Malay Language Spelling List (Term 3)</a>
 </p>
-</li>
-</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
 <p><a href="/malay-spelling-test/Primary-1/term-4/" rel="noopener noreferrer nofollow" target="">P1 Malay Language Spelling List (Term 4)</a>
 </p>
-</li>
-</ul>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>PRIMARY 1 (MALAY)</p>
+<td rowspan="4" colspan="1">
+<p>Primary 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>PRIMARY 2 (MALAY)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>PRIMARY 3 (MALAY)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p></p>
-</li>
-<li>
-<p></p>
-</li>
-<li>
-<p></p>
-</li>
-<li>
-<p></p>
-</li>
-</ul>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
 <p><a href="/malay-spelling-test/Primary-2/term-1/" rel="noopener noreferrer nofollow" target="">P2 Malay Language Spelling List (Term 1)</a>
 </p>
-</li>
-<li>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="/malay-spelling-test/Primary-2/term-2/" rel="noopener noreferrer nofollow" target="">P2 Malay Language Spelling List (Term 2)</a>
 </p>
-</li>
-<li>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="/malay-spelling-test/Primary-2/term-3/" rel="noopener noreferrer nofollow" target="">P2 Malay Language Spelling List (Term 3)&nbsp;</a>
 </p>
-</li>
-<li>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="/malay-spelling-test/Primary-2/term-4/" rel="noopener noreferrer nofollow" target="">P2 Malay Language Spelling List (Term 4)</a>
 </p>
-</li>
-</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="4" colspan="1">
+<p>Primary 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
 <p><a href="/malay-spelling-test/Primary-3/term-1/" rel="noopener noreferrer nofollow" target="">P3 Malay Language Spelling List (Term 1)</a>
 </p>
-</li>
-<li>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="/malay-spelling-test/Primary-3/term-2/" rel="noopener noreferrer nofollow" target="">P3 Malay Language Spelling List (Term 2)</a>
 </p>
-</li>
-<li>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="/malay-spelling-test/Primary-3/term-3/" rel="noopener noreferrer nofollow" target="">P3 Malay Language Spelling List (Term 3)</a>
 </p>
-</li>
-<li>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="/malay-spelling-test/Primary-3/term-4/" rel="noopener noreferrer nofollow" target="">P3 Malay Language Spelling List (Term 4)</a>
 </p>
-</li>
-</ul>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>PRIMARY 4 (MALAY)</p>
+<td rowspan="2" colspan="1">
+<p>Primary 4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
 <p><a href="/malay-spelling-test/Primary-4/term-1/" rel="noopener noreferrer nofollow" target="">P4 Malay Language Spelling List (Term 1)</a>
 </p>
-</li>
-<li>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="/malay-spelling-test/Primary-4/term-2/" rel="noopener noreferrer nofollow" target="">P4 Malay Language Spelling List (Term 2)</a>
 </p>
-</li>
-</ul>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
