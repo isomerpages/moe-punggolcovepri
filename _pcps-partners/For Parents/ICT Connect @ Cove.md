@@ -5,13 +5,21 @@ description: ""
 third_nav_title: For Parents
 variant: tiptap
 ---
-<h3>ICT Connect @ Cove Newsletter<br></h3>
+<h3>ICT Connect @ Cove Newsletter</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
 <col>
 </colgroup>
 <tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>ICT Connect @ Cove Newsletter 2024</p>
