@@ -196,11 +196,6 @@ third_nav_title: For Parents
 </tr>
 </tbody>
 </table>
-<p></p>
-<h3>Digital Access @ Home</h3>
-<p><a href="https://www.imda.gov.sg/how-we-can-help/digital-access" rel="noopener noreferrer nofollow" target="_blank">Digital Access Programme</a>
-</p>
-<p></p>
 <h3>Replacement of Student Smart Card <br>(Lost or Damaged)</h3>
 <p>Stay tuned for any upcoming information in this space. Thank you.</p>
 <p></p>
