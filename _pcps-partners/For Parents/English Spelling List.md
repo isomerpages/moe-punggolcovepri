@@ -5,7 +5,12 @@ description: ""
 third_nav_title: For Parents
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -120,3 +125,4 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
+<p>English Spelling List</p>
