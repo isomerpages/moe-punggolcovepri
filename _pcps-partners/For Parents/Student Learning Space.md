@@ -81,6 +81,15 @@ third_nav_title: For Parents
 <td rowspan="1" colspan="1">
 <p><a href="https://www.learning.moe.edu.sg/login-troubleshooting/get-help/contact-sls-helpdesk/" rel="noopener noreferrer nofollow" target="_blank">SLS Helpdesk</a>
 </p>
+<p></p>
+<p>Tel: 6702 6513</p>
+<p><u>Monday - Friday</u> 
+<br>4.00pm – 9.00pm
+<br>
+<br><u>Saturday</u> 
+<br>9.00am – 3.00pm
+<br>
+<br>Closed on Sundays &amp; Public Holidays</p>
 </td>
 </tr>
 <tr>
@@ -93,97 +102,7 @@ third_nav_title: For Parents
 </tr>
 </tbody>
 </table>
-<p>The recommended operating system and browsers are:</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.moe.gov.sg/education/syllabuses/singapore-student-learning-space-(sls)" rel="noopener noreferrer nofollow" target="_blank">Operating System</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.moe.gov.sg/education/syllabuses/singapore-student-learning-space-(sls)" rel="noopener noreferrer nofollow" target="_blank">Browser</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.moe.gov.sg/education/syllabuses/singapore-student-learning-space-(sls)" rel="noopener noreferrer nofollow" target="_blank">Microsoft Windows 7 SP1 and Windows 8.1</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.moe.gov.sg/education/syllabuses/singapore-student-learning-space-(sls)" rel="noopener noreferrer" target="_blank">Google Chrome 66 and later</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.moe.gov.sg/education/syllabuses/singapore-student-learning-space-(sls)" rel="noopener noreferrer nofollow" target="_blank">Microsoft Windows 10</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.moe.gov.sg/education/syllabuses/singapore-student-learning-space-(sls)" rel="noopener noreferrer" target="_blank">Google Chrome 66 and later</a> 
-<br>
-<br><a href="https://www.moe.gov.sg/education/syllabuses/singapore-student-learning-space-(sls)" rel="noopener noreferrer" target="_blank">Microsoft Edge 17 and later</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.moe.gov.sg/education/syllabuses/singapore-student-learning-space-(sls)" rel="noopener noreferrer nofollow" target="_blank">Mac OS 10 and later</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.moe.gov.sg/education/syllabuses/singapore-student-learning-space-(sls)" rel="noopener noreferrer" target="_blank">Safari 11 and later</a> 
-<br>
-<br><a href="https://www.moe.gov.sg/education/syllabuses/singapore-student-learning-space-(sls)" rel="noopener noreferrer" target="_blank">Google Chrome 66 and later</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.moe.gov.sg/education/syllabuses/singapore-student-learning-space-(sls)" rel="noopener noreferrer nofollow" target="_blank">iOS 11 and later</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.moe.gov.sg/education/syllabuses/singapore-student-learning-space-(sls)" rel="noopener noreferrer nofollow" target="_blank">Safari 11 and later</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.moe.gov.sg/education/syllabuses/singapore-student-learning-space-(sls)" rel="noopener noreferrer nofollow" target="_blank">Android 5 and later</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.moe.gov.sg/education/syllabuses/singapore-student-learning-space-(sls)" rel="noopener noreferrer nofollow" target="_blank">Google Chrome 66 and later</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.moe.gov.sg/education/syllabuses/singapore-student-learning-space-(sls)" rel="noopener noreferrer" target="_blank">chromeOS 79 and later</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.moe.gov.sg/education/syllabuses/singapore-student-learning-space-(sls)" rel="noopener noreferrer nofollow" target="_blank">Google Chrome 79 and later</a>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
 <ul>
 <li>
 <p>SLS SUPPORT FOR HOME-BASED LEARNING</p>
