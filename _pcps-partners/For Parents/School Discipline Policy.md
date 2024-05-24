@@ -6,7 +6,6 @@ third_nav_title: For Parents
 variant: tiptap
 ---
 <h3>School Discipline Policy</h3>
-<p></p>
 <ol data-tight="true" class="tight">
 <li>
 <p>For disciplinary matters, please refer to the Student’s Handbook</p>
