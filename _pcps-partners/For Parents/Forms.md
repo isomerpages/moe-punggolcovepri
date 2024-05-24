@@ -5,10 +5,50 @@ description: ""
 third_nav_title: For Parents
 variant: tiptap
 ---
-<h4>WAITING LIST FORM</h4>
-<h5>Please click <a href="https://form.gov.sg/6413d5a2c137cb001227339d" rel="noopener noreferrer nofollow" target="_blank">here</a> for the Waiting List Form.</h5>
-<h6><br></h6>
-<hr>
-<h4>APPLICATION OF LEAVE OF ABSENCE (LOA) FORM</h4>
-<h5>Please click <a href="https://go.gov.sg/pcoveloa" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for the&nbsp;Application of Leave Of Absence (LOA)&nbsp;form.</h5>
+<h3>Forms</h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Waiting List Form</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Application of Leave of Absence (LOA) Form</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Please click <a href="https://form.gov.sg/6413d5a2c137cb001227339d" rel="noopener noreferrer nofollow" target="_blank">here </a>for
+the Waiting List Form.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Please click <a href="https://form.gov.sg/60bd8855f7c4df001212025a" rel="noopener noreferrer nofollow" target="_blank">here</a>for
+the&nbsp;Application of Leave Of Absence (LOA)&nbsp;form.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p></p>
