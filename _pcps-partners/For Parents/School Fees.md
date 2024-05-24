@@ -45,6 +45,23 @@ he/she returns to his/her home country.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>SG</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -127,9 +144,26 @@ he/she returns to his/her home country.</p>
 <p>$513.00</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
-<p><strong>Note:</strong>
+<p><strong>Note:</strong> 
 <br>SG - Singaporean
 <br>PR - Permanent Resident
 <br>IS - International Student</p>
