@@ -160,6 +160,14 @@ third_nav_title: For Parents
 </colgroup>
 <tbody>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
 <th rowspan="1" colspan="1">
 <p><strong>Contact Person</strong>
 </p>
@@ -197,8 +205,9 @@ third_nav_title: For Parents
 <p>Stay tuned for any upcoming information in this space. Thank you.</p>
 <p></p>
 <h3>School Admission and Transfer</h3>
-<table style="minWidth: 25px">
+<table style="minWidth: 50px">
 <colgroup>
+<col>
 <col>
 </colgroup>
 <tbody>
@@ -206,57 +215,66 @@ third_nav_title: For Parents
 <th rowspan="1" colspan="1">
 <p></p>
 </th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
+<p>S/N</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Links</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1)</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><a href="https://www.moe.gov.sg/primary/p1-registration" rel="noopener noreferrer nofollow" target="_blank">P1 Registration Exercise</a>
 </p>
-</li>
-</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
+<p>2)</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><a href="https://www.youtube.com/watch?v=vUkvC2leo50&amp;ab_channel=PunggolCovePrimarySchool" rel="noopener noreferrer nofollow" target="_blank">PCPS Virtual Tour</a>
 </p>
-</li>
-</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
+<p>3)</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><a href="https://www.moe.gov.sg/primary/transfers" rel="noopener noreferrer nofollow" target="_blank">Primary School Transfer System</a>
 </p>
-</li>
-</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
+<p>4)</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><a href="https://www.moe.gov.sg/-/media/files/returning-singaporeans/leave-of-absence-application-form.pdf" rel="noopener noreferrer nofollow" target="_blank">Application for Leave of Absence</a>
 </p>
-</li>
-</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
+<p>5)</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Waitlist List Form</p>
-</li>
-</ul>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -271,6 +289,14 @@ third_nav_title: For Parents
 <col>
 </colgroup>
 <tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 <tr>
 <th rowspan="1" colspan="1">
 <p>Name</p>
