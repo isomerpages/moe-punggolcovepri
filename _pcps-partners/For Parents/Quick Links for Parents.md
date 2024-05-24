@@ -5,7 +5,7 @@ description: ""
 third_nav_title: For Parents
 variant: tiptap
 ---
-<h3>Quick Links</h3>
+<h3>Quick Links for Parents</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
