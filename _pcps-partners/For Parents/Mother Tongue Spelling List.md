@@ -274,38 +274,47 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p></p>
-<h3>Tamil</h3>
-<table style="minWidth: 75px">
+<h3>Tamil Spelling List</h3>
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>PRIMARY 1 (TAMIL)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>PRIMARY 2 (TAMIL)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>PRIMARY 3 (TAMIL)</p>
+<p></p>
 </td>
 </tr>
 <tr>
+<td rowspan="2" colspan="1">
+<p>Primary 1</p>
+</td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/tamil-spelling-test/Primary-1/sem-1/" rel="noopener noreferrer nofollow" target="">P1 TL Spelling List by Unit Sem 1</a>
 </p>
 </li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
 <li>
 <p><a href="/tamil-spelling-test/Primary-1/sem-2/" rel="noopener noreferrer nofollow" target="">P1 TL Spelling List by Unit Sem 2</a>
 </p>
 </li>
 </ul>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Primary 2</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
@@ -313,11 +322,22 @@ variant: tiptap
 <p><a href="/tamil-spelling-test/Primary-2/sem-1/" rel="noopener noreferrer nofollow" target="">P2 TL Spelling List by Unit Sem 1</a>
 </p>
 </li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
 <li>
 <p><a href="/tamil-spelling-test/Primary-2/sem-2/" rel="noopener noreferrer nofollow" target="">P2 TL Spelling List by Unit Sem 2</a>
 </p>
 </li>
 </ul>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Primary 3</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
@@ -325,6 +345,12 @@ variant: tiptap
 <p><a href="/tamil-spelling-test/Primary-3/sem-1/" rel="noopener noreferrer nofollow" target="">P3 TL Spelling List by Unit Sem 1</a>
 </p>
 </li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
 <li>
 <p><a href="/tamil-spelling-test/Primary-3/sem-2/" rel="noopener noreferrer nofollow" target="">P3 TL Spelling List by Unit Sem 2</a>
 </p>
@@ -333,28 +359,31 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>PRIMARY 4 (TAMIL)</p>
+<td rowspan="2" colspan="1">
+<p>Primary 4</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>PRIMARY 5 (TAMIL)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/tamil-spelling-test/Primary-4/sem-1/" rel="noopener noreferrer nofollow" target="">P4 TL Spelling List by Unit Sem 1</a>
 </p>
 </li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
 <li>
 <p><a href="/tamil-spelling-test/Primary-4/sem-2/" rel="noopener noreferrer nofollow" target="">P4&nbsp;TL Spelling List by Unit Sem 2</a>
 </p>
 </li>
 </ul>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Primary 5</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
@@ -362,11 +391,22 @@ variant: tiptap
 <p><a href="/tamil-spelling-test/Primary-5/sem-1/" rel="noopener noreferrer nofollow" target="">P5 TL Spelling List by Unit Sem 1</a>
 </p>
 </li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
 <li>
 <p><a href="/tamil-spelling-test/Primary-5/sem-2/" rel="noopener noreferrer nofollow" target="">P5&nbsp;TL Spelling List by Unit Sem 2</a>
 </p>
 </li>
 </ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
