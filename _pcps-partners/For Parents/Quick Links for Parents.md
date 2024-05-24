@@ -5,7 +5,11 @@ description: ""
 third_nav_title: For Parents
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
@@ -26,44 +30,54 @@ variant: tiptap
 <p>2</p>
 </td>
 <td rowspan="1" colspan="1">
+<p><a href="https://www.schoolbag.sg/" rel="noopener noreferrer nofollow" target="_blank">Schoolbag</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.moe.gov.sg/education/primary/" rel="noopener noreferrer nofollow" target="_blank">Primary Education</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.hpb.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">HPB</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.imda.gov.sg/how-we-can-help/digital-access-at-home" rel="noopener noreferrer nofollow" target="_blank">DigitalAccess@Home</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.moe.gov.sg/primary/transfers" rel="noopener noreferrer nofollow" target="_blank">Primary school transfer service</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="/for-parents/admission-matters/#p1-reg" rel="noopener noreferrer nofollow" target="_blank">1 Registration</a>
-</p>
-</li>
-<li>
-<p><a href="/for-parents/useful-links/" rel="noopener noreferrer nofollow" target="_blank">School Vendors</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.schoolbag.sg/" rel="noopener noreferrer nofollow" target="_blank">Schoolbag</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.moe.gov.sg/education/primary/" rel="noopener noreferrer nofollow" target="_blank">Primary Education</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.hpb.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">HPB</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.imda.gov.sg/community/consumer-education/digital-inclusion/neu-pc-plus-programme" rel="noopener noreferrer nofollow" target="_blank">NEU PC Plus Programme</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.punggolcovepri.moe.edu.sg/for-parents/parents-notes/permalink/" rel="noopener noreferrer nofollow" target="_blank">Parents Notes</a>
-</p>
-</li>
-</ul>
 <p></p>
