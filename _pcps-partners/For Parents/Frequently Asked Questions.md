@@ -97,6 +97,26 @@ third_nav_title: For Parents
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>PROGRAMME</strong>
 </p>
 </td>
@@ -232,6 +252,14 @@ information, please refer to MOE website at <a href="https://www.moe.gov.sg/admi
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>1)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -293,23 +321,69 @@ Services at <a href="https://www.transitlink.com.sg/PSdetail.aspx?ty=art&amp;Id=
 </tr>
 </tbody>
 </table>
-<p>7) Where can we read about the School Rules?</p>
-<p>The School Rules are available on our School Website <a href="/for-parents/General-Matters/school-rules" rel="noopener noreferrer nofollow" target="_blank">/for-parents/general-matters/school-rules</a>&nbsp;and
+<p>7) Where can we read about the School Rules?
+<br>The School Rules are available on our School Website <a href="/for-parents/General-Matters/school-rules" rel="noopener noreferrer nofollow" target="_blank">/for-parents/general-matters/school-rules</a>&nbsp;and
 in your child’s Pupil’s Handbook.</p>
-<p>COMMUNICATION WITH THE SCHOOL</p>
-<p>8) How do I communicate with my child in case of an emergency?</p>
-<p>In case of any emergency, please call the School office at Tel: 6385 7339
+<h4>Communication with the school</h4>
+<p>8) How do I communicate with my child in case of an emergency?
+<br>In case of any emergency, please call the School office at Tel: 6385 7339
 with your message. We will ensure that it is communicated to your child.</p>
 <p>9) How can I communicate with my child’s teachers?</p>
-<p>a) You may e-mail the teachers. Their e-mail addresses are available on
-our school website at <a href="/pcps-personnel/teaching-staff" rel="noopener noreferrer nofollow" target="_blank">/pcps-personnel/teaching-staff</a> 
-<br>
-<br>b) You may write to the School via the school’s email at&nbsp;<a href="mailto:punggolcove_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">punggolcove_ps@moe.edu.sg</a>.
-<br>
-<br>c) You may call the General Office at Tel:&nbsp;6385 7339&nbsp;to leave
-a message. Please refer to <a href="/about-pcps/contact-us" rel="noopener noreferrer nofollow" target="_blank">/about-pcps/contact-us</a>&nbsp;for the School’s
-contact details. However, please do understand that teachers may be teaching
-at the time you are calling and may not be able to return your call immediately.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>a)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>You may e-mail the teachers.
+<br>Their e-mail addresses are available on our <a href="https://www.punggolcovepri.moe.edu.sg/pcps-personnel/teaching-staff/" rel="noopener noreferrer nofollow" target="_blank">school website</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>b)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>You may write to the School via the school’s email at&nbsp;<a href="mailto:punggolcove_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">punggolcove_ps@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>c)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>You may call the General Office at Tel:&nbsp;6385 7339&nbsp;to leave a
+message. Please refer to the <a href="https://www.punggolcovepri.moe.edu.sg/our-location/" rel="noopener noreferrer nofollow" target="_blank">School’s contact details</a>.
+However, please do understand that teachers may be teaching at the time
+you are calling and may not be able to return your call immediately.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>c)</p>
 <p>10) Can my child bring a mobile phone or other electronic gadgets to school?</p>
 <p>The school does not encourage students to bring such items to school so
 that they do not distract themselves and others during school hours. Students
