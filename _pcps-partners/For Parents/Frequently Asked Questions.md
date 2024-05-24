@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 third_nav_title: For Parents
 ---
-<p>GENERAL INFORMATION</p>
+<h4>General Information</h4>
 <p>1) What are the School hours?
 <br>Monday – Friday: 7.30am – 1.30pm
 <br>Students are to report to school by 7.25am. Flag-raising is at 7.30am.</p>
@@ -238,12 +238,12 @@ third_nav_title: For Parents
 </tr>
 </tbody>
 </table>
-<p>5) How much is the school fees?</p>
-<p>The rates of school and miscellaneous fees payable are reviewed by the
+<p>5) How much is the school fees?
+<br>The rates of school and miscellaneous fees payable are reviewed by the
 Ministry of Education and individual schools from time to time. For more
 information, please refer to MOE website at <a href="https://www.moe.gov.sg/admissions/international-students/general-info#monthly-school-fees" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/admissions/international-students/general-info#monthly-school-fees</a>.</p>
-<p>6) My child has misplaced/lost his EZLink Card. How can I get a replacement?</p>
-<p>You may get the card replaced through the following ways:</p>
+<p>6) My child has misplaced/lost his EZLink Card. How can I get a replacement?
+<br>You may get the card replaced through the following ways:</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -396,8 +396,8 @@ must report to the General Office to fetch the student. Students are <u>NOT</u> 
 to leave the school on their own even if they have valid reasons to do
 so.</p>
 <h4>Co-Curricular Activities</h4>
-<p>12) What are the Co-Curricular Activities (CCAs) offered?</p>
-<p>The school offers the following CCAs:</p>
+<p>12) What are the Co-Curricular Activities (CCAs) offered?
+<br>The school offers the following CCAs:</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
