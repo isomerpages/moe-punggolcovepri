@@ -101,11 +101,11 @@ third_nav_title: For Parents
 </p>
 <p></p>
 <p>Mr Liang Adrian
-<br>Email: <a href="mailto:adrian_liang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">adrian_liang@schools.gov.sg</a> 
+<br>Email: <a href="mailto:adrian_liang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">adrian_liang@schools.gov.sg</a>
 </p>
 <p></p>
 <p>Ms Syidah Ismail
-<br>Email: <a href="mailto:siti_rusyidah_mohd_ismail@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">siti_rusyidah_mohd_ismail@schools.gov.sg</a> 
+<br>Email: <a href="mailto:siti_rusyidah_mohd_ismail@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">siti_rusyidah_mohd_ismail@schools.gov.sg</a>
 </p>
 <p></p>
 <p>Tel: 6385 7339</p>
