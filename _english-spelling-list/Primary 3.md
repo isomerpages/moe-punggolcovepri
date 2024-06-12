@@ -4,8 +4,12 @@ permalink: /english-spelling-test/p3/
 description: ""
 variant: tiptap
 ---
-<h3>PRIMARY 3 ENGLISH SPELLING AND DICTATION TERM 1</h3>
-<table>
+<h3>Primary 3 English Spelling And Dictation Term 1</h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -88,8 +92,12 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h3>PRIMARY 3 ENGLISH SPELLING AND DICTATION TERM 2</h3>
-<table>
+<h3>Primary 3 English Spelling And Dictation Term 2</h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
