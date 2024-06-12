@@ -4,6 +4,7 @@ permalink: /about-pcps/school-crest/
 description: ""
 variant: tiptap
 ---
+<h3>School Crest</h3>
 <div class="isomer-image-wrapper">
 <img style="width:35%" height="auto" width="100%" src="/images/Logo.jpeg">
 </div>
