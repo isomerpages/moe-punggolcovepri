@@ -5,10 +5,12 @@ description: ""
 variant: tiptap
 third_nav_title: Our People
 ---
-<h3>About the Principal</h3>
+<h3>School Leaders Writeup</h3>
+<h4>About the Principal</h4>
 <div class="isomer-image-wrapper">
 <img style="width:30%" height="auto" width="100%" src="/images/mrs%20teo.jpg">
 </div>
+<p></p>
 <p><strong>Mrs Teo-Seah Whye Choo</strong>
 </p>
 <p>PPA (Silver), PBS BSc (Hons), MSc, PGDE (Sec)</p>
@@ -45,7 +47,7 @@ with parents and community to broaden the horizons and enrich learning
 of staff and students. Together as One PCPS, she aspires to nurture every
 PCPS child holistically to ready them for the future To Serve and To Lead,
 anchored on school values of Care, Empathy and Mindfulness.</p>
-<h3>About the Vice-Principal</h3>
+<h4>About the Vice-Principal</h4>
 <div class="isomer-image-wrapper">
 <img style="width:30%" height="auto" width="100%" src="/images/ms%20cai.jpg">
 </div>
@@ -75,7 +77,7 @@ and important stakeholders, students will have experiences which enable
 them to grow holistically. As they develop to become concerned citizens,
 the students can then serve and lead, both themselves as well as their
 communities, with purpose.</p>
-<h3>About the Vice-Principal</h3>
+<h4>About the Vice-Principal</h4>
 <div class="isomer-image-wrapper">
 <img style="width:30%" height="auto" width="100%" src="/images/mr_andrew_chong_wenyi.jpg">
 </div>
@@ -117,7 +119,7 @@ back to society. Guided by his firm beliefs that all students want to and
 can learn, he endeavours to ensure all students at Punggol Cove Primary
 are given opportunities to develop the skills and dispositions to thrive
 in the 21st Century.</p>
-<h3>About the Vice-Principal (Administration)</h3>
+<h4>About the Vice-Principal (Administration)</h4>
 <div class="isomer-image-wrapper">
 <img style="width:30%" height="auto" width="100%" src="/images/PCPS_Ms%20Chng%20Shi%20Hua.jpeg">
 </div>
