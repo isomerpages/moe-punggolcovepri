@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 third_nav_title: Our People
 ---
-<h4><strong>2024 PRIMARY 1</strong></h4>
+<h3>2024 PRIMARY 1</h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -166,7 +166,7 @@ third_nav_title: Our People
 </tr>
 </tbody>
 </table>
-<h4><strong>2024 PRIMARY 2</strong></h4>
+<h3>2024 PRIMARY 2</h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -314,7 +314,7 @@ third_nav_title: Our People
 </tr>
 </tbody>
 </table>
-<h4><strong>2024 PRIMARY 3</strong></h4>
+<h3>2024 PRIMARY 3</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -428,7 +428,7 @@ third_nav_title: Our People
 </tr>
 </tbody>
 </table>
-<h4><strong>2024 PRIMARY 4</strong></h4>
+<h3>2024 PRIMARY 4</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -524,7 +524,7 @@ third_nav_title: Our People
 </tr>
 </tbody>
 </table>
-<h4><strong>2024 PRIMARY 5</strong></h4>
+<h3>2024 PRIMARY 5</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -626,7 +626,7 @@ third_nav_title: Our People
 </tr>
 </tbody>
 </table>
-<h4><strong>2024 PRIMARY 6</strong></h4>
+<h3>2024 PRIMARY 6</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -743,7 +743,7 @@ third_nav_title: Our People
 </tr>
 </tbody>
 </table>
-<h4><strong>OTHER TEACHING STAFF</strong></h4>
+<h3>Other Teaching Staff</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
