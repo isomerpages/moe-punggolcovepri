@@ -3,102 +3,166 @@ title: P2 TL SPELLING LIST BY UNIT SEM 2
 permalink: /tamil-spelling-test/Primary-2/sem-2/
 description: ""
 third_nav_title: Primary 2
+variant: tiptap
 ---
-### P2B TAMIL LANGUAGE SPELLING LIST ( TERM 3 )
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-cbnv{background-color:#FFF;color:#4067AE;font-size:16px;text-align:center;vertical-align:middle}
-.tg .tg-l70m{background-color:#FFF;font-size:16px;text-align:center;vertical-align:middle}
-.tg .tg-st6x{background-color:#FFF;font-size:16px;font-weight:bold;text-align:center;vertical-align:middle}
-</style>
-<table class="tg">
+<h3>P2B TAMIL LANGUAGE SPELLING LIST ( TERM 3 )</h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td class="tg-st6x">S/N</td>
-    <td class="tg-st6x">Quizlet Link</td>
-  </tr>
-  <tr>
-    <td class="tg-l70m">சொல்வதெழுதுதல் ( 1 )</td>
-    <td class="tg-cbnv"><a href="https://quizlet.com/_4m58rc">PCPS P2 TL Spelling ( 1 )</a></td>
-  </tr>
-  <tr>
-    <td class="tg-l70m">சொல்வதெழுதுதல் ( 2 )</td>
-    <td class="tg-cbnv"><a href="https://quizlet.com/_4m59bq">PCPS P2 TL Spelling ( 2 )</a></td>
-  </tr>
-  <tr>
-    <td class="tg-l70m">சொல்வதெழுதுதல் ( 3 )</td>
-    <td class="tg-cbnv"><a href="https://quizlet.com/_4m59sq">PCPS P2 TL Spelling ( 3 )</a></td>
-  </tr>
-  <tr>
-    <td class="tg-l70m">சொல்வதெழுதுதல் ( 4 )</td>
-    <td class="tg-cbnv"><a href="https://quizlet.com/_4m5a2s">PCPS P2 TL Spelling ( 4 )</a></td>
-  </tr>
-  <tr>
-    <td class="tg-l70m">சொல்வதெழுதுதல் ( 5 )</td>
-    <td class="tg-cbnv"><a href="https://quizlet.com/_4m5ahd">PCPS P2 TL Spelling ( 5 )</a></td>
-  </tr>
-  <tr>
-    <td class="tg-l70m">சொல்வதெழுதுதல் ( 6 )</td>
-    <td class="tg-cbnv"><a href="https://quizlet.com/_4m5aro">PCPS P2 TL Spelling ( 6 )</a></td>
-  </tr>
-  <tr>
-    <td class="tg-l70m">சொல்வதெழுதுதல் ( 7 )</td>
-    <td class="tg-cbnv"><a href="https://quizlet.com/_4m5b4t">PCPS P2 TL Spelling ( 7 )</a></td>
-  </tr>
-  <tr>
-    <td class="tg-l70m">சொல்வதெழுதுதல் ( 8 )</td>
-    <td class="tg-cbnv"><a href="https://quizlet.com/_4m5bkn">PCPS P2 TL Spelling ( 8 )</a></td>
-  </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>S/N</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Quizlet Link</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>சொல்வதெழுதுதல் ( 1 )</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://quizlet.com/_4m58rc" rel="noopener noreferrer nofollow" target="_blank">PCPS P2 TL Spelling ( 1 )</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>சொல்வதெழுதுதல் ( 2 )</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://quizlet.com/_4m59bq" rel="noopener noreferrer nofollow" target="_blank">PCPS P2 TL Spelling ( 2 )</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>சொல்வதெழுதுதல் ( 3 )</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://quizlet.com/_4m59sq" rel="noopener noreferrer nofollow" target="_blank">PCPS P2 TL Spelling ( 3 )</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>சொல்வதெழுதுதல் ( 4 )</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://quizlet.com/_4m5a2s" rel="noopener noreferrer nofollow" target="_blank">PCPS P2 TL Spelling ( 4 )</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>சொல்வதெழுதுதல் ( 5 )</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://quizlet.com/_4m5ahd" rel="noopener noreferrer nofollow" target="_blank">PCPS P2 TL Spelling ( 5 )</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>சொல்வதெழுதுதல் ( 6 )</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://quizlet.com/_4m5aro" rel="noopener noreferrer nofollow" target="_blank">PCPS P2 TL Spelling ( 6 )</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>சொல்வதெழுதுதல் ( 7 )</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://quizlet.com/_4m5b4t" rel="noopener noreferrer nofollow" target="_blank">PCPS P2 TL Spelling ( 7 )</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>சொல்வதெழுதுதல் ( 8 )</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://quizlet.com/_4m5bkn" rel="noopener noreferrer nofollow" target="_blank">PCPS P2 TL Spelling ( 8 )</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-
-### P2B TAMIL LANGUAGE SPELLING LIST ( TERM 4 )
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-cbnv{background-color:#FFF;color:#4067AE;font-size:16px;text-align:center;vertical-align:middle}
-.tg .tg-l70m{background-color:#FFF;font-size:16px;text-align:center;vertical-align:middle}
-.tg .tg-st6x{background-color:#FFF;font-size:16px;font-weight:bold;text-align:center;vertical-align:middle}
-</style>
-<table class="tg">
+<h3>P2B TAMIL LANGUAGE SPELLING LIST ( TERM 4 )</h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td class="tg-st6x">S/N</td>
-    <td class="tg-st6x">Quizlet Link</td>
-  </tr>
-  <tr>
-    <td class="tg-l70m">சொல்வதெழுதுதல் ( 1 )</td>
-    <td class="tg-cbnv"><a href="https://qrgo.page.link/qztQa">PCPS P2 TL Spelling ( 1 )</a></td>
-  </tr>
-  <tr>
-    <td class="tg-l70m">சொல்வதெழுதுதல் ( 2 )</td>
-    <td class="tg-cbnv"><a href="https://qrgo.page.link/coqrU">PCPS P2 TL Spelling ( 2 )</a></td>
-  </tr>
-  <tr>
-    <td class="tg-l70m">சொல்வதெழுதுதல் ( 3 )</td>
-    <td class="tg-cbnv"><a href="https://qrgo.page.link/oBikK">PCPS P2 TL Spelling ( 3 )</a></td>
-  </tr>
-  <tr>
-    <td class="tg-l70m">சொல்வதெழுதுதல் ( 4 )</td>
-    <td class="tg-cbnv"><a href="https://qrgo.page.link/TNBkL">PCPS P2 TL Spelling ( 4 )</a></td>
-  </tr>
-  <tr>
-    <td class="tg-l70m">சொல்வதெழுதுதல் ( 5 )</td>
-    <td class="tg-cbnv"><a href="https://qrgo.page.link/mcFo6">PCPS P2 TL Spelling ( 5 )</a></td>
-  </tr>
-  <tr>
-    <td class="tg-l70m">சொல்வதெழுதுதல் ( 6 )</td>
-    <td class="tg-cbnv"><a href="https://qrgo.page.link/onygr">PCPS P2 TL Spelling ( 6 )</a></td>
-  </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>S/N</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Quizlet Link</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>சொல்வதெழுதுதல் ( 1 )</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://qrgo.page.link/qztQa" rel="noopener noreferrer nofollow" target="_blank">PCPS P2 TL Spelling ( 1 )</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>சொல்வதெழுதுதல் ( 2 )</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://qrgo.page.link/coqrU" rel="noopener noreferrer nofollow" target="_blank">PCPS P2 TL Spelling ( 2 )</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>சொல்வதெழுதுதல் ( 3 )</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://qrgo.page.link/oBikK" rel="noopener noreferrer nofollow" target="_blank">PCPS P2 TL Spelling ( 3 )</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>சொல்வதெழுதுதல் ( 4 )</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://qrgo.page.link/TNBkL" rel="noopener noreferrer nofollow" target="_blank">PCPS P2 TL Spelling ( 4 )</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>சொல்வதெழுதுதல் ( 5 )</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://qrgo.page.link/mcFo6" rel="noopener noreferrer nofollow" target="_blank">PCPS P2 TL Spelling ( 5 )</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>சொல்வதெழுதுதல் ( 6 )</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://qrgo.page.link/onygr" rel="noopener noreferrer nofollow" target="_blank">PCPS P2 TL Spelling ( 6 )</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
+<p></p>
