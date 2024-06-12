@@ -4,6 +4,8 @@ permalink: /about-pcps/school-strategic-framework/
 description: ""
 variant: tiptap
 ---
+<h3>School Strategic Framework</h3>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Framework.png">
 </div>
