@@ -3,186 +3,303 @@ title: Media Resource Library
 permalink: /pcps-experience/Departments-and-Committees/media-resource-library/
 description: ""
 third_nav_title: Departments and Committees
+variant: tiptap
 ---
-#### COMMITTEE MISSION
-
-Nurturing Competent and Happy Readers  
-  
-
-  
-
-#### KEY PROGRAMMES
-
-**<u>Library Lessons</u>**
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-1zrx{background-color:#FFF;color:#222;font-size:16px;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-qtsq{background-color:#FFF;color:#222;font-size:16px;text-align:left;vertical-align:middle}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 800px">
+<h4>Committee Mission</h4>
+<p>Nurturing Competent and Happy Readers</p>
+<h4>Key Programmes</h4>
+<p><strong><u>Library Lessons</u></strong>
+</p>
+<table style="minWidth: 50px">
 <colgroup>
-<col style="width: 400px">
-<col style="width: 400px">
+<col>
+<col>
 </colgroup>
 <tbody>
-  <tr>
-    <td class="tg-1zrx"><span style="color:#222;background-color:transparent">Primary 1</span></td>
-    <td class="tg-1zrx"><span style="color:#222;background-color:transparent">Primary 2</span></td>
-  </tr>
-  <tr>
-    <td class="tg-qtsq"><span style="color:#222;background-color:transparent">Library Etiquette</span></td>
-    <td class="tg-qtsq"><span style="color:#222;background-color:transparent">Library Etiquette</span></td>
-  </tr>
-  <tr>
-    <td class="tg-qtsq"><span style="color:#222;background-color:transparent">How to search, borrow and return our books </span></td>
-    <td class="tg-qtsq"><span style="color:#222;background-color:transparent">How to search, borrow and return our books</span></td>
-  </tr>
-  <tr>
-    <td class="tg-qtsq"><span style="color:#222;background-color:transparent">Parts of a Book </span></td>
-    <td class="tg-qtsq"><span style="color:#222;background-color:transparent">Type of books </span></td>
-  </tr>
-  <tr>
-    <td class="tg-qtsq"><span style="color:#222;background-color:transparent">Learning about local authors</span></td>
-    <td class="tg-qtsq"><span style="color:#222;background-color:transparent">Library Activities </span></td>
-  </tr>
-  <tr>
-    <td class="tg-qtsq"><span style="color:#222;background-color:transparent">Story-telling </span></td>
-    <td class="tg-qtsq"><span style="color:#222;background-color:transparent">Story-telling </span></td>
-  </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Primary 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Primary 2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Library Etiquette</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Library Etiquette</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>How to search, borrow and return our books</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>How to search, borrow and return our books</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Parts of a Book</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Type of books</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Learning about local authors</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Library Activities</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Story-telling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Story-telling</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-
-**<u>Recess and After-school Activities</u>**
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-1zrx{background-color:#FFF;color:#222;font-size:16px;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-3cbn{background-color:#FFF;color:#222;font-size:16px;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-qtsq{background-color:#FFF;color:#222;font-size:16px;text-align:left;vertical-align:middle}
-.tg .tg-g6yu{background-color:#FFF;color:#222;font-size:16px;text-align:left;vertical-align:top}
-.tg .tg-98tc{background-color:#ffffff;color:#222;font-size:16px;text-align:left;vertical-align:top}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 800px">
+<p><strong><u>Recess and After-school Activities</u></strong>
+</p>
+<table style="minWidth: 75px">
 <colgroup>
-<col style="width: 150px">
-<col style="width: 250px">
-<col style="width: 400px">
+<col>
+<col>
+<col>
 </colgroup>
 <tbody>
-  <tr>
-    <td class="tg-1zrx"><span style="color:#222;background-color:transparent">Month</span></td>
-    <td class="tg-3cbn"> Event</td>
-    <td class="tg-1zrx"><span style="color:#222;background-color:transparent">Activities</span></td>
-  </tr>
-  <tr>
-    <td class="tg-qtsq" rowspan="2"><span style="color:#222;background-color:transparent">March</span></td>
-    <td class="tg-qtsq"><span style="color:#222;background-color:transparent">Blast off into Space</span></td>
-    <td class="tg-g6yu">1. Thematic board and book display<br>2. Crossword puzzle, cuboid activity</td>
-  </tr>
-  <tr>
-    <td class="tg-qtsq"><span style="color:#222;background-color:transparent">School Re-open Activity</span></td>
-    <td class="tg-g6yu">1. Display Art, Music related books<br>2. Origami<br></td>
-  </tr>
-  <tr>
-    <td class="tg-qtsq" rowspan="2"><span style="color:#222;background-color:transparent">April</span></td>
-    <td class="tg-qtsq"><span style="color:#222;background-color:transparent">International Friendship Day</span></td>
-    <td class="tg-qtsq"><span style="color:#222;background-color:transparent">Human Shaped paper – write, colour for their friend</span></td>
-  </tr>
-  <tr>
-    <td class="tg-qtsq"><span style="color:#222;background-color:transparent">Think Green</span></td>
-    <td class="tg-g6yu">1. Thematic board and book display<br>2. Crossword puzzle,  maze<br></td>
-  </tr>
-  <tr>
-    <td class="tg-qtsq" rowspan="2"><span style="color:#222;background-color:transparent">May</span></td>
-    <td class="tg-qtsq"><span style="color:#222;background-color:transparent">Books to Movies</span></td>
-    <td class="tg-g6yu">1. Thematic board and book display<br>2. Draw your favourite movie character <br>3. Guess the book character</td>
-  </tr>
-  <tr>
-    <td class="tg-qtsq"><span style="color:#222;background-color:transparent">Kindness Week</span></td>
-    <td class="tg-g6yu">1. Play Singa Video<br>2. Yellow Daisy, write thank you messages<br></td>
-  </tr>
-  <tr>
-    <td class="tg-qtsq"><span style="color:#222;background-color:transparent">June </span></td>
-    <td class="tg-qtsq"><span style="color:#222;background-color:transparent">Hari Raya Puasa</span></td>
-    <td class="tg-qtsq"><span style="color:#222;background-color:transparent">1.   Info board and quiz on Hari Raya Puasa</span><br><span style="color:#222;background-color:transparent">2.   Write a greeting card</span></td>
-  </tr>
-  <tr>
-    <td class="tg-qtsq" rowspan="2"><span style="color:#222;background-color:transparent">July </span></td>
-    <td class="tg-qtsq"><span style="color:#222;background-color:transparent">Explore Comics</span></td>
-    <td class="tg-g6yu">1. Thematic board and book display<br>2. Crossword puzzle and quiz <br></td>
-  </tr>
-  <tr>
-    <td class="tg-qtsq"><span style="color:#222;background-color:transparent">Racial Harmony Day</span></td>
-    <td class="tg-qtsq"><span style="color:#222;background-color:transparent">1.   Traditional Games in the Library</span><br><span style="color:#222;background-color:transparent">2.   Message card</span><br><span style="color:#222;background-color:transparent">3.   Colouring activity</span></td>
-  </tr>
-  <tr>
-    <td class="tg-qtsq" rowspan="3"><span style="color:#222;background-color:transparent">August </span></td>
-    <td class="tg-qtsq"><span style="color:#222;background-color:transparent">Celebrating Teacher’s Day</span></td>
-    <td class="tg-g6yu">1. Thematic board and book display<br>2. Crossword and word search puzzles<br></td>
-  </tr>
-  <tr>
-    <td class="tg-qtsq"><span style="color:#222;background-color:transparent">National Day</span></td>
-    <td class="tg-qtsq"><span style="color:#222;background-color:transparent"> Info board and Quiz</span></td>
-  </tr>
-  <tr>
-    <td class="tg-qtsq"><span style="color:#222;background-color:transparent">Teacher’s Day</span></td>
-    <td class="tg-qtsq"><span style="color:#222;background-color:transparent"> Write messages on mahjong paper</span></td>
-  </tr>
-  <tr>
-    <td class="tg-qtsq" rowspan="2"><span style="color:#222;background-color:transparent">September</span></td>
-    <td class="tg-qtsq"><span style="color:#222;background-color:transparent">C.S.I Singapore</span></td>
-    <td class="tg-g6yu">1. Thematic board and book display<br>2. Crossword puzzle and quiz </td>
-  </tr>
-  <tr>
-    <td class="tg-qtsq"><span style="color:#222;background-color:transparent">Children’s Day</span></td>
-    <td class="tg-qtsq"><span style="color:#222;background-color:transparent">Teachers write messages for their class</span><br></td>
-  </tr>
-  <tr>
-    <td class="tg-qtsq" rowspan="3"><span style="color:#222;background-color:transparent">October </span></td>
-    <td class="tg-qtsq"><span style="color:#222;background-color:transparent">Children’s Day</span></td>
-    <td class="tg-qtsq"><span style="color:#222;background-color:transparent">Teachers write messages for their class</span></td>
-  </tr>
-  <tr>
-    <td class="tg-qtsq"><span style="color:#222;background-color:transparent">Deepavali</span></td>
-    <td class="tg-qtsq"><span style="color:#222;background-color:transparent"> Info board &amp; Quiz</span></td>
-  </tr>
-  <tr>
-    <td class="tg-98tc"><span style="color:#222">Getting Ready for Exam</span></td>
-    <td class="tg-98tc">Motivational codes for exam</td>
-  </tr>
-  <tr>
-    <td class="tg-qtsq"><span style="color:#222;background-color:transparent">November </span></td>
-    <td class="tg-qtsq"><span style="color:#222;background-color:transparent">The World of Folklore </span></td>
-    <td class="tg-g6yu">1. Thematic board and book display<br>2. Crossword puzzle and quiz </td>
-  </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Month</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Event</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Activities</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>March</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Blast off into Space</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1. Thematic board and book display
+<br>2. Crossword puzzle, cuboid activity</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School Re-open Activity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1. Display Art, Music related books
+<br>2. Origami
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>April</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>International Friendship Day</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Human Shaped paper – write, colour for their friend</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Think Green</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1. Thematic board and book display
+<br>2. Crossword puzzle, maze
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>May</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Books to Movies</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1. Thematic board and book display
+<br>2. Draw your favourite movie character
+<br>3. Guess the book character</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Kindness Week</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1. Play Singa Video
+<br>2. Yellow Daisy, write thank you messages
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>June</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hari Raya Puasa</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1. Info board and quiz on Hari Raya Puasa
+<br>2. Write a greeting card</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>July</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Explore Comics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1. Thematic board and book display
+<br>2. Crossword puzzle and quiz
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Racial Harmony Day</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1. Traditional Games in the Library
+<br>2. Message card
+<br>3. Colouring activity</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>August</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Celebrating Teacher’s Day</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1. Thematic board and book display
+<br>2. Crossword and word search puzzles
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Day</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Info board and Quiz</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teacher’s Day</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Write messages on mahjong paper</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>September</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>C.S.I Singapore</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1. Thematic board and book display
+<br>2. Crossword puzzle and quiz</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Children’s Day</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teachers write messages for their class
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>October</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Children’s Day</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teachers write messages for their class</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Deepavali</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Info board &amp; Quiz</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Getting Ready for Exam</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Motivational codes for exam</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>November</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The World of Folklore</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1. Thematic board and book display
+<br>2. Crossword puzzle and quiz</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-		 
-<img src="/images/MEDIA%20RESOURCE%20LIBRARY%2001.jpeg" 
-     style="width:55%">
-		 
-<img src="/images/MEDIA%20RESOURCE%20LIBRARY%2002.jpeg" 
-     style="width:30%">
-		 
-<img src="/images/MEDIA%20RESOURCE%20LIBRARY%2003.jpeg" 
-     style="width:55%">
-		 
-<img src="/images/MEDIA%20RESOURCE%20LIBRARY%2004.jpeg" 
-     style="width:55%">
-		 
-<img src="/images/MEDIA%20RESOURCE%20LIBRARY%2005.jpeg" 
-     style="width:55%">
-		 
-<img src="/images/MEDIA%20RESOURCE%20LIBRARY%2006.jpeg" 
-     style="width:55%">
+<div class="isomer-image-wrapper">
+<img style="width:55%" height="auto" width="100%" src="/images/MEDIA%20RESOURCE%20LIBRARY%2001.jpeg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width:30%" height="auto" width="100%" src="/images/MEDIA%20RESOURCE%20LIBRARY%2002.jpeg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width:55%" height="auto" width="100%" src="/images/MEDIA%20RESOURCE%20LIBRARY%2003.jpeg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width:55%" height="auto" width="100%" src="/images/MEDIA%20RESOURCE%20LIBRARY%2004.jpeg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width:55%" height="auto" width="100%" src="/images/MEDIA%20RESOURCE%20LIBRARY%2005.jpeg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width:55%" height="auto" width="100%" src="/images/MEDIA%20RESOURCE%20LIBRARY%2006.jpeg">
+</div>
+<p></p>

@@ -3,73 +3,168 @@ title: School Fees
 permalink: /for-parents/General-Matters/school-fees/
 description: ""
 third_nav_title: For Parents
+variant: tiptap
 ---
-#### **For Foreign Students**
-*   Payment of School Fees is DURING Office Hours, Mondays and Fridays: 9:30 am – 3:00pm.
-*   Please pay the school fees to the GENERAL OFFICE before the 22nd OF EVERY MONTH.
-*   Please bring along the FEE NOTIFICATION LETTER from MOE for easy reference.
-*   We encourage those paying cash to use GIRO to avoid the hassle of meeting the above deadline.
-*   If your child/ward needs to leave the school before the end of the academic year, please ensure &nbsp;that all his/her outstanding fees are paid BEFORE he/she returns to his/her home country.
-*   The fee structure is as follows:
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-lwoq{background-color:#FFF;font-size:18px;text-align:left;vertical-align:middle}
-.tg .tg-vvfr{background-color:#DDD;color:#666;font-size:18px;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-pvh1{background-color:#FFF;font-size:18px;font-weight:bold;text-align:left;vertical-align:middle}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 632px">
+<h3>For Foreign Students</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p>Payment of School Fees is DURING Office Hours, Mondays and Fridays: 9:30
+am – 3:00pm.</p>
+</li>
+<li>
+<p>Please pay the school fees to the GENERAL OFFICE before the 22nd OF EVERY
+MONTH.</p>
+</li>
+<li>
+<p>Please bring along the FEE NOTIFICATION LETTER from MOE for easy reference.</p>
+</li>
+<li>
+<p>We encourage those paying cash to use GIRO to avoid the hassle of meeting
+the above deadline.</p>
+</li>
+<li>
+<p>If your child/ward needs to leave the school before the end of the academic
+year, please ensure &nbsp;that all his/her outstanding fees are paid BEFORE
+he/she returns to his/her home country.</p>
+</li>
+<li>
+<p>The fee structure is as follows:</p>
+</li>
+</ul>
+<table style="minWidth: 125px">
 <colgroup>
-<col style="width: 138px">
-<col style="width: 112px">
-<col style="width: 109px">
-<col style="width: 115px">
-<col style="width: 158px">
+<col>
+<col>
+<col>
+<col>
+<col>
 </colgroup>
 <tbody>
-  <tr>
-    <td class="tg-vvfr"></td>
-    <td class="tg-vvfr">SG</td>
-    <td class="tg-vvfr">PR</td>
-    <td class="tg-vvfr">IS <br>(ASEAN)</td>
-    <td class="tg-vvfr">IS <br>(Non-ASEAN)</td>
-  </tr>
-  <tr>
-    <td class="tg-lwoq">School Fees</td>
-    <td class="tg-lwoq">$0.00</td>
-    <td class="tg-lwoq">$90.00</td>
-    <td class="tg-lwoq">$350.00</td>
-    <td class="tg-lwoq">$500.00</td>
-  </tr>
-  <tr>
-    <td class="tg-lwoq">Misc Fees</td>
-    <td class="tg-lwoq">$6.50</td>
-    <td class="tg-lwoq">$6.50</td>
-    <td class="tg-lwoq">$6.50</td>
-    <td class="tg-lwoq">$6.50</td>
-  </tr>
-  <tr>
-    <td class="tg-lwoq">2nd Tier </td>
-    <td class="tg-lwoq"> $6.50</td>
-    <td class="tg-lwoq">$6.50</td>
-    <td class="tg-lwoq">$6.50</td>
-    <td class="tg-lwoq">$6.50</td>
-  </tr>
-  <tr>
-    <td class="tg-pvh1">TOTAL</td>
-    <td class="tg-lwoq"> $13.00</td>
-    <td class="tg-lwoq">$103.00</td>
-    <td class="tg-lwoq"> $363.00</td>
-    <td class="tg-lwoq">$513.00</td>
-  </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>PR</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>IS
+<br>(ASEAN)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>IS
+<br>(Non-ASEAN)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School Fees</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$0.00</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$90.00</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$350.00</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$500.00</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Misc Fees</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$6.50</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$6.50</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$6.50</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$6.50</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2nd Tier</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$6.50</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$6.50</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$6.50</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$6.50</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TOTAL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$13.00</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$103.00</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$363.00</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$513.00</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
-
-**Note:**  
-SG - Singaporean   
-PR - Permanent Resident   
-IS - International Student
+<p><strong>Note:</strong> 
+<br>SG - Singaporean
+<br>PR - Permanent Resident
+<br>IS - International Student</p>
+<p></p>

@@ -6,8 +6,24 @@ description: ""
 third_nav_title: For Parents
 ---
 <h3>Term Letter to Parents</h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 <tr>
 <th rowspan="1" colspan="1">
 <p>Date</p>
@@ -58,8 +74,20 @@ third_nav_title: For Parents
 </table>
 <p></p>
 <h3>Curriculum Briefings</h3>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 <tr>
 <th rowspan="1" colspan="1">
 <p>Levels</p>
@@ -134,8 +162,20 @@ third_nav_title: For Parents
 </table>
 <p></p>
 <h3>ICT Connect Newsletters</h3>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 <tr>
 <th rowspan="1" colspan="1">
 <p>Month / Year</p>
@@ -143,6 +183,15 @@ third_nav_title: For Parents
 <th rowspan="1" colspan="1">
 <p>Newsletters</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>May 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/cwmay2024" rel="noopener noreferrer nofollow" target="_blank">ICT Connect @ Cove Newsletter 2024</a>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">

@@ -4,6 +4,7 @@ permalink: /about-pcps/our-facilities/
 description: ""
 variant: tiptap
 ---
+<h3>School Learning Environment</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Facilities.jpeg">
 </div>

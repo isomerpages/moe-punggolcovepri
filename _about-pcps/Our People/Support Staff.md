@@ -5,6 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Our People
 ---
+<h3>Support Staff</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -31,8 +32,13 @@ third_nav_title: Our People
 <td rowspan="1" colspan="1">
 <p>Mr Sriharan S/O Ganeshan</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Desktop Engineer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Himan Shameer</p>
 </td>
 </tr>
 <tr>

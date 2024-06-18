@@ -1,8 +1,11 @@
 ---
 title: P3 and P4 Higher Mother Tongue
-permalink: /for-parents/subject-downloads/permalink/
+permalink: /p3-and-p4-higher-mother-tongue/
 description: ""
 third_nav_title: For Parents
 variant: tiptap
 ---
-<h1><strong>P3 and P4 Higher Mother Tongue</strong></h1><p>Please click <a href="https://go.gov.sg/p3andp4hmtl" rel="noopener noreferrer nofollow" target="_blank">here</a> for more information.</p>
+<h3>Primary 3 and Primary 4 Higher Mother Tongue</h3>
+<p>Please click <a href="https://go.gov.sg/p3andp4hmtl" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+more information.</p>
+<p></p>

@@ -1,8 +1,78 @@
 ---
 title: Physical Education
-permalink: /for-parents/Subject-Downloads/physical-education/
+permalink: /physical-education/
 description: ""
 third_nav_title: For Parents
 variant: tiptap
 ---
-<h4>HOME-BASED LEARNING</h4><ul data-tight="true" class="tight"><li><p><a href="/files/PE%20HBL%205BX.pdf" rel="noopener noreferrer nofollow" target="_blank">5BX</a></p></li><li><p><a href="/files/PE%20HBL%20Eye%20Exercises.pdf" rel="noopener noreferrer nofollow" target="_blank">Eye Exercises</a></p></li><li><p><a href="/files/PE%20HBL%20Dance%20Workout.pdf" rel="noopener noreferrer nofollow" target="_blank">Dance Workout</a></p></li><li><p><a href="/files/PE%20HBL%20Relaxation%20Activities.pdf" rel="noopener noreferrer nofollow" target="_blank">Relaxation Activities</a></p></li><li><p><a href="/files/PE%20HBL%20Hand%20Eye%20Coordination%20Exercises.pdf" rel="noopener noreferrer nofollow" target="_blank">Hand Eye Coordination Exercises</a></p></li></ul><p></p>
+<h3>Home Based Learning @ Physical Education</h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/pehbl5bx" rel="noopener noreferrer nofollow" target="_blank">Five Basic Exercise</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/hbldanceworkout" rel="noopener noreferrer nofollow" target="_blank">Dance Workout</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/hbleyeexercise" rel="noopener noreferrer nofollow" target="_blank">Eye Exercise</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/hblhandeyecoordination" rel="noopener noreferrer nofollow" target="_blank">Hand and Eye Coordination</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/hblrelaxationactivities" rel="noopener noreferrer nofollow" target="_blank">Relaxation Activities</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>

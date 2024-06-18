@@ -3,89 +3,130 @@ title: P5 TL SPELLING LIST BY UNIT SEM 2
 permalink: /tamil-spelling-test/Primary-5/sem-2/
 description: ""
 third_nav_title: Primary 5
+variant: tiptap
 ---
-
-### P5B TAMIL LANGUAGE SPELLING LIST ( TERM 3 )
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-cbnv{background-color:#FFF;color:#4067AE;font-size:16px;text-align:center;vertical-align:middle}
-.tg .tg-l70m{background-color:#FFF;font-size:16px;text-align:center;vertical-align:middle}
-.tg .tg-st6x{background-color:#FFF;font-size:16px;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-g86y{background-color:#FFF;color:#0382CB;font-size:16px;text-align:center;vertical-align:middle}
-</style>
-<table class="tg">
+<h3>P5B TAMIL LANGUAGE SPELLING LIST ( TERM 3 )</h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td class="tg-st6x">S/N</td>
-    <td class="tg-st6x">Quizlet Link</td>
-  </tr>
-  <tr>
-    <td class="tg-l70m">சொல்வதெழுதுதல் <span style="background-color:initial">( 1 )</span></td>
-    <td class="tg-cbnv"><a href="https://qrgo.page.link/poNMg"><span style="text-decoration:none;color:#4067AE">PCPS P5 TL Spelling ( 1 )</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-l70m">சொல்வதெழுதுதல் ( 2 )</td>
-    <td class="tg-cbnv"><a href="https://qrgo.page.link/9qfBr"><span style="text-decoration:none;color:#4067AE">PCPS P5 TL Spelling ( 2 )</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-l70m">சொல்வதெழுதுதல் ( 3 )</td>
-    <td class="tg-cbnv"><a href="https://qrgo.page.link/HkLbJ"><span style="text-decoration:none;color:#4067AE">PCPS P5 TL Spelling ( 3 )</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-l70m">சொல்வதெழுதுதல் ( 4 )</td>
-    <td class="tg-cbnv"><a href="https://qrgo.page.link/iVXhQ"><span style="text-decoration:none;color:#4067AE">PCPS P5 TL Spelling ( 4 )</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-l70m">சொல்வதெழுதுதல் ( 5 )</td>
-    <td class="tg-cbnv"><a href="https://qrgo.page.link/36UjM"><span style="text-decoration:none;color:#4067AE">PCPS P5 TL Spelling ( 5 )</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-l70m">சொல்வதெழுதுதல் ( 6 )</td>
-    <td class="tg-g86y"><a href="https://qrgo.page.link/SzqJK" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#4067AE">PCPS P5 TL Spelling ( 6 )</span></a></td>
-  </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>S/N</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Quizlet Link</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>சொல்வதெழுதுதல் ( 1 )</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://qrgo.page.link/poNMg" rel="noopener noreferrer nofollow" target="_blank">PCPS P5 TL Spelling ( 1 )</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>சொல்வதெழுதுதல் ( 2 )</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://qrgo.page.link/9qfBr" rel="noopener noreferrer nofollow" target="_blank">PCPS P5 TL Spelling ( 2 )</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>சொல்வதெழுதுதல் ( 3 )</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://qrgo.page.link/HkLbJ" rel="noopener noreferrer nofollow" target="_blank">PCPS P5 TL Spelling ( 3 )</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>சொல்வதெழுதுதல் ( 4 )</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://qrgo.page.link/iVXhQ" rel="noopener noreferrer nofollow" target="_blank">PCPS P5 TL Spelling ( 4 )</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>சொல்வதெழுதுதல் ( 5 )</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://qrgo.page.link/36UjM" rel="noopener noreferrer nofollow" target="_blank">PCPS P5 TL Spelling ( 5 )</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>சொல்வதெழுதுதல் ( 6 )</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://qrgo.page.link/SzqJK" rel="noopener noreferrer" target="_blank">PCPS P5 TL Spelling ( 6 )</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-
-### P5B TAMIL LANGUAGE SPELLING LIST ( TERM 4 )
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-cbnv{background-color:#FFF;color:#4067AE;font-size:16px;text-align:center;vertical-align:middle}
-.tg .tg-l70m{background-color:#FFF;font-size:16px;text-align:center;vertical-align:middle}
-.tg .tg-st6x{background-color:#FFF;font-size:16px;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-g86y{background-color:#FFF;color:#0382CB;font-size:16px;text-align:center;vertical-align:middle}
-</style>
-<table class="tg">
+<h3>P5B TAMIL LANGUAGE SPELLING LIST ( TERM 4 )</h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td class="tg-st6x">S/N</td>
-    <td class="tg-st6x">Quizlet Link</td>
-  </tr>
-  <tr>
-    <td class="tg-l70m">சொல்வதெழுதுதல் <span style="background-color:initial">( 1 )</span></td>
-    <td class="tg-cbnv"><a href="https://qrgo.page.link/oK3vS"><span style="text-decoration:none;color:#4067AE">PCPS P5 TL Spelling ( 1 )</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-l70m">சொல்வதெழுதுதல் ( 2 )</td>
-    <td class="tg-cbnv"><a href="https://qrgo.page.link/mp84h"><span style="text-decoration:none;color:#4067AE">PCPS P5 TL Spelling ( 2 )</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-l70m">சொல்வதெழுதுதல் ( 3 )</td>
-    <td class="tg-cbnv"><a href="https://qrgo.page.link/XtBaz"><span style="text-decoration:none;color:#4067AE">PCPS P5 TL Spelling ( 3 )</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-l70m">சொல்வதெழுதுதல் ( 4 )</td>
-    <td class="tg-g86y"><a href="https://qrgo.page.link/mUZ4b" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#4067AE">PCPS P5 TL Spelling ( 4 )</span></a></td>
-  </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>S/N</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Quizlet Link</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>சொல்வதெழுதுதல் ( 1 )</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://qrgo.page.link/oK3vS" rel="noopener noreferrer nofollow" target="_blank">PCPS P5 TL Spelling ( 1 )</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>சொல்வதெழுதுதல் ( 2 )</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://qrgo.page.link/mp84h" rel="noopener noreferrer nofollow" target="_blank">PCPS P5 TL Spelling ( 2 )</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>சொல்வதெழுதுதல் ( 3 )</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://qrgo.page.link/XtBaz" rel="noopener noreferrer nofollow" target="_blank">PCPS P5 TL Spelling ( 3 )</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>சொல்வதெழுதுதல் ( 4 )</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://qrgo.page.link/mUZ4b" rel="noopener noreferrer" target="_blank">PCPS P5 TL Spelling ( 4 )</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
+<p></p>
