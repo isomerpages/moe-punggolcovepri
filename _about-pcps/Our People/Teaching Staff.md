@@ -72,7 +72,7 @@ third_nav_title: Our People
 <p>1 Emerald</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: varjeet_kaur@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Varjeet Kaur Gill</a>
+<p><a href="mailto: nur_syazwani_jantan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nur Syazwani Binte Jantan</a>
 </p>
 </td>
 </tr>
@@ -93,7 +93,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: nur_syazwani_jantan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nur Syazwani Binte Jantan</a>
+<p><a href="mailto: tan_shuwen_candice@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Tan Shuwen Candice</a>
 </p>
 </td>
 </tr>
@@ -410,7 +410,7 @@ third_nav_title: Our People
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>3 Pearl</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -422,20 +422,6 @@ third_nav_title: Our People
 <td rowspan="1" colspan="1">
 <p><a href="mailto: tan_sze_huey@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Tan Sze Huey</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="mailto: seah_kim_san_marvin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Marvin Seah</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
@@ -469,6 +455,15 @@ third_nav_title: Our People
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="mailto: noor_mohamed_ayisha_ruksana@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Ayisha Ruksana</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto: Huang_Ya-Ching@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Huang Ya-Ching</a>
 </p>
 </td>
 </tr>
