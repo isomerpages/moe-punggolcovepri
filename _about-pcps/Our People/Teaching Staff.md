@@ -138,7 +138,7 @@ third_nav_title: Our People
 <p>1 Ruby</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: jolene_choy_jo_yin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Jolene Choy Jo Yin</a>
+<p><a href="mailto: yang_fengxing_linda@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Linda Yang</a>
 </p>
 </td>
 </tr>
