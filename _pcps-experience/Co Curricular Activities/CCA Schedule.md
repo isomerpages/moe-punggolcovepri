@@ -7,13 +7,11 @@ variant: tiptap
 ---
 <h3>CCA SCHEDULE</h3>
 <p></p>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P3_CCA_T2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Tuesday_CCAs.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P3_CCA_T2I.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Thursday_CCAs.png">
 </div>
 <p></p>
