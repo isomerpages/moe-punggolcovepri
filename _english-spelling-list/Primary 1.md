@@ -93,10 +93,6 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 <h3>Primary 1 English Spelling And Dictation Term 2</h3>
 <table style="minWidth: 50px">
 <colgroup>
@@ -186,8 +182,6 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p></p>
-<p></p>
 <h3>Primary 1 English Spelling And Dictation Term 1</h3>
 <div class="isomer-image-wrapper">
 <img style="width:75%" height="auto" width="100%" src="/images/No%20Spelling%202.png">
