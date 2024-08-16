@@ -2,6 +2,7 @@ collections:
   2024-events:
     output: true
     order:
+      - School Based/Music Fiesta.md
       - School Based/Awards Day 2023 to 2024.md
       - School Based/P1 Start of School.md
       - School Based/.keep
