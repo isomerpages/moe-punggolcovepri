@@ -43,7 +43,8 @@ third_nav_title: School Event
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Hari Raya Aidilfitri</p>
+<p><a href="/hari-raya-aidilfitri/" rel="noopener noreferrer nofollow" target="_blank">Hari Raya Aidilfitri</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Awards Day 2023 to 2024</p>
