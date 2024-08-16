@@ -2,6 +2,7 @@ collections:
   2024-events:
     output: true
     order:
+      - School Based/P5 Cohort Camp.md
       - School Based/P6 Camp at The Cove.md
       - School Based/Student Leadership Workshop.md
       - School Based/Music Fiesta.md
