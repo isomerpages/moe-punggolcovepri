@@ -2,5 +2,6 @@ collections:
   2024-events:
     output: true
     order:
+      - Festive Celebration/Chinese New Year.md
       - Festive Celebration/Hari Raya Aidilfitri.md
       - Festive Celebration/.keep
