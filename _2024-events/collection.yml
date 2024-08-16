@@ -2,7 +2,9 @@ collections:
   2024-events:
     output: true
     order:
-      - Subject Based.md
+      - Festive Celebration/.keep
+      - Festive Celebration/Chinese New Year.md
+      - Festive Celebration/Hari Raya Aidilfitri.md
       - School Based/.keep
       - School Based/P1 Start of School.md
       - School Based/Awards Day 2023 to 2024.md
@@ -10,6 +12,4 @@ collections:
       - School Based/Student Leadership Workshop.md
       - School Based/P6 Camp at The Cove.md
       - School Based/P5 Cohort Camp.md
-      - Festive Celebration/Chinese New Year.md
-      - Festive Celebration/Hari Raya Aidilfitri.md
-      - Festive Celebration/.keep
+      - Subject Based.md
