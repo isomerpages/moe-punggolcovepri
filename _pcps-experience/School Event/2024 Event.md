@@ -29,7 +29,8 @@ third_nav_title: School Event
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chinese New Year</p>
+<p><a href="/chinese-new-year/" rel="noopener noreferrer nofollow" target="_blank">Chinese New Year</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>P1 Start of School</p>
