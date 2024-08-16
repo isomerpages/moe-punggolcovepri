@@ -2,6 +2,7 @@ collections:
   pcps-experience:
     output: true
     order:
+      - School Event/.keep
       - Departments and Committees/.keep
       - Departments and Committees/English Language.md
       - Departments and Committees/Mathematics.md
