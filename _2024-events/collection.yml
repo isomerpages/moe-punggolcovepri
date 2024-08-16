@@ -2,13 +2,13 @@ collections:
   2024-events:
     output: true
     order:
-      - School Based/P5 Cohort Camp.md
-      - School Based/P6 Camp at The Cove.md
-      - School Based/Student Leadership Workshop.md
-      - School Based/Music Fiesta.md
-      - School Based/Awards Day 2023 to 2024.md
-      - School Based/P1 Start of School.md
       - School Based/.keep
+      - School Based/P1 Start of School.md
+      - School Based/Awards Day 2023 to 2024.md
+      - School Based/Music Fiesta.md
+      - School Based/Student Leadership Workshop.md
+      - School Based/P6 Camp at The Cove.md
+      - School Based/P5 Cohort Camp.md
       - Festive Celebration/Chinese New Year.md
       - Festive Celebration/Hari Raya Aidilfitri.md
       - Festive Celebration/.keep
