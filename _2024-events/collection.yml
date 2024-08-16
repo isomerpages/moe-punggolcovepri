@@ -2,8 +2,6 @@ collections:
   2024-events:
     output: true
     order:
-      - Subject Based/MTL Fortnight 2024.md
-      - Subject Based/.keep
       - Festive Celebration/.keep
       - Festive Celebration/Chinese New Year.md
       - Festive Celebration/Hari Raya Aidilfitri.md
@@ -14,3 +12,5 @@ collections:
       - School Based/Student Leadership Workshop.md
       - School Based/P6 Camp at The Cove.md
       - School Based/P5 Cohort Camp.md
+      - Subject Based/.keep
+      - Subject Based/MTL Fortnight 2024.md
