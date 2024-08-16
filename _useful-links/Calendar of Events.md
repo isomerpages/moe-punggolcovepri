@@ -5,7 +5,11 @@ variant: tiptap
 description: ""
 ---
 <h3>2024 Calendar of Events</h3>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
