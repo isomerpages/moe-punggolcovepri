@@ -37,6 +37,18 @@ third_nav_title: For Parents
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>25 June 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>All Primary Levels</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/pcps2024185" rel="noopener noreferrer nofollow" target="_blank">2024 Term 3 Letter To Parents</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>21 March 2024</p>
 </td>
 <td rowspan="1" colspan="1">
