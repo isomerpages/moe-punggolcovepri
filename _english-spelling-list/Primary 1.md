@@ -4,6 +4,78 @@ permalink: /english-spelling-test/p1/
 description: ""
 variant: tiptap
 ---
+<h3>Primary 1 English Spelling And Dictation Term 4</h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Week</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Quizlet Link</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Term 4 Week 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://quizlet.com/sg/608098505/pcps-p1-term-4-el-week-2-flash-cards/?i=1c2gxb&amp;x=1jqt" rel="noopener nofollow" target="_blank">Spelling and Dictation 2</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Term 4 Week 3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://quizlet.com/sg/608099380/pcps-p1-term-4-el-week-3-flash-cards/?i=1c2gxb&amp;x=1jqt" rel="noopener nofollow" target="_blank">Spelling and Dictation 3</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Term 4 Week 4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://quizlet.com/sg/608100185/pcps-p1-term-4-el-week-4-flash-cards/?i=1c2gxb&amp;x=1jqt" rel="noopener nofollow" target="_blank">Spelling and Dictation 4</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Term 4 Week 5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://quizlet.com/sg/608100618/pcps-p1-term-4-el-week-5-flash-cards/?i=1c2gxb&amp;x=1jqt" rel="noopener nofollow" target="_blank">Spelling and Dictation 5</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Term 4 Week 7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://quizlet.com/sg/608101195/pcps-p1-term-4-el-week-7-flash-cards/?i=1c2gxb&amp;x=1jqt" rel="noopener nofollow" target="_blank">Spelling and Dictation 7</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Term 4 Week 8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://quizlet.com/sg/608101909/pcps-p1-term-4-el-week-8-flash-cards/?i=1c2gxb&amp;x=1jqt" rel="noopener nofollow" target="_blank">Spelling and Dictation 8</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <h3>Primary 1 English Spelling And Dictation Term 3</h3>
 <table style="minWidth: 50px">
 <colgroup>
