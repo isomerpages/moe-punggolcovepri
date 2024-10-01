@@ -113,7 +113,7 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: Nur_Dariah_Mohamed_Ejjad@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Nur Dariah Binte Mohamed Ejjad </a>
+<p><a href="mailto: Nur_Dariah_Mohamed_Ejjad@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Nur Dariah Binte Mohamed Ejjad</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
