@@ -53,4 +53,17 @@ description: ""
 Tamil)&nbsp;</p>
 </li>
 </ul>
-<p></p>
+<h4><strong>Check out some of the videos below to find out more about our MK Curriculum!</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://youtu.be/R636jFF7S28" rel="noopener noreferrer nofollow" target="_blank">On to A Strong Start at MOE Kindergarten</a> 
+<a rel="noopener noreferrer nofollow" target="_blank">https://www.youtube.com/watch?v=R636jFF7S28</a>
+</p>
+</li>
+</ul>
+<p><a href="https://youtu.be/LockyOmaNB0" rel="noopener noreferrer nofollow" target="_blank">MOE Kindergarten- Where Every Space is a Learning Space</a>
+<a href="https://www.youtube.com/watch?v=LockyOmaNB0&amp;list=PLgBw4fHUtzK1D4AfUOLOdiweN-7340n86&amp;index=17" rel="noopener noreferrer nofollow" target="_blank">https://</a><a rel="noopener noreferrer nofollow" target="_blank">www.youtube.com/watch?v=LockyOmaNB0&amp;list=PLgBw4fHUtzK1D4AfUOLOdiweN-7340n86&amp;index=17</a>
+</p>
+<h4><strong>Find out more on our programmes via our MOE MK website!</strong></h4>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/preschool/moe-kindergarten/curriculum-and-learning-environment</a>
+</p>
