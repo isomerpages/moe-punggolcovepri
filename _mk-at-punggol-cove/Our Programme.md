@@ -42,8 +42,7 @@ description: ""
 </tbody>
 </table>
 <p></p>
-<h3><strong>MK Curriculum</strong></h3>
-<h4>Our MK curriculum comprises 2 flagship programmes:</h4>
+<h4><strong>MK Curriculum</strong><br>Our MK curriculum comprises 2 flagship programmes:</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>HI-Light Programme</p>
