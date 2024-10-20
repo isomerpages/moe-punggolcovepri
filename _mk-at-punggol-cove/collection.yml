@@ -2,6 +2,7 @@ collections:
   mk-at-punggol-cove:
     output: true
     order:
+      - Enrol your child with us.md
       - Our Vision, Mission & Belief.md
       - Our People/.keep
       - Our People/Staff List and Email Address.md
