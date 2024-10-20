@@ -3,6 +3,8 @@ collections:
     output: true
     order:
       - Our Vision, Mission & Belief.md
+      - Our Staff/.keep
+      - Our Staff/Staff List and Email Address.md
       - Kindergarten Information/.keep
       - Kindergarten Information/Kindergarten Information.md
       - Our EYC Partners/.keep
@@ -14,5 +16,3 @@ collections:
       - Our Learning Experiences/Writeup.md
       - Our Learning Experiences/Photos.md
       - Our Learning Experiences/Video of learning at MK@PC.md
-      - Our Staff/.keep
-      - Our Staff/Staff List and Email Address.md
