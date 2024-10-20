@@ -2,7 +2,6 @@ collections:
   mk-at-punggol-cove:
     output: true
     order:
-      - Enrol your child with us.md
       - Our Vision, Mission & Belief.md
       - Our People/.keep
       - Our People/Staff List and Email Address.md
@@ -13,6 +12,7 @@ collections:
       - Our EYC Partners/.keep
       - Our EYC Partners/Information on our EYC Partners.md
       - Our KCare Programme.md
+      - Enrol your child with us.md
       - Kindergarten Information/.keep
       - Kindergarten Information/Kindergarten Information.md
       - Our Learning Experiences/.keep
