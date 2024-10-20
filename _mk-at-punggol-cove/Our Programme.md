@@ -42,3 +42,16 @@ description: ""
 </tbody>
 </table>
 <p></p>
+<h3><strong>MK Curriculum</strong></h3>
+<h4>Our MK curriculum comprises 2 flagship programmes:</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>HI-Light Programme</p>
+</li>
+<li>
+<p>Starlight Literacy Programme:&nbsp;
+<br>&nbsp;&nbsp;- English and 3 Mother Tongue Languages (Malay, Chinese &amp;
+Tamil)&nbsp;</p>
+</li>
+</ul>
+<p></p>
