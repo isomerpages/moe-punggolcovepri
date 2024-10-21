@@ -166,8 +166,7 @@ mathematical age by equipping them with the mathematical skills and knowledge.</
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.moe.gov.sg/docs/default-source/document/education/syllabuses/sciences/files/primary_mathematics_syllabus_pri1_to_pri5.pdf" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/docs/default-source/document/education/syllabuses/sciences/files/</a>
-<br><a href="https://www.moe.gov.sg/docs/default-source/document/education/syllabuses/sciences/files/primary_mathematics_syllabus_pri1_to_pri5.pdf" rel="noopener noreferrer nofollow" target="_blank">primary_mathematics_syllabus_pri1_to_pri5.pdf</a>
+<p><a href="https://www.moe.gov.sg/primary/curriculum/syllabus" rel="noopener nofollow" target="_blank">https://www.moe.gov.sg/primary/curriculum/syllabus</a>
 </p>
 </td>
 </tr>
@@ -231,15 +230,6 @@ with various mathematical concepts</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Site on wonders of Maths</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="http://enlvm.usu.edu/ma/nav/bb_dlib.jsp" rel="noopener noreferrer nofollow" target="_blank">http://enlvm.usu.edu/ma/nav/bb_dlib.jsp</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Site with Math games and brainteasers</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -252,16 +242,7 @@ with various mathematical concepts</p>
 <p>Maths Interactive Game site</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="http://www.eduplace.com/kids/mw/" rel="noopener noreferrer nofollow" target="_blank">http://www.eduplace.com/kids/mw/</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Interactive game on Money Management</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="http://www.umsl.edu/~wpockets/index.html" rel="noopener noreferrer nofollow" target="_blank">http://www.umsl.edu/~wpockets/index.html</a>
+<p><a href="https://www.hmhco.com/blog/free-learning-resources" rel="noopener noreferrer nofollow" target="_blank">https://www.hmhco.com/blog/free-learning-resources</a>
 </p>
 </td>
 </tr>

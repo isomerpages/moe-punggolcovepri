@@ -3,8 +3,14 @@ title: Staff List and Email Address
 permalink: /mk-at-punggol-cove/staff-contact-list/
 description: ""
 variant: tiptap
-third_nav_title: Our Staff
+third_nav_title: Our People
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="Our People" src="/images/Our_People_Banner.png">
+</div>
+<p></p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
