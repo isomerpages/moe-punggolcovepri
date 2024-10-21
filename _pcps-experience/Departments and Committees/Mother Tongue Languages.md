@@ -75,7 +75,6 @@ experience the culture.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="http://www.mllpc.sg/" rel="noopener noreferrer nofollow" target="_blank">http://www.mllpc.sg</a>
-<br>
 </p>
 </td>
 </tr>
@@ -122,17 +121,6 @@ experience the culture.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="http://vaandu.sg/" rel="noopener noreferrer nofollow" target="_blank">http://vaandu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Interactive games
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="http://sangamam.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">http://sangamam.moe.edu.sg</a>
 </p>
 </td>
 </tr>

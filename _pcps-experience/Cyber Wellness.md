@@ -272,7 +272,7 @@ our students on how to navigate the cyber safe safely.</p>
 <p>Our newsletters provide useful and bite-sized tips for parents on how
 to support our students in their Cyber Wellness education.</p>
 <p>Get your eyes and mind on our latest newsletter released termly!</p>
-<p>Please click on the <a href="/for-parents/Subject-Downloads/ict-connect-at-cove/" rel="noopener noreferrer nofollow" target="_blank">image</a> below
+<p>Please click on the <a href="https://www.punggolcovepri.moe.edu.sg/communication-with-parents/" rel="noopener noreferrer nofollow" target="_blank">image</a> below
 to get the newsletter
 <br>
 <br>
