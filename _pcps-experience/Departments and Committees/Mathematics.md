@@ -166,8 +166,7 @@ mathematical age by equipping them with the mathematical skills and knowledge.</
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.moe.gov.sg/docs/default-source/document/education/syllabuses/sciences/files/primary_mathematics_syllabus_pri1_to_pri5.pdf" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/docs/default-source/document/education/syllabuses/sciences/files/</a>
-<br><a href="https://www.moe.gov.sg/docs/default-source/document/education/syllabuses/sciences/files/primary_mathematics_syllabus_pri1_to_pri5.pdf" rel="noopener noreferrer nofollow" target="_blank">primary_mathematics_syllabus_pri1_to_pri5.pdf</a>
+<p><a href="https://www.moe.gov.sg/primary/curriculum/syllabus" rel="noopener nofollow" target="_blank">https://www.moe.gov.sg/primary/curriculum/syllabus</a>
 </p>
 </td>
 </tr>
