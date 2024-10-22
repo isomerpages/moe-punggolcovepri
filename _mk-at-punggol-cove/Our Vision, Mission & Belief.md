@@ -6,7 +6,7 @@ description: ""
 ---
 <h4></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="MK @ Punggol Cove" src="/images/Picture1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture1.jpg">
 </div>
 <h4><strong>Our Vision</strong><br>A Strong Start for Every Child</h4>
 <h4><strong>Our Mission</strong><br>To provide quality pre-school education that is affordable to Singaporeans and catalyse quality improvements in the sector</h4>
