@@ -198,6 +198,15 @@ third_nav_title: For Parents
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>October 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/ictconnect022024" rel="noopener noreferrer nofollow" target="_blank">ICT Connect @ Cove Newsletter 2024</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>May 2024</p>
 </td>
 <td rowspan="1" colspan="1">
