@@ -83,15 +83,6 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: lee_jia_jia_rachel@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Lee Jia Jia Rachel</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>EL Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><a href="mailto: alicia_wee_yu_xuan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Alicia Wee</a>
 </p>
 </td>
@@ -128,7 +119,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: ong_bee_eng@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Ong Bee Eng (Jenna)</a>
+<p><a href="mailto: ong_bee_eng@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Ong Bee Eng</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -196,14 +187,6 @@ third_nav_title: Our People
 </td>
 <td rowspan="1" colspan="1">
 <p>TL Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
