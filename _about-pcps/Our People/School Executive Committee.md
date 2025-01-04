@@ -42,7 +42,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="punggolcove_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Cai Xirui </a>
+<p><a href="punggolcove_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Cai Xirui</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -69,7 +69,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="nur_husna_mohamad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nur Husna Binte Mohamad </a>
+<p><a href="nur_husna_mohamad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nur Husna Binte Mohamad</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -105,7 +105,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="yong_wei_min_stephanie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Stephanie Yong </a>
+<p><a href="yong_wei_min_stephanie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Stephanie Yong</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -141,7 +141,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="yeoh_ghim_boon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Ken Yeoh </a>
+<p><a href="yeoh_ghim_boon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Ken Yeoh</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -150,7 +150,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="nor_azilah_abdullah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nor Azilah Abdullah</a> 
+<p><a href="nor_azilah_abdullah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nor Azilah Abdullah</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -213,7 +213,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mohammed_hafiizh_dzulkifli@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Mohd Hafiizh Dzulkifli </a>
+<p><a href="mohammed_hafiizh_dzulkifli@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Mohd Hafiizh Dzulkifli</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
