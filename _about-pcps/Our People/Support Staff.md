@@ -22,7 +22,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Siti Khadijah Binte Abdul Latif</p>
+<p>Ms Siti</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Library Assistant</p>
@@ -30,7 +30,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Sriharan S/O Ganeshan</p>
+<p>Mr Haran</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>Desktop Engineer</p>
