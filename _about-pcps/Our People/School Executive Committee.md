@@ -33,8 +33,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="punggolcove_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Cai Xirui </a>
-<br>
+<p><a href="punggolcove_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Andrew Chong Wenyi</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -43,7 +42,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="punggolcove_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Andrew Chong Wenyi</a>
+<p><a href="punggolcove_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Cai Xirui</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -61,24 +60,6 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="norjanah_ramli@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Norjanah Ramli</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD PE / Aesthetics</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="chew_chung_siong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Benjamin Chew</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD Discipline</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><a href="sawant_nagina_ishtiyaq_ahmed@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Nagina Sawant</a>
 </p>
 </td>
@@ -88,23 +69,20 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="ang_hiang_soon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Ang Hiang Soon</a>
+<p><a href="nur_husna_mohamad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nur Husna Binte Mohamad</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD Mother Tongue</p>
+<p>HOD Mathematics</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="nur_husna_mohamad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nur Husna Binte Mohamad </a>
-<br>
+<p><a href="ang_hiang_soon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Ang Hiang Soon</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD Mathematics
-<br>
-</p>
+<p>HOD Mother Tongue Languages</p>
 </td>
 </tr>
 <tr>
@@ -118,21 +96,38 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="norjanah_ramli@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Norjanah Ramli</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD PE / Aesthetics</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="yong_wei_min_stephanie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Stephanie Yong</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Staff Developer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="chew_chung_siong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Benjamin Chew</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD Discipline</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="jeremy_loh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Jeremy Loh</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD CCE</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="yong_wei_min_stephanie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Stephanie Yong </a>
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Staff Developer</p>
 </td>
 </tr>
 <tr>
@@ -146,8 +141,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="yeoh_ghim_boon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Ken Yeoh </a>
-<br>
+<p><a href="yeoh_ghim_boon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Ken Yeoh</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -156,8 +150,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="nor_azilah_abdullah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nor Azilah Abdullah</a> 
-<br>
+<p><a href="nor_azilah_abdullah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nor Azilah Abdullah</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -175,11 +168,11 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="loh_qiwen_angeline@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Loh Qiwen Angeline</a>
+<p><a href="nur_alisa_zanal@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Nur Alisa</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>LH English (Internal)</p>
+<p>LH Mathematics (Internal)</p>
 </td>
 </tr>
 <tr>
@@ -188,18 +181,7 @@ third_nav_title: Our People
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>LH Science
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="tang_yu_ying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Tang Yu Ying</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>LH Science (Internal)</p>
+<p>LH Science</p>
 </td>
 </tr>
 <tr>
@@ -231,8 +213,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mohammed_hafiizh_dzulkifli@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Mohd Hafiizh Dzulkifli </a>
-<br>
+<p><a href="mohammed_hafiizh_dzulkifli@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Mohd Hafiizh Dzulkifli</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -246,6 +227,15 @@ third_nav_title: Our People
 </td>
 <td rowspan="1" colspan="1">
 <p>SH Malay Language</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="tang_yuen_har_jasmine@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Jasmine Wong</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH CCE</p>
 </td>
 </tr>
 <tr>
