@@ -438,7 +438,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="zahira_abdul_majeed@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Zahira </a>
+<p><a href="zahira_abdul_majeed@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Zahira</a>
 </p>
 </td>
 </tr>
@@ -605,11 +605,17 @@ third_nav_title: Our People
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>5 Opal</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="ting_jian_hong_kelvin@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Kelvin Ting</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="chin_ruey_amanda@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Chin Ruey, Amanda</a>
 </p>
 </td>
 </tr>
@@ -798,7 +804,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="rehanna_dawood@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Rehanna </a>
+<p><a href="rehanna_dawood@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Rehanna</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -888,7 +894,8 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Wendy Yeo Wan Tin</p>
+<p><a href="Yeo_Wan_Tin@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Wendy Yeo Wan Tin</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
