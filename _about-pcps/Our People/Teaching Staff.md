@@ -609,13 +609,13 @@ third_nav_title: Our People
 <p>5 Opal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="ting_jian_hong_kelvin@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Kelvin Ting</a>
+<p><a href="chin_ruey_amanda@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Chin Ruey, Amanda</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="chin_ruey_amanda@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Chin Ruey, Amanda</a>
+<p><a href="ting_jian_hong_kelvin@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Kelvin Ting</a>
 </p>
 </td>
 </tr>

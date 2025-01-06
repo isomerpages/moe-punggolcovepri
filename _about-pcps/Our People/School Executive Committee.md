@@ -231,15 +231,6 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="tang_yuen_har_jasmine@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Jasmine Wong</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH CCE</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
