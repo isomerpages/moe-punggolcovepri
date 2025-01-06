@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 third_nav_title: Our People
 ---
-<h3>2024 Primary 1 Teachers</h3>
+<h3>2025 Primary 1 Teachers</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -167,7 +167,7 @@ third_nav_title: Our People
 </tr>
 </tbody>
 </table>
-<h3>2024 Primary 2 Teachers</h3>
+<h3>2025 Primary 2 Teachers</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -299,7 +299,7 @@ third_nav_title: Our People
 </tr>
 </tbody>
 </table>
-<h3>2024 Primary 3 Teachers</h3>
+<h3>2025 Primary 3 Teachers</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -410,7 +410,7 @@ third_nav_title: Our People
 </tr>
 </tbody>
 </table>
-<h3>2024 Primary 4 Teachers</h3>
+<h3>2025 Primary 4 Teachers</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -512,7 +512,7 @@ third_nav_title: Our People
 </tr>
 </tbody>
 </table>
-<h3>2024 Primary 5 Teachers</h3>
+<h3>2025 Primary 5 Teachers</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -644,7 +644,7 @@ third_nav_title: Our People
 </tr>
 </tbody>
 </table>
-<h3>2024 Primary 6 Teachers</h3>
+<h3>2025 Primary 6 Teachers</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
