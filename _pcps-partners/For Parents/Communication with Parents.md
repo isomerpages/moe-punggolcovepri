@@ -37,37 +37,13 @@ third_nav_title: For Parents
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>25 June 2024</p>
+<p>7 January 2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>All Primary Levels</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/pcps2024185" rel="noopener noreferrer nofollow" target="_blank">2024 Term 3 Letter To Parents</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>21 March 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>All Primary Levels</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/pcps2024t2" rel="noopener noreferrer nofollow" target="_blank">2024 Term 2 Letter to Parents</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4 January 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>All Primary Levels</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/pcps2024010" rel="noopener noreferrer nofollow" target="_blank">2024 Term 1 Letter to Parents</a>
+<p><a href="https://go.gov.sg/pcps2025001t1" rel="noopener noreferrer nofollow" target="_blank">2025 Term 1 Letter to Parents</a>
 </p>
 </td>
 </tr>
@@ -110,56 +86,10 @@ third_nav_title: For Parents
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Primary 6</p>
+<p>Stay tune for more information.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/2024p6curriculumbriefing" rel="noopener noreferrer nofollow" target="_blank">P6 Curriculum Briefing 2024</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Primary 5</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/2024p5curriculumbriefing" rel="noopener noreferrer nofollow" target="_blank">P5 Curriculum Briefing 2024</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Primary 4</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/2024p4curriculumbriefing" rel="noopener noreferrer nofollow" target="_blank">P4 Curriculum Briefing 2024</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Primary 3</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/2024p3curriculumbriefing" rel="noopener noreferrer nofollow" target="_blank">P3 Curriculum Briefing 2024</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Primary 2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/2024p2curiculumbriefing" rel="noopener noreferrer nofollow" target="_blank">P2 Curriculum Briefing 2024</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Primary 1</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/p1startofschool" rel="noopener noreferrer nofollow" target="_blank">P1 Curriculum Briefing 2024</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -198,29 +128,10 @@ third_nav_title: For Parents
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>October 2024</p>
+<p>Stay tune for more information.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/ictconnect022024" rel="noopener noreferrer nofollow" target="_blank">ICT Connect @ Cove Newsletter 2024</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>May 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/cwmay2024" rel="noopener noreferrer nofollow" target="_blank">ICT Connect @ Cove Newsletter 2024</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>June 2023</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://file.go.gov.sg/junenewsletter2023.pdf" rel="noopener noreferrer nofollow" target="_blank">ICT Connect @ Cove Newsletter 2023</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
