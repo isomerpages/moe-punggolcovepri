@@ -1048,3 +1048,135 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
+<h4><u>CCA: ELLDS</u></h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>No</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Teacher</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Level</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Nur Shafiqah (OIC)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P3-P6</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Felicia Nah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P3-P6</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<h4><u>CCA: Modern Dance</u></h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>No</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Teacher</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Level</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Wong Hui Lynn</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P3-P4</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Audrey Lee Wen Zhen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P3-P4</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Lee Xiao Wei (OIC)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-P6</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Tan Sze Huey</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-P6</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
