@@ -26,9 +26,8 @@ and emerging 21st century competencies to be future ready.</p>
 <p>As we mark our 10th Anniversary in 2025, the school is proud to launch
 its refreshed vision together with the learning goals and dispositions,
 which espoused our collective aspirations for our PCPS students. Our new
-school vision is `Every PCPS student, a Curious Lifelong Learner, a Confident
-Leader and a Responsible Innovator’ who possesses the COR3 learning dispositions
-of Curiosity, Open-Mindedness, Reflectiveness, Resilience and Responsibility.</p>
+school vision is `<strong>Every PCPS student, a Curious Lifelong Learner, a Confident Leader and a Responsible Innovator</strong>’
+who possesses the COR3 learning dispositions of <strong>Curiosity, Open-Mindedness, Reflectiveness, Resilience and Responsibility</strong>.</p>
 <p>At the end of 6 years, we aspire to develop in each of our PCPS graduands,</p>
 <p>the Curious Lifelong Learner who is</p>
 <ul data-tight="true" class="tight">
@@ -79,10 +78,8 @@ school and community</p>
 </li>
 </ul>
 <p>To realise our desired student outcomes, the school is guided by its 3
-refreshed Strategic Thrusts to nurture the whole child who is Curious,
-Confident and Responsible; develop a collaborative and competent staff
-who cares and serves with empathy; and foster quality partnerships with
-our parents and partners to enhance student learning experiences.</p>
+refreshed Strategic Thrusts to <strong>nurture the whole child who is Curious, Confident and Responsible; develop a collaborative and competent staff who cares and serves with empathy; and foster quality partnerships with our parents and partners to enhance student learning experiences.</strong>
+</p>
 <p>We look forward to the continued support from our parents, stakeholders
 and partners as we actualise the future of learning in PCPS to equip our
 students with the knowledge, skills, EMC values and COR3 learning dispositions
