@@ -57,7 +57,7 @@ third_nav_title: Our People
 <p>1 Diamond</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: jolene_choy_jo_yin@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Jolene Choy</a>
+<p><a href="mailto: hwan_geok_peng_annie@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Annie Hwan</a>
 </p>
 </td>
 </tr>
@@ -200,15 +200,9 @@ third_nav_title: Our People
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
 <p>2 Coral</p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto: hwan_geok_peng_annie@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Annie Hwan</a>
-</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p><a href="mailto: chew_kim_kee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Chew Kim Kee</a>
 </p>
