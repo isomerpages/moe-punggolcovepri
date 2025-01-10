@@ -85,7 +85,7 @@ third_nav_title: For Parents
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="3" colspan="1">
 <p>Primary 1</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -95,10 +95,13 @@ third_nav_title: For Parents
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p><a href="https://go.gov.sg/p1sirsel" rel="noopener nofollow" target="_blank">P1 Start it Right-Social Emotional Learning</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/startofschool" rel="noopener nofollow" target="_blank">P1 Start of School &amp; Curriculum Briefing Parent Engagement Deck</a>
 </p>
 </td>
 </tr>
@@ -107,8 +110,7 @@ third_nav_title: For Parents
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/startofschool" rel="noopener nofollow" target="_blank">P1 Start of School &amp; Curriculum Briefing Parent Engagement Deck</a>
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>
