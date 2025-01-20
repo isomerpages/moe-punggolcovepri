@@ -273,7 +273,7 @@ third_nav_title: Our People
 <p>2 Sapphire</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: goy_yeong_ee@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Wendy Goy</a>
+<p><a href="mailto: goy_yeong_ee@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Wendy Yong</a>
 </p>
 </td>
 </tr>
