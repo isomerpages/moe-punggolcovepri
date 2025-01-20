@@ -65,9 +65,7 @@ and cyber use, Cyber relationships and Cyber citizenship.
 <div class="isomer-image-wrapper">
 <img style="width:65%" height="auto" width="100%" src="/images/CW3.jpeg">
 </div>
-<p>
-<br>Source:&nbsp;<a href="https://beta.moe.gov.sg/programmes/cyber-wellness/" rel="noopener noreferrer nofollow" target="_blank">https://beta.moe.gov.sg/programmes/cyber-wellness/</a>
-</p>
+<p></p>
 <h4>PCPS Cyber Wellness Themes</h4>
 <p>Mapping the major CW themes to our school’s CW curriculum, our school
 focuses on the following for each level:
