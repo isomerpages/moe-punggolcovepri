@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Co Curricular Activities
 variant: tiptap
 ---
-<h3><u>CCA Teachers 2024</u></h3>
+<h3><u>CCA Teachers</u></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
