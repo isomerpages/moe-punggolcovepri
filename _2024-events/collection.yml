@@ -2,10 +2,10 @@ collections:
   2024-events:
     output: true
     order:
-      - Festive Celebration/Deepavali.md
       - Festive Celebration/.keep
       - Festive Celebration/Chinese New Year.md
       - Festive Celebration/Hari Raya Aidilfitri.md
+      - Festive Celebration/Deepavali.md
       - School Based/.keep
       - School Based/P1 Start of School.md
       - School Based/Awards Day 2023 to 2024.md
