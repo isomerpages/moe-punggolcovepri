@@ -30,7 +30,7 @@ contacts:
       - email: punggolcove_ps@moe.edu.sg
       - other: 'Fax: +65 63857261<br>Website:&nbsp;<a
           href="https://punggolcovepri.moe.edu.sg/about-pcps/contact-us"
-          target="">www.punggolcovepri.moe.edu.sg</a><br>Facebook:&nbsp;<a
+          target="">https://www.punggolcovepri.moe.edu.sg/</a><br>Facebook:&nbsp;<a
           href="https://www.facebook.com/pages/Punggol-Cove-Primary-School/1452277625087945?ref=aymt_homepage_panel"
           target="_blank"
           rel="noopener">https://www.facebook.com/pages/Punggol-Cove-Primary-School</a>'
