@@ -39,6 +39,9 @@ all school events. We may use and publish such photographs and/or video
 recordings in school publications, website, social media channels, and
 other official school communication channels. For clarifications, please
 feel free to contact the school.</p>
-<p>
-<br>
-</p>
+<p></p>
+<h4>5) Canteen Food Menu and Price List</h4>
+<p>You may click <a href="https://go.gov.sg/2025canteenmenu" rel="noopener nofollow" target="_blank">here </a>to
+view our Canteen Food Menu and Price List.</p>
+<h4><br></h4>
+<p></p>

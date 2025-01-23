@@ -37,7 +37,7 @@ third_nav_title: For Parents
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>7 January 2024</p>
+<p>7 January 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>All Primary Levels</p>
@@ -102,6 +102,15 @@ third_nav_title: For Parents
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="https://go.gov.sg/startofschool" rel="noopener nofollow" target="_blank">P1 Start of School &amp; Curriculum Briefing Parent Engagement Deck</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Primary 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/p2y2025sharingslides" rel="noopener nofollow" target="_blank">Primary 2 Form Teacher and Parents Interaction</a>
 </p>
 </td>
 </tr>
