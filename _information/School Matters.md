@@ -41,7 +41,7 @@ other official school communication channels. For clarifications, please
 feel free to contact the school.</p>
 <p></p>
 <h4>5) Canteen Food Menu and Price List</h4>
-<p>You may click <a href="/files/PCPS_2025_Canteen_Menu___Pricing.pdf" rel="noopener noreferrer nofollow" target="_blank">here </a>to
+<p>You may click <a href="https://go.gov.sg/2025canteenmenu" rel="noopener nofollow" target="_blank">here </a>to
 view our Canteen Food Menu and Price List.</p>
 <h4><br></h4>
 <p></p>
