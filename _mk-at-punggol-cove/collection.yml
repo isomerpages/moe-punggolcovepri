@@ -2,6 +2,7 @@ collections:
   mk-at-punggol-cove:
     output: true
     order:
+      - MOE Kindergarten @ PCPS Open House.md
       - Our Vision, Mission & Belief.md
       - Our People/.keep
       - Our People/Staff List and Email Address.md
