@@ -10,7 +10,6 @@ sections:
       background: /images/Isomer_Banner_13.png
   - infopic:
       title: MOE Kindergarten @ Punggol Cove is having our Open House
-      subtitle: Add an image and text
       id: infopic
       description: Our MK Open House falls on Saturday, 15 February 2025. Keen to find
         out what MOE Kindergarten has to offer?  Find out more at the MK Open
