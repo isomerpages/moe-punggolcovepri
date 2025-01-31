@@ -70,8 +70,18 @@ social and emotional changes in their growing years. They learn to build
 healthy and rewarding relationships with others, including those with members
 of the opposite sex. Students are also guided to make wise, informed and
 responsible decisions to keep themselves safe from sexuality-related risks.</p>
+<h4><strong>At Punggol Cove Primary School, the following Sexuality Education lessons will be taught in 2025:</strong></h4>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Y2025_P5_CCE_lesson.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Y2025_P5_CCE_lesson_cont.png">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Y2025_P6_CCE_lesson.png">
+</div>
 <p></p>
 <p></p>
 <p></p>
