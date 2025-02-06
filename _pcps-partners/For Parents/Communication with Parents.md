@@ -116,6 +116,33 @@ third_nav_title: For Parents
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Primary 3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/2025p3slides" rel="noopener nofollow" target="_blank">Primary 3 Curriculum Briefing</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Primary 4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/2025p4slides" rel="noopener nofollow" target="_blank">Primary 4 Form Teacher and Parents Interaction</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Primary 5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/2025p5slides" rel="noopener nofollow" target="_blank">Primary 5 Curriculum Briefing</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
