@@ -147,10 +147,12 @@ third_nav_title: For Parents
 </tbody>
 </table>
 <h3>Leaving School During School Hours</h3>
-<p>Stay tuned for any upcoming information in this space. Thank you.</p>
+<p>You can contact the school during school hours at <strong><u>+65 6385 7339</u></strong>
+</p>
 <p></p>
 <h3>Informing School of Child's Sick Leave</h3>
-<p>Stay tuned for any upcoming information in this space. Thank you.</p>
+<p>You can contact the school during school hours at <strong><u>+65 6385 7339</u></strong>
+</p>
 <p></p>
 <h3>Financial Assistance Scheme</h3>
 <table style="minWidth: 50px">
@@ -197,7 +199,8 @@ third_nav_title: For Parents
 </tbody>
 </table>
 <h3>Replacement of Student Smart Card <br>(Lost or Damaged)</h3>
-<p>Stay tuned for any upcoming information in this space. Thank you.</p>
+<p>Please click <a href="https://www.simplygo.com.sg/lost-concession-card-replacement/" rel="noopener nofollow" target="_blank">here </a>to
+find out more about this information.</p>
 <p></p>
 <h3>School Admission and Transfer</h3>
 <table style="minWidth: 50px">
