@@ -110,7 +110,7 @@ third_nav_title: For Parents
 <p>Primary 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/p2y2025sharingslides" rel="noopener nofollow" target="_blank">Primary 2 Form Teacher and Parents Interaction</a>
+<p><a href="https://go.gov.sg/p2y2025sharingslides" rel="noopener nofollow" target="_blank">P2 Form Teacher and Parents Interaction</a>
 </p>
 </td>
 </tr>
@@ -119,16 +119,22 @@ third_nav_title: For Parents
 <p>Primary 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/2025p3slides" rel="noopener nofollow" target="_blank">Primary 3 Curriculum Briefing</a>
+<p><a href="https://go.gov.sg/2025p3slides" rel="noopener nofollow" target="_blank">P3 Curriculum Briefing</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Primary 4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/2025p4slides" rel="noopener nofollow" target="_blank">P4 Form Teacher and Parents Interaction</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Primary 4</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/2025p4slides" rel="noopener nofollow" target="_blank">Primary 4 Form Teacher and Parents Interaction</a>
+<p><a href="https://go.gov.sg/2025p4sbb" rel="noopener nofollow" target="_blank">P4 Subject-Based Banding Briefing</a>
 </p>
 </td>
 </tr>
@@ -137,7 +143,16 @@ third_nav_title: For Parents
 <p>Primary 5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/2025p5slides" rel="noopener nofollow" target="_blank">Primary 5 Curriculum Briefing</a>
+<p><a href="https://go.gov.sg/2025p5slides" rel="noopener nofollow" target="_blank">P5 Curriculum Briefing</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Primary 6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/2025p6cbb" rel="noopener nofollow" target="_blank">P6 Briefing on PSLE and Sec 1 Posting</a>
 </p>
 </td>
 </tr>
