@@ -263,7 +263,7 @@ information, please refer to MOE website at <a href="https://www.moe.gov.sg/admi
 <p>1)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Apply for an online replacement via this&nbsp;<a href="https://www.transitlink.com.sg/eservice/econcession/app_form1.php?app_type=2" rel="noopener" target="_blank">link</a>
+<p>Apply for an online replacement via this&nbsp;<a href="https://www.simplygo.com.sg/lost-concession-card-replacement/" rel="noopener" target="_blank">link.</a>
 </p>
 </td>
 </tr>
@@ -272,7 +272,7 @@ information, please refer to MOE website at <a href="https://www.moe.gov.sg/admi
 <p>2)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Apply for an immediate replacement at any&nbsp;<a href="https://www.transitlink.com.sg/PSdetail.aspx?ty=art&amp;Id=111" rel="noopener" target="_blank">Concession Card Replacement Office</a>
+<p>Apply for an immediate replacement at any&nbsp;<a href="https://www.simplygo.com.sg/concession-monthly-travel-cards/?tab=pills-CardReplacement-tab" rel="noopener" target="_blank">SimplyGo Ticket Office.</a>
 </p>
 </td>
 </tr>
@@ -281,21 +281,13 @@ information, please refer to MOE website at <a href="https://www.moe.gov.sg/admi
 <p>3)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Download TransitLink Mobile Services app for the full suite of e-Services</p>
+<p>Download <a href="https://www.simplygo.com.sg/simplygo-app/" rel="noopener nofollow" target="_blank">SimplyGo</a> app
+for the full suite of e-Services.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>4)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Get an immediate&nbsp;lost card replacement at the&nbsp;<a href="https://www.transitlink.com.sg/PSdetail.aspx?ty=cat&amp;Id=25" rel="noopener" target="_blank">TransitLink Kiosk</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>5)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>For more details, please refer to Transit Link website under Product and
@@ -304,7 +296,7 @@ Services at <a href="https://www.transitlink.com.sg/PSdetail.aspx?ty=art&amp;Id=
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6)</p>
+<p>5)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>To report loss of card, please call TransitLink Hotline at 1800-CALL ONE
