@@ -290,8 +290,8 @@ for the full suite of e-Services.</p>
 <p>4)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>For more details, please refer to Transit Link website under Product and
-Services at <a href="https://www.transitlink.com.sg/PSdetail.aspx?ty=art&amp;Id=49#10" rel="noopener" target="_blank">https://www.transitlink.com.sg/PSdetail.aspx?ty=art&amp;Id=49#10</a>.</p>
+<p>For more details, please refer to SimplyGo website under Product and Services
+at <a href="https://www.simplygo.com.sg/products-services/" rel="noopener nofollow" target="_blank">https://www.simplygo.com.sg/products-services/</a>.</p>
 </td>
 </tr>
 <tr>
@@ -299,8 +299,9 @@ Services at <a href="https://www.transitlink.com.sg/PSdetail.aspx?ty=art&amp;Id=
 <p>5)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>To report loss of card, please call TransitLink Hotline at 1800-CALL ONE
-(1800-2255 663) and the card will be invalidated within 48 hours.</p>
+<p>To report loss of card, please call SimplyGo Hotline 1800-2255 663 or
++65 6883 5048 (call from overseas) between 8am - 6pm daily (Closed on Public
+Holidays) and the card will be invalidated within 48 hours.</p>
 </td>
 </tr>
 <tr>
