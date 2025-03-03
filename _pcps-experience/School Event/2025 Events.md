@@ -33,10 +33,12 @@ third_nav_title: School Event
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chinese New Year Y2025</p>
+<p><a href="https://flic.kr/s/aHBqjC4eBE" rel="noopener nofollow" target="_blank">Chinese New Year 2025</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P1 Start of School Y2025</p>
+<p><a href="https://flic.kr/s/aHBqjC4f29" rel="noopener nofollow" target="_blank">P1 Start of School Y2025</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>National Day Celebration Y2025</p>
