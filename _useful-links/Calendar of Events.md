@@ -64,7 +64,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>11 May</p>
+<p>1 May</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Public Holiday: Labour Day</p>
