@@ -483,7 +483,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: teng_huang_chuan@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Teng</a>
+<p><a href="mailto: teng_hang_chuan@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Teng</a>
 </p>
 </td>
 </tr>
