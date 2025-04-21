@@ -208,7 +208,7 @@ third_nav_title: Our People
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH CCE (Internal)</p>
+<p>SH CCE</p>
 </td>
 </tr>
 <tr>
