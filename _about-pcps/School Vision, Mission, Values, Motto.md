@@ -33,8 +33,6 @@ for growth.</p>
 online and offline.</p>
 </li>
 </ul>
-<p><strong>&nbsp;</strong>
-</p>
 </td>
 </tr>
 <tr>
@@ -56,8 +54,6 @@ shared goals.</p>
 <p>is courageous in unfamiliar situations and take risks responsibly.</p>
 </li>
 </ul>
-<p><strong>&nbsp;</strong>
-</p>
 </td>
 </tr>
 <tr>
@@ -78,14 +74,21 @@ school and community.</p>
 </ul>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
-<p><strong>&nbsp;</strong>
-</p>
-<h4>Our Mission</h4>
-<p>Nurturing the whole child, growing future leaders.</p>
-<h4>Our Values</h4>
-<p>Empathy, Mindfulness, Care.</p>
-<h4>Our Motto</h4>
-<p>To Serve To Lead.</p>
+<h4>Mission</h4>
+<p>Nurturing the whole child, growing future leaders</p>
+<h4>Values</h4>
+<p>Empathy, Mindfulness, Care</p>
+<h4>Disposition</h4>
+<p>Curiosity, Open-Mindedness, Resilience, Responsibility (COR3)</p>
+<h4>Motto</h4>
+<p>To Serve To Lead</p>
+<h4>Beliefs</h4>
+<p>Every child is a gift, and a gift to the community</p>
 <p></p>
