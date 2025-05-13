@@ -7,7 +7,7 @@ variant: tiptap
 <h3>School Strategic Framework</h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School_Stratergic_Framework.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PCPS_Strategic_Framework.jpg">
 </div>
 <p></p>
 <p>The school strategic framework provides direction for the school in the
