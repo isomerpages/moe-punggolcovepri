@@ -15,14 +15,14 @@ a Responsible Innovator</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>The Curious Lifelong Learner.</p>
+<p>The Curious Lifelong Learner:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>is eager to learn, discover and question to deepen understanding.</p>
 </li>
 <li>
 <p>is reflective and able to improve thoughts, attitudes, behaviours and
-actions</p>
+actions.</p>
 </li>
 <li>
 <p>is resilient in his/her pursuit of goals and sees failures as opportunities
