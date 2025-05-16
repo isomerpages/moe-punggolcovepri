@@ -91,5 +91,5 @@ school and community.</p>
 <h4>Motto</h4>
 <p>To Serve To Lead</p>
 <h4>Beliefs</h4>
-<p>Every child is a gift, is gifted and a gift to the community</p>
+<p>Every child a gift, is gifted and a gift to the community</p>
 <p></p>
