@@ -15,7 +15,7 @@ a Responsible Innovator</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>The Curious Lifelong Learner:</p>
+<p>The Curious Lifelong Learner.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>is eager to learn, discover and question to deepen understanding.</p>
@@ -85,10 +85,11 @@ school and community.</p>
 <p>Nurturing the whole child, growing future leaders</p>
 <h4>Values</h4>
 <p>Empathy, Mindfulness, Care</p>
-<h4>Disposition</h4>
-<p>Curiosity, Open-Mindedness, Resilience, Responsibility (COR3)</p>
+<h4>Dispositions</h4>
+<p>Curiosity, Open-Mindedness, Reflectiveness, Resilience, Responsibility
+(COR3)</p>
 <h4>Motto</h4>
 <p>To Serve To Lead</p>
 <h4>Beliefs</h4>
-<p>Every child is a gift, and a gift to the community</p>
+<p>Every child is a gift, is gifted and a gift to the community</p>
 <p></p>
