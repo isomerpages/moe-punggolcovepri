@@ -22,7 +22,7 @@ a Responsible Innovator</p>
 </li>
 <li>
 <p>is reflective and able to improve thoughts, attitudes, behaviours and
-actions</p>
+actions.</p>
 </li>
 <li>
 <p>is resilient in his/her pursuit of goals and sees failures as opportunities
@@ -85,10 +85,11 @@ school and community.</p>
 <p>Nurturing the whole child, growing future leaders</p>
 <h4>Values</h4>
 <p>Empathy, Mindfulness, Care</p>
-<h4>Disposition</h4>
-<p>Curiosity, Open-Mindedness, Resilience, Responsibility (COR3)</p>
+<h4>Dispositions</h4>
+<p>Curiosity, Open-Mindedness, Reflectiveness, Resilience, Responsibility
+(COR3)</p>
 <h4>Motto</h4>
 <p>To Serve To Lead</p>
 <h4>Beliefs</h4>
-<p>Every child is a gift, and a gift to the community</p>
+<p>Every child a gift, is gifted and a gift to the community</p>
 <p></p>
