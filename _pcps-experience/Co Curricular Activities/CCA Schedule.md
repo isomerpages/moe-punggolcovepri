@@ -5,14 +5,25 @@ description: ""
 third_nav_title: Co Curricular Activities
 variant: tiptap
 ---
-<h3>CCA SCHEDULE</h3>
-<h4><strong>CCA Schdule for Semester 1</strong></h4>
+<h3>CCA SCHEDULE </h3>
+<h4>CCA Schedule for Semester 2</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Tuesday_CCA.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Tuesday_CCA_Sem_2.png">
 </div>
-<h4>*<strong>P3</strong> starts in <strong>Term 2, 25 Mar </strong>onwards</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><u>P6 students</u> will stand down from CCA <strong>after</strong> 10 July
+and resume <strong>on</strong> 16 October</p>
+</li>
+</ul>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Thursday_CCA.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Thursday_CCA_Sem_2.png">
 </div>
-<h4></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><u>P6 students</u> will stand down from CCA <strong>after</strong> 10 July
+and resume <strong>on</strong> 16 October</p>
+</li>
+</ul>
 <p></p>
