@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Co Curricular Activities
 variant: tiptap
 ---
-<h3>CCA SCHEDULE </h3>
+<h3>CCA SCHEDULE</h3>
 <h4>CCA Schedule for Semester 2</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Tuesday_CCA_Sem_2.png">
