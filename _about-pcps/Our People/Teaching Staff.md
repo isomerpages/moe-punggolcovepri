@@ -93,7 +93,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: ding_soo_juan@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Chen Soo Juan</a>
+<p><a href="mailto: tang_mengjia@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Tang Mengjia</a>
 </p>
 </td>
 </tr>
@@ -209,11 +209,17 @@ third_nav_title: Our People
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>2 Diamond</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto: lynn_lee_wen_lin@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Lynn Lee</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="mailto: mohd_hafiz_hamdan@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Hafiz</a>
 </p>
 </td>
 </tr>
@@ -273,13 +279,13 @@ third_nav_title: Our People
 <p>2 Sapphire</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: goy_yeong_ee@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Wendy Yong</a>
+<p><a href="mailto: monica_yeo_may_peng@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Monica Yeo</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: monica_yeo_may_peng@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Monica Yeo</a>
+<p><a href="mailto: Sara_Marie_Lee_Tian@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Sara Maria Lee</a>
 </p>
 </td>
 </tr>
@@ -315,13 +321,13 @@ third_nav_title: Our People
 <p>3 Amber</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: ng_xinying_ada@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Ada Chung</a>
+<p><a href="mailto: hong_siang_huat@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Jason Hong</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: hong_siang_huat@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Jason Hong</a>
+<p><a href="mailto: Dong_Yang@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Dong Yang</a>
 </p>
 </td>
 </tr>
@@ -524,7 +530,7 @@ third_nav_title: Our People
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>5 Amber</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -539,7 +545,13 @@ third_nav_title: Our People
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
+<p><a href="mailto: Muhammad_Raiz_Abdul_Razak@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Raiz</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
 <p>5 Coral</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -550,6 +562,12 @@ third_nav_title: Our People
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="mailto: debbie_huang_kaixin@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Debbie Huang</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="mailto: Rei_Tan_Jia_Rui@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Rei Tan</a>
 </p>
 </td>
 </tr>
@@ -614,17 +632,23 @@ third_nav_title: Our People
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>5 Pearl</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: thilagavathi_kumarasamy@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Thilagavathi</a>
+<p><a href="mailto: thilagavathi_kumarasamy@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Thila</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="mailto: huang_ya-ching@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Huang Ya-Ching</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="mailto: Chin_Xiao_Yun_Pauline@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Pauline Chin</a>
 </p>
 </td>
 </tr>
@@ -665,11 +689,17 @@ third_nav_title: Our People
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>6 Coral</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto: nur_alisa_zanal@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Nur Alisa</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="mailto: fatimah_hashim@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Fatimah Hashim</a>
 </p>
 </td>
 </tr>
