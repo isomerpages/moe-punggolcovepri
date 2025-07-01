@@ -216,10 +216,11 @@ third_nav_title: For Parents
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Stay tune for more information.</p>
+<p>01/2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://go.gov.sg/012025cyberwellness" rel="noopener nofollow" target="_blank">Cyber Wellness Tips For A Balanced Life</a>
+</p>
 </td>
 </tr>
 <tr>
