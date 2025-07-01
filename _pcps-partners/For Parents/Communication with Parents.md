@@ -37,6 +37,30 @@ third_nav_title: For Parents
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>1 July 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>All Primary Levels</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/2025t3lettertoparents" rel="noopener nofollow" target="_blank">2025 Term 3 Letter to Parents</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2 April 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>All Primary Levels</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/2025t2lettertoparents" rel="noopener nofollow" target="_blank">2025 Term 2 Letter to Parents</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>7 January 2025</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -192,10 +216,11 @@ third_nav_title: For Parents
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Stay tune for more information.</p>
+<p>01/2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://go.gov.sg/012025cyberwellness" rel="noopener nofollow" target="_blank">Cyber Wellness Tips For A Balanced Life</a>
+</p>
 </td>
 </tr>
 <tr>
