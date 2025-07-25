@@ -858,7 +858,7 @@ variant: tiptap
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Sheryl Wong</p>
+<p>Ms Candice Tan (OIC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>P3-P6</p>
@@ -869,7 +869,7 @@ variant: tiptap
 <p>2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Candice Tan (OIC)</p>
+<p>Mrs Emily Chew</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>P3-P6</p>
@@ -880,7 +880,7 @@ variant: tiptap
 <p>3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Emily Tang</p>
+<p>Ms Joycelyn Kwok</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>P3-P6</p>
