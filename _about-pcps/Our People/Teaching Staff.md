@@ -587,17 +587,11 @@ third_nav_title: Our People
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
 <p>5 Emerald</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto: norihsani_tavant@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Norihsani Tavant</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="mailto: sim_jia_yun_sheryl@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Sheryl Wong</a>
 </p>
 </td>
 </tr>
