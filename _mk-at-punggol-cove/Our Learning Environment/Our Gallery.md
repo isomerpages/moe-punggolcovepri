@@ -44,10 +44,18 @@ third_nav_title: Our Learning Environment
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Celebrations</strong>
+</p>
+<div class="iframe-wrapper">
+<iframe height="200" width="304" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQFfFhnqbDvl9CXhybycNRbmYDf0rKXydiQJ0NR4RVVaVIC-Hc_sD7_ZW1B2vCAHzjHxV3BFP940iVw/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>K2 Celebrates 2024</strong>
+</p>
+<div class="iframe-wrapper">
+<iframe height="200" width="304" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTYJ5U4K57rAtCnGzno_yp9OoifUIS_V2WDxCyH0zy64Ubw8sGWnkgi8fh9yn549-HynfIXL1NCisG_/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
 </td>
 </tr>
 </tbody>
