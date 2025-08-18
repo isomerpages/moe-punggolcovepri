@@ -665,4 +665,75 @@ find out more about this information.</p>
 </tbody>
 </table>
 <p></p>
+<h1><strong>Physical Education</strong></h1>
+<h3>Home Based Learning @ Physical Education</h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/pehbl5bx" rel="noopener noreferrer nofollow" target="_blank"><u>Five Basic Exercise</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/hbldanceworkout" rel="noopener noreferrer nofollow" target="_blank"><u>Dance Workout</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/hbleyeexercise" rel="noopener noreferrer nofollow" target="_blank"><u>Eye Exercise</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/hblhandeyecoordination" rel="noopener noreferrer nofollow" target="_blank"><u>Hand and Eye Coordination</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/hblrelaxationactivities" rel="noopener noreferrer nofollow" target="_blank"><u>Relaxation Activities</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
