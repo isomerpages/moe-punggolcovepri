@@ -1,10 +1,11 @@
 ---
-title: Home–Based Learning
-permalink: /for-parents/Home-Based-Learning/hbl/
-description: ""
-third_nav_title: For Students
+title: For Students
+permalink: /for-students/
 variant: tiptap
+description: ""
+third_nav_title: Useful Links
 ---
+<h2><strong>Home - Based Learning</strong></h2>
 <p>At Punggol Cove Primary School, we are committed to nurture&nbsp;future-ready
 and responsible learners. We&nbsp;believe in equipping them with the necessary
 skills to leverage on technology to learn better.</p>
@@ -20,7 +21,12 @@ Home-Based Learning (HBL) on both days.</p>
 <p>Please click on the link below to access you child's lesson schedule for
 27 and 28 July.</p>
 <h5>Select your child's level:</h5>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -51,4 +57,5 @@ Home-Based Learning (HBL) on both days.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
