@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Useful Links
 ---
-<h3>Home - Based Learning</h3>
+<h2><strong>Home - Based Learning</strong></h2>
 <p>At Punggol Cove Primary School, we are committed to nurture&nbsp;future-ready
 and responsible learners. We&nbsp;believe in equipping them with the necessary
 skills to leverage on technology to learn better.</p>
