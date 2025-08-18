@@ -1677,19 +1677,93 @@ he/she returns to his/her home country.</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>For disciplinary matters, please refer to the Student’s Handbook</p>
+<p></p>
 </li>
 <li>
 <p>If your child is sick for more than 1 day, please call to inform the General
 Office&nbsp;and submit the medical certificate or letter to the Form Teacher
 when the child is back in school</p>
+<p></p>
 </li>
 <li>
 <p>If the child needs to leave school during curriculum time, parent/guardian
 has&nbsp;to &nbsp;&nbsp;&nbsp; pick&nbsp;the child from the General Office
 personally.</p>
+<p></p>
 </li>
 <li>
 <p>Please call and make&nbsp;appointment&nbsp;to meet class teachers.</p>
 </li>
 </ol>
+<h1><strong>Communication Channel</strong></h1>
+<ol data-tight="true" class="tight">
+<li>
+<p>Pupil’s Handbook</p>
+<p></p>
+</li>
+<li>
+<p>Mass SMS update to parents/guardians</p>
+<p></p>
+</li>
+<li>
+<p>Termly Update Letter</p>
+<p></p>
+</li>
+<li>
+<p>Meet-The-Parents-Session</p>
+<p></p>
+</li>
+<li>
+<p>Email:&nbsp;<a href="mailto:punggolcove_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">punggolcove_ps@moe.edu.sg</a>
+</p>
+<p></p>
+</li>
+<li>
+<p>School website: <a href="http://www.punggolcovepri.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">http://www.punggolcovepri.moe.edu.sg/</a>
+</p>
+</li>
+</ol>
+<h1><strong>Admission Matters</strong></h1>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://staging-lite.d1koxr7t5evsnb.amplifyapp.com/for-parents/admission-matters/#p1-reg" rel="noopener noreferrer nofollow" target="_blank"><u>Primary One Registration</u></a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://staging-lite.d1koxr7t5evsnb.amplifyapp.com/for-parents/admission-matters/#internationalstudents" rel="noopener noreferrer nofollow" target="_blank"><u>International Students</u></a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://staging-lite.d1koxr7t5evsnb.amplifyapp.com/for-parents/admission-matters/#transfer" rel="noopener noreferrer nofollow" target="_blank"><u>Transfer to PCPS</u></a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<h3>Primary 1 Registration</h3>
+<p>For more information on&nbsp;Primary One Registration, please refer to&nbsp;
+<a href="https://staging-lite.d1koxr7t5evsnb.amplifyapp.com/for-parents/admission-matters/#p1-reg" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.moe.gov.sg/primary/p1-registration</u>
+</a>&nbsp;</p>
+<p></p>
+<h3>International Students</h3>
+<p>For more information on International Students Admissions, please refer
+to&nbsp;<a href="https://staging-lite.d1koxr7t5evsnb.amplifyapp.com/for-parents/admission-matters/#p1-reg" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.moe.gov.sg/international-students</u></a>
+</p>
+<p></p>
+<h3>Transfer to PCPS</h3>
+<p>For more information on transfer, please refer to&nbsp;<a href="https://staging-lite.d1koxr7t5evsnb.amplifyapp.com/for-parents/admission-matters/#p1-reg" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.moe.gov.sg/primary/transfers</u></a>
+</p>
+<h3>STUDENT CARE APPLICATION FORM</h3>
+<p>For more information, please click&nbsp;<a href="https://docs.google.com/forms/d/e/1FAIpQLScZg_JQFAU4_G6CXcwZxsJ-WU-i-sGvy1B8Y1ATR7WM1bHwlw/viewform" rel="noopener noreferrer nofollow" target="_blank"><u>here.</u></a>
+</p>
+<p></p>
+<h5></h5>
 <p></p>
