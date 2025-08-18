@@ -5,7 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: Useful Links
 ---
-<h3>For Staff</h3>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
