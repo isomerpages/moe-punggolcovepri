@@ -2,6 +2,7 @@ collections:
   pcps-partners:
     output: true
     order:
+      - Useful Links/For Staff.md
       - Useful Links/.keep
       - Useful Links/For Parents.md
       - Useful Links/For Students.md
