@@ -5,6 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Useful Links
 ---
+<h1><strong>Communication with Parents</strong></h1>
 <h3>Term Letter to Parents</h3>
 <table style="minWidth: 75px">
 <colgroup>
@@ -233,4 +234,5 @@ third_nav_title: Useful Links
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
