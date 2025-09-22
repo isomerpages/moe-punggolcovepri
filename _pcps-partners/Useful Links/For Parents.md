@@ -38,6 +38,18 @@ third_nav_title: Useful Links
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>16 September 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>All Primary Levels</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/pcps2025t4letter" rel="noopener nofollow" target="_blank">2025 Term 4 Letter to Parents</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>1 July 2025</p>
 </td>
 <td rowspan="1" colspan="1">
