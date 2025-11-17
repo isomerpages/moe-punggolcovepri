@@ -843,7 +843,7 @@ find out more about this information.</p>
 </tbody>
 </table>
 <h1><strong>P3 and P4 Higher Mother Tongue</strong></h1>
-<p>Please click <a href="https://go.gov.sg/p3andp4hmtl" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> for
+<p>Please click <a href="https://go.gov.sg/p3p4hmtlupdated" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> for
 more information.</p>
 <h1><strong>Frequently Asked Questions</strong></h1>
 <h4>General Information</h4>
