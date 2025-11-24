@@ -9,21 +9,81 @@ third_nav_title: Student Services Information
 <h4>1) School Bookshop</h4>
 <p>&nbsp;<strong><u>BL Marketing Pte Ltd<br></u></strong>Your child may purchase
 school textbooks and materials from the school bookshop during school hours.</p>
-<p>Tel. No.&nbsp;&nbsp;&nbsp;&nbsp; : 62819274&nbsp;
-<br>E-Mail&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : <a rel="noopener noreferrer nofollow" target="_blank">sales@blmarketing.sg</a>
+<p>Tel. No.&nbsp;&nbsp;&nbsp;&nbsp; : 62848785&nbsp;
+<br>E-Mail&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : <a href="mailto: sales@blmarketing.com.sg" rel="noopener nofollow" target="_blank">sales@blmarketing.com.sg</a>
 </p>
 <p>Opening hours: 9.00 a.m. – 3.00 p.m.
 <br>Lunch Hour: 12.00 p.m. – 1.00 p.m.</p>
 <h4>2) School Bus Service</h4>
 <p><strong><u>SFX Transport Pte Ltd<br></u></strong>For enquiries on the
 school bus service, please contact the school bus coordinators directly.</p>
-<p>Tel No.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : 62820262
-<br>E-Mail&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : &nbsp;<a rel="noopener noreferrer nofollow" target="_blank">punggolcovepri@sfxtransport.com.sg</a>
+<p>Tel No.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : 93630262
+<br>E-Mail&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : <a rel="noopener noreferrer nofollow" target="_blank">punggolcovepri@sfxtransport.com.sg</a>
 </p>
+<p>Parents can download “SFX Schoolbus” app from Apple App Store or Google
+Play Store.</p>
+<p>Parents can download the app's user guide here: <a href="/files/SFX_Parent_App_User_Guide.pdf" rel="noopener nofollow" target="_blank">SFX Parent App User Guide</a>
+</p>
+<p></p>
+<p><strong><u>2026 School Bus Fares</u></strong>
+</p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Distance</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>1-way</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>2-way</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>CCA</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Up to 2km</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$140</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$160</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2.1km – 4km</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$180</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$200</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$8</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <h4>3) School Uniform Supplier</h4>
 <p>&nbsp;<strong><u>Shanghai School Uniforms Pte Ltd<br></u></strong>You
 may purchase the school uniforms as follows.</p>
-<p>1.&nbsp;Online order: <a rel="noopener noreferrer nofollow" target="_blank">https://shop.shanghai-uniforms.com/product-category/punggol-cove-primary/</a>
+<p>1.&nbsp;Online order: <a href="http://www.shanghai-uniforms.sg" rel="noopener noreferrer nofollow" target="_blank">www.shanghai-uniforms.sg</a>
 </p>
 <p>2. Your child may purchase the school attire from the school bookshop
 during school hours.</p>
@@ -61,18 +121,37 @@ day.</p>
 the latest schedule.</p>
 <p>Students who need urgent treatment may contact the following buddy clinics:
 -</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Punggol View Pr Sch Dental Clinic &nbsp;&nbsp;&nbsp;&nbsp; : 8940 9576</p>
-</li>
-<li>
-<p>Waterway Pr Sch Dental Clinic&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-: 8940 9437</p>
-</li>
-<li>
-<p>Valour Pr Sch Dental Clinic &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-: 9113 7654</p>
-<p>&nbsp;</p>
-</li>
-</ul>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Venue</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Contact</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ferngreen Pri Sch Dental Clinic</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8940 2213</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Red Swastika Pri Sch Dental Clinic</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8940 9587</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
