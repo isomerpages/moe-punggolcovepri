@@ -277,9 +277,6 @@ third_nav_title: Useful Links
 <td rowspan="1" colspan="1">
 <p><a href="https://go.gov.sg/booklist2025p1" rel="noopener noreferrer nofollow" target="_blank">P1 (Y2025) Booklist</a>
 </p>
-<p></p>
-<p><a href="https://go.gov.sg/booklist2025p1" rel="noopener noreferrer nofollow" target="_blank">P1 (Y2026) Booklist</a>
-</p>
 </td>
 </tr>
 <tr>
