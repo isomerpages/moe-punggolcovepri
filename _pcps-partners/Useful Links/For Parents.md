@@ -247,7 +247,7 @@ third_nav_title: Useful Links
 </tbody>
 </table>
 <h1><strong>General Information</strong></h1>
-<h3>School Booklist for Year 2025</h3>
+<h3>School Booklist for Year 2026</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -275,7 +275,7 @@ third_nav_title: Useful Links
 <p>Primary 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/booklist2025p1" rel="noopener noreferrer nofollow" target="_blank">P1 (Y2025) Booklist</a>
+<p><a href="/files/2026 Book List/Booklist_2026_PCPS_P1.pdf" rel="noopener nofollow" target="_blank">P1 (Y2026) Booklist</a>
 </p>
 </td>
 </tr>
@@ -284,7 +284,7 @@ third_nav_title: Useful Links
 <p>Primary 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/booklist2025p2" rel="noopener noreferrer nofollow" target="_blank">P2 (Y2025) Booklist</a>
+<p><a href="/files/2026 Book List/Booklist_2026_PCPS_P2.pdf" rel="noopener nofollow" target="_blank">P2 (Y2026) Booklist</a>
 </p>
 </td>
 </tr>
@@ -293,7 +293,7 @@ third_nav_title: Useful Links
 <p>Primary 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/booklist2025p3" rel="noopener noreferrer nofollow" target="_blank">P3 (Y2025) Booklist</a>
+<p><a href="/files/2026 Book List/Booklist_2026_PCPS_P3.pdf" rel="noopener nofollow" target="_blank">P3 (Y2026) Booklist</a>
 </p>
 </td>
 </tr>
@@ -302,7 +302,7 @@ third_nav_title: Useful Links
 <p>Primary 3 (Higher Mother Tongue)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/booklist2025p3hmt" rel="noopener noreferrer nofollow" target="_blank">P3 (Y2025) Higher Mother Tongue Booklist</a>
+<p><a href="/files/2026 Book List/Booklist_2026_PCPS_P3_HMT.pdf" rel="noopener nofollow" target="_blank">P3 (Y2026) Higher Mother Tongue Booklist</a>
 </p>
 </td>
 </tr>
@@ -311,7 +311,7 @@ third_nav_title: Useful Links
 <p>Primary 4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/booklist2025p4" rel="noopener noreferrer nofollow" target="_blank">P4 (Y2025) Booklist</a>
+<p><a href="/files/2026 Book List/Booklist_2026_PCPS_P4.pdf" rel="noopener nofollow" target="_blank">P4 (Y2026) Booklist</a>
 </p>
 </td>
 </tr>
@@ -320,7 +320,7 @@ third_nav_title: Useful Links
 <p>Primary 4 (Higher Mother Tongue)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/booklist2025p4hmt" rel="noopener noreferrer nofollow" target="_blank">P4 (Y2025) Higher Mother Tongue Booklist</a>
+<p><a href="/files/2026 Book List/Booklist_2026_PCPS_P4_HMT.pdf" rel="noopener nofollow" target="_blank">P4 (Y2026) Higher Mother Tongue Booklist</a>
 </p>
 </td>
 </tr>
@@ -329,7 +329,7 @@ third_nav_title: Useful Links
 <p>Primary 5 (Standard)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/booklist2025p5stdmt" rel="noopener noreferrer nofollow" target="_blank">P5 (Y2025) Standard Booklist</a>
+<p><a href="/files/2026 Book List/Booklist_2026_PCPS_P5_STD_MT.pdf" rel="noopener nofollow" target="_blank">P5 (Y2026) Standard Booklist</a>
 </p>
 </td>
 </tr>
@@ -338,7 +338,7 @@ third_nav_title: Useful Links
 <p>Primary 5 (Foundation)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/booklist2025p5fdn" rel="noopener noreferrer nofollow" target="_blank">P5 (Y2025) Foundation Booklist</a>
+<p><a href="/files/2026 Book List/Booklist_2026_PCPS_P5_FDN.pdf" rel="noopener nofollow" target="_blank">P5 (Y2026) Foundation Booklist</a>
 </p>
 </td>
 </tr>
@@ -347,7 +347,7 @@ third_nav_title: Useful Links
 <p>Primary 5 (Higher Mother Tongue)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/booklist2025p5hmt" rel="noopener noreferrer nofollow" target="_blank">P5 (Y2025) Higher Mother Tongue Booklist</a>
+<p><a href="/files/2026 Book List/Booklist_2026_PCPS_P5_HMT.pdf" rel="noopener nofollow" target="_blank">P5 (Y2026) Higher Mother Tongue Booklist</a>
 </p>
 </td>
 </tr>
@@ -356,7 +356,7 @@ third_nav_title: Useful Links
 <p>Primary 6 (Standard)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/booklist2025p6stdmt" rel="noopener noreferrer nofollow" target="_blank">P6 (Y2025) Standard Booklist</a>
+<p><a href="/files/2026 Book List/Booklist_2026_PCPS_P6_STD_MT.pdf" rel="noopener nofollow" target="_blank">P6 (Y2026) Standard Booklist</a>
 </p>
 </td>
 </tr>
@@ -365,7 +365,7 @@ third_nav_title: Useful Links
 <p>Primary 6 (Foundation)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/booklist2025p6fdn" rel="noopener noreferrer nofollow" target="_blank">P6 (Y2025) Foundation Booklist</a>
+<p><a href="/files/2026 Book List/Booklist_2026_PCPS_P6_FDN.pdf" rel="noopener nofollow" target="_blank">P6 (Y2026) Foundation Booklist</a>
 </p>
 </td>
 </tr>
@@ -374,7 +374,7 @@ third_nav_title: Useful Links
 <p>Primary 6 (Higher Mother Tongue)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/booklist2025p6hmt" rel="noopener noreferrer nofollow" target="_blank">P6 (Y2025) Higher Mother Tongue Booklist</a>
+<p><a href="/files/2026 Book List/Booklist_2026_PCPS_P6_HMT.pdf" rel="noopener nofollow" target="_blank">P6 (Y2026) Higher Mother Tongue Booklist</a>
 </p>
 </td>
 </tr>
