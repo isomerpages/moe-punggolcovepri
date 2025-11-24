@@ -83,7 +83,7 @@ Play Store.</p>
 <h4>3) School Uniform Supplier</h4>
 <p>&nbsp;<strong><u>Shanghai School Uniforms Pte Ltd<br></u></strong>You
 may purchase the school uniforms as follows.</p>
-<p>1.&nbsp;Online order: <a href="http://www.shanghai-uniforms.sg" rel="noopener noreferrer nofollow" target="_blank">www.shanghai-uniforms.sg</a>
+<p>1.&nbsp;Online order: <a href="https://www.shanghai-uniforms.sg" rel="noopener noreferrer nofollow" target="_blank">www.shanghai-uniforms.sg</a>
 </p>
 <p>2. Your child may purchase the school attire from the school bookshop
 during school hours.</p>
@@ -129,8 +129,7 @@ the latest schedule.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><strong>Venue</strong>
-</p>
+<p>Buddy Clinics</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Contact</p>
