@@ -229,6 +229,15 @@ third_nav_title: Useful Links
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>02/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/2025cwnessem2" rel="noopener nofollow" target="_blank">Cyber Wellness Tips: How to protect yourself against Phishing</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>01/2025</p>
 </td>
 <td rowspan="1" colspan="1">
