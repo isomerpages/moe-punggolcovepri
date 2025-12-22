@@ -49,34 +49,45 @@ PCPS child holistically to ready them for the future To Serve and To Lead,
 anchored on school values of Care, Empathy and Mindfulness.</p>
 <h4>About the Vice-Principal</h4>
 <div class="isomer-image-wrapper">
-<img style="width:30%" height="auto" width="100%" src="/images/ms%20cai.jpg">
+<img style="width: 30%;" height="auto" width="100%" alt="Mrs Sharon Teo" src="/images/Mrs_Sharon_Teo.jpg">
 </div>
-<p><strong>Ms Cai Xirui</strong>
+<p><strong>Mrs Sharon Teo</strong>
 </p>
-<p>BECE (Hons), PGDE (Sec)</p>
-<p>Ms Cai Xirui was appointed Vice-Principal at Punggol Cove Primary School
-on 15 December 2022. She started out as a teacher in Victoria Junior College
-(VJC) in 2005. Ms Cai served as Subject Head for Project Work from 2008
-to 2011, before holding the post of Head of Department for Project Work
-from 2012 to 2022. During her years at VJC, she taught ‘A’ Level Physics
-and ‘A’ Level Project Work to the students in the junior college section,
-and Physics to students in the Victoria Integrated Programme. She was also
-involved in leading a team of teachers to develop a set of rubrics for
-the evaluation of 21st Century Competencies (21CCs) in the total curriculum.</p>
-<p>During her stint as HOD (PW), Ms Cai and her department guided students
-through their coursework-based ‘A’ Level Project Work Examination using
-the Design Thinking approach. Design Thinking is a human-centred approach
-which places the user at the core of the problem definition, as well as
-the creative thinking process. In a world where problems are increasingly
-complex, being sensitive to human needs, and working collaboratively with
-others, through empathy, mindfulness and care, are essential.</p>
-<p>Ms Cai strongly believes in the need for students to have opportunities
-and guidance to hone their 21CCs. She hopes that through both the academic
-and non-academic programme at PCPS, as well as partnership with parents
-and important stakeholders, students will have experiences which enable
-them to grow holistically. As they develop to become concerned citizens,
-the students can then serve and lead, both themselves as well as their
-communities, with purpose.</p>
+<p>BA (Hons), MEd</p>
+<p>Mrs Sharon pursued her Diploma in Education and Bachelor of Arts (Chinese
+Education) at the National Institute of Education (NIE) from 2001 to 2005
+and completed her Master of Education (Chinese Language) at NTU/NIE in
+2009. She began her teaching career at Zhonghua Primary School, where she
+served in various roles including CIP Coordinator, Subject Head for National
+Education and Social Studies and Head of Department (HOD) for Character
+and Citizenship Education (CCE) from 2005 to 2016. Through these experiences,
+she gained valuable insights into effective teaching, curriculum planning
+and leadership.</p>
+<p>In 2017, Mrs Sharon was seconded to the Ministry of Education (MOE) Headquarters,
+serving in the Media Relations Branch of the Communications and Engagement
+Group. As a Senior Media Relations Officer, she collaborated with schools,
+media partners and internal stakeholders including senior management and
+colleagues across MOE divisions, to enhance communication and engagement
+initiatives.</p>
+<p>Upon completing her secondment in 2019, Mrs Sharon joined Oasis Primary
+School as their Year Head. Between 2019 and 2024, she provided strong pastoral
+leadership to both Middle Primary and Upper Primary levels and supported
+the school’s plans and development. She also double-hatted as HOD for CCE
+and HOD for Discipline during brief coverage periods. In 2025, she shifted
+her portfolio to focus on Partnership and Special Projects, where she continued
+to develop initiatives that strengthened school-community collaborations
+and advance strategic school programmes.</p>
+<p>Over the years, Mrs Sharon’s dedication and contributions have been recognised.
+In 2021, she received the MOE Long Service Award.&nbsp; She also received
+the Outstanding Contribution Award (OCA) for both Individual and Team categories
+in 2021, as well as the OCA (Team) in 2025. She was also conferred the
+MOE Service Excellence Award (MSEA) in 2021 (Silver), 2022 (Gold) and 2025
+(Gold). In 2024, she received the National Day Award (Commendation Medal)
+for her exemplary service to MOE.</p>
+<p>Mrs Sharon sees every learner as teachable, with both the ability and
+innate desire to learn. She also believes that unlocking each learner’s
+unique potential requires a close partnership between educators and parents
+of Punggol Cove Primary School.</p>
 <h4>About the Vice-Principal</h4>
 <div class="isomer-image-wrapper">
 <img style="width:30%" height="auto" width="100%" src="/images/mr_andrew_chong_wenyi.jpg">
