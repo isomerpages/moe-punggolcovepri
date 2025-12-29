@@ -98,6 +98,40 @@ third_nav_title: Useful Links
 </tbody>
 </table>
 <p></p>
+<h3>Orientation Slides</h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Levels</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Slides</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Primary 1 (2026 Cohort)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Orientation Files/P1__2026_Cohort__Orientation_Parents_Engagement_Deck.pdf" rel="noopener nofollow" target="_blank">P1 (2026 Cohort) Orientation Parents Engagement Deck</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <h3>Curriculum Briefings</h3>
 <table style="minWidth: 50px">
 <colgroup>
