@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 third_nav_title: Our People
 ---
-<h3>2025 Primary 1 Teachers</h3>
+<h3>2026 Primary 1 Teachers</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -27,13 +27,13 @@ third_nav_title: Our People
 <p>1 Amber</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: leong_wei_peck@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Leong</a>
+<p><a href="mailto: mardiana_mohamed_yusof@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Mardiana</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: noor_mohamed_ayisha_ruksana@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Ayisha Ruksana</a>
+<p><a href="mailto: tang_dan_li_emily@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Emily Chew</a>
 </p>
 </td>
 </tr>
@@ -42,82 +42,7 @@ third_nav_title: Our People
 <p>1 Coral</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: sharmini_kesevamoorthy@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Sharmini</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="mailto: nur_safikha_abdul_ghapar@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Safikha</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p>1 Diamond</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto: hwan_geok_peng_annie@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Annie Hwan</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="mailto: muliyati_zailani@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Muliyati Zailani</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p>1 Emerald</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto: mailto: foo_tuck_heng@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Nelson Foo</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="mailto: lee_wen_zhen_audrey@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Audrey Lee</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p>1 Jade</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto: chew_min_xuan@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Chew Min Xuan</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="mailto: tang_mengjia@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Tang Mengjia</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p>1 Opal</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto: nur_syazwani_jantan@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Syazwani</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="mailto: chia_boon_yung_agnes@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Agnes Chia</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p>1 Pearl</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto: sivapriya_sivaraj@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Sivapriya</a>
+<p><a href="mailto: sri_devi_subramaniam@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Sri Devi D/O Subramaniam</a>
 </p>
 </td>
 </tr>
@@ -129,10 +54,40 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>1 Ruby</p>
+<p>1 Diamond</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: pow_chen_yang@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Pow Chen Yang</a>
+<p><a href="mailto: monica_yeo_may_peng@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Monica Yeo</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="mailto: lynn_lee_wen_lin@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Lynn Lee</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>1 Emerald</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto: shankari_balakrishnan@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Shankari</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="mailto: norlela_ab_rahaman@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Norlela</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>1 Jade</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto: shermaine_Toh_Li_Min@schools.gov.sg" rel="noopener nofollow" target="_blank">Form Teacher 1 Jade</a>
 </p>
 </td>
 </tr>
@@ -144,16 +99,61 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>1 Sapphire</p>
+<p>1 Opal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: chong_jun_wei@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Chong Jun Wei</a>
+<p><a href="mailto: goy_yeong_ee@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Wendy Yong</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: tan_sze_huey@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Tan Sze Huey</a>
+<p><a href="mailto: nur_safikha_abdul_ghapar@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Nur Safikha Binte Abdul Ghapar</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>1 Pearl</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto: wong_hui_lynn@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Wong Hui Lynn</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="mailto: samillano_vince_pangilinan@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Samillano Vince Pangilinan </a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>1 Ruby</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto: yang_fengxing_linda@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Yang Fengxing Linda</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="mailto: chew_kim_kee@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Chew Kim Kee</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>1 Sapphire</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto: huang_ya-ching@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Huang Ya-Ching </a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="mailto: sara_marie_lee_tian@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Sara Marie Lee Tian En</a>
 </p>
 </td>
 </tr>
@@ -167,7 +167,7 @@ third_nav_title: Our People
 </tr>
 </tbody>
 </table>
-<h3>2025 Primary 2 Teachers</h3>
+<h3>2026 Primary 2 Teachers</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -299,7 +299,7 @@ third_nav_title: Our People
 </tr>
 </tbody>
 </table>
-<h3>2025 Primary 3 Teachers</h3>
+<h3>2026 Primary 3 Teachers</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -410,7 +410,7 @@ third_nav_title: Our People
 </tr>
 </tbody>
 </table>
-<h3>2025 Primary 4 Teachers</h3>
+<h3>2026 Primary 4 Teachers</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -512,7 +512,7 @@ third_nav_title: Our People
 </tr>
 </tbody>
 </table>
-<h3>2025 Primary 5 Teachers</h3>
+<h3>2026 Primary 5 Teachers</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -656,7 +656,7 @@ third_nav_title: Our People
 </tr>
 </tbody>
 </table>
-<h3>2025 Primary 6 Teachers</h3>
+<h3>2026 Primary 6 Teachers</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
