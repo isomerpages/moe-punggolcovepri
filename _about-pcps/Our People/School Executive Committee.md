@@ -105,15 +105,6 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: yong_wei_min_stephanie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Stephanie Yong</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>School Staff Developer</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><a href="mailto: chew_chung_siong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Benjamin Chew</a>
 </p>
 </td>
@@ -123,16 +114,34 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: jeremy_loh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Jeremy Loh</a>
+<p><a href="mailto: Adrian_LIANG@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Adrian Liang</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD CCE</p>
+<p>HOD ICT/MRL</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: fauziah_ramlee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Fauziah Ramlee</a>
+<p><a href="mailto: Muhammad_Khaliq_Mohamed_Saleem@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Muhammad Khaliq S/O Mohd Saleem</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD Student Management</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="mailto: tang_yuen_har_jasmine@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Jasmine Wong</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD CCE (Internal)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="mailto: nor_azilah_abdullah@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Nor Azilah Abdullah</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -141,7 +150,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: yeoh_ghim_boon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Ken Yeoh</a>
+<p><a href="mailto: fauziah_ramlee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Fauziah Ramlee</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -150,7 +159,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: nor_azilah_abdullah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nor Azilah Abdullah</a>
+<p><a href="mailto: yeoh_ghim_boon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Ken Yeoh</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -172,7 +181,7 @@ third_nav_title: Our People
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>LH Mathematics (Internal)</p>
+<p>LH Mathematics</p>
 </td>
 </tr>
 <tr>
@@ -186,29 +195,11 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: Adrian_LIANG@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Adrian Liang</a>
+<p><a href="mailto: hafizzah_bedin@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Hafizzah Bedin</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>LH ICT/MRL</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="mailto: charmaine_lim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Charmaine Lim</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH Student Management</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="mailto: tang_yuen_har_jasmine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Jasmine Wong</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH CCE</p>
+<p>SH Malay</p>
 </td>
 </tr>
 <tr>
@@ -222,19 +213,38 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: hafizzah_bedin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Hafizzah Bedin</a>
+<p><a href="mailto: nah_ya_rui_felicia@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Felicia Nah</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH Malay Language</p>
+<p>SH NE &amp; SS (Internal)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto: jessica_patricia_tan@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Jessica Lum</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Assistant Year Head (P1 &amp; P2) (Internal)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="mailto: Yeo_MUI_ENG@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Lim-Yeo Mui Eng</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Assistant Year Head (P3 &amp; P4) (Internal)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="mailto: lee_xiao_wei@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Lee Xiao Wei</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Assistant Year Head (P5 &amp; P6) (Internal)</p>
 </td>
 </tr>
 </tbody>

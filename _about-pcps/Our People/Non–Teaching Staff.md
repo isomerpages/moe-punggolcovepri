@@ -113,18 +113,10 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Artisah Bte Abd Rahman</p>
+<p>Mdm Artisah</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Operations Support Office</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Khalsom Binte Abd Rahman</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Operations Support Officer</p>
 </td>
 </tr>
 <tr>
@@ -137,7 +129,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Neo</p>
+<p>Mdm Neo Kim Tee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Operations Support Officer</p>
@@ -146,6 +138,14 @@ third_nav_title: Our People
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Mohan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Khalsom</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Operations Support Officer</p>

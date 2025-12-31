@@ -30,15 +30,18 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Haran</p>
+<p>Mr Himan Shameer</p>
 </td>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Desktop Engineer</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Himan Shameer</p>
+<p>Mr Shahreza Ilyas</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Desktop Engineer</p>
 </td>
 </tr>
 <tr>

@@ -42,16 +42,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: mastura_mohamed_hashim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Mastura Binte Mohamed Hashim</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Master Special Educational Needs Officer</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="mailto: nur_hidayati_paimun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nurhidayati</a>
+<p><a href="mailto: nur_hidayati_paimun@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Nurhidayati</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -81,10 +72,12 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto: djashima_habib_mohameed@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Djashima Binte Habib Mohameed</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Special Educational Needs Officer
+<br>(SEN Officer)</p>
 </td>
 </tr>
 </tbody>
