@@ -587,44 +587,32 @@ third_nav_title: Our People
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>5 Amber</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: koh_hui_ling@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Koh Hui Ling</a>
+<p><a href="mailto: onn_ying_hui@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Onn Ying Hui Mark</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: hafizzah_bedin@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Hafizzah Bedin</a>
+<p><a href="mailto: shanthi_marimuthu@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Haider</a>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p><a href="mailto: Muhammad_Raiz_Abdul_Razak@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Raiz</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>5 Coral</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: mohamad_raizal_abdul_rahim@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Mohamad Raizal</a>
+<p><a href="mailto: Nicole_Quek_Jingyi@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Nicole Quek Jingyi</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: debbie_huang_kaixin@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Debbie Huang</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="mailto: Rei_Tan_Jia_Rui@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Rei Tan</a>
+<p><a href="mailto: ting_jian_hong_kelvin@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Kelvin Ting</a>
 </p>
 </td>
 </tr>
@@ -633,22 +621,28 @@ third_nav_title: Our People
 <p>5 Diamond</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: nah_ya_rui_felicia@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Felicia Nah</a>
+<p><a href="mailto: mohamad_raizal_abdul_rahim@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Mohamad Raizal</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: teo_jia_hao@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Teo Jia Hao</a>
+<p><a href="mailto: tan_kiat_fong_joshua@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Tan Kiat Fong Joshua</a>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>5 Emerald</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: norihsani_tavant@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Norihsani Tavant</a>
+<p><a href="mailto: fatimah_hashim@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Fatimah Bte Hashim</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="mailto: mohd_hafiz_hamdan@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Mohammad Hafiz Bin Hamdan</a>
 </p>
 </td>
 </tr>
@@ -657,7 +651,7 @@ third_nav_title: Our People
 <p>5 Jade</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: onn_ying_hui@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Onn Ying Hui Mark</a>
+<p><a href="mailto: nellia_yezmin_shameer@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Nellia Yezmin Shameer</a>
 </p>
 </td>
 </tr>
@@ -672,34 +666,28 @@ third_nav_title: Our People
 <p>5 Opal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: chin_ruey_amanda@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Chin Ruey, Amanda</a>
+<p><a href="mailto: teng_hang_chuan@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Teng Hang Chuan</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: ting_jian_hong_kelvin@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Kelvin Ting</a>
+<p><a href="mailto: chen_xi_f@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Chen Xi</a>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>5 Pearl</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: thilagavathi_kumarasamy@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Thila</a>
+<p><a href="mailto: nur_alisa_zanal@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Nur Alisa</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: huang_ya-ching@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Huang Ya-Ching</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="mailto: Chin_Xiao_Yun_Pauline@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Pauline Chin</a>
+<p><a href="mailto: nur_shafiqah_rosland@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Nur Shafiqah Rosland</a>
 </p>
 </td>
 </tr>
