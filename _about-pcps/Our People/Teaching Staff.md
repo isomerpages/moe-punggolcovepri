@@ -78,7 +78,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: norlela_ab_rahaman@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Norlela</a>
+<p><a href="mailto: huang_ya-ching@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Huang Ya-Ching</a>
 </p>
 </td>
 </tr>
@@ -147,13 +147,13 @@ third_nav_title: Our People
 <p>1 Sapphire</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: huang_ya-ching@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Huang Ya-Ching</a>
+<p><a href="mailto: sara_marie_lee_tian@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Sara Marie Lee Tian En</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: sara_marie_lee_tian@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Sara Marie Lee Tian En</a>
+<p><a href="mailto: norlela_ab_rahaman@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Norlela</a>
 </p>
 </td>
 </tr>
