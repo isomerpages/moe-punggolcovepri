@@ -30,7 +30,9 @@ variant: tiptap
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Shahrin</p>
+<p>Mdm Norlela</p>
+<p>Ms Sivapriya</p>
+<p>Miss Nurul Sabrina</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>P3</p>
@@ -41,7 +43,8 @@ variant: tiptap
 <p>2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Sharifah</p>
+<p>Ms Ding Soo Juan</p>
+<p>Muhd Raiz</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>P4</p>
@@ -52,10 +55,11 @@ variant: tiptap
 <p>3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nur Safikha</p>
+<p>Ms Chen Xi</p>
+<p>Mdm Nur Safikha (OIC)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P4</p>
+<p>P5</p>
 </td>
 </tr>
 <tr>
@@ -63,54 +67,11 @@ variant: tiptap
 <p>4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Manimekalai</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P5</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>5</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Ding Soo Juan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P5</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>6</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Norlela</p>
+<p>Mrs Shahrin</p>
+<p>Mdm Amalina</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>P6</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>7</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Kelvin Ting (OIC)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P6</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
