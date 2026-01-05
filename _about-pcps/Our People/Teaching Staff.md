@@ -87,7 +87,7 @@ third_nav_title: Our People
 <p>1 Jade</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: shermaine_Toh_Li_Min@schools.gov.sg" rel="noopener nofollow" target="_blank">Form Teacher 1 Jade</a>
+<p><a href="mailto: shermaine_Toh_Li_Min@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Shermaine Toh</a>
 </p>
 </td>
 </tr>
