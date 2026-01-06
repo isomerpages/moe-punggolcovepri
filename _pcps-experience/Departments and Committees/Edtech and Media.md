@@ -151,7 +151,7 @@ cyber wellness initiatives through various platforms and peer-led activities.</p
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/EdTech MRL 2026/Responsible_Users_2.jpg">
 </div>
 <p></p>
-<p>For more information about this programme, click this link:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://www.punggolcovepri.moe.edu.sg/pcps-experience/Programme/cyber-wellness/</a>
+<p>For more information about this programme, click this link:&nbsp;<a href="https://www.punggolcovepri.moe.edu.sg/pcps-experience/Programme/cyber-wellness/" rel="noopener nofollow" target="_blank">https://www.punggolcovepri.moe.edu.sg/pcps-experience/Programme/cyber-wellness/</a>
 <br>
 </p>
 <h4>Coding</h4>
