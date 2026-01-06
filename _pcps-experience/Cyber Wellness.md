@@ -16,7 +16,7 @@ users of ICT.</p>
 responsible users of technology and be a positive peer influence, advocating
 for the good of the community online.</p>
 <p>These are the key messages which students will understand:</p>
-<ol data-tight="true" class="tight">
+<ul data-tight="true" class="tight">
 <li>
 <p>Embrace the affordances of technology while maintaining a balanced lifestyle
 between offline and online activities</p>
@@ -28,12 +28,12 @@ presence</p>
 <li>
 <p>Be responsible for personal well-being in cyberspace</p>
 </li>
-</ol>
+</ul>
 <p></p>
 <h4>3 principles of Cyber Wellness</h4>
 <p>These 3 main principles will guide our students’ decision-making and anchor
 their well-being:</p>
-<ol data-tight="true" class="tight">
+<ul data-tight="true" class="tight">
 <li>
 <p>Respect for self and others.</p>
 </li>
@@ -43,7 +43,7 @@ their well-being:</p>
 <li>
 <p>Positive peer influence.</p>
 </li>
-</ol>
+</ul>
 <p></p>
 <h4>PCPS Cyber Wellness</h4>
 <p>The school is committed to helping students navigate the digital world
