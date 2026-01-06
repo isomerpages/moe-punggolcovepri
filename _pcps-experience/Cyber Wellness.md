@@ -4,25 +4,36 @@ permalink: /pcps-experience/Programme/cyber-wellness/
 description: ""
 variant: tiptap
 ---
-<h4>What is Cyber Wellness</h4>
-<p>Cyber Wellness (CW) refers to the positive well-being of internet users.
-<br>
-<br>The focus of CW is to help our students to become responsible digital
-learners by understanding online behaviors and being aware of how to protect
-themselves in the online space.
-<br>
-<br>Students should also be positive peer influence and harness the power
-of technology for the good of the community.</p>
-<h4>MOE’s Cyber Wellness Framework</h4>
+<h3>What is Cyber Wellness</h3>
+<p>Cyber Wellness (CW) in CCE focuses on the well-being of our students as
+they navigate cyberspace. The CW curriculum aims to equip students with
+the knowledge and skills to harness the power of ICT for positive purposes,
+maintain a positive presence in cyberspace and be safe and responsible
+users of ICT.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width:45%" height="auto" width="100%" src="/images/CW1.png">
-</div>
+<h4>Key Messages</h4>
+<p>Through CW education in CCE, students learn to be respectful, safe, and
+responsible users of technology and be a positive peer influence, advocating
+for the good of the community online.</p>
+<p>These are the key messages which students will understand:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Embrace the affordances of technology while maintaining a balanced lifestyle
+between offline and online activities</p>
+</li>
+<li>
+<p>Be a safe and responsible user of technology and maintain a positive online
+presence</p>
+</li>
+<li>
+<p>Be responsible for personal well-being in cyberspace</p>
+</li>
+</ul>
+<p></p>
 <h4>3 principles of Cyber Wellness</h4>
-<p>
-<br>These 3 main principles will guide our students’ decision-making and anchor
+<p>These 3 main principles will guide our students’ decision-making and anchor
 their well-being:</p>
-<ol data-tight="true" class="tight">
+<ul data-tight="true" class="tight">
 <li>
 <p>Respect for self and others.</p>
 </li>
@@ -32,221 +43,210 @@ their well-being:</p>
 <li>
 <p>Positive peer influence.</p>
 </li>
-</ol>
-<p>Through CW lessons, our student will be taught to:</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>Sense – Identify possible online risks and protect themselves.</p>
-</li>
-<li>
-<p>Think – Analyse, evaluate and reflect on a situation based on the CW principles.</p>
-</li>
-<li>
-<p>Act – Take actions to keep safe and be a positive influence online.</p>
-</li>
-</ol>
-<h4>PCPS Cyber Wellness</h4>
-<p>In order to equip students with lifelong social-emotional competencies
-and sound values to become safe and responsible digital learners, our school’s
-CW curriculum ties in closely with the CCE curriculum to bring about a
-holistic CW education.
-<br>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:45%" height="auto" width="100%" src="/images/CW2.jpeg">
-</div>
-<h4>How PCPS Cyber Wellness curriculum aligns with MOE</h4>
-<p>There are 3 major CW themes in the Primary CW curriculum – Cyber identity
-and cyber use, Cyber relationships and Cyber citizenship.
-<br>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/CW3.jpeg">
-</div>
+</ul>
 <p></p>
-<h4>PCPS Cyber Wellness Themes</h4>
-<p>Mapping the major CW themes to our school’s CW curriculum, our school
-focuses on the following for each level:
-<br>
-<br>
-</p>
+<h4>PCPS Cyber Wellness</h4>
+<p>The school is committed to helping students navigate the digital world
+safely and responsibly. Our Cyber Wellness programme teaches students essential
+life skills and values that will serve them well as they grow up in an
+increasingly connected world. Our approach integrates cyber wellness education
+with our CCE lessons, ensuring your child receives comprehensive guidance
+on both digital citizenship and character development.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/CW4.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EdTech MRL 2026/CyberWellness.jpg">
 </div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/CW5.jpeg">
-</div>
-<h4>Baseline ICT Standards</h4>
-<p>Baseline ICT standards are sets of essential soft and technical skills
-students develop over the course of their education to prepare them for
-the future.
-<br>
-<br>Our school’s CW themes are closely aligned to the Baseline ICT Standards
-to meet the learning needs of our students.
-<br>
-<br>Here is an overview of the learning outcomes covered in our CW curriculum.
-<br>
-<br>
-</p>
-<table style="minWidth: 75px">
+<p>There are five major CW topics in the Primary CW curriculum –Cyber Use,
+Cyber Identity, Cyber Relationships, Cyber Citizenship, and Cyber Ethics.
+Mapping these topics to our school’s CW curriculum, our school focuses
+on the following for each level:</p>
+<table style="minWidth: 175px">
 <colgroup>
+<col>
+<col>
+<col>
+<col>
 <col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="6">
+<p><strong>Themes</strong>
+</p>
+</th>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p><strong>Topic</strong>
+<p><strong>Topics</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Learning Outcomes</strong>
+<p><strong>Primary 1</strong>
+</p>
+<p><strong>(Staying safe in the Cyberworld)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Levels</strong>
+<p><strong>Primary 2</strong>
+</p>
+<p><strong>(Staying safe in the Cyberworld)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Primary 3</strong>
+</p>
+<p><strong>(Cyber Bullying)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Primary 4</strong>
+</p>
+<p><strong>(Practising self-control online)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Primary 5</strong>
+</p>
+<p><strong>(Copyright)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Primary 6 (Digital footprints)</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
-<p>Access to Information</p>
+<td rowspan="1" colspan="1">
+<p>Cyber Use</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Demonstrate effective search skills</p>
+<p>√</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P5 - 6</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>√</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>√</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>√</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Practise safe and ethical search</p>
+<p>Cyber Identity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P4 - 6</p>
+<p>√</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>√</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>√</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>√</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>√</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>√</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Information Management</p>
+<p>Cyber Relationships</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Organise digital information (from a wide variety of sources) using appropriate
-data
-<br>management tools and strategies</p>
+<p>√</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P5</p>
+<p>√</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>√</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>√</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>√</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>√</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Inquiry of Information</p>
+<p>Cyber Citizenship</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Determine reliability of information</p>
+<p>√</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P4 - 5</p>
+<p>√</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>√</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>√</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>√</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>√</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Proactive risk evaluation and management</p>
+<p>Cyber Ethics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Adopt a proactive
-<br>stance to maintain online safety</p>
+<p>√</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P1 - 6</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Design</p>
+<p>√</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Apply fundamental understanding of ethical/legal issues surrounding the
-creation and sharing of digital creation</p>
+<p>√</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P5</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p>Participation</p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Manage personal online identity and reputation</p>
+<p>√</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P1, 4, 6</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Demonstrate appreciation for diversity and social cohesion</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P1 - 6</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Basic Operation of Computing Devices</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Operate and navigate in multiple forms of user interface</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P1 - 6</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Basic Operation of Applications/Software</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Use application software, files and folders effectively</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P1 - 6</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>√</p>
 </td>
 </tr>
 </tbody>
 </table>
-<h4>Our Programmes and Initiatives</h4>
-<p>Programmes and initiatives are carefully curated according to CW themes,
-keeping in mind the current affairs in our cyber world.
-<br>1.<strong><em> Class Talks</em></strong>
-<br>In Term 1, each level will go through a Cyber Wellness class talk to have
-a better understanding of the main CW theme of the level.
-<br>2.<strong><em> SLS Lessons in Term 2 and Term 4</em></strong>
-<br>As a follow-up to the class talk, students will recap and be engaged in
+<p></p>
+<h3>Our Programmes and Initiatives</h3>
+<p>Programmes and initiatives are carefully curated according to CW topics,
+keeping in mind the current affairs in our cyber world and emerging technology.</p>
+<h4>1.&nbsp;SLS Lessons in Term 2 and Term 4</h4>
+<p>As a follow-up to the class talk, students will recap and be engaged in
 activities related to the CW theme. This allows students to learn and apply
-their skills in scenario-based questions and Cyber Wellness-related games.
-<br>3.<strong><em> Cyber Wellness Student Ambassadors (CWSAs)</em></strong>
-<br>CWSAs are role models who actively influence their peers to create a safe
+their skills in scenario-based questions and Cyber Wellness-related games.</p>
+<h4>2. Cyber Wellness Student Ambassadors (CWSAs)</h4>
+<p>CWSAs are role models who actively influence their peers to create a safe
 and kind online community. They do this through:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -257,22 +257,66 @@ and kind online community. They do this through:</p>
 </li>
 </ul>
 <p>CWSAs are given opportunities to attend workshops and be part of CW projects
-to create awareness about CW in school.&nbsp;</p>
+to create awareness about CW in school.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/CW6.jpeg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/EdTech MRL 2026/CWSA1.png">
 </div>
-<p><em>Our Cyber Wellness Student Ambassadors 2019 presenting on Personal Data Protection.</em>
-<br>
-<br>4.<strong><em> ICT Connect @ Cove</em></strong>
-<br>To complement the CW curriculum in school, parents can play an important
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/EdTech MRL 2026/CWSA2.jpg">
+</div>
+<p><em>Our Cyber Wellness Student Ambassadors 2023 winning the Silver award for the National Cyber Wellness Advocacy Challenge</em>
+</p>
+<h4>3. Cyber Wellness Week</h4>
+<p>The Cyber Wellness Week is a week-long programme where students participate
+in engaging activities that teach online safety, responsible technology
+use, and healthy screen time habits. Through interactive workshops and
+fun challenges, the school aims to empower our young learners to become
+confident and responsible digital citizens.</p>
+<h4>4. ICT Connect @ Cove</h4>
+<p>To complement the CW curriculum in school, parents can play an important
 role in demonstrating how technology can be used responsibly by guiding
-our students on how to navigate the cyber safe safely.</p>
+our students on how to navigate the cyberworld safely.</p>
 <p>Our newsletters provide useful and bite-sized tips for parents on how
 to support our students in their Cyber Wellness education.</p>
-<p>Get your eyes and mind on our latest newsletter released termly!</p>
-<p>Please click on the <a href="https://www.punggolcovepri.moe.edu.sg/communication-with-parents/" rel="noopener noreferrer nofollow" target="_blank">image</a> below
-to get the newsletter
-<br>
-<br>
+<p>Get your eyes and mind on our latest newsletter released semesterly!</p>
+<p>Please click on the links below to view the newsletters.</p>
+<h4>ICT Connect Newsletters</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Month / Year</strong>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Newsletters</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>02/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/2025cwnessem2" rel="noopener noreferrer nofollow" target="_blank">Cyber Wellness Tips: How to protect yourself against Phishing</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>01/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/012025cyberwellness" rel="noopener noreferrer nofollow" target="_blank">Cyber Wellness Tips For A Balanced Life</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>

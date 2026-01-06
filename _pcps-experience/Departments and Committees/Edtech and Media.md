@@ -9,49 +9,57 @@ variant: tiptap
 <p>ICT as an enabler – Connecting People, Transforming Ideas, Enabling the
 Future</p>
 <h3>Overview</h3>
-<p>EdTech and Media Committee supports the school in the use of New Media
-and ICT to bring about quality teaching and learning for our staff and
-students, with the aim to connect the community, transform ideas, and enable
-the future.</p>
-<p>With an understanding of our students’ and teachers’ readiness in the
-use of New Media and ICT, we work with different departments to customise
-New Media and ICT infused programmes to meet the various learning objectives.
-The design and development of the programmes and lessons are grounded in
-our school values of Mindfulness, Empathy and Care, and guided by MOE’s
-ICT-in-Education Masterplan 4 (MP4) and Baseline ICT Standards.</p>
-<p>Within the supportive ecosystem, there is regular review to ensure the
-alignment of the programmes to MOE ICT Masterplans, Baseline ICT Standards,
-and school initiatives.</p>
-<p>We aim to productively utilize New Media and ICT for our students’ quality
-learning in support of the total curriculum, and to support our students
-to be confident creators.</p>
+<p>The EdTech and Media Committee plays a pivotal role in advancing the strategic
+integration of New Media and Information and Communications Technology
+(ICT) across the school. Our mission is to enhance the quality of teaching
+and learning through purposeful technological adoption, fostering connections
+within our school community, enhancing pedagogical practices, and preparing
+our students for future success.</p>
+<p>Our approach is grounded in a comprehensive understanding of both students'
+and teachers' readiness levels in utilising New Media and ICT tools. Through
+close collaboration with various departments, we design and implement customised
+technology-enhanced programmes that align with specific learning objectives
+whilst remaining firmly rooted in our school values of Mindfulness, Empathy
+and Care. All initiatives are developed in accordance with the MOE EdTech
+Masterplan 2030 and the Digital Literacy and Technological Skills framework,
+ensuring coherence with national educational priorities.</p>
+<p>The committee operates within a robust and supportive ecosystem that emphasizes
+continuous improvement. Regular reviews are conducted to ensure our programmes
+maintain alignment with MOE national initiatives and support broader school
+initiatives. This systematic approach enables us to remain responsive to
+evolving educational needs whilst maintaining high standards of implementation.</p>
+<p>Our overarching goal is to harness New Media and ICT productively in support
+of the total curriculum, creating meaningful learning experiences that
+develop our students into curious lifelong learners, confident leaders,
+and responsible innovators equipped for the demands of an increasingly
+digital world.</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:75%" height="auto" width="100%" src="/images/etnm1-1.png">
 </div>
-<h5>ICT-in-Education Masterplan 4</h5>
-<p>Currently at the fourth Masterplan for ICT in Education (MP4), MOE continues
-to build on the achievements of the first three Masterplans to broaden
-the focus beyond Self-Directed Learning and Collaborative Learning to the
-Total Curriculum. In MP4, ICT is used productively to develop knowledge
-through subject mastery, skills through 21st Century Competencies, and
-attitudes through responsible digital citizenry, following MOE’s direction
-towards student-centric and values-driven education.</p>
-<p>At PCPS, we are constantly guided by the vision of MP4 to nurture “Future-ready
-and Responsible Digital Learners”, with the&nbsp;goal to put “Quality Learning
-in the Hands of Every Learner - Empowered with Technology”.&nbsp;</p>
-<h5>Baseline ICT Standards</h5>
-<p>The Baseline ICT Standards is a set of New Media Literacies with competencies
-to Curate, Create and Connect contents in the digital environment. These
-knowledge, skills and values are taught to students explicitly and implicitly
-through our customized New Media and ICT (New MICT) curriculum.</p>
-<h5>Alignment To School Values</h5>
-<p>With our PCPS vision of “Every student an educated child and contributing
-citizen, ready to serve and lead”, we are mindfully anchored in our school
-values in assessing curriculum needs and design.</p>
-<div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/etnm2.png">
-</div>
-<h5>Purposeful Inculcation Of New Media and ICT Skills</h5>
+<p></p>
+<h3>Key Programmes</h3>
+<h4>New MICT lessons</h4>
+<p>The New Media and ICT (New MICT) curriculum provides structured, explicit
+instruction in baseline EdTech and Media skills for Primary 1 and Primary
+2 students through two dedicated periods per week. The curriculum is carefully
+designed to introduce foundational skills systematically, whilst providing
+students with authentic opportunities to apply their learning through different
+level-based projects. Students are empowered to exercise choice in their
+creative processes, fostering both technical proficiency and independent
+thinking.</p>
+<p>By the end of Primary 2, students will have developed fundamental competencies
+across a range of digital skills and platforms, including touch typing,
+Microsoft PowerPoint, Microsoft Word, and introductory coding. This foundation
+equips students to work and learn more independently and effectively with
+ICT tools throughout their subsequent years of education.</p>
+<p>The competencies acquired during the New MICT lessons serve as essential
+building blocks that enable meaningful technology-enhanced learning across
+the total curriculum. These skills are strategically leveraged in later
+years to support deeper engagement with New Media and ICT-infused learning
+experiences, ensuring that our students develop as confident and digitally
+empowered learners.</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -59,9 +67,9 @@ values in assessing curriculum needs and design.</p>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="2">
+<th rowspan="1" colspan="2">
 <p>New MICT Curriculum</p>
-</td>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -73,10 +81,11 @@ values in assessing curriculum needs and design.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Functional digital literacy</p>
+<p>Account management and navigation</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Touch Typing</p>
+<p>Touch Typing via MS Word</p>
+<p>(About me)</p>
 </td>
 </tr>
 <tr>
@@ -84,7 +93,7 @@ values in assessing curriculum needs and design.</p>
 <p>Touch Typing</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MS Word (About me)</p>
+<p>Coding</p>
 </td>
 </tr>
 <tr>
@@ -93,7 +102,8 @@ values in assessing curriculum needs and design.</p>
 <br>(P1 ALP – Endangered Animal)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Stop-Motion Animation</p>
+<p>Google Docs</p>
+<p>(P2 ALP – Giving advice)</p>
 </td>
 </tr>
 <tr>
@@ -102,136 +112,71 @@ values in assessing curriculum needs and design.</p>
 <br>(Guided Writing Module)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Coding</p>
+<p>Stop-Motion Animation</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Cyber Wellness (via SLS)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Netiquette</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Cyber Addiction</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Cyber Wellness (Staying safe in the Cyber World)</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>For 2 periods a week, New Media and ICT competencies are taught explicitly
-to the Primary 1 and Primary 2 students during New MICT lessons. These
-competencies are purposefully introduced and students are given opportunities
-to apply their learning, and to have choices about what and how to create.</p>
-<p>By the end of Primary 2, PCPS students would have acquired basic competency
-with Touch Typing, Microsoft Powerpoint, Microsoft Word and Coding amongst
-other digital skills/platforms, and be able to work more independently
-and fruitfully with ICT tools. These skills would be capitalized on to
-enable New Media and ICT infused learning throughout their schooling years.&nbsp;</p>
-<h5>Purposeful Tools For Quality Learning</h5>
-<p>With the basic New Media and ICT knowledge and skills that students have
-acquired, teachers are better able to harness the ICT tools to facilitate
-quality and active learning in all subject areas.</p>
-<p>Other New Media and ICT skills are meaningfully integrated into the various
-level ALP and Cyber Wellness programmes, and taught by the teachers as
-follows:</p>
-<table style="minWidth: 125px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Primary 3</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Primary 4</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Primary 5</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Primary 6</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p>New Media and ICT Tools/Platforms</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Videography and Editing</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Digital Animation</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MS Publisher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chrome Music Lab</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="4">
-<p>SLS/Google tools</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Cyber Wellness</strong>
-<br>(via SLS)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Cyber Bullying</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>About the Cyber World</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Copyright</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Handling online content and behaviour</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<h5>Developing responsible users for safe interaction with technology</h5>
+<p>The Cyber Wellness programme at PCPS is designed to cultivate responsible
+digital citizenship by raising awareness and equipping students with the
+knowledge and skills necessary to navigate the online environment safely
+and responsibly. The programme enables students to understand appropriate
+online behaviour and empowers them to take ownership of their well-being
+in cyberspace.</p>
+<p>Cyber Wellness education is delivered through multiple touchpoints to
+ensure comprehensive coverage. Core lessons are conducted during the weekly
+Form Teachers' Guidance Period (FTGP), complemented by the integration
+of cyber wellness themes within the Character and Citizenship Education
+(CCE) curriculum and relevant academic subjects where appropriate. This
+multi-faceted approach ensures that cyber wellness principles are consistently
+reinforced across the curriculum.</p>
+<p>In collaboration with the Student Leadership Committee, the school develops
+and nurtures a dedicated group of Cyber Wellness Ambassadors. These student
+leaders promote a positive cyber culture within the school community, championing
+cyber wellness initiatives through various platforms and peer-led activities.</p>
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EdTech MRL 2026/Responsible_Users_1.jpg">
+</div>
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EdTech MRL 2026/Responsible_Users_2.jpg">
+</div>
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
+<p>For more information about this programme, click this link:&nbsp;<a href="https://www.punggolcovepri.moe.edu.sg/pcps-experience/Programme/cyber-wellness/" rel="noopener nofollow" target="_blank">https://www.punggolcovepri.moe.edu.sg/pcps-experience/Programme/cyber-wellness/</a>
+<br>
+</p>
+<h4>Coding</h4>
+<p>In alignment with IMDA’s Smart Nation 2.0 and MOE’s EdTech Masterplan
+2030, the Code for Fun programme teaches and guides our students to become
+curious, confident and creative users of technology, equipping them with
+essential skillsets for success in a digital future.</p>
+<p>The programme provides foundational exposure across key areas of digital
+literacy, including Computational Thinking, coding through robotics, and
+introduction to emerging technologies. Through hands-on learning experiences,
+students develop problem-solving capabilities and gain practical understanding
+of how technology shapes the world around them.</p>
+<p>At PCPS, Primary 4 and Primary 6 students participate in the Code for
+Fun programme as part of their post-End of Year examinations and post-PSLE
+activities respectively. These enrichment sessions are designed to excite
+students about new opportunities in the digital economy whilst establishing
+a strong foundation in digital skills. Through this structured exposure,
+students are better prepared to engage with increasingly sophisticated
+technology in their future educational journey.</p>
 <p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<h5>Regular Reviews for Purpose and Effectiveness</h5>
-<p>Through regular monitoring,&nbsp;evaluation and reviews, the committee
-constantly identify areas to refine the purposeful practices. At the same
-time, a keen lookout is kept for new ways to support the school in their
-New Media and ICT needs, and to further the incorporation of New Media&nbsp;and
-ICT in support of the total curriculum.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EdTech MRL 2026/Coding_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EdTech MRL 2026/Coding_2.jpg">
+</div>
+<p></p>
