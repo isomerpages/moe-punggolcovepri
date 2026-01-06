@@ -54,7 +54,7 @@ with our CCE lessons, ensuring your child receives comprehensive guidance
 on both digital citizenship and character development.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EdTech MRL 2026/CyberWellness.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/EdTech MRL 2026/CyberWellness.jpg">
 </div>
 <p>There are five major CW topics in the Primary CW curriculum –Cyber Use,
 Cyber Identity, Cyber Relationships, Cyber Citizenship, and Cyber Ethics.
