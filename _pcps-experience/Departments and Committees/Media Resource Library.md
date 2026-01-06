@@ -5,301 +5,74 @@ description: ""
 third_nav_title: Departments and Committees
 variant: tiptap
 ---
-<h4>Committee Mission</h4>
-<p>Nurturing Competent and Happy Readers</p>
-<h4>Key Programmes</h4>
-<p><strong><u>Library Lessons</u></strong>
-</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Primary 1</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Primary 2</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Library Etiquette</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Library Etiquette</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>How to search, borrow and return our books</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>How to search, borrow and return our books</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Parts of a Book</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Type of books</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Learning about local authors</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Library Activities</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Story-telling</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Story-telling</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p><strong><u>Recess and After-school Activities</u></strong>
-</p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Month</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Event</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Activities</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p>March</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Blast off into Space</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1. Thematic board and book display
-<br>2. Crossword puzzle, cuboid activity</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>School Re-open Activity</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1. Display Art, Music related books
-<br>2. Origami
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p>April</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>International Friendship Day</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Human Shaped paper – write, colour for their friend</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Think Green</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1. Thematic board and book display
-<br>2. Crossword puzzle, maze
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p>May</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Books to Movies</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1. Thematic board and book display
-<br>2. Draw your favourite movie character
-<br>3. Guess the book character</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Kindness Week</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1. Play Singa Video
-<br>2. Yellow Daisy, write thank you messages
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>June</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Hari Raya Puasa</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1. Info board and quiz on Hari Raya Puasa
-<br>2. Write a greeting card</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p>July</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Explore Comics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1. Thematic board and book display
-<br>2. Crossword puzzle and quiz
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Racial Harmony Day</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1. Traditional Games in the Library
-<br>2. Message card
-<br>3. Colouring activity</p>
-</td>
-</tr>
-<tr>
-<td rowspan="3" colspan="1">
-<p>August</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Celebrating Teacher’s Day</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1. Thematic board and book display
-<br>2. Crossword and word search puzzles
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>National Day</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Info board and Quiz</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Teacher’s Day</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Write messages on mahjong paper</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p>September</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>C.S.I Singapore</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1. Thematic board and book display
-<br>2. Crossword puzzle and quiz</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Children’s Day</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teachers write messages for their class
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="3" colspan="1">
-<p>October</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Children’s Day</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teachers write messages for their class</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Deepavali</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Info board &amp; Quiz</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Getting Ready for Exam</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Motivational codes for exam</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>November</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>The World of Folklore</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1. Thematic board and book display
-<br>2. Crossword puzzle and quiz</p>
-</td>
-</tr>
-</tbody>
-</table>
+<h3>Committee Mission</h3>
+<p>To nurture lifelong learners and confident communicators by providing
+a welcoming space where every student discovers the joy of reading and
+learning, stays curious, and explores knowledge and ideas through diverse
+media and resources.</p>
+<h3>Key Programmes</h3>
+<h4>Weekly Library lessons</h4>
+<p>Lower primary students will get to go to the school library every week.
+This forms the foundation of our programme, where lower primary students
+have the opportunity to borrow books regularly, learn proper library etiquette,
+and share their reading adventures with classmates. These sessions build
+confidence and create a strong reading culture from their early years.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:55%" height="auto" width="100%" src="/images/MEDIA%20RESOURCE%20LIBRARY%2001.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EdTech MRL 2026/Weekly_Lessons_1.png">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:30%" height="auto" width="100%" src="/images/MEDIA%20RESOURCE%20LIBRARY%2002.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EdTech MRL 2026/Weekly_Lessons_2.png">
 </div>
+<p></p>
+<h4>Thematic Displays</h4>
+<p>The Media Resource Library has periodic updates to the displays and students
+can look forward to different displays, depending on the themes such as
+animals or plants. These dynamic displays spark curiosity and provide natural
+conversation starters that encourage exploration and learning.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:55%" height="auto" width="100%" src="/images/MEDIA%20RESOURCE%20LIBRARY%2003.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EdTech MRL 2026/Thematic_Displays.jpg">
 </div>
+<p></p>
+<h4>English and Mother Tongue Story-telling sessions</h4>
+<p>Primary 1 to 3 students will have opportunities to listen to English and
+Mother Tongue stories as shared by teachers and parent volunteers. These
+sessions celebrate our multicultural heritage whilst teaching important
+values and fostering appreciation for different festivals and traditions.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:55%" height="auto" width="100%" src="/images/MEDIA%20RESOURCE%20LIBRARY%2004.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EdTech MRL 2026/Storytelling_1.png">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:55%" height="auto" width="100%" src="/images/MEDIA%20RESOURCE%20LIBRARY%2005.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EdTech MRL 2026/Storytelling_2.png">
 </div>
+<p></p>
+<h4>Star Readers awards</h4>
+<p>The Star Readers award celebrates our most enthusiastic readers for each
+term, recognising students who have read the most number of books from
+the Media Resource Library. This can be either English or Mother Tongue
+Language books. This motivates students whilst acknowledging their reading
+achievements.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:55%" height="auto" width="100%" src="/images/MEDIA%20RESOURCE%20LIBRARY%2006.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EdTech MRL 2026/Star_Readers.png">
+</div>
+<p></p>
+<h4>MRL Week and Character Day</h4>
+<p>Started in 2025, the Media Resource Library (MRL) Week and Character Day
+is a week-long programme that promotes healthy screen time habits whilst
+encouraging reading as an engaging alternative. The week then culminates
+in our beloved Character Day, where students dress as their favourite literary
+characters, bringing stories to life throughout our school.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EdTech MRL 2026/MRL_Week_1.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EdTech MRL 2026/MRL_Week_2.jpg">
 </div>
 <p></p>
