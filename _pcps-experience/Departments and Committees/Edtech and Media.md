@@ -142,194 +142,41 @@ and nurtures a dedicated group of Cyber Wellness Ambassadors. These student
 leaders promote a positive cyber culture within the school community, championing
 cyber wellness initiatives through various platforms and peer-led activities.</p>
 <p></p>
-<h5>Alignment To School Values</h5>
-<p>With our PCPS vision of “Every student an educated child and contributing
-citizen, ready to serve and lead”, we are mindfully anchored in our school
-values in assessing curriculum needs and design.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/etnm2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EdTech MRL 2026/Responsible_Users_1.jpg">
 </div>
-<h5>Purposeful Inculcation Of New Media and ICT Skills</h5>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="2">
-<p>New MICT Curriculum</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Primary 1</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Primary 2</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Functional digital literacy</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Touch Typing</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Touch Typing</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MS Word (About me)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>MS PowerPoint
-<br>(P1 ALP – Endangered Animal)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Stop-Motion Animation</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>MS PowerPoint
-<br>(Guided Writing Module)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Coding</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>Cyber Wellness (via SLS)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Netiquette</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Cyber Addiction</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EdTech MRL 2026/Responsible_Users_2.jpg">
+</div>
 <p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>For 2 periods a week, New Media and ICT competencies are taught explicitly
-to the Primary 1 and Primary 2 students during New MICT lessons. These
-competencies are purposefully introduced and students are given opportunities
-to apply their learning, and to have choices about what and how to create.</p>
-<p>By the end of Primary 2, PCPS students would have acquired basic competency
-with Touch Typing, Microsoft Powerpoint, Microsoft Word and Coding amongst
-other digital skills/platforms, and be able to work more independently
-and fruitfully with ICT tools. These skills would be capitalized on to
-enable New Media and ICT infused learning throughout their schooling years.&nbsp;</p>
-<h5>Purposeful Tools For Quality Learning</h5>
-<p>With the basic New Media and ICT knowledge and skills that students have
-acquired, teachers are better able to harness the ICT tools to facilitate
-quality and active learning in all subject areas.</p>
-<p>Other New Media and ICT skills are meaningfully integrated into the various
-level ALP and Cyber Wellness programmes, and taught by the teachers as
-follows:</p>
-<table style="minWidth: 125px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
+<p>For more information about this programme, click this link:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://www.punggolcovepri.moe.edu.sg/pcps-experience/Programme/cyber-wellness/</a>
+<br>
+</p>
+<h4>Coding</h4>
+<p>In alignment with IMDA’s Smart Nation 2.0 and MOE’s EdTech Masterplan
+2030, the Code for Fun programme teaches and guides our students to become
+curious, confident and creative users of technology, equipping them with
+essential skillsets for success in a digital future.</p>
+<p>The programme provides foundational exposure across key areas of digital
+literacy, including Computational Thinking, coding through robotics, and
+introduction to emerging technologies. Through hands-on learning experiences,
+students develop problem-solving capabilities and gain practical understanding
+of how technology shapes the world around them.</p>
+<p>At PCPS, Primary 4 and Primary 6 students participate in the Code for
+Fun programme as part of their post-End of Year examinations and post-PSLE
+activities respectively. These enrichment sessions are designed to excite
+students about new opportunities in the digital economy whilst establishing
+a strong foundation in digital skills. Through this structured exposure,
+students are better prepared to engage with increasingly sophisticated
+technology in their future educational journey.</p>
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Primary 3</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Primary 4</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Primary 5</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Primary 6</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p>New Media and ICT Tools/Platforms</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Videography and Editing</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Digital Animation</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MS Publisher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chrome Music Lab</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="4">
-<p>SLS/Google tools</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Cyber Wellness</strong>
-<br>(via SLS)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Cyber Bullying</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>About the Cyber World</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Copyright</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Handling online content and behaviour</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EdTech MRL 2026/Coding_1.jpg">
+</div>
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EdTech MRL 2026/Coding_2.jpg">
+</div>
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<h5>Regular Reviews for Purpose and Effectiveness</h5>
-<p>Through regular monitoring,&nbsp;evaluation and reviews, the committee
-constantly identify areas to refine the purposeful practices. At the same
-time, a keen lookout is kept for new ways to support the school in their
-New Media and ICT needs, and to further the incorporation of New Media&nbsp;and
-ICT in support of the total curriculum.</p>
