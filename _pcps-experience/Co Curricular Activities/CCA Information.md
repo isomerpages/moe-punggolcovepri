@@ -292,9 +292,8 @@ variant: tiptap
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Lynn Lee (OIC)</p>
+<p>Mrs Monica Yeo</p>
 <p>Mr Gan Zhan Yi</p>
-<p>Miss Farisha Bte Fadzil</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>P4</p>
@@ -305,8 +304,9 @@ variant: tiptap
 <p>2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Monica Yeo</p>
-<p>Dr Liu Mianjin</p>
+<p>Mdm Lynn Lee (OIC)</p>
+<p>Ms Sri Devi</p>
+<p>Miss Farisha Bte Fadzil</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>P5</p>
@@ -318,7 +318,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Teo Jia Hao</p>
-<p>Ms Sri Devi</p>
+<p>Dr Liu Mianjin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>P6</p>
@@ -363,6 +363,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Nellia Shameer</p>
+<p>Mrs Wendy Yong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>P4</p>
@@ -430,7 +431,7 @@ variant: tiptap
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Chong Jun Wei</p>
+<p>Mr M Prakash</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>P4</p>
@@ -453,7 +454,8 @@ variant: tiptap
 <p>3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr M Prakash</p>
+<p>Mr Chong Jun Wei</p>
+<p>Mr Raiyan Matiin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>P6</p>
@@ -491,6 +493,7 @@ variant: tiptap
 <p>Mr Vince Samillano</p>
 <p>Mdm Luo Qian</p>
 <p>Mrs Lim-Yeo Mui Eng</p>
+<p>Mrs Haider</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>P4-P6</p>
@@ -766,6 +769,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mdm Wong Hui Lynn</p>
 <p>Ms Audrey Lee Wen Zhen</p>
+<p>Miss Eileen Tang Si Ting</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>P3-P4</p>
