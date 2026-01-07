@@ -11,12 +11,12 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_P3_2026.png">
 </div>
 <p></p>
-<h4>Primary 4 - Term 1 and 2</h4>
+<h4>Primary 4 to 6 - Term 1 and 2</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_P4_T1_2_2026.png">
 </div>
 <p></p>
-<h4>Primary 4 - Term 3 and 4</h4>
+<h4>Primary 4 to 6 - Term 3 and 4</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_P4_T3_4_2026.png">
 </div>
