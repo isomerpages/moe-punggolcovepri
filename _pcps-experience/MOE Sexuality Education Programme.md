@@ -33,15 +33,15 @@ and</p>
 <p>(d) Abstinence before marriage is the best protection against STIs/HIV
 and unintended pregnancies. Casual sex can harm and hurt you and your loved
 ones.</p>
-<p>You may click here, <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-sexuality-education</a>,
+<p>You may click here, <strong><a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-sexuality-education</a></strong>,
 for more information on MOE Sexuality Education.</p>
 <h4><strong>OVERVIEW OF PUNGGOL COVE PRIMARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2026</strong></h4>
 <p>4. Sexuality Education is delivered in a holistic manner through the school
 curriculum. The content for Sexuality Education is grouped into five main
 themes: Human Development, Interpersonal Relationships, Sexual Health,
-Sexual Behaviour, and, Culture, Society and Law. You may click here,
-<a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-sexuality-education-scope</a>, for more information
-on the scope of Sexuality Education in the school curriculum.</p>
+Sexual Behaviour, and, Culture, Society and Law. You may click here, <strong><a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-sexuality-education-scope</a></strong>,
+for more information on the scope of Sexuality Education in the school
+curriculum.</p>
 <p>5. The subjects that incorporate topics on sexuality include:</p>
 <p>a. Science</p>
 <p>b. Character and Citizenship Education (CCE)</p>
@@ -67,5 +67,24 @@ decisions to keep themselves safe from sexuality-related risks.</p>
 <p><strong>At Punggol Cove Primary School, the following Sexuality Education lessons will be taught in 2026:</strong>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SED_P5.png">
+</div>
 <p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SED_P6.png">
+</div>
+<p><strong>Information for Parents</strong>
+</p>
+<p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their
+children out of Sexuality Education lessons, and/or supplementary Sexuality
+Education programmes by MOE-approved external providers.</p>
+<p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to
+opt their children out of the Sexuality Education lessons need to complete
+an opt-out form. This form will be communicated to parents at the start
+of the year and is also available here, <strong><a href="https://go.gov.sg/sedpcps2026" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/sedpcps2026</a></strong>.
+The completed opt-out form is to be submitted by <strong><u>06/02/2026</u></strong>.</p>
+<p>10.&nbsp;&nbsp;&nbsp;&nbsp; Parents may contact your child’s <strong>Form Teacher</strong> or <strong>Mrs. Jasmine Wong</strong>,
+HOD/CCE(Covering), at <strong>63857339 </strong>or email the school at&nbsp;<strong><a rel="noopener noreferrer nofollow" target="_blank">punggolcove_ps@moe.edu.sg</a></strong> for
+discussion or to seek clarification about the school’s Sexuality Education
+programme.</p>
