@@ -107,6 +107,15 @@ third_nav_title: Useful Links
 <p>Curriculum Briefings</p>
 </th>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><em>Stay tuned for updates.</em></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
@@ -647,103 +656,6 @@ find out more about this information.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://go.gov.sg/hblrelaxationactivities" rel="noopener noreferrer nofollow" target="_blank"><u>Relaxation Activities</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<h1><strong>English Spelling List</strong></h1>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Primary 1</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://staging-lite.d1koxr7t5evsnb.amplifyapp.com/english-spelling-test/p1/" rel="noopener noreferrer nofollow" target=""><u>English Language Spelling List</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Primary 2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://staging-lite.d1koxr7t5evsnb.amplifyapp.com/english-spelling-test/p2/" rel="noopener noreferrer nofollow" target=""><u>English Language Spelling List</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Primary 3</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://staging-lite.d1koxr7t5evsnb.amplifyapp.com/english-spelling-test/p3/" rel="noopener noreferrer nofollow" target=""><u>English Language Spelling List</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Primary 4</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://staging-lite.d1koxr7t5evsnb.amplifyapp.com/english-spelling-test/p4/" rel="noopener noreferrer nofollow" target=""><u>English Language Spelling List</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Primary 5 (Standard)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://staging-lite.d1koxr7t5evsnb.amplifyapp.com/english-spelling-test/p5-standard-english/" rel="noopener noreferrer nofollow" target=""><u>English Language Spelling List</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Primary 5 (Foundation)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://staging-lite.d1koxr7t5evsnb.amplifyapp.com/english-spelling-test/p5-foundation-english/" rel="noopener noreferrer nofollow" target=""><u>Foundation English Spelling List</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Primary 6 (Standard)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://staging-lite.d1koxr7t5evsnb.amplifyapp.com/english-spelling-test/p6/" rel="noopener noreferrer nofollow" target=""><u>English Language Spelling List</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Primary 6 (Foundation)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://staging-lite.d1koxr7t5evsnb.amplifyapp.com/english-spelling-test/p6-foundation-english/" rel="noopener noreferrer nofollow" target=""><u>Foundation English Spelling List</u></a>
 </p>
 </td>
 </tr>
