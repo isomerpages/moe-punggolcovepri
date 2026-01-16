@@ -210,8 +210,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: nadiah_mohamed_mustapha@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Nadiah Bte Mohd Mustapha</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
