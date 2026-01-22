@@ -109,10 +109,13 @@ third_nav_title: Useful Links
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><em>Stay tuned for updates.</em></strong>
-</p>
+<p>Primary 5</p>
 </td>
 <td rowspan="1" colspan="1">
+<p><a href="/files/2026 Curriculum Briefing/2026_P5_Curriculum_Briefing.pdf" rel="noopener nofollow" target="_blank">2026 P5 Curriculum Briefing</a>
+<br><a href="/files/2026 Curriculum Briefing/2026_P5_Cohort_Camp.pdf" rel="noopener nofollow" target="_blank">2026 P5 Cohort Camp</a>
+<br><a href="/files/2026 Curriculum Briefing/2026_P5_Overseas_Learning_Journey.pdf" rel="noopener nofollow" target="_blank">2026 P5 Overseas Learning Journey</a>
+</p>
 <p></p>
 </td>
 </tr>
