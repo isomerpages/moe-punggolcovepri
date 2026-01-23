@@ -51,7 +51,7 @@ story better.</p>
 </div>
 <p><em>Dramatising the story, ‘A Butterfly is Born’.</em>
 </p>
-<h4><u>Literacy Stations</u> </h4>
+<h4><u>Literacy Stations</u></h4>
 <p>The language skills learnt in both SBA and MLEA are reinforced in Literacy
 Stations. Activities are planned and differentiated for the students. Students
 have the opportunity to re-learn, revisit or extend their learning at their
@@ -149,7 +149,7 @@ children are exposed to a series of speaking activities.</p>
 </tr>
 </tbody>
 </table>
-<h4>3. English Fiesta</h4>
+<h3>3. English Fiesta</h3>
 <p>The annual English Fiesta is held with the aim of creating opportunities
 for our students to learn and celebrate the English language in various
 forms.</p>
@@ -161,7 +161,7 @@ while increasing learner motivation.</p>
 <div class="isomer-image-wrapper">
 <img style="width:75%" height="auto" width="100%" src="/images/eng5.png">
 </div>
-<h4>4.&nbsp;Support Programmes</h4>
+<h3>4.&nbsp;Support Programmes</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Learning Support Programme (LSP)</strong>
@@ -193,13 +193,33 @@ using a remediation curriculum designed by MOE Reading Specialists.&nbsp;</p>
 difficulties in reading the English language. The programme exposes students
 to a range of coping strategies for reading comprehension which enable
 them to better manage their learning in the regular classroom.&nbsp;</p>
-<h4>5.&nbsp;Applied Learning Programme (ALP) – English language</h4>
-<p><strong>Applied Learning Programme (ALP) – English language &amp; ICT collaboration</strong>
-</p>
+<h3>5.&nbsp;Applied Learning Programme (ALP) – English language</h3>
+<h4><strong>Applied Learning Programme (ALP) – English language &amp; ICT collaboration</strong></h4>
 <p><em>C<sup>3 </sup></em>- Confident Communicators and Collaborators</p>
-<p></p>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English Department 2026/ELD_7.jpg">
+</div>
+<p>At Punggol Cove Primary School, we envision every student to be a Curious
+Lifelong Learner, a Confident Leader and a Responsible Innovator, ready
+to serve and lead. The Applied Learning Programme (ALP)- C^3- Confident
+Communicators and Collaborators- empowers students to apply their learning
+from English and New Media &amp; ICT classrooms in meaningful service to
+the school and wider community.</p>
+<p>Through real-world problem-solving, the programme nurtures curious lifelong
+learners, confident leaders, and responsible individuals. It develops critical
+thinking, collaboration and effective communication through writing and
+oracy, while strengthening students’ understanding of global and societal
+issues.</p>
+<p>Advocacy-based learning activities are thoughtfully designed across three
+learner blocks—lower primary, middle primary, and upper primary—and are
+categorised into direct service, indirect service, and advocacy.</p>
+<p>At the lower-primary level, programmes are designed with elements of problem-based
+learning to cultivate empathy and lay the foundation for collaborative
+problem-solving.</p>
+<p>As students progress to the middle and upper-primary levels, Design Thinking
+(DT) is introduced to guide them in developing innovative and purposeful
+solutions, empowering them to express ideas clearly and inspire positive
+change in authentic, meaningful contexts.</p>
 <p>For more information about this programme, click this link:&nbsp;<a href="/pcps-experience/Programme/alp/" rel="noopener noreferrer nofollow" target="_blank">https://punggolcovepri.moe.edu.sg/pcps-experience/Programme/alp</a>
 </p>
 <p></p>
