@@ -6,8 +6,7 @@ variant: tiptap
 third_nav_title: Departments and Committees
 ---
 <h3>Department Mission</h3>
-<p>To foster a passionate, artful and collaborative experience in learning
-and appreciating the English language.</p>
+<p>Nurturing confident communicators and collaborators.</p>
 <h3>Key Programmes</h3>
 <h5>STELLAR (MOE, Singapore)</h5>
 <p>STELLAR stands for “Strategies for English Language Learning and Reading”.</p>
@@ -26,10 +25,10 @@ are then taught language items, structures and skills explicitly, including
 concepts of print, phonics and grammar.</p>
 <p><u>Modified Language Experience Approach (MLEA)</u>
 </p>
-<p>Students are provided experiences based on text they have read in the
-classroom. These experiences come in the form of art and craft, drama or
-other novel activities.&nbsp;
-<br>Bubble Trouble!</p>
+<p>Students engage in activities inspired by the STELLAR books they read
+in class. These experiences include art and craft, drama, and other engaging
+activities.</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:75%" height="auto" width="100%" src="/images/eng2.png">
 </div>
