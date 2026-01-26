@@ -133,15 +133,15 @@ in the form of class writing and e-posters; thus building on each other’s
 repertoire of knowledge.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/ALP 2026/P1_ALP_1.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/ALP 2026/P1_ALP_1.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/ALP 2026/P1_ALP_2.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/ALP 2026/P1_ALP_2.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP 2026/P1_ALP_3.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/ALP 2026/P1_ALP_3.jpg">
 </div>
 <h4>Primary 2</h4>
 <p>With a focus on building empathy and learning through reflection, the
@@ -175,7 +175,7 @@ ranging from cyber identity and relationships to digital footprint and
 cyber citizenship.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP 2026/P3_ALP_1.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/ALP 2026/P3_ALP_1.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -192,19 +192,19 @@ Google Slides to inspire a love for reading. They then visit MK@PC to share
 their completed digital story with the preschoolers.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP 2026/P4_ALP_1.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/ALP 2026/P4_ALP_1.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP 2026/P4_ALP_2.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/ALP 2026/P4_ALP_2.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP 2026/P4_ALP_3.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/ALP 2026/P4_ALP_3.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP 2026/P4_ALP_4.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/ALP 2026/P4_ALP_4.png">
 </div>
 <h4>Primary 5</h4>
 <p>The Primary 5 ALP is anchored in the Design Thinking process and carried
