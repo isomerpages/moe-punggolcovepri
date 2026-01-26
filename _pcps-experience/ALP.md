@@ -133,11 +133,11 @@ in the form of class writing and e-posters; thus building on each other’s
 repertoire of knowledge.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP 2026/P1_ALP_1.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/ALP 2026/P1_ALP_1.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP 2026/P1_ALP_2.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/ALP 2026/P1_ALP_2.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
