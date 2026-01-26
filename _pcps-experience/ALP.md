@@ -5,18 +5,32 @@ description: ""
 variant: tiptap
 ---
 <h3>Applied Learning Programme (ALP) – English language &amp; ICT collaboration</h3>
-<h4>Holistic English Literacy Programme (HELP)</h4>
-<ul>
-<li>
-<p>This problem-based learning programme was initiated so as to empower students
-to use their learning from the English and New Media &amp; ICT classroom
-in service to the school and community.
-<br>The service learning activities are represented in different forms amongst
-the three learner blocks: lower primary, middle primary and upper primary.
-The activities are further categorised into direct service, indirect service,
-and advocacy.
-<br>
-<br>Some examples of activities conducted in this programme are listed in
+<h4><em>C<sup>3</sup></em> - Confident Communicators and Collaborators</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English Department 2026/ELD_7.jpg">
+</div>
+<p>At Punggol Cove Primary School, we envision every student to be a Curious
+Lifelong Learner, a Confident Leader and a Responsible Innovator, ready
+to serve and lead. The Applied Learning Programme (ALP)- C^3- Confident
+Communicators and Collaborators- empowers students to apply their learning
+from English and New Media &amp; ICT classrooms in meaningful service to
+the school and wider community.</p>
+<p>Through real-world problem-solving, the programme nurtures curious lifelong
+learners, confident leaders, and responsible individuals. It develops critical
+thinking, collaboration and effective communication through writing and
+oracy, while strengthening students’ understanding of global and societal
+issues.</p>
+<p>Advocacy-based learning activities are thoughtfully designed across three
+learner blocks—lower primary, middle primary, and upper primary—and are
+categorised into direct service, indirect service, and advocacy. At the
+lower-primary level, programmes are designed with elements of problem-based
+learning to cultivate empathy and lay the foundation for collaborative
+problem-solving.</p>
+<p>As students progress to the middle and upper-primary levels, Design Thinking
+(DT) is introduced to guide them in developing innovative and purposeful
+solutions, empowering them to express ideas clearly and inspire positive
+change in authentic, meaningful contexts.</p>
+<p>Some examples of activities conducted in this programme are listed in
 the table below:</p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -55,7 +69,7 @@ the table below:</p>
 <p><u>Primary 1:</u>
 <br>
 <br>Learning, documenting animal conservation efforts &amp; sharing their
-findings with peers. (Direct Service)
+findings with peers.
 <br>
 <br><em>Medium: MS Power point</em>
 </p>
@@ -63,19 +77,20 @@ findings with peers. (Direct Service)
 <td rowspan="1" colspan="1">
 <p><u>Primary 3:</u>
 <br>
-<br>Using videography as a tool to educate the school population and beyond
-on cyber safety issues. (Direct Service)
+<br>Using podcasting as a tool to educate their peers on cyber safety issues.
 <br>
-<br><em>Medium: Videography</em>
+<br><em>Medium: Podcasting</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><u>Primary 5:</u>
 <br>
-<br>Applying the elements of journalistic writing in creating a class newspaper
-on addressing social issues and themes such as inclusive society. (Advocacy)
+<br>Applying design thinking to develop interactive games for the elderly,
+while documenting the learning journey through multi-modal platforms and
+producing a mini documentary to explore themes of empathy and social responsibility
+through research and purposeful writing.
 <br>
-<br><em>Medium: MS Publisher</em>
+<br><em>Medium: MS Canva</em>
 </p>
 </td>
 </tr>
@@ -84,37 +99,19 @@ on addressing social issues and themes such as inclusive society. (Advocacy)
 <p><u>Primary 2:</u>
 <br>
 <br>Identifying the needs of incoming primary 1 students and working on solutions
-to ease this transition. (Direct Service)
+to ease this transition.
 <br>
-<br><em>Medium: MS Power point</em>
+<br><em>Medium: MS Power point; MS Word</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><u>Primary 4:</u>
 <br>
-<br>Creating digital stories for younger schoolmates to improve readership(Direct
-Service)
+<br>Creating digital stories for MOE Kindergarten students to teach them values.
 <br>
 <br>
-<br><em>Medium: Animaker</em>
+<br><em>Medium: Google Slides</em>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p><u>Primary 6:</u>
-<br>
-<br>Understand the needs of the elderly population and use micro: bit technology
-as a means to solve the problems faced by them. (Direct Service)
-<br>
-<br><em>Medium: Micro: bit</em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -122,133 +119,114 @@ as a means to solve the problems faced by them. (Direct Service)
 </tr>
 </tbody>
 </table>
-</li>
-</ul>
 <h4>Primary 1</h4>
-<ul>
-<li>
-<p><strong>AIM:</strong>
-<br>Building on their knowledge about animals from books read in the English
+<p>Building on their knowledge about animals from books read in the English
 classroom, the Primary 1 Applied Learning Programme (ALP) aims to provide
 students with opportunities to learn about endangered animals and advocate
-animal conservation.
-<br>Using problem-based learning (PBL), each P1 class brainstorms and researches
-on a selected animal. Students then embark on a ‘learning experience’ to
-learn more about the selected animal.
-<br>The information gathered by the different classes is then shared and presented
-in the form of e-posters; thus building on each other’s repertoire of knowledge.</p>
+animal conservation.</p>
+<p>Through authentic and experiential learning, supported by elements of
+problem-based learning (PBL), each P1 class researches on a selected endangered
+animal. Students then embark on a learning experience to the Singapore
+Zoo to learn more about the selected animal.</p>
+<p>The information gathered by the different classes is then shared and presented
+in the form of class writing and e-posters; thus building on each other’s
+repertoire of knowledge.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/alpp1-1.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/ALP 2026/P1_ALP_1.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/alpp1-2.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/ALP 2026/P1_ALP_2.jpg">
 </div>
-</li>
-</ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/ALP 2026/P1_ALP_3.jpg">
+</div>
 <h4>Primary 2</h4>
-<ul>
-<li>
-<p><strong>AIM:</strong>
-<br>Having completed the first year at primary school, students at the primary
-2 level put their heads together to walk down memory lane and reminisce
-the time when they had newly transited to primary school. Putting the school
-value of empathy to good use by identifying the needs of incoming primary
-1 students, these seniors work on solutions and advice for their juniors
-to ease this transition for them.</p>
+<p>With a focus on building empathy and learning through reflection, the
+Primary 2 ALP draws on elements of problem-based learning (PBL) to guide
+students in reflecting on their own experiences of transitioning into primary
+school. Drawing on the school value of empathy, they identify the challenges
+faced by incoming Primary 1 students and collaborate to develop meaningful
+solutions and advice to support their juniors in easing into school life.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:75%" height="auto" width="100%" src="/images/P2-1.jpeg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/ALP 2026/P2_ALP_1.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:75%" height="auto" width="100%" src="/images/P2-2.jpeg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/ALP 2026/P2_ALP_2.png">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:75%" height="auto" width="100%" src="/images/P2-3.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/ALP 2026/P2_ALP_3.jpg">
 </div>
-</li>
-</ul>
 <h4>Primary 3</h4>
-<ul>
-<li>
-<p><strong>AIM:</strong>
-<br>In a bid to bring about awareness of cyber safety and encourage cyber
-wellness practice amongst the school community, students at the primary
-3 level take on the role of ambassadors and share the message of Cyber
-Wellness through self-created videos.
-<br>They apply their language skills of writing, speaking and presenting along
-with their newly learnt skills of videography and use this to spread the
-message of being a responsible digital learner.
-<br>Each class focuses on a different strand of cyber wellness education from
-cyber identity to cyber relationships and even cyber citizenship.</p>
+<p>To raise awareness of cyber safety and promote cyber wellness practices
+within the school community, Primary 3 students take on the role of ambassadors
+of Cyber Wellness through podcasting. Guided by the design thinking process,
+students empathise with the needs of their audience, craft meaningful messages,
+and prototype engaging podcast episodes.</p>
+<p>They apply their language skills—writing, speaking, and presenting—alongside
+newly acquired podcasting techniques to advocate for responsible digital
+citizenship. Each class explores a different strand of cyber wellness,
+ranging from cyber identity and relationships to digital footprint and
+cyber citizenship.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:75%" height="auto" width="100%" src="/images/p3-1.jpeg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/ALP 2026/P3_ALP_1.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:75%" height="auto" width="100%" src="/images/p3-2.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/ALP 2026/P3_ALP_2.jpg">
 </div>
-</li>
-</ul>
 <h4>Primary 4</h4>
-<ul>
-<li>
-<p><strong>AIM:</strong>
-<br>The programme aims to cultivate the spirit of innovation while upholding
-the school values of empathy and mindfulness as the primary 4 students
-work collaboratively in advancing the reading interest of their younger
-peers.
-<br>They carry out surveys to understand the reading interest of their recipients
-and create digital storybooks using Animaker to instill the love for reading
-in their younger schoolmates.
-<br>
-</p>
+<p>The programme adopts design thinking as a pedagogy to nurture innovation
+while reinforcing the school values of empathy and mindfulness. Primary
+4 students work collaboratively to spark reading interest in their younger
+peers and impart values through storytelling.</p>
+<p>Through the design thinking process, they conduct surveys to better understand
+their recipients’ reading preferences and create digital storybooks using
+Google Slides to inspire a love for reading. They then visit MK@PC to share
+their completed digital story with the preschoolers.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:75%" height="auto" width="100%" src="/images/P4-1.jpeg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/ALP 2026/P4_ALP_1.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:75%" height="auto" width="100%" src="/images/P4-2.jpeg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/ALP 2026/P4_ALP_2.jpg">
 </div>
-</li>
-</ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/ALP 2026/P4_ALP_3.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/ALP 2026/P4_ALP_4.png">
+</div>
 <h4>Primary 5</h4>
-<ul>
-<li>
-<p><strong>AIM:</strong>
-<br>The programme aims to foster students’ speaking and writing skills through
-activities that are centred in journalism. Students are given opportunities
-to examine and discuss key issues from newspaper articles found in Little
-Red Dot.
-<br>
-<br>Students are tasked to apply the elements of journalistic writing in creating
-a class newspaper on addressing social issues and themes such as inclusive
-society, social inequality and other pertinent issues.
-<br>
-</p>
+<p>The Primary 5 ALP is anchored in the Design Thinking process and carried
+out in collaboration with the Caring Companions programme as part of the
+students’ Values in Action (VIA) efforts. Students begin by researching
+the lives and needs of the elderly in Singapore to develop empathy and
+a deeper understanding of the challenges they face.</p>
+<p>Guided by their research findings, students design and prototype interactive
+games aimed at fostering meaningful engagement with the elderly during
+their visits to elderly homes. Throughout the project, students document
+their learning journey through multi-modal platforms, capturing their research,
+ideation, testing, and reflections.</p>
+<p>To conclude the programme, students produce a mini documentary that showcases
+their design process, learning experiences, and insights, highlighting
+themes of empathy, social responsibility, and purposeful communication.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:75%" height="auto" width="100%" src="/images/P5-1.jpeg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/ALP 2026/P5_ALP_1.png">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:95%" height="auto" width="100%" src="/images/P5-2.jpeg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/ALP 2026/P5_ALP_2.jpg">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width:75%" height="auto" width="100%" src="/images/P5-3.jpeg">
-</div>
-</li>
-</ul>
-<h4>Primary 6</h4>
-<ul>
-<li>
-<p><strong>AIM:</strong>
-<br>The Primary 6 students embark on their ALP projects as part of their post-examination
-engagement at the end of the year. Working together as a class, students
-must compose an original piece of music using the software Chrome Music
-Lab. They will then come up with accompanying lyrics to complement their
-melody. Through songwriting, the Primary 6 students can express their gratitude
-to the school and ruminate on their experiences while celebrating the friendships
-that were forged in their time in primary school.
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:75%" height="auto" width="100%" src="/images/P6-1.jpeg">
-</div>
-</li>
-</ul>
+<p></p>
 <p></p>
