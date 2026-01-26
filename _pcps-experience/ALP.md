@@ -152,15 +152,15 @@ faced by incoming Primary 1 students and collaborate to develop meaningful
 solutions and advice to support their juniors in easing into school life.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP 2026/P2_ALP_1.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/ALP 2026/P2_ALP_1.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP 2026/P2_ALP_2.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/ALP 2026/P2_ALP_2.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP 2026/P2_ALP_3.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/ALP 2026/P2_ALP_3.jpg">
 </div>
 <h4>Primary 3</h4>
 <p>To raise awareness of cyber safety and promote cyber wellness practices
@@ -175,11 +175,11 @@ ranging from cyber identity and relationships to digital footprint and
 cyber citizenship.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/ALP 2026/P3_ALP_1.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/ALP 2026/P3_ALP_1.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP 2026/P3_ALP_2.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/ALP 2026/P3_ALP_2.jpg">
 </div>
 <h4>Primary 4</h4>
 <p>The programme adopts design thinking as a pedagogy to nurture innovation
@@ -222,11 +222,11 @@ their design process, learning experiences, and insights, highlighting
 themes of empathy, social responsibility, and purposeful communication.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP 2026/P5_ALP_1.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/ALP 2026/P5_ALP_1.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP 2026/P5_ALP_2.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/ALP 2026/P5_ALP_2.jpg">
 </div>
 <p></p>
 <p></p>
