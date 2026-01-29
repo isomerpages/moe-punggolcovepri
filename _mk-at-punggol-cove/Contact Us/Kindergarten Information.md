@@ -53,12 +53,12 @@ third_nav_title: Contact Us
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Facebook:</strong>
+<p><strong>Socials:</strong>
 </p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MOE Kindergarten @ PCPS Facebook Link</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -68,7 +68,7 @@ third_nav_title: Contact Us
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AM session: 8.00am to 12noon</p>
+<p>AM session: 8.00am to 12 noon</p>
 <p>PM Session: 1.00pm to 5.00pm&nbsp;</p>
 <p>&nbsp;</p>
 </td>
