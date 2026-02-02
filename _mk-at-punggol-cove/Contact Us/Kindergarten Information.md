@@ -24,10 +24,9 @@ third_nav_title: Contact Us
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MOE Kindergarten @ Punggol Cove</p>
-<p>52 Sumang Walk</p>
-<p>Singapore 828674</p>
-<p>&nbsp;</p>
+<p>MOE Kindergarten @ Punggol Cove
+<br>52 Sumang Walk
+<br>Singapore 828674</p>
 </td>
 </tr>
 <tr>
@@ -70,9 +69,10 @@ third_nav_title: Contact Us
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AM session: 8.00am to 12 noon</p>
-<p>PM Session: 1.00pm to 5.00pm&nbsp;</p>
-<p>&nbsp;</p>
+<p>AM session: 8.00am to 12 noon
+<br>PM Session: 1.00pm to 5.00pm
+<br>
+</p>
 </td>
 </tr>
 <tr>
