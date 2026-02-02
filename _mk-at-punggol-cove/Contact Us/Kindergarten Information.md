@@ -58,7 +58,9 @@ third_nav_title: Contact Us
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.facebook.com/people/Punggol-Cove-Primary-School/61579355175057/" rel="noopener nofollow" target="_blank">Facebook</a>
+<br><a href="https://www.instagram.com/mk_punggolcove/" rel="noopener nofollow" target="_blank">Instagram</a>
+</p>
 </td>
 </tr>
 <tr>
