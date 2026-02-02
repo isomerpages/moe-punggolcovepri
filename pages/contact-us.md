@@ -33,7 +33,7 @@ contacts:
           target="">https://www.punggolcovepri.moe.edu.sg/</a><br>Facebook:&nbsp;<a
           href="https://www.facebook.com/pages/Punggol-Cove-Primary-School/1452277625087945?ref=aymt_homepage_panel"
           target="_blank"
-          rel="noopener">https://www.facebook.com/pages/Punggol-Cove-Primary-School</a>'
+          rel="noopener">https://www.facebook.com/people/Punggol-Cove-Primary-School/61579355175057/</a>'
     title: General Enquiries & Feedback
   - content:
       - phone: +65 6282 2375
@@ -44,7 +44,7 @@ contacts:
           rel="noopener">www.moe.gov.sg/moekindergarten</a><br>Facebook:&nbsp;<a
           href="https://www.facebook.com/pages/Punggol-Cove-Primary-School/1452277625087945?ref=aymt_homepage_panel"
           target="_blank"
-          rel="noopener">https://www.facebook.com/pages/Punggol-Cove-Primary-School</a>'
+          rel="noopener">https://www.facebook.com/people/Punggol-Cove-Primary-School/61579355175057/</a>'
     title: MOE Kindergarten
 feedback: ""
 ---
