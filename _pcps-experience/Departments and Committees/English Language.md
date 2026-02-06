@@ -42,7 +42,7 @@ and vocabulary they have been exposed to in SBA.</p>
 pupils come up with a piece of class writing. This becomes the basis for
 group writing when the children work in small groups, before they go on
 to individual writing.</p>
-<h4><u>Dramatisation @ PCP</u></h4>
+<h4><u>Dramatisation @ PCPS</u></h4>
 <p>Students are given opportunities to bring the stories from their English
 lessons to life through dramatisation. This helps them to understand the
 story better.</p>
