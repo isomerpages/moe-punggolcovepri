@@ -1174,10 +1174,7 @@ your child reports punctually for his/her CCA.</p>
 a list of facilities available. These facilities support the delivery of
 holistic education, and facilitate engaged learning in both the academic
 and co-curriculum areas.</p>
-<p>16) Does your school have a School-based Student Care Centre?
-<br>Yes. Please refer to ‘PCPS Student Care Centre’ at <a href="https://staging-lite.d1koxr7t5evsnb.amplifyapp.com/for-parents/useful-links/" rel="noopener noreferrer nofollow" target="_blank"><u>/for-parents/useful-links</u></a> for
-more information.</p>
-<p>17) Is there an ‘Open House’ for parents to visit Punggol Cove Primary
+<p>16) Is there an ‘Open House’ for parents to visit Punggol Cove Primary
 School?
 <br>There is scheduled ‘Interaction Time With Principal’ organised for you
 to meet and have a conversation with our Principal as well as to tour the
@@ -1186,22 +1183,22 @@ school.</p>
 updated information about the ‘Interaction Time With Principal’. Most of
 the information about the school can also be obtained from our school’s
 website.</p>
-<p>18) Is our home address within 1 km from Punggol Cove Primary School?
+<p>17) Is our home address within 1 km from Punggol Cove Primary School?
 <br>Please check the home-school distance category (at no cost) from the Singapore
 Land Authority OneMap SchoolQuery at <a href="https://www.moe.gov.sg/admissions/international-students/general-info#monthly-school-fees" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.onemap.sg/main/v2/schoolquery</u></a>.</p>
-<p>19) What are the Primary 1 registration procedures?
+<p>18) What are the Primary 1 registration procedures?
 <br>For matters related to P1 Registration procedures, please refer to MOE
 website at <a href="https://www.moe.gov.sg/admissions/international-students/general-info#monthly-school-fees" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.moe.gov.sg/admissions/primary-one-registration</u></a>.</p>
-<p>20) I am a non-Singaporean. Can I register my child to your school under
+<p>19) I am a non-Singaporean. Can I register my child to your school under
 the Primary One Registration Exercise?
 <br>For matters related to P1 Registration for International Students, please
 refer to MOE website at <a href="https://www.moe.gov.sg/admissions/international-students/general-info#monthly-school-fees" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.moe.gov.sg/admissions/primary-one-registration/phase-3-registration-for-non-singapore-citizen-non-permanent-resident-children</u></a>
 </p>
-<p>21) How do I enrol or transfer my child to Punggol Cove Primary School?
+<p>20) How do I enrol or transfer my child to Punggol Cove Primary School?
 <br>Please refer to MOE website at <a href="https://www.moe.gov.sg/admissions/international-students/general-info#monthly-school-fees" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.moe.gov.sg/admissions/steps</u></a> for
 information.</p>
 <h4>Parent Support Group</h4>
-<p>22) How can I apply as a Parent Volunteer?
+<p>21) How can I apply as a Parent Volunteer?
 <br>If you are interested in joining the Parent Support Group (PSG), please
 contact our Head of Department / Discipline, Mr Benjamin Chew via e-mail
 at <a href="https://www.moe.gov.sg/admissions/international-students/general-info#monthly-school-fees" rel="noopener noreferrer nofollow" target="_blank"><u>chew_chung_siong@schools.gov.sg</u></a><strong>.</strong>
@@ -1611,9 +1608,6 @@ to&nbsp;<a href="https://staging-lite.d1koxr7t5evsnb.amplifyapp.com/for-parents/
 <p></p>
 <h3>Transfer to PCPS</h3>
 <p>For more information on transfer, please refer to&nbsp;<a href="https://staging-lite.d1koxr7t5evsnb.amplifyapp.com/for-parents/admission-matters/#p1-reg" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.moe.gov.sg/primary/transfers</u></a>
-</p>
-<h3>STUDENT CARE APPLICATION FORM</h3>
-<p>For more information, please click&nbsp;<a href="https://docs.google.com/forms/d/e/1FAIpQLScZg_JQFAU4_G6CXcwZxsJ-WU-i-sGvy1B8Y1ATR7WM1bHwlw/viewform" rel="noopener noreferrer nofollow" target="_blank"><u>here.</u></a>
 </p>
 <p></p>
 <h5></h5>
