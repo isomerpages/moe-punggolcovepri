@@ -1,6 +1,6 @@
 ---
 title: Student Services Information
-permalink: /school-bookshop/
+permalink: /student-services-information/
 variant: tiptap
 description: ""
 third_nav_title: Student Services Information
@@ -101,15 +101,11 @@ during school hours.</p>
 <br>E-Mail &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 : <a rel="noopener noreferrer nofollow" target="_blank">contact@shanghai-uniforms.com</a>
 </p>
-<p><em><u>Opening Hours (At Retail Shop)</u></em> 
+<p><strong><u>Opening Hours (At Retail Shop)</u></strong><u> </u>
 <br>Mondays – Saturdays: 10.00 a.m. to 6.00 p.m.
 <br>Lunch Time: 1.00 p.m. – 2.00 p.m.</p>
 <h4>4) School-based Student Care Centre</h4>
-<p><strong><u>Little Professors Learning Centre Pte Ltd<br></u></strong>For
-enquiries on the Student Care Centre, please contact the centre supervisor
-directly.</p>
-<p>Tel. No.&nbsp;&nbsp;&nbsp;&nbsp; : 8201 2592
-<br>E-Mail&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : <a rel="noopener noreferrer nofollow" target="_blank">punggolcove@littleprofessors.com.sg</a>
+<p><strong><em>Stay tuned for updates.</em></strong>
 </p>
 <h4>5)&nbsp;School Dental Clinic</h4>
 <p>Dental Therapist : Ms Poh Li Jin
