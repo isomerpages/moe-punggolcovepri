@@ -15,17 +15,6 @@ third_nav_title: Useful Links
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
 <th rowspan="1" colspan="1">
 <p>Date</p>
 </th>
@@ -126,6 +115,16 @@ third_nav_title: Useful Links
 <br><a href="/files/2026 Curriculum Briefing/2026_P5_Overseas_Learning_Journey.pdf" rel="noopener nofollow" target="_blank">2026 P5 Overseas Learning Journey</a>
 </p>
 <p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Primary 6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2026 Curriculum Briefing/2026_P6_PSLE_Briefing_Slides.pdf" rel="noopener nofollow" target="_blank">2026 P6 PSLE Briefing Slides</a>
+<br><a href="/files/2026 Curriculum Briefing/2026_Parents_as_Partners_Discipline_Management.pdf" rel="noopener nofollow" target="_blank">2026 Parents as Partners (Discipline Management)</a>
+</p>
 </td>
 </tr>
 </tbody>
