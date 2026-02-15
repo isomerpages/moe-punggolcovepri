@@ -122,7 +122,7 @@ third_nav_title: Useful Links
 <p>Primary 6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2026 Curriculum Briefing/2026_P6_PSLE_Briefing_Slides.pdf" rel="noopener nofollow" target="_blank">2026 P6 PSLE Briefing Slides</a>
+<p><a href="/files/2026 Curriculum Briefing/2026_P6_PSLE_Briefing_Slides.pdf" rel="noopener nofollow" target="_blank">2026 P6 PSLE Briefing</a>
 <br><a href="/files/2026 Curriculum Briefing/2026_Parents_as_Partners_Discipline_Management.pdf" rel="noopener nofollow" target="_blank">2026 Parents as Partners (Discipline Management)</a>
 </p>
 </td>
