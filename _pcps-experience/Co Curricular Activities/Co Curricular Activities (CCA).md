@@ -39,8 +39,7 @@ Understanding &amp; Appreciation in their chosen CCAs.&nbsp;</p>
 <p>Students can choose from any of these 4 categories:&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong><u>Clubs and Societies</u></strong>&nbsp;– Environmental Science,
-Infocomm Technology&nbsp;</p>
+<p><strong><u>Clubs and Societies</u></strong>&nbsp;– EcoSTEM, Infocomm Technology&nbsp;</p>
 </li>
 <li>
 <p><strong><u>Physical Sports</u></strong>&nbsp;– Health &amp; Fitness, Modular
@@ -78,7 +77,7 @@ be given a choice to select one of the 4 sports as their main CCA.</p>
 </li>
 <li>
 <p>eCCA&nbsp;is a 1-hour&nbsp;<u>online</u>&nbsp;session done via SLS or
-Zoom.</p>
+Microsoft Teams.</p>
 </li>
 </ul>
 <p></p>
