@@ -2,7 +2,6 @@ collections:
   mk-at-punggol-cove:
     output: true
     order:
-      - MK Uniform Information.md
       - MOE Kindergarten @ PCPS Open House.md
       - Our Vision, Mission & Belief.md
       - Our People/.keep
@@ -18,3 +17,4 @@ collections:
       - Enrol Your Child With Us.md
       - Contact Us/.keep
       - Contact Us/Kindergarten Information.md
+      - MK Uniform Information.md
