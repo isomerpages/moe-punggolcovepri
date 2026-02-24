@@ -2,7 +2,6 @@ collections:
   mk-at-punggol-cove:
     output: true
     order:
-      - Our KCare Programmme.md
       - MOE Kindergarten @ PCPS Open House.md
       - Our Vision, Mission & Belief.md
       - Our People/.keep
@@ -13,6 +12,7 @@ collections:
       - Our Learning Environment/Our Gallery.md
       - Our EYC Partners/.keep
       - Our EYC Partners/Information on our EYC Partners.md
+      - Our KCare Programmme.md
       - Parents' Testimonials.md
       - Enrol Your Child With Us.md
       - Contact Us/.keep
