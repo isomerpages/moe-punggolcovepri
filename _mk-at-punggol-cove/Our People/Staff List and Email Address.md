@@ -108,6 +108,15 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="mailto: nazatul_shima_mohamed_zahir@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Shima</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>EL Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="mailto: Ong_Bee_eng@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Ong Bee Eng (Jenna)</a>
 </p>
 </td>
