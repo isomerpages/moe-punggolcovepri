@@ -31,7 +31,7 @@ third_nav_title: Contact Us
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Contact Number</strong>
+<p><strong>Contact Number:</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
