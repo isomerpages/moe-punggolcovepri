@@ -2,12 +2,12 @@ collections:
   mk-at-punggol-cove:
     output: true
     order:
-      - MK Calendar.md
       - MOE Kindergarten @ PCPS Open House.md
       - Our Vision, Mission & Belief.md
       - Our People/.keep
       - Our People/Staff List and Email Address.md
       - Our Programme.md
+      - MK Calendar.md
       - Our Learning Environment/.keep
       - Our Learning Environment/Video of Learning Environment at MK@PC.md
       - Our Learning Environment/Our Gallery.md
