@@ -426,7 +426,7 @@ find out more about this information.</p>
 <p>4)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.moe.gov.sg/-/media/files/returning-singaporeans/leave-of-absence-application-form.pdf" rel="noopener noreferrer nofollow" target="_blank">Application for Leave of Absence</a>
+<p><a href="https://go.gov.sg/pcpsmoeloaform" rel="noopener nofollow" target="_blank">Application Form for Leave of Absence</a>
 </p>
 </td>
 </tr>
