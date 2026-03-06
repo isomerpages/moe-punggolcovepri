@@ -432,14 +432,6 @@ find out more about this information.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Waitlist List Form</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -568,7 +560,7 @@ find out more about this information.</p>
 <p>3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.moe.gov.sg/education/primary/" rel="noopener noreferrer nofollow" target="_blank">Primary Education</a>
+<p><a href="https://www.moe.gov.sg/primary" rel="noopener nofollow" target="_blank">Primary Education</a>
 </p>
 </td>
 </tr>
@@ -918,7 +910,7 @@ more information.</p>
 <p>5) How much is the school fees?
 <br>The rates of school and miscellaneous fees payable are reviewed by the
 Ministry of Education and individual schools from time to time. For more
-information, please refer to MOE website at <a href="https://www.moe.gov.sg/admissions/international-students/general-info#monthly-school-fees" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.moe.gov.sg/admissions/international-students/general-info#monthly-school-fees</u></a>.</p>
+information, please refer to MOE website at <a href="https://www.moe.gov.sg/financial-matters/fees" rel="noopener nofollow" target="_blank">https://www.moe.gov.sg/financial-matters/fees</a>.</p>
 <p>6) My child has misplaced/lost his EZLink Card. How can I get a replacement?
 <br>You may get the card replaced through the following ways:</p>
 <table style="minWidth: 50px">
