@@ -2,6 +2,7 @@ collections:
   pcps-experience:
     output: true
     order:
+      - Departments and Committees/2026 MTL Events.md
       - Departments and Committees/.keep
       - Departments and Committees/English Language.md
       - Departments and Committees/Mathematics.md
