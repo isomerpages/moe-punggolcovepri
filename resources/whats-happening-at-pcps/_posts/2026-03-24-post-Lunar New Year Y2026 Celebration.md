@@ -46,7 +46,7 @@ variant: tiptap
 <p></p>
 <p><strong>WRITTEN BY:</strong>
 <br>MS LEE WEN ZHEN AUDREY, MT CL TEACHER</p>
-<p><strong>STUDENTS' CONTRIBUTION: </strong> 
+<p><strong>STUDENTS' CONTRIBUTION: </strong>
 <br>ZHAO YIRU, 5 JADE
 <br>DANIELLE CHOONG RUI XUAN, 5 JADE
 <br>KYA TAY XI YU, 5 JADE
