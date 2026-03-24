@@ -43,3 +43,12 @@ variant: tiptap
 </div>
 <p>我们在欢庆中传承文化，在笑声中凝聚情谊，共同迎接充满希望与祝福的新一年。</p>
 <p>恭祝大家新春快乐，万事如意！</p>
+<p></p>
+<p><strong>WRITTEN BY:</strong>
+<br>MS LEE WEN ZHEN AUDREY, MT CL TEACHER
+<br>ZHAO YIRU, 5JADE
+<br>DANIELLE CHOONG RUI XUAN, 5JADE
+<br>KYA TAY XI YU, 5JADE
+<br>DEBORAH ZHANG NILUO, 5 PEARL</p>
+<p><strong>VET BY:</strong>
+<br>MR ANG HIANG SOON, MTL HOD</p>
