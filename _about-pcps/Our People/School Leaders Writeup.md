@@ -95,10 +95,10 @@ in the 21st Century.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="Mrs Sharon Teo" src="/images/Mrs_Sharon_Teo.jpg">
 </div>
-<p><strong>Mrs Sharon Teo</strong>
+<p><strong>Ms Sharon Eng</strong>
 </p>
 <p>BA (Hons), MEd</p>
-<p>Mrs Sharon pursued her Diploma in Education and Bachelor of Arts (Chinese
+<p>Ms Sharon pursued her Diploma in Education and Bachelor of Arts (Chinese
 Education) at the National Institute of Education (NIE) from 2001 to 2005
 and completed her Master of Education (Chinese Language) at NTU/NIE in
 2009. She began her teaching career at Zhonghua Primary School, where she
@@ -107,13 +107,13 @@ Education and Social Studies and Head of Department (HOD) for Character
 and Citizenship Education (CCE) from 2005 to 2016. Through these experiences,
 she gained valuable insights into effective teaching, curriculum planning
 and leadership.</p>
-<p>In 2017, Mrs Sharon was seconded to the Ministry of Education (MOE) Headquarters,
+<p>In 2017, Ms Sharon was seconded to the Ministry of Education (MOE) Headquarters,
 serving in the Media Relations Branch of the Communications and Engagement
 Group. As a Senior Media Relations Officer, she collaborated with schools,
 media partners and internal stakeholders including senior management and
 colleagues across MOE divisions, to enhance communication and engagement
 initiatives.</p>
-<p>Upon completing her secondment in 2019, Mrs Sharon joined Oasis Primary
+<p>Upon completing her secondment in 2019, Ms Sharon joined Oasis Primary
 School as their Year Head. Between 2019 and 2024, she provided strong pastoral
 leadership to both Middle Primary and Upper Primary levels and supported
 the school’s plans and development. She also double-hatted as HOD for CCE
@@ -121,17 +121,17 @@ and HOD for Discipline during brief coverage periods. In 2025, she shifted
 her portfolio to focus on Partnership and Special Projects, where she continued
 to develop initiatives that strengthened school-community collaborations
 and advance strategic school programmes.</p>
-<p>Over the years, Mrs Sharon’s dedication and contributions have been recognised.
+<p>Over the years, Ms Sharon’s dedication and contributions have been recognised.
 In 2021, she received the MOE Long Service Award.&nbsp; She also received
 the Outstanding Contribution Award (OCA) for both Individual and Team categories
 in 2021, as well as the OCA (Team) in 2025. She was also conferred the
 MOE Service Excellence Award (MSEA) in 2021 (Silver), 2022 (Gold) and 2025
 (Gold). In 2024, she received the National Day Award (Commendation Medal)
 for her exemplary service to MOE.</p>
-<p>Mrs Sharon sees every learner as teachable, with both the ability and
-innate desire to learn. She also believes that unlocking each learner’s
-unique potential requires a close partnership between educators and parents
-of Punggol Cove Primary School.</p>
+<p>Ms Sharon sees every learner as teachable, with both the ability and innate
+desire to learn. She also believes that unlocking each learner’s unique
+potential requires a close partnership between educators and parents of
+Punggol Cove Primary School.</p>
 <p></p>
 <h4>About the Vice-Principal (Administration)</h4>
 <div class="isomer-image-wrapper">
