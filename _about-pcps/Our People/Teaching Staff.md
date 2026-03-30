@@ -83,7 +83,7 @@ third_nav_title: Our People
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>1 Jade</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -94,6 +94,12 @@ third_nav_title: Our People
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="mailto: siti_mariam_mohamed@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Siti Mariam Binte Mohamed</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Eileen_Tang_Si_Ting@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Eileen Tang Si Ting</a>
 </p>
 </td>
 </tr>
@@ -422,17 +428,12 @@ third_nav_title: Our People
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
 <p>3 Opal</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto: thilagavathi_kumarasamy@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Thilagavathi</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -488,7 +489,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: ng_xinying_ada@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Ada Chung</a>
+<p><a href="mailto: chew_zheng_yi_avery@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Chew Zheng Yi Avery</a>
 </p>
 </td>
 </tr>
@@ -523,17 +524,12 @@ third_nav_title: Our People
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
 <p>4 Emerald</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto: Leow_Hui_zheng@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Leow Hui Zheng</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
