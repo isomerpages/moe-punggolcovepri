@@ -210,7 +210,8 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:raiyan_matiin_nurhanes@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Raiyan Matiin</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -239,7 +240,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: liu_mianjin@schools.gov.sg" rel="noopener nofollow" target="_blank">Dr Liu Mianjin</a>
+<p><a href="yao_yadan@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Yao Yadan</a>
 </p>
 </td>
 </tr>
@@ -431,8 +432,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: Eileen_Tang_Si_Ting@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Eileen Tang Si Ting</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -440,13 +440,13 @@ third_nav_title: Our People
 <p>3 Pearl</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: yeo_yee_peng@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Yeo Yee Peng</a>
+<p><a href="mailto: tan_shuwen_candice@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Candice</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: tan_shuwen_candice@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Candice</a>
+<p><a href="mailto:muhammad_shauqat_ali_taib@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Muhammad Shauqat Ali Bin Taib Ali</a>
 </p>
 </td>
 </tr>
@@ -533,8 +533,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: Chew_Zheng_Yi_Avery@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Chew Zheng Yi Avery</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -548,7 +547,8 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Raiyan Matiin</p>
+<p><a href="mailto:nadiah_mohamed_mustapha@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Nadiah Bte Mohd Mustapha</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -590,13 +590,13 @@ third_nav_title: Our People
 <p>5 Amber</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: onn_ying_hui@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Onn Ying Hui Mark</a>
+<p><a href="mailto: shanthi_marimuthu@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Haider</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: shanthi_marimuthu@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Haider</a>
+<p><a href="mailto:fun_kai_yee@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Fun Kai Yee</a>
 </p>
 </td>
 </tr>
@@ -887,15 +887,6 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: Fauziah_Mohd_Mydin_A@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Fauziah Mydin</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><a href="mailto: Inthirani_Ramanathan@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Rani</a>
 </p>
 </td>
@@ -951,6 +942,24 @@ third_nav_title: Our People
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="mailto: Dai_Yi_Ting_A@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Dai Yi Ting</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ng_xinying_ada@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Ada Chung</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="tan_lih_ling@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Tan Lih Ling</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
