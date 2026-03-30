@@ -110,7 +110,8 @@ third_nav_title: Useful Links
 <p>Primary 4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/2026 Curriculum Briefing/P4_Subject_Based_Banding_Briefing.pdf" rel="noopener nofollow" target="_blank">2026 P4 Subject Based Banding Briefing</a>
+</p>
 </td>
 </tr>
 <tr>
