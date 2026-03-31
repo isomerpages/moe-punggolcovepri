@@ -27,13 +27,26 @@ third_nav_title: Useful Links
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>15 January 2026</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>All Primary Levels</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://go.gov.sg/pcps2026t1" rel="noopener nofollow" target="_blank">2026 Term One Letter To Parents</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>27 March 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>All Primary Levels</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/pcps2026t2" rel="noopener nofollow" target="_blank">2026 Term Two Letter To Parents</a>
+</p>
 </td>
 </tr>
 </tbody>
