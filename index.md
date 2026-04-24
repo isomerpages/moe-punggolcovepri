@@ -8,6 +8,15 @@ notification: ""
 sections:
   - hero:
       background: /images/Isomer_Banner_13.png
+  - infopic:
+      title: Open House for Secondary Schools 2026
+      id: infopic
+      description: What do you need to know before visiting open houses with your
+        child? Click on the link below for more details.
+      button: MOE Schoolbag website
+      url: https://www.schoolbag.edu.sg/story/open-house-for-secondary-schools/
+      image: /images/OpenHouseForSecSch2026.png
+      alt: Image alt text
   - textcards:
       title: Highlights in Punggol Cove Primary School
       id: textcards
