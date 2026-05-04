@@ -4,7 +4,7 @@ permalink: /calendar-of-events/
 variant: tiptap
 description: ""
 ---
-<h3>2025 Calendar of Events</h3>
+<h3>2026 Calendar of Events</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -13,20 +13,52 @@ description: ""
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<p>Term 1: 2 January - 14 March</p>
+<p>Term 1: 1 January - 13 March</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>28 Jan</p>
+<p>1 Jan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chinese New Year Eve (Dismissal at 10.30a.m.)</p>
+<p>Public Holiday: New Year's Day</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>29 - 30 Jan</p>
+<p>2 Jan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>First Day of School for Primary 1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5 Jan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Reopens for Primary 2 to Primary 6</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>26 - 28 Jan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5 Cohort Outdoor Adventure Learning Camp</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>16 Feb</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chinese New Year Eve (Dismissal at 10.30 a.m.)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>17 - 18 Feb</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Public Holiday: Chinese New Year</p>
@@ -34,7 +66,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>15 - 23 Mar</p>
+<p>14 - 22 Mar</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 1 School Vacation</p>
@@ -42,21 +74,21 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong>Term 2: 24 March - 30 May</strong>
+<p><strong>Term 2: 23 March - 29 May</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>31 Mar</p>
+<p>23 Mar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Public Holiday: Hari Raya Puasa</p>
+<p>Designated day off-in-lieu of Hari Raya Puasa (21 Mar)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>18 Apr</p>
+<p>3 Apr</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Public Holiday: Good Friday</p>
@@ -72,53 +104,61 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>12 May</p>
+<p>27 May</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Public Holiday: Vesak Day</p>
+<p>Public Holiday: Hari Raya Haji</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>31 May - 29 Jun</p>
+<p>30 May - 28 Jun</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 School Vacation (7 Jun - Public Holiday: Hari Raya Haji)</p>
+<p>Term 2 School Vacation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Jun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Public Holiday in lieu of Vesak Day (31 May)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong>Term 3: 30 June - 5 September</strong>
+<p><strong>Term 3: 29 June - 4 September</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>7 Jul</p>
+<p>6 Jul</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>School Holiday in lieu of Youh Day (6 Jul)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>8 Aug</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Eve of National Day (Dismissal at 10.30 a.m.)</p>
+<p>School Holiday in lieu of Youh Day (5 Jul)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>11 Aug</p>
+<p>7 Aug</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>School Holiday in lieu of National Day (9 Aug)</p>
+<p>National Day Celebrations (Dismissal at 10.30 a.m.) - To be confirmed</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>13 - 14 Aug*</p>
+<p>10 Aug</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Public Holiday in lieu of National Day (9 Aug)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>12 - 13 Aug*</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>PSLE Oral Examination (No School for P1 to P5 students)</p>
@@ -126,7 +166,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4 Sep</p>
+<p>3 Sep</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher's Day Eve (Dismissal at 10.30 a.m.)</p>
@@ -134,7 +174,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5 Sep</p>
+<p>4 Sep</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School Holiday: Teacher's Day</p>
@@ -142,7 +182,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6 - 14 Sep</p>
+<p>5 - 13 Sep</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 3: School Vacation</p>
@@ -150,13 +190,13 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong>Term 4: 15 September - 21 November</strong>
+<p><strong>Term 4: 14 September - 20 November</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>16 Sep*</p>
+<p>15 Sep*</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>PSLE Listening Comprehension (No school for P1 to P5 students)</p>
@@ -164,7 +204,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>22 - 24 Sep</p>
+<p>21 - 23 Sep*</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Pre PSLE Study Break for P6 Students</p>
@@ -172,15 +212,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>22 - 24 Sep</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P5 Cohort Outdoor Adventure Learning Camp</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>25 Sep - 1 Oct*</p>
+<p>24 - 30 Sep*</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>PSLE Written Examinations</p>
@@ -188,7 +220,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2 Oct</p>
+<p>1 Oct</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Children's Day Eve (Dismissal at 10.30 a.m.)</p>
@@ -196,7 +228,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3 Oct</p>
+<p>2 Oct</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School Holiday: Children's Day</p>
@@ -204,7 +236,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>13 - 15 Oct*</p>
+<p>12 - 14 Oct*</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>PSLE Marking Days (No School for all students)</p>
@@ -212,18 +244,18 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>20 Oct</p>
+<p>9 Nov</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Public Holiday: Deepavali</p>
+<p>Public Holiday in lieu of Deepavali (8 Nov)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>22 Nov - 31 Dec</p>
+<p>21 Nov - 31 Dec</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>End of School Vacation</p>
+<p>End of Year School Vacation</p>
 </td>
 </tr>
 <tr>

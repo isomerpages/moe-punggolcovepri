@@ -8,6 +8,22 @@ notification: ""
 sections:
   - hero:
       background: /images/Isomer_Banner_13.png
+  - textcards:
+      title: Highlights in Punggol Cove Primary School
+      id: textcards
+      cards:
+        - title: News and Announcement
+          description: ""
+          linktext: Click here to find out more
+          url: /resources/news-and-announcements/
+        - title: What's Happening
+          description: ""
+          linktext: Click here to find out more
+          url: /resources/whats-happening-at-pcps/
+        - title: Calendar of Events
+          description: ""
+          linktext: Click here to find out more
+          url: /calendar-of-events/
   - infopic:
       title: Open House for Secondary Schools 2026
       id: infopic
@@ -27,20 +43,4 @@ sections:
       url: https://www.punggolcovepri.moe.edu.sg/lunar-new-year-y2026-celebration/
       image: /images/cny2026.jpg
       alt: CNY2026
-  - textcards:
-      title: Highlights in Punggol Cove Primary School
-      id: textcards
-      cards:
-        - title: News and Announcement
-          description: ""
-          linktext: Click here to find out more
-          url: /resources/news-and-announcements/
-        - title: What's Happening
-          description: ""
-          linktext: Click here to find out more
-          url: /resources/whats-happening-at-pcps/
-        - title: Calendar of Events
-          description: ""
-          linktext: Click here to find out more
-          url: /calendar-of-events/
 ---
