@@ -17,6 +17,15 @@ sections:
       url: https://www.schoolbag.edu.sg/story/open-house-for-secondary-schools/
       image: /images/OpenHouseForSecSch2026.png
       alt: Image alt text
+  - infopic:
+      title: Lunar New Year 2026 Celebration
+      id: infopic
+      description: Guided by the spirit of the Horse-resilient, determined and never
+        giving up, this year’s CNY celebration brought together both festivity
+        and reflection.
+      button: Do CLICK HERE to find out more!
+      url: https://www.punggolcovepri.moe.edu.sg/lunar-new-year-y2026-celebration/
+      image: /images/cny2026.jpg
   - textcards:
       title: Highlights in Punggol Cove Primary School
       id: textcards
