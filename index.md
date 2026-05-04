@@ -26,6 +26,7 @@ sections:
       button: Do CLICK HERE to find out more!
       url: https://www.punggolcovepri.moe.edu.sg/lunar-new-year-y2026-celebration/
       image: /images/cny2026.jpg
+      alt: CNY2026
   - textcards:
       title: Highlights in Punggol Cove Primary School
       id: textcards
