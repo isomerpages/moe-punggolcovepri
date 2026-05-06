@@ -30,14 +30,6 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h4>PM Session</h4>
-</td>
-<td rowspan="1" colspan="1">
-<h4>1.00pm to 5.00pm</h4>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
