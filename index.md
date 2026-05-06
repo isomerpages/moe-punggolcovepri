@@ -40,6 +40,9 @@ sections:
       url: https://www.punggolcovepri.moe.edu.sg/resources/whats-happening-at-pcps/
       image: /images/2026_Hari_Raya.png
       alt: 2026 Hari Raya
+      description: Culture, learning, and innovation came alive at PCPS’s Hari Raya
+        celebration—‘Where Tradition Meets Technology’.  Click to explore
+        highlights!
   - infopic:
       title: Lunar New Year 2026 Celebration
       id: infopic
