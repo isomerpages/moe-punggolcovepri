@@ -34,6 +34,16 @@ sections:
       image: /images/OpenHouseForSecSch2026.png
       alt: Image alt text
   - infopic:
+      title: 2026 Hari Raya Aidilfitri Celebration
+      id: infopic
+      button: Click here to discover the highlights!
+      url: https://www.punggolcovepri.moe.edu.sg/resources/whats-happening-at-pcps/
+      image: /images/2026_Hari_Raya.png
+      alt: 2026 Hari Raya
+      description: Culture, learning, and innovation came alive at PCPS’s Hari Raya
+        celebration—‘Where Tradition Meets Technology’.  Click to explore
+        highlights!
+  - infopic:
       title: Lunar New Year 2026 Celebration
       id: infopic
       description: Guided by the spirit of the Horse-resilient, determined and never
