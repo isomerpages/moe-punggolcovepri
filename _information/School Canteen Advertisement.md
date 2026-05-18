@@ -40,6 +40,17 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Vegetarian Food Stall</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8 June 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Non-Halal</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -52,16 +63,17 @@ description: ""
 </tbody>
 </table>
 <h4><strong>Introduction</strong></h4>
-<p>We are looking for a stallholder to operate a Malay Rice Stall in our
-school canteen from July 2026 onwards. We are a single session school with
-an estimated school enrolment of 1580 students.</p>
+<p>We are looking for a stallholder to operate a Malay Rice Stall and a Vegetarian
+Food Stall in our school canteen from July 2026 onwards. We are a single
+session school with an estimated school enrolment of 1580 students.</p>
 <h4>&nbsp;<strong>Application Procedure</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
 <p>Download and complete the Application Form (click on the link below).
 You may also request for a hardcopy of the Application Form from the School’s
 General Office.</p>
-<p>• Application Form</p>
+<p><a href="https://go.gov.sg/applicationformcanteenstall" rel="noopener nofollow" target="_blank">Application Form</a>
+</p>
 <p></p>
 </li>
 <li>
