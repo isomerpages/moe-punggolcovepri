@@ -63,9 +63,10 @@ description: ""
 </tbody>
 </table>
 <h4><strong>Introduction</strong></h4>
-<p>We are looking for a stallholder to operate a Malay Rice Stall and a Vegetarian
-Food Stall in our school canteen from July 2026 onwards. We are a single
-session school with an estimated school enrolment of 1580 students.</p>
+<p>We are looking for 2 stallholders to operate a Malay Rice Stall and a
+Vegetarian Food Stall in our school canteen from July 2026 onwards. We
+are a single session school with an estimated school enrolment of 1580
+students.</p>
 <h4>&nbsp;<strong>Application Procedure</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
