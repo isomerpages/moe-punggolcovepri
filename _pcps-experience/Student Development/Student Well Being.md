@@ -51,10 +51,24 @@ that balances academic focus with stress management techniques.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>2.</p>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong>(C) Cognitive</strong>  <strong>Well-Being</strong>
+</p>
+<p>Supporting our students' intellectual growth and learning capabilities
+is central to their cognitive well-being. At PCPS, we adopt differentiated
+learning approaches that cater to different learning styles and readiness
+levels, ensuring students are supported in reaching their potential.</p>
+<p>Our Cove Quest is a school-based initiative that recognises and affirms
+students for their efforts in learning and demonstration of positive behaviours,
+fostering a growth mindset and motivation to excel. Our COR3 assemblies
+and dedicated Cohort Time are intentional platforms for values education
+and the development of positive learning dispositions.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 55%;" height="auto" width="100%" alt="" src="/images/SWB_pic2.png">
+</div>
 </td>
 </tr>
 </tbody>
