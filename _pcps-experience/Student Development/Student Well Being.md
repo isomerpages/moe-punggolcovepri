@@ -136,14 +136,16 @@ also allows our students to learn to resolve disputes and conflicts peacefully.<
 <p></p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
-<p></p>
+<p>These four domains work together to support our students in their daily
+school life. Research shows that students are better positioned to thrive
+academically and personally when they feel psychologically secure, cognitively
+engaged, physically healthy and socially connected.</p>
+<p>Our dedicated team of teachers and support staff collaborates closely
+to monitor student progress across the various domains. We maintain open
+communication with parents and families, recognising that student well-being
+is a shared responsibility between home and school.</p>
+<p>Through this holistic approach, PCPS creates an environment where every
+student can think better, feel better and do better.</p>
+<p>&nbsp;</p>
