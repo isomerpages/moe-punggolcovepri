@@ -14,17 +14,13 @@ effective learning and personal growth.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SWB.png">
 </div>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
 <th rowspan="1" colspan="1">
 <p></p>
 </th>
@@ -49,25 +45,19 @@ and this enables them to better identify, understand and manage their emotions.
 In addition, our Study Camps provide students with a supportive environment
 that balances academic focus with stress management techniques.</p>
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture1swb.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Picture1swb.jpg">
 </div>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture2.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Picture2.jpg">
 </div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
