@@ -45,7 +45,7 @@ and this enables them to better identify, understand and manage their emotions.
 In addition, our Study Camps provide students with a supportive environment
 that balances academic focus with stress management techniques.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 66%;" height="auto" width="100%" alt="" src="/images/SWB_pic1.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/SWB_pic1.png">
 </div>
 </td>
 </tr>
