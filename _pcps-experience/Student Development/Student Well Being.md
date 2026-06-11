@@ -44,20 +44,13 @@ self-regulation skills. Students are also introduced to the Zones of Regulation
 and this enables them to better identify, understand and manage their emotions.
 In addition, our Study Camps provide students with a supportive environment
 that balances academic focus with stress management techniques.</p>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Picture1swb.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Picture2.jpg">
+<img style="width: 66%;" height="auto" width="100%" alt="" src="/images/SWB_pic1.png">
 </div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
