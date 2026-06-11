@@ -71,6 +71,40 @@ and the development of positive learning dispositions.</p>
 </div>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>(P) Physical Well-Being</strong>
+</p>
+<p>At PCPS, we advocate leading healthy lifestyles through Physical Education
+lessons, where students learn about fitness and nutrition and are encouraged
+to exercise regularly.</p>
+<p>Our Start It Right &amp; Well Transition Programme helps students adapt
+to school life, while Grow Well Bingo encourages students to engage in
+wellness activities through gamification. Mindful Transition sessions are
+also conducted to support students in managing their energy during the
+change of lessons.</p>
+<p>Health Education lessons include dedicated modules on Healthy Eating and
+Screen Time, guiding students to make informed choices about nutrition
+and digital wellness. Additionally, the Life Skills Module equips students
+with practical knowledge for daily living, personal care and self-management.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/SWB_pic3.png">
+</div>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
