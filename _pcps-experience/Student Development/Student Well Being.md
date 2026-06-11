@@ -99,6 +99,45 @@ with practical knowledge for daily living, personal care and self-management.</p
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>4.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>(S) Social Well-Being</strong>
+</p>
+<p>Building strong relationships and social skills is another key approach
+to promote student well-being. #pcpskindnessvibe is another school-based
+initiative that fosters kindness and positivity in the school community.</p>
+<p>Our Mindful Series features regular Mindful Talks that develop students’
+emotional awareness and mindfulness techniques. Termly Class Bonding activities
+strengthen peer relationships while Wellness Fridays provide dedicated
+time for students to learn alongside their peers.</p>
+<p>The Eco-Clean Classrooms programme emphasises the importance of maintaining
+healthy learning environments and instils values such as responsibility
+and empathy, as well as strengthens communication skills in our students.</p>
+<p>Complementing these efforts is our Peer Support and Leaders Programme,
+where trained Peer Support Leaders offer guidance, encouragement and friendship
+to their peers. In addition, training in skills such as peer mediation
+also allows our students to learn to resolve disputes and conflicts peacefully.</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 66%;" height="auto" width="100%" alt="" src="/images/SWB_pic4.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 66%;" height="auto" width="100%" alt="" src="/images/SWB_pic04.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
