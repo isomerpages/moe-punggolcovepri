@@ -177,6 +177,15 @@ third_nav_title: Useful Links
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>01/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/PCPS_Cyberwellness_Newsletter_Issue_012026.pdf" rel="noopener noreferrer nofollow" target="_blank">Cyber Wellness Tips: Keep your child safe online</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>02/2025</p>
 </td>
 <td rowspan="1" colspan="1">
