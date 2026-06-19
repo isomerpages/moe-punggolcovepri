@@ -1,6 +1,6 @@
 ---
-title: Student Management
-permalink: /student-management/
+title: Discipline and Student Leadership
+permalink: /student-leadership/
 variant: tiptap
 description: ""
 third_nav_title: Student Development
