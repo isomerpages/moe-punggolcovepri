@@ -180,7 +180,7 @@ third_nav_title: Useful Links
 <p>01/2026</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/PCPS_Cyberwellness_Newsletter_Issue_012026.pdf" rel="noopener noreferrer nofollow" target="_blank">Cyber Wellness Tips: Keep your child safe online</a>
+<p><a href="https://go.gov.sg/keepsafeonline" rel="noopener nofollow" target="_blank">Cyber Wellness Tips: Keep your child safe online</a>
 </p>
 </td>
 </tr>
