@@ -1,6 +1,6 @@
 ---
 title: Student Well Being
-permalink: /student-management/
+permalink: /student-well-being/
 variant: tiptap
 description: ""
 third_nav_title: Student Development
