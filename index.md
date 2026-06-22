@@ -16,7 +16,7 @@ sections:
           description: ""
           linktext: Click here to find out more
           url: /resources/news-and-announcements/
-        - title: What's Happening
+        - title: What's Happening at PCPS
           description: ""
           linktext: Click here to find out more
           url: /resources/whats-happening-at-pcps/
