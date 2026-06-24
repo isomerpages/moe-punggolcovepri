@@ -313,7 +313,7 @@ to support our students in their Cyber Wellness education.</p>
 <p>02/2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/2025cwnessem2" rel="noopener nofollow" target="_blank">Cyber Wellness Tipfiles: How to protect yourself against Phishing</a>
+<p><a href="https://go.gov.sg/2025cwnessem2" rel="noopener nofollow" target="_blank">Cyber Wellness Tips: How to protect yourself against Phishing</a>
 </p>
 </td>
 </tr>
