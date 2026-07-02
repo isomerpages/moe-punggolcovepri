@@ -105,6 +105,15 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="leow_kor_ming@schools.gov.sg" rel="noopener nofollow" target="_blank">Leow Kor Ming</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Staff Developer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="mailto: chew_chung_siong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Benjamin Chew</a>
 </p>
 </td>
