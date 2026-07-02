@@ -925,7 +925,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="Teo_Tee_Beng_B@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Teo Tee Beng</a>
+<p><a href="mailto: Teo_Tee_Beng_B@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Teo Tee Beng</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
