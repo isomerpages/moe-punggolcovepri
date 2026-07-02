@@ -105,7 +105,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="leow_kor_ming@schools.gov.sg" rel="noopener nofollow" target="_blank">Leow Kor Ming</a>
+<p><a href="mailto: leow_kor_ming@schools.gov.sg" rel="noopener nofollow" target="_blank">Leow Kor Ming</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -127,7 +127,7 @@ third_nav_title: Our People
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD ICT/MRL</p>
+<p>HOD ICT &amp; MRL</p>
 </td>
 </tr>
 <tr>
