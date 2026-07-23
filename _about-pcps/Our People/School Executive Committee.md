@@ -51,7 +51,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="" rel="noopener noreferrer nofollow" target="_blank">Ms Chng Shi Hua</a>
+<p><a href="mailto: punggolcove_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Chng Shi Hua</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
