@@ -485,17 +485,11 @@ third_nav_title: Our People
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
 <p>4 Amber</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto: chanthirasekar_kalimuthu@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Chandra</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="mailto: chew_zheng_yi_avery@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Chew Zheng Yi Avery</a>
 </p>
 </td>
 </tr>
